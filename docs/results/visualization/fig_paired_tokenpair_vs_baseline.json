@@ -1,0 +1,85 @@
+{
+  "description": "Paired frozen baseline vs Token-pair SCDA generations. Both use the same per-image deterministic noise (same prompt, same seed), so a pair differs only in the model. Scores are the per-image T2I-CompBench++ BLIP-VQA values from the same evaluation run.",
+  "selection": "Rows 1-6: the two largest per-image score drops in each of color / texture / shape. Last row: the closest-to-equal case in color, included so the figure is not composed only of extreme failures.",
+  "protocol": "300 prompts per category, 1 image per prompt, 512x512, DPM-Solver 20 steps, CFG 4.0, official T2I-CompBench++ evaluators",
+  "caveat": "BLIP-VQA is a proxy for attribute presence, not a recognition accuracy.",
+  "panels": [
+    {
+      "category": "color",
+      "index": 10,
+      "prompt": "a brown bear and a red book",
+      "baseline_score": 0.9698,
+      "tokenpair_score": 0.0182,
+      "delta": -0.9516,
+      "neutral_control": false,
+      "baseline_image": "/root/compbench_work/images/frozen/color/a brown bear and a red book_000100.png",
+      "tokenpair_image": "/root/compbench_work/images/tokenpair/color/a brown bear and a red book_000100.png"
+    },
+    {
+      "category": "color",
+      "index": 130,
+      "prompt": "a blue bird and a brown bear",
+      "baseline_score": 0.9696,
+      "tokenpair_score": 0.0291,
+      "delta": -0.9405,
+      "neutral_control": false,
+      "baseline_image": "/root/compbench_work/images/frozen/color/a blue bird and a brown bear_001300.png",
+      "tokenpair_image": "/root/compbench_work/images/tokenpair/color/a blue bird and a brown bear_001300.png"
+    },
+    {
+      "category": "texture",
+      "index": 74,
+      "prompt": "a wooden desk and leather gloves",
+      "baseline_score": 0.9476,
+      "tokenpair_score": 0.0242,
+      "delta": -0.9234,
+      "neutral_control": false,
+      "baseline_image": "/root/compbench_work/images/frozen/texture/a wooden desk and leather gloves_000740.png",
+      "tokenpair_image": "/root/compbench_work/images/tokenpair/texture/a wooden desk and leather gloves_000740.png"
+    },
+    {
+      "category": "texture",
+      "index": 75,
+      "prompt": "a plastic chair and a fluffy teddy bear",
+      "baseline_score": 0.9341,
+      "tokenpair_score": 0.0282,
+      "delta": -0.9059,
+      "neutral_control": false,
+      "baseline_image": "/root/compbench_work/images/frozen/texture/a plastic chair and a fluffy teddy bear_000750.png",
+      "tokenpair_image": "/root/compbench_work/images/tokenpair/texture/a plastic chair and a fluffy teddy bear_000750.png"
+    },
+    {
+      "category": "shape",
+      "index": 127,
+      "prompt": "a circular dining table and a triangular table runner",
+      "baseline_score": 0.98,
+      "tokenpair_score": 0.0207,
+      "delta": -0.9593,
+      "neutral_control": false,
+      "baseline_image": "/root/compbench_work/images/frozen/shape/a circular dining table and a triangular table runner_001270.png",
+      "tokenpair_image": "/root/compbench_work/images/tokenpair/shape/a circular dining table and a triangular table runner_001270.png"
+    },
+    {
+      "category": "shape",
+      "index": 120,
+      "prompt": "a big elephant and a small dog",
+      "baseline_score": 0.9366,
+      "tokenpair_score": 0.0475,
+      "delta": -0.8891,
+      "neutral_control": false,
+      "baseline_image": "/root/compbench_work/images/frozen/shape/a big elephant and a small dog_001200.png",
+      "tokenpair_image": "/root/compbench_work/images/tokenpair/shape/a big elephant and a small dog_001200.png"
+    },
+    {
+      "category": "color",
+      "index": 175,
+      "prompt": "a red apple and a yellow pear",
+      "baseline_score": 0.9507,
+      "tokenpair_score": 0.9501,
+      "delta": -0.0006,
+      "neutral_control": true,
+      "baseline_image": "/root/compbench_work/images/frozen/color/a red apple and a yellow pear_001750.png",
+      "tokenpair_image": "/root/compbench_work/images/tokenpair/color/a red apple and a yellow pear_001750.png"
+    }
+  ]
+}

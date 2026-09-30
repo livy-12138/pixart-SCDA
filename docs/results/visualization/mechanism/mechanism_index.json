@@ -1,0 +1,121 @@
+{
+  "cases": [
+    {
+      "prompt": "a green bench and a blue bowl",
+      "object_token": "bench",
+      "attribute_token": "green",
+      "obj_idx": [
+        3
+      ],
+      "attr_idx": [
+        2
+      ]
+    },
+    {
+      "prompt": "a red car and a yellow clock",
+      "object_token": "car",
+      "attribute_token": "red",
+      "obj_idx": [
+        3
+      ],
+      "attr_idx": [
+        2
+      ]
+    }
+  ],
+  "note": "Patch response heatmaps. \"cross\" is the frozen PixArt cross-attention present in both models; \"bias\" is the structured object->attribute pair bias B that only TP-SCDA adds. All maps are for a fixed probe latent (seed 43).",
+  "index": {
+    "frozen|a green bench and a blue bowl": {
+      "object_token_index": [
+        3
+      ],
+      "attribute_token_index": [
+        2
+      ],
+      "layers": [
+        0,
+        6,
+        13,
+        20,
+        27
+      ],
+      "timesteps": [
+        100,
+        250,
+        400,
+        550,
+        700,
+        850
+      ]
+    },
+    "tpscda|a green bench and a blue bowl": {
+      "object_token_index": [
+        3
+      ],
+      "attribute_token_index": [
+        2
+      ],
+      "layers": [
+        0,
+        6,
+        13,
+        20,
+        27
+      ],
+      "timesteps": [
+        100,
+        250,
+        400,
+        550,
+        700,
+        850
+      ]
+    },
+    "frozen|a red car and a yellow clock": {
+      "object_token_index": [
+        3
+      ],
+      "attribute_token_index": [
+        2
+      ],
+      "layers": [
+        0,
+        6,
+        13,
+        20,
+        27
+      ],
+      "timesteps": [
+        100,
+        250,
+        400,
+        550,
+        700,
+        850
+      ]
+    },
+    "tpscda|a red car and a yellow clock": {
+      "object_token_index": [
+        3
+      ],
+      "attribute_token_index": [
+        2
+      ],
+      "layers": [
+        0,
+        6,
+        13,
+        20,
+        27
+      ],
+      "timesteps": [
+        100,
+        250,
+        400,
+        550,
+        700,
+        850
+      ]
+    }
+  }
+}

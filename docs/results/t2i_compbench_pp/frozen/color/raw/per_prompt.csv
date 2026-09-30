@@ -1,0 +1,301 @@
+prompt_id,prompt,seed,generated_image,metric,prediction,success,failure,error_message,category,prompt_index,repeat,global_index,status
+color+0,a green bench and a blue bowl,0,a green bench and a blue bowl_000000.png,compbench_official_blipvqa,0.080600,1,0,,color,0,0,0,ok
+color+1,a blue bench and a green bowl,0,a blue bench and a green bowl_000010.png,compbench_official_blipvqa,0.000400,1,0,,color,1,0,10,ok
+color+2,a green bench and a blue cake,0,a green bench and a blue cake_000020.png,compbench_official_blipvqa,0.021100,1,0,,color,2,0,20,ok
+color+3,a blue bench and a green cake,0,a blue bench and a green cake_000030.png,compbench_official_blipvqa,0.011600,1,0,,color,3,0,30,ok
+color+4,a brown horse and a blue vase,0,a brown horse and a blue vase_000040.png,compbench_official_blipvqa,0.010700,1,0,,color,4,0,40,ok
+color+5,a blue horse and a brown vase,0,a blue horse and a brown vase_000050.png,compbench_official_blipvqa,0.383800,1,0,,color,5,0,50,ok
+color+6,a blue backpack and a brown cow,0,a blue backpack and a brown cow_000060.png,compbench_official_blipvqa,0.887400,1,0,,color,6,0,60,ok
+color+7,a brown backpack and a blue cow,0,a brown backpack and a blue cow_000070.png,compbench_official_blipvqa,0.429700,1,0,,color,7,0,70,ok
+color+8,a blue backpack and a red book,0,a blue backpack and a red book_000080.png,compbench_official_blipvqa,0.003100,1,0,,color,8,0,80,ok
+color+9,a red backpack and a blue book,0,a red backpack and a blue book_000090.png,compbench_official_blipvqa,0.494000,1,0,,color,9,0,90,ok
+color+10,a brown bear and a red book,0,a brown bear and a red book_000100.png,compbench_official_blipvqa,0.969800,1,0,,color,10,0,100,ok
+color+11,a red bear and a brown book,0,a red bear and a brown book_000110.png,compbench_official_blipvqa,0.932900,1,0,,color,11,0,110,ok
+color+12,a red orange and a brown sheep,0,a red orange and a brown sheep_000120.png,compbench_official_blipvqa,0.715500,1,0,,color,12,0,120,ok
+color+13,a brown orange and a red sheep,0,a brown orange and a red sheep_000130.png,compbench_official_blipvqa,0.897400,1,0,,color,13,0,130,ok
+color+14,a green banana and a brown dog,0,a green banana and a brown dog_000140.png,compbench_official_blipvqa,0.034700,1,0,,color,14,0,140,ok
+color+15,a brown banana and a green dog,0,a brown banana and a green dog_000150.png,compbench_official_blipvqa,0.001500,1,0,,color,15,0,150,ok
+color+16,a green banana and a brown horse,0,a green banana and a brown horse_000160.png,compbench_official_blipvqa,0.058700,1,0,,color,16,0,160,ok
+color+17,a brown banana and a green horse,0,a brown banana and a green horse_000170.png,compbench_official_blipvqa,0.128700,1,0,,color,17,0,170,ok
+color+18,a blue cake and a red suitcase,0,a blue cake and a red suitcase_000180.png,compbench_official_blipvqa,0.346300,1,0,,color,18,0,180,ok
+color+19,a red cake and a blue suitcase,0,a red cake and a blue suitcase_000190.png,compbench_official_blipvqa,0.031000,1,0,,color,19,0,190,ok
+color+20,a brown elephant and a red suitcase,0,a brown elephant and a red suitcase_000200.png,compbench_official_blipvqa,0.969100,1,0,,color,20,0,200,ok
+color+21,a red elephant and a brown suitcase,0,a red elephant and a brown suitcase_000210.png,compbench_official_blipvqa,0.192900,1,0,,color,21,0,210,ok
+color+22,a green apple and a brown horse,0,a green apple and a brown horse_000220.png,compbench_official_blipvqa,0.822900,1,0,,color,22,0,220,ok
+color+23,a brown apple and a green horse,0,a brown apple and a green horse_000230.png,compbench_official_blipvqa,0.010800,1,0,,color,23,0,230,ok
+color+24,a green banana and a blue vase,0,a green banana and a blue vase_000240.png,compbench_official_blipvqa,0.722600,1,0,,color,24,0,240,ok
+color+25,a blue banana and a green vase,0,a blue banana and a green vase_000250.png,compbench_official_blipvqa,0.072400,1,0,,color,25,0,250,ok
+color+26,a blue backpack and a brown bear,0,a blue backpack and a brown bear_000260.png,compbench_official_blipvqa,0.760300,1,0,,color,26,0,260,ok
+color+27,a brown backpack and a blue bear,0,a brown backpack and a blue bear_000270.png,compbench_official_blipvqa,0.079500,1,0,,color,27,0,270,ok
+color+28,a green apple and a blue vase,0,a green apple and a blue vase_000280.png,compbench_official_blipvqa,0.554400,1,0,,color,28,0,280,ok
+color+29,a blue apple and a green vase,0,a blue apple and a green vase_000290.png,compbench_official_blipvqa,0.044400,1,0,,color,29,0,290,ok
+color+30,a green banana and a red suitcase,0,a green banana and a red suitcase_000300.png,compbench_official_blipvqa,0.055100,1,0,,color,30,0,300,ok
+color+31,a red banana and a green suitcase,0,a red banana and a green suitcase_000310.png,compbench_official_blipvqa,0.000400,1,0,,color,31,0,310,ok
+color+32,a blue bowl and a brown elephant,0,a blue bowl and a brown elephant_000320.png,compbench_official_blipvqa,0.834200,1,0,,color,32,0,320,ok
+color+33,a brown bowl and a blue elephant,0,a brown bowl and a blue elephant_000330.png,compbench_official_blipvqa,0.010900,1,0,,color,33,0,330,ok
+color+34,a blue backpack and a red orange,0,a blue backpack and a red orange_000340.png,compbench_official_blipvqa,0.135000,1,0,,color,34,0,340,ok
+color+35,a red backpack and a blue orange,0,a red backpack and a blue orange_000350.png,compbench_official_blipvqa,0.175100,1,0,,color,35,0,350,ok
+color+36,a blue backpack and a red chair,0,a blue backpack and a red chair_000360.png,compbench_official_blipvqa,0.006800,1,0,,color,36,0,360,ok
+color+37,a red backpack and a blue chair,0,a red backpack and a blue chair_000370.png,compbench_official_blipvqa,0.017600,1,0,,color,37,0,370,ok
+color+38,a blue cup and a brown horse,0,a blue cup and a brown horse_000380.png,compbench_official_blipvqa,0.967500,1,0,,color,38,0,380,ok
+color+39,a brown cup and a blue horse,0,a brown cup and a blue horse_000390.png,compbench_official_blipvqa,0.005900,1,0,,color,39,0,390,ok
+color+40,a brown sheep and a blue vase,0,a brown sheep and a blue vase_000400.png,compbench_official_blipvqa,0.798900,1,0,,color,40,0,400,ok
+color+41,a blue sheep and a brown vase,0,a blue sheep and a brown vase_000410.png,compbench_official_blipvqa,0.088600,1,0,,color,41,0,410,ok
+color+42,a brown cat and a gold clock,0,a brown cat and a gold clock_000420.png,compbench_official_blipvqa,0.877500,1,0,,color,42,0,420,ok
+color+43,a gold cat and a brown clock,0,a gold cat and a brown clock_000430.png,compbench_official_blipvqa,0.283200,1,0,,color,43,0,430,ok
+color+44,a blue backpack and a green banana,0,a blue backpack and a green banana_000440.png,compbench_official_blipvqa,0.003400,1,0,,color,44,0,440,ok
+color+45,a green backpack and a blue banana,0,a green backpack and a blue banana_000450.png,compbench_official_blipvqa,0.001300,1,0,,color,45,0,450,ok
+color+46,a brown horse and a red orange,0,a brown horse and a red orange_000460.png,compbench_official_blipvqa,0.878500,1,0,,color,46,0,460,ok
+color+47,a red horse and a brown orange,0,a red horse and a brown orange_000470.png,compbench_official_blipvqa,0.115200,1,0,,color,47,0,470,ok
+color+48,a red chair and a brown elephant,0,a red chair and a brown elephant_000480.png,compbench_official_blipvqa,0.518600,1,0,,color,48,0,480,ok
+color+49,a brown chair and a red elephant,0,a brown chair and a red elephant_000490.png,compbench_official_blipvqa,0.025000,1,0,,color,49,0,490,ok
+color+50,a green apple and a blue backpack,0,a green apple and a blue backpack_000500.png,compbench_official_blipvqa,0.853000,1,0,,color,50,0,500,ok
+color+51,a blue apple and a green backpack,0,a blue apple and a green backpack_000510.png,compbench_official_blipvqa,0.220900,1,0,,color,51,0,510,ok
+color+52,a blue backpack and a gold clock,0,a blue backpack and a gold clock_000520.png,compbench_official_blipvqa,0.373600,1,0,,color,52,0,520,ok
+color+53,a gold backpack and a blue clock,0,a gold backpack and a blue clock_000530.png,compbench_official_blipvqa,0.308400,1,0,,color,53,0,530,ok
+color+54,a brown dog and a red orange,0,a brown dog and a red orange_000540.png,compbench_official_blipvqa,0.204200,1,0,,color,54,0,540,ok
+color+55,a red dog and a brown orange,0,a red dog and a brown orange_000550.png,compbench_official_blipvqa,0.115200,1,0,,color,55,0,550,ok
+color+56,a blue backpack and a brown sheep,0,a blue backpack and a brown sheep_000560.png,compbench_official_blipvqa,0.444500,1,0,,color,56,0,560,ok
+color+57,a brown backpack and a blue sheep,0,a brown backpack and a blue sheep_000570.png,compbench_official_blipvqa,0.339400,1,0,,color,57,0,570,ok
+color+58,a blue backpack and a brown giraffe,0,a blue backpack and a brown giraffe_000580.png,compbench_official_blipvqa,0.722500,1,0,,color,58,0,580,ok
+color+59,a brown backpack and a blue giraffe,0,a brown backpack and a blue giraffe_000590.png,compbench_official_blipvqa,0.117100,1,0,,color,59,0,590,ok
+color+60,a red book and a blue cake,0,a red book and a blue cake_000600.png,compbench_official_blipvqa,0.150600,1,0,,color,60,0,600,ok
+color+61,a blue book and a red cake,0,a blue book and a red cake_000610.png,compbench_official_blipvqa,0.010300,1,0,,color,61,0,610,ok
+color+62,a red suitcase and a blue vase,0,a red suitcase and a blue vase_000620.png,compbench_official_blipvqa,0.008900,1,0,,color,62,0,620,ok
+color+63,a blue suitcase and a red vase,0,a blue suitcase and a red vase_000630.png,compbench_official_blipvqa,0.507200,1,0,,color,63,0,630,ok
+color+64,a blue cup and a brown sheep,0,a blue cup and a brown sheep_000640.png,compbench_official_blipvqa,0.125900,1,0,,color,64,0,640,ok
+color+65,a brown cup and a blue sheep,0,a brown cup and a blue sheep_000650.png,compbench_official_blipvqa,0.090000,1,0,,color,65,0,650,ok
+color+66,a brown bear and a red train,0,a brown bear and a red train_000660.png,compbench_official_blipvqa,0.977100,1,0,,color,66,0,660,ok
+color+67,a blue cup and a red orange,0,a blue cup and a red orange_000670.png,compbench_official_blipvqa,0.542100,1,0,,color,67,0,670,ok
+color+68,a red cup and a blue orange,0,a red cup and a blue orange_000680.png,compbench_official_blipvqa,0.175500,1,0,,color,68,0,680,ok
+color+69,a green apple and a red suitcase,0,a green apple and a red suitcase_000690.png,compbench_official_blipvqa,0.003500,1,0,,color,69,0,690,ok
+color+70,a red apple and a green suitcase,0,a red apple and a green suitcase_000700.png,compbench_official_blipvqa,0.970000,1,0,,color,70,0,700,ok
+color+71,a blue bowl and a red train,0,a blue bowl and a red train_000710.png,compbench_official_blipvqa,0.002400,1,0,,color,71,0,710,ok
+color+72,a red bowl and a blue train,0,a red bowl and a blue train_000720.png,compbench_official_blipvqa,0.236300,1,0,,color,72,0,720,ok
+color+73,a green bench and a red orange,0,a green bench and a red orange_000730.png,compbench_official_blipvqa,0.008600,1,0,,color,73,0,730,ok
+color+74,a red bench and a green orange,0,a red bench and a green orange_000740.png,compbench_official_blipvqa,0.637700,1,0,,color,74,0,740,ok
+color+75,a brown cat and a red orange,0,a brown cat and a red orange_000750.png,compbench_official_blipvqa,0.069600,1,0,,color,75,0,750,ok
+color+76,a red cat and a brown orange,0,a red cat and a brown orange_000760.png,compbench_official_blipvqa,0.105300,1,0,,color,76,0,760,ok
+color+77,a green apple and a red train,0,a green apple and a red train_000770.png,compbench_official_blipvqa,0.025900,1,0,,color,77,0,770,ok
+color+78,a red apple and a green train,0,a red apple and a green train_000780.png,compbench_official_blipvqa,0.925900,1,0,,color,78,0,780,ok
+color+79,a brown giraffe and a red train,0,a brown giraffe and a red train_000790.png,compbench_official_blipvqa,0.779500,1,0,,color,79,0,790,ok
+color+80,a red giraffe and a brown train,0,a red giraffe and a brown train_000800.png,compbench_official_blipvqa,0.472400,1,0,,color,80,0,800,ok
+color+81,a blue boat and a red suitcase,0,a blue boat and a red suitcase_000810.png,compbench_official_blipvqa,0.018600,1,0,,color,81,0,810,ok
+color+82,a red boat and a blue suitcase,0,a red boat and a blue suitcase_000820.png,compbench_official_blipvqa,0.015400,1,0,,color,82,0,820,ok
+color+83,a blue bowl and a brown horse,0,a blue bowl and a brown horse_000830.png,compbench_official_blipvqa,0.011900,1,0,,color,83,0,830,ok
+color+84,a brown bowl and a blue horse,0,a brown bowl and a blue horse_000840.png,compbench_official_blipvqa,0.010300,1,0,,color,84,0,840,ok
+color+85,a blue backpack and a red train,0,a blue backpack and a red train_000850.png,compbench_official_blipvqa,0.650100,1,0,,color,85,0,850,ok
+color+86,a red backpack and a blue train,0,a red backpack and a blue train_000860.png,compbench_official_blipvqa,0.010900,1,0,,color,86,0,860,ok
+color+87,a gold clock and a red orange,0,a gold clock and a red orange_000870.png,compbench_official_blipvqa,0.619100,1,0,,color,87,0,870,ok
+color+88,a red clock and a gold orange,0,a red clock and a gold orange_000880.png,compbench_official_blipvqa,0.057300,1,0,,color,88,0,880,ok
+color+89,a brown bear and a blue vase,0,a brown bear and a blue vase_000890.png,compbench_official_blipvqa,0.958500,1,0,,color,89,0,890,ok
+color+90,a blue bear and a brown vase,0,a blue bear and a brown vase_000900.png,compbench_official_blipvqa,0.132100,1,0,,color,90,0,900,ok
+color+91,a green apple and a brown elephant,0,a green apple and a brown elephant_000910.png,compbench_official_blipvqa,0.855200,1,0,,color,91,0,910,ok
+color+92,a brown apple and a green elephant,0,a brown apple and a green elephant_000920.png,compbench_official_blipvqa,0.111100,1,0,,color,92,0,920,ok
+color+93,a green banana and a brown bear,0,a green banana and a brown bear_000930.png,compbench_official_blipvqa,0.062500,1,0,,color,93,0,930,ok
+color+94,a brown banana and a green bear,0,a brown banana and a green bear_000940.png,compbench_official_blipvqa,0.010100,1,0,,color,94,0,940,ok
+color+95,a blue boat and a brown cat,0,a blue boat and a brown cat_000950.png,compbench_official_blipvqa,0.254900,1,0,,color,95,0,950,ok
+color+96,a brown boat and a blue cat,0,a brown boat and a blue cat_000960.png,compbench_official_blipvqa,0.000800,1,0,,color,96,0,960,ok
+color+97,a green banana and a blue boat,0,a green banana and a blue boat_000970.png,compbench_official_blipvqa,0.014500,1,0,,color,97,0,970,ok
+color+98,a blue banana and a green boat,0,a blue banana and a green boat_000980.png,compbench_official_blipvqa,0.072800,1,0,,color,98,0,980,ok
+color+99,a red car and a blue cup,0,a red car and a blue cup_000990.png,compbench_official_blipvqa,0.000900,1,0,,color,99,0,990,ok
+color+100,a blue car and a red cup,0,a blue car and a red cup_001000.png,compbench_official_blipvqa,0.089100,1,0,,color,100,0,1000,ok
+color+101,a blue backpack and a red car,0,a blue backpack and a red car_001010.png,compbench_official_blipvqa,0.067900,1,0,,color,101,0,1010,ok
+color+102,a red backpack and a blue car,0,a red backpack and a blue car_001020.png,compbench_official_blipvqa,0.025100,1,0,,color,102,0,1020,ok
+color+103,a brown cow and a blue cup,0,a brown cow and a blue cup_001030.png,compbench_official_blipvqa,0.000000,1,0,,color,103,0,1030,ok
+color+104,a blue cow and a brown cup,0,a blue cow and a brown cup_001040.png,compbench_official_blipvqa,0.042800,1,0,,color,104,0,1040,ok
+color+105,a red train and a blue vase,0,a red train and a blue vase_001050.png,compbench_official_blipvqa,0.001100,1,0,,color,105,0,1050,ok
+color+106,a blue train and a red vase,0,a blue train and a red vase_001060.png,compbench_official_blipvqa,0.008400,1,0,,color,106,0,1060,ok
+color+107,a brown giraffe and a red orange,0,a brown giraffe and a red orange_001070.png,compbench_official_blipvqa,0.718300,1,0,,color,107,0,1070,ok
+color+108,a red giraffe and a brown orange,0,a red giraffe and a brown orange_001080.png,compbench_official_blipvqa,0.724900,1,0,,color,108,0,1080,ok
+color+109,a green banana and a brown cow,0,a green banana and a brown cow_001090.png,compbench_official_blipvqa,0.022900,1,0,,color,109,0,1090,ok
+color+110,a brown banana and a green cow,0,a brown banana and a green cow_001100.png,compbench_official_blipvqa,0.015600,1,0,,color,110,0,1100,ok
+color+111,a brown giraffe and a blue vase,0,a brown giraffe and a blue vase_001110.png,compbench_official_blipvqa,0.933400,1,0,,color,111,0,1110,ok
+color+112,a blue giraffe and a brown vase,0,a blue giraffe and a brown vase_001120.png,compbench_official_blipvqa,0.007900,1,0,,color,112,0,1120,ok
+color+113,a brown cow and a red suitcase,0,a brown cow and a red suitcase_001130.png,compbench_official_blipvqa,0.956200,1,0,,color,113,0,1130,ok
+color+114,a red cow and a brown suitcase,0,a red cow and a brown suitcase_001140.png,compbench_official_blipvqa,0.320400,1,0,,color,114,0,1140,ok
+color+115,a green apple and a blue cup,0,a green apple and a blue cup_001150.png,compbench_official_blipvqa,0.957600,1,0,,color,115,0,1150,ok
+color+116,a blue apple and a green cup,0,a blue apple and a green cup_001160.png,compbench_official_blipvqa,0.014600,1,0,,color,116,0,1160,ok
+color+117,a red book and a brown sheep,0,a red book and a brown sheep_001170.png,compbench_official_blipvqa,0.152200,1,0,,color,117,0,1170,ok
+color+118,a brown book and a red sheep,0,a brown book and a red sheep_001180.png,compbench_official_blipvqa,0.136400,1,0,,color,118,0,1180,ok
+color+119,a green banana and a brown giraffe,0,a green banana and a brown giraffe_001190.png,compbench_official_blipvqa,0.064000,1,0,,color,119,0,1190,ok
+color+120,a brown banana and a green giraffe,0,a brown banana and a green giraffe_001200.png,compbench_official_blipvqa,0.065500,1,0,,color,120,0,1200,ok
+color+121,a blue boat and a red book,0,a blue boat and a red book_001210.png,compbench_official_blipvqa,0.013100,1,0,,color,121,0,1210,ok
+color+122,a red boat and a blue book,0,a red boat and a blue book_001220.png,compbench_official_blipvqa,0.369900,1,0,,color,122,0,1220,ok
+color+123,a blue cup and a brown elephant,0,a blue cup and a brown elephant_001230.png,compbench_official_blipvqa,0.000000,1,0,,color,123,0,1230,ok
+color+124,a brown cup and a blue elephant,0,a brown cup and a blue elephant_001240.png,compbench_official_blipvqa,0.847000,1,0,,color,124,0,1240,ok
+color+125,a red chair and a brown sheep,0,a red chair and a brown sheep_001250.png,compbench_official_blipvqa,0.010600,1,0,,color,125,0,1250,ok
+color+126,a brown chair and a red sheep,0,a brown chair and a red sheep_001260.png,compbench_official_blipvqa,0.116000,1,0,,color,126,0,1260,ok
+color+127,a brown bear and a blue boat,0,a brown bear and a blue boat_001270.png,compbench_official_blipvqa,0.103500,1,0,,color,127,0,1270,ok
+color+128,a blue bear and a brown boat,0,a blue bear and a brown boat_001280.png,compbench_official_blipvqa,0.000500,1,0,,color,128,0,1280,ok
+color+129,a red car and a white sheep,0,a red car and a white sheep_001290.png,compbench_official_blipvqa,0.902800,1,0,,color,129,0,1290,ok
+color+130,a blue bird and a brown bear,0,a blue bird and a brown bear_001300.png,compbench_official_blipvqa,0.969600,1,0,,color,130,0,1300,ok
+color+131,a green apple and a black backpack,0,a green apple and a black backpack_001310.png,compbench_official_blipvqa,0.488100,1,0,,color,131,0,1310,ok
+color+132,a green cup and a blue cell phone,0,a green cup and a blue cell phone_001320.png,compbench_official_blipvqa,0.605400,1,0,,color,132,0,1320,ok
+color+133,a yellow book and a red vase,0,a yellow book and a red vase_001330.png,compbench_official_blipvqa,0.028600,1,0,,color,133,0,1330,ok
+color+134,a white car and a red sheep,0,a white car and a red sheep_001340.png,compbench_official_blipvqa,0.018700,1,0,,color,134,0,1340,ok
+color+135,a brown bird and a blue bear,0,a brown bird and a blue bear_001350.png,compbench_official_blipvqa,0.006000,1,0,,color,135,0,1350,ok
+color+136,a black apple and a green backpack,0,a black apple and a green backpack_001360.png,compbench_official_blipvqa,0.376800,1,0,,color,136,0,1360,ok
+color+137,a blue cup and a green cell phone,0,a blue cup and a green cell phone_001370.png,compbench_official_blipvqa,0.293700,1,0,,color,137,0,1370,ok
+color+138,a red book and a yellow vase,0,a red book and a yellow vase_001380.png,compbench_official_blipvqa,0.000600,1,0,,color,138,0,1380,ok
+color+139,a red apple and yellow bananas,0,a red apple and yellow bananas_001390.png,compbench_official_blipvqa,0.977000,1,0,,color,139,0,1390,ok
+color+140,a yellow apple and red bananas,0,a yellow apple and red bananas_001400.png,compbench_official_blipvqa,0.966100,1,0,,color,140,0,1400,ok
+color+141,a black hat and a red scarf,0,a black hat and a red scarf_001410.png,compbench_official_blipvqa,0.874400,1,0,,color,141,0,1410,ok
+color+142,a red hat and a black scarf,0,a red hat and a black scarf_001420.png,compbench_official_blipvqa,0.642200,1,0,,color,142,0,1420,ok
+color+143,a silver spoon and a blue plate,0,a silver spoon and a blue plate_001430.png,compbench_official_blipvqa,0.938900,1,0,,color,143,0,1430,ok
+color+144,a yellow bus and a green tree,0,a yellow bus and a green tree_001440.png,compbench_official_blipvqa,0.845900,1,0,,color,144,0,1440,ok
+color+145,a green bus and a yellow tree,0,a green bus and a yellow tree_001450.png,compbench_official_blipvqa,0.915600,1,0,,color,145,0,1450,ok
+color+146,a red apple and a purple grape,0,a red apple and a purple grape_001460.png,compbench_official_blipvqa,0.978000,1,0,,color,146,0,1460,ok
+color+147,a purple apple and a red grape,0,a purple apple and a red grape_001470.png,compbench_official_blipvqa,0.034900,1,0,,color,147,0,1470,ok
+color+148,a white dove and a black feather,0,a white dove and a black feather_001480.png,compbench_official_blipvqa,0.027300,1,0,,color,148,0,1480,ok
+color+149,a black dove and a white feather,0,a black dove and a white feather_001490.png,compbench_official_blipvqa,0.191800,1,0,,color,149,0,1490,ok
+color+150,a brown acorn and a green leaf,0,a brown acorn and a green leaf_001500.png,compbench_official_blipvqa,0.955800,1,0,,color,150,0,1500,ok
+color+151,a green acorn and a brown leaf,0,a green acorn and a brown leaf_001510.png,compbench_official_blipvqa,0.738900,1,0,,color,151,0,1510,ok
+color+152,a red stop sign and a white line,0,a red stop sign and a white line_001520.png,compbench_official_blipvqa,0.952200,1,0,,color,152,0,1520,ok
+color+153,a stop sign and red white line,0,a stop sign and red white line_001530.png,compbench_official_blipvqa,0.935000,1,0,,color,153,0,1530,ok
+color+154,a black cat and a brown mouse,0,a black cat and a brown mouse_001540.png,compbench_official_blipvqa,0.417600,1,0,,color,154,0,1540,ok
+color+155,a brown cat and a black mouse,0,a brown cat and a black mouse_001550.png,compbench_official_blipvqa,0.045500,1,0,,color,155,0,1550,ok
+color+156,a blue pen and a yellow highlighter,0,a blue pen and a yellow highlighter_001560.png,compbench_official_blipvqa,0.828300,1,0,,color,156,0,1560,ok
+color+157,a yellow pen and a blue highlighter,0,a yellow pen and a blue highlighter_001570.png,compbench_official_blipvqa,0.855200,1,0,,color,157,0,1570,ok
+color+158,a black moon and a white sky,0,a black moon and a white sky_001580.png,compbench_official_blipvqa,0.265200,1,0,,color,158,0,1580,ok
+color+159,a yellow pencil and a blue notebook,0,a yellow pencil and a blue notebook_001590.png,compbench_official_blipvqa,0.053000,1,0,,color,159,0,1590,ok
+color+160,a green leaf and a yellow flower,0,a green leaf and a yellow flower_001600.png,compbench_official_blipvqa,0.946800,1,0,,color,160,0,1600,ok
+color+161,a yellow leaf and a green flower,0,a yellow leaf and a green flower_001610.png,compbench_official_blipvqa,0.193100,1,0,,color,161,0,1610,ok
+color+162,a black cat and a white paw,0,a black cat and a white paw_001620.png,compbench_official_blipvqa,0.021200,1,0,,color,162,0,1620,ok
+color+163,a white cat and a black paw,0,a white cat and a black paw_001630.png,compbench_official_blipvqa,0.914700,1,0,,color,163,0,1630,ok
+color+164,a yellow duck and a blue pond,0,a yellow duck and a blue pond_001640.png,compbench_official_blipvqa,0.837300,1,0,,color,164,0,1640,ok
+color+165,a green frog and a brown pond,0,a green frog and a brown pond_001650.png,compbench_official_blipvqa,0.110400,1,0,,color,165,0,1650,ok
+color+166,a brown frog and a green pond,0,a brown frog and a green pond_001660.png,compbench_official_blipvqa,0.718200,1,0,,color,166,0,1660,ok
+color+167,a yellow sun and a red sunset,0,a yellow sun and a red sunset_001670.png,compbench_official_blipvqa,0.701600,1,0,,color,167,0,1670,ok
+color+168,a red sun and a yellow sunset,0,a red sun and a yellow sunset_001680.png,compbench_official_blipvqa,0.486600,1,0,,color,168,0,1680,ok
+color+169,a blue pen and a black ink,0,a blue pen and a black ink_001690.png,compbench_official_blipvqa,0.381300,1,0,,color,169,0,1690,ok
+color+170,a black pen and a blue ink,0,a black pen and a blue ink_001700.png,compbench_official_blipvqa,0.537300,1,0,,color,170,0,1700,ok
+color+171,a green grass and a yellow dandelion,0,a green grass and a yellow dandelion_001710.png,compbench_official_blipvqa,0.052200,1,0,,color,171,0,1710,ok
+color+172,a yellow grass and a green dandelion,0,a yellow grass and a green dandelion_001720.png,compbench_official_blipvqa,0.031000,1,0,,color,172,0,1720,ok
+color+173,a black cat and a gray mouse,0,a black cat and a gray mouse_001730.png,compbench_official_blipvqa,0.388900,1,0,,color,173,0,1730,ok
+color+174,a gray cat and a black mouse,0,a gray cat and a black mouse_001740.png,compbench_official_blipvqa,0.731100,1,0,,color,174,0,1740,ok
+color+175,a red apple and a yellow pear,0,a red apple and a yellow pear_001750.png,compbench_official_blipvqa,0.950700,1,0,,color,175,0,1750,ok
+color+176,a yellow apple and a red pear,0,a yellow apple and a red pear_001760.png,compbench_official_blipvqa,0.946700,1,0,,color,176,0,1760,ok
+color+177,a white snow and a blue sled,0,a white snow and a blue sled_001770.png,compbench_official_blipvqa,0.995400,1,0,,color,177,0,1770,ok
+color+178,a blue snow and a white sled,0,a blue snow and a white sled_001780.png,compbench_official_blipvqa,0.371700,1,0,,color,178,0,1780,ok
+color+179,a green frog and a yellow fly,0,a green frog and a yellow fly_001790.png,compbench_official_blipvqa,0.949200,1,0,,color,179,0,1790,ok
+color+180,a yellow frog and a green fly,0,a yellow frog and a green fly_001800.png,compbench_official_blipvqa,0.329300,1,0,,color,180,0,1800,ok
+color+181,a yellow pencil and a red eraser,0,a yellow pencil and a red eraser_001810.png,compbench_official_blipvqa,0.171700,1,0,,color,181,0,1810,ok
+color+182,a red pencil and a yellow eraser,0,a red pencil and a yellow eraser_001820.png,compbench_official_blipvqa,0.007000,1,0,,color,182,0,1820,ok
+color+183,a black cat and a white whisker,0,a black cat and a white whisker_001830.png,compbench_official_blipvqa,0.882900,1,0,,color,183,0,1830,ok
+color+184,a white cat and a black whisker,0,a white cat and a black whisker_001840.png,compbench_official_blipvqa,0.105400,1,0,,color,184,0,1840,ok
+color+185,a brown tree and a green grass,0,a brown tree and a green grass_001850.png,compbench_official_blipvqa,0.594400,1,0,,color,185,0,1850,ok
+color+186,a green tree and a brown grass,0,a green tree and a brown grass_001860.png,compbench_official_blipvqa,0.009600,1,0,,color,186,0,1860,ok
+color+187,a red rose and a white carnation,0,a red rose and a white carnation_001870.png,compbench_official_blipvqa,0.129300,1,0,,color,187,0,1870,ok
+color+188,a white rose and a red carnation,0,a white rose and a red carnation_001880.png,compbench_official_blipvqa,0.160000,1,0,,color,188,0,1880,ok
+color+189,a white cloud and a black sky,0,a white cloud and a black sky_001890.png,compbench_official_blipvqa,0.891000,1,0,,color,189,0,1890,ok
+color+190,a black cloud and a white sky,0,a black cloud and a white sky_001900.png,compbench_official_blipvqa,0.044300,1,0,,color,190,0,1900,ok
+color+191,a green leaf and a yellow butterfly,0,a green leaf and a yellow butterfly_001910.png,compbench_official_blipvqa,0.940800,1,0,,color,191,0,1910,ok
+color+192,a yellow leaf and a green butterfly,0,a yellow leaf and a green butterfly_001920.png,compbench_official_blipvqa,0.049400,1,0,,color,192,0,1920,ok
+color+193,a red tomato and a yellow pepper,0,a red tomato and a yellow pepper_001930.png,compbench_official_blipvqa,0.109800,1,0,,color,193,0,1930,ok
+color+194,a yellow tomato and a red pepper,0,a yellow tomato and a red pepper_001940.png,compbench_official_blipvqa,0.076300,1,0,,color,194,0,1940,ok
+color+195,a red apple and a green kiwi,0,a red apple and a green kiwi_001950.png,compbench_official_blipvqa,0.080800,1,0,,color,195,0,1950,ok
+color+196,a green apple and a red kiwi,0,a green apple and a red kiwi_001960.png,compbench_official_blipvqa,0.120400,1,0,,color,196,0,1960,ok
+color+197,a white piano and a black bench,0,a white piano and a black bench_001970.png,compbench_official_blipvqa,0.049700,1,0,,color,197,0,1970,ok
+color+198,a black piano and a white bench,0,a black piano and a white bench_001980.png,compbench_official_blipvqa,0.019500,1,0,,color,198,0,1980,ok
+color+199,a brown jacket and a black hat,0,a brown jacket and a black hat_001990.png,compbench_official_blipvqa,0.913600,1,0,,color,199,0,1990,ok
+color+200,a red bear and a brown train,0,a red bear and a brown train_002000.png,compbench_official_blipvqa,0.696200,1,0,,color,200,0,2000,ok
+color+201,a red cylinder and a blue cube,0,a red cylinder and a blue cube_002010.png,compbench_official_blipvqa,0.808800,1,0,,color,201,0,2010,ok
+color+202,a blue cylinder and a red cube,0,a blue cylinder and a red cube_002020.png,compbench_official_blipvqa,0.871500,1,0,,color,202,0,2020,ok
+color+203,a blue spoon and a silver plate,0,a blue spoon and a silver plate_002030.png,compbench_official_blipvqa,0.024400,1,0,,color,203,0,2030,ok
+color+204,a blue bird and a yellow canary,0,a blue bird and a yellow canary_002040.png,compbench_official_blipvqa,0.434400,1,0,,color,204,0,2040,ok
+color+205,a canary and a yellow bluebird,0,a canary and a yellow bluebird_002050.png,compbench_official_blipvqa,0.684600,1,0,,color,205,0,2050,ok
+color+206,a yellow taxi and a black tire,0,a yellow taxi and a black tire_002060.png,compbench_official_blipvqa,0.937500,1,0,,color,206,0,2060,ok
+color+207,a black taxi and a yellow tire,0,a black taxi and a yellow tire_002070.png,compbench_official_blipvqa,0.138000,1,0,,color,207,0,2070,ok
+color+208,a green snake and a brown log,0,a green snake and a brown log_002080.png,compbench_official_blipvqa,0.952400,1,0,,color,208,0,2080,ok
+color+209,a brown snake and a green log,0,a brown snake and a green log_002090.png,compbench_official_blipvqa,0.003500,1,0,,color,209,0,2090,ok
+color+210,a white moon and a black sky,0,a white moon and a black sky_002100.png,compbench_official_blipvqa,0.830800,1,0,,color,210,0,2100,ok
+color+211,a blue pencil and a yellow notebook,0,a blue pencil and a yellow notebook_002110.png,compbench_official_blipvqa,0.904300,1,0,,color,211,0,2110,ok
+color+212,a blue duck and a yellow pond,0,a blue duck and a yellow pond_002120.png,compbench_official_blipvqa,0.840800,1,0,,color,212,0,2120,ok
+color+213,a blue jay and a green parrot,0,a blue jay and a green parrot_002130.png,compbench_official_blipvqa,0.627600,1,0,,color,213,0,2130,ok
+color+214,a green jay and a blue parrot,0,a green jay and a blue parrot_002140.png,compbench_official_blipvqa,0.667000,1,0,,color,214,0,2140,ok
+color+215,a brown squirrel and a black nut,0,a brown squirrel and a black nut_002150.png,compbench_official_blipvqa,0.974700,1,0,,color,215,0,2150,ok
+color+216,a black squirrel and a brown nut,0,a black squirrel and a brown nut_002160.png,compbench_official_blipvqa,0.952200,1,0,,color,216,0,2160,ok
+color+217,a white swan and a black lake,0,a white swan and a black lake_002170.png,compbench_official_blipvqa,0.928700,1,0,,color,217,0,2170,ok
+color+218,a black swan and a white lake,0,a black swan and a white lake_002180.png,compbench_official_blipvqa,0.056700,1,0,,color,218,0,2180,ok
+color+219,a brown log and a green moss,0,a brown log and a green moss_002190.png,compbench_official_blipvqa,0.837100,1,0,,color,219,0,2190,ok
+color+220,a green log and a brown moss,0,a green log and a brown moss_002200.png,compbench_official_blipvqa,0.567200,1,0,,color,220,0,2200,ok
+color+221,a brown guitar and a black amplifier,0,a brown guitar and a black amplifier_002210.png,compbench_official_blipvqa,0.818000,1,0,,color,221,0,2210,ok
+color+222,a black guitar and a brown amplifier,0,a black guitar and a brown amplifier_002220.png,compbench_official_blipvqa,0.288000,1,0,,color,222,0,2220,ok
+color+223,a white envelope and a blue stamp,0,a white envelope and a blue stamp_002230.png,compbench_official_blipvqa,0.249800,1,0,,color,223,0,2230,ok
+color+224,a blue envelope and a white stamp,0,a blue envelope and a white stamp_002240.png,compbench_official_blipvqa,0.003800,1,0,,color,224,0,2240,ok
+color+225,a blue bicycle and a red helmet,0,a blue bicycle and a red helmet_002250.png,compbench_official_blipvqa,0.001400,1,0,,color,225,0,2250,ok
+color+226,a red bicycle and a blue helmet,0,a red bicycle and a blue helmet_002260.png,compbench_official_blipvqa,0.003800,1,0,,color,226,0,2260,ok
+color+227,a yellow taxi and a red tire,0,a yellow taxi and a red tire_002270.png,compbench_official_blipvqa,0.006100,1,0,,color,227,0,2270,ok
+color+228,a red taxi and a yellow tire,0,a red taxi and a yellow tire_002280.png,compbench_official_blipvqa,0.190400,1,0,,color,228,0,2280,ok
+color+229,a black jacket and a brown hat,0,a black jacket and a brown hat_002290.png,compbench_official_blipvqa,0.477300,1,0,,color,229,0,2290,ok
+color+230,a blue rose and a green tulip,0,a blue rose and a green tulip_002300.png,compbench_official_blipvqa,0.452300,1,0,,color,230,0,2300,ok
+color+231,a green rose and a blue tulip,0,a green rose and a blue tulip_002310.png,compbench_official_blipvqa,0.382300,1,0,,color,231,0,2310,ok
+color+232,a red school bus and a green bag,0,a red school bus and a green bag_002320.png,compbench_official_blipvqa,0.125100,1,0,,color,232,0,2320,ok
+color+233,a green school bus and a red bag,0,a green school bus and a red bag_002330.png,compbench_official_blipvqa,0.001400,1,0,,color,233,0,2330,ok
+color+234,a yellow rabbit and a red rat,0,a yellow rabbit and a red rat_002340.png,compbench_official_blipvqa,0.691400,1,0,,color,234,0,2340,ok
+color+235,a red rabbit and a yellow rat,0,a red rabbit and a yellow rat_002350.png,compbench_official_blipvqa,0.856500,1,0,,color,235,0,2350,ok
+color+236,a red lipstick and a pink blush,0,a red lipstick and a pink blush_002360.png,compbench_official_blipvqa,0.142900,1,0,,color,236,0,2360,ok
+color+237,a pink lipstick and a red blush,0,a pink lipstick and a red blush_002370.png,compbench_official_blipvqa,0.038200,1,0,,color,237,0,2370,ok
+color+238,a blue bag and a green water bottle,0,a blue bag and a green water bottle_002380.png,compbench_official_blipvqa,0.555900,1,0,,color,238,0,2380,ok
+color+239,a green bag and a blue water bottle,0,a green bag and a blue water bottle_002390.png,compbench_official_blipvqa,0.851500,1,0,,color,239,0,2390,ok
+color+240,A bathroom with white tile and a beige toilet.,0,A bathroom with white tile and a beige toilet._002400.png,compbench_official_blipvqa,0.124500,1,0,,color,240,0,2400,ok
+color+241,A bathroom with beige tile and a white toilet.,0,A bathroom with beige tile and a white toilet._002410.png,compbench_official_blipvqa,0.964500,1,0,,color,241,0,2410,ok
+color+242,A green bathroom with a mirror and a pink sink.,0,A green bathroom with a mirror and a pink sink._002420.png,compbench_official_blipvqa,0.356800,1,0,,color,242,0,2420,ok
+color+243,A pink bathroom with a mirror and a green sink.,0,A pink bathroom with a mirror and a green sink._002430.png,compbench_official_blipvqa,0.949500,1,0,,color,243,0,2430,ok
+color+244,a black gold and white vase sitting on a counter,0,a black gold and white vase sitting on a counter_002440.png,compbench_official_blipvqa,0.620300,1,0,,color,244,0,2440,ok
+color+245,a black white and gold vase sitting on a counter,0,a black white and gold vase sitting on a counter_002450.png,compbench_official_blipvqa,0.908600,1,0,,color,245,0,2450,ok
+color+246,A small white kitchen with brown wood floor.,0,A small white kitchen with brown wood floor._002460.png,compbench_official_blipvqa,0.763600,1,0,,color,246,0,2460,ok
+color+247,A small brown kitchen with white wood floor.,0,A small brown kitchen with white wood floor._002470.png,compbench_official_blipvqa,0.022300,1,0,,color,247,0,2470,ok
+color+248,"Kitchen scene, grey counter top on one side, whitish on the other and black sink with long neck faucet.",0,"Kitchen scene, grey counter top on one side, whitish on the other and black sink with long neck faucet._002480.png",compbench_official_blipvqa,0.169100,1,0,,color,248,0,2480,ok
+color+249,"Kitchen scene, black counter top on one side, whitish on the other and grey sink with long neck faucet.",0,"Kitchen scene, black counter top on one side, whitish on the other and grey sink with long neck faucet._002490.png",compbench_official_blipvqa,0.075900,1,0,,color,249,0,2490,ok
+color+250,"Two toilet stall, one blue and the other orange.",0,"Two toilet stall, one blue and the other orange._002500.png",compbench_official_blipvqa,0.803600,1,0,,color,250,0,2500,ok
+color+251,"Two toilet stall, one orange and the other blue.",0,"Two toilet stall, one orange and the other blue._002510.png",compbench_official_blipvqa,0.565500,1,0,,color,251,0,2510,ok
+color+252,"A long, narrow yellow kitchen with black and white floor tiles.",0,"A long, narrow yellow kitchen with black and white floor tiles._002520.png",compbench_official_blipvqa,0.944700,1,0,,color,252,0,2520,ok
+color+253,"A long, narrow black kitchen with yellow and white floor tiles.",0,"A long, narrow black kitchen with yellow and white floor tiles._002530.png",compbench_official_blipvqa,0.053300,1,0,,color,253,0,2530,ok
+color+254,Two hot dogs sit on a white paper plate near a soda cup which are sitting on a green picnic table while a bike and a silver car are parked nearby.,0,Two hot dogs sit on a white paper plate near a soda cup which are sitting on a green picnic table while a bike and a silver car are parked nearby._002540.png,compbench_official_blipvqa,0.123700,1,0,,color,254,0,2540,ok
+color+255,Two hot dogs sit on a green paper plate near a soda cup which are sitting on a white picnic table while a bike and a silver car are parked nearby.,0,Two hot dogs sit on a green paper plate near a soda cup which are sitting on a white picnic table while a bike and a silver car are parked nearby._002550.png,compbench_official_blipvqa,0.116900,1,0,,color,255,0,2550,ok
+color+256,A restroom features black and white checkered flooring and two toilets of which has a black seat and lid and the other a white seat and lid.,0,A restroom features black and white checkered flooring and two toilets of which has a black seat and lid and the other a white seat and lid._002560.png,compbench_official_blipvqa,0.022100,1,0,,color,256,0,2560,ok
+color+257,A restroom features white and white checkered flooring and two toilets of which has a black seat and lid and the other a black seat and lid.,0,A restroom features white and white checkered flooring and two toilets of which has a black seat and lid and the other a black seat and lid._002570.png,compbench_official_blipvqa,0.053900,1,0,,color,257,0,2570,ok
+color+258,Bathroom scene with white background and tan accents.,0,Bathroom scene with white background and tan accents._002580.png,compbench_official_blipvqa,0.945800,1,0,,color,258,0,2580,ok
+color+259,Bathroom scene with tan background and white accents.,0,Bathroom scene with tan background and white accents._002590.png,compbench_official_blipvqa,0.632800,1,0,,color,259,0,2590,ok
+color+260,A stainless steel oven sits between white cupboards with black counter tops while sun shines through the kitchen windows.,0,A stainless steel oven sits between white cupboards with black counter tops while sun shines through the kitchen windows._002600.png,compbench_official_blipvqa,0.015300,1,0,,color,260,0,2600,ok
+color+261,A stainless steel oven sits between black cupboards with white counter tops while sun shines through the kitchen windows.,0,A stainless steel oven sits between black cupboards with white counter tops while sun shines through the kitchen windows._002610.png,compbench_official_blipvqa,0.002800,1,0,,color,261,0,2610,ok
+color+262,A kitchen with white tile floor and blue sloped ceiling.,0,A kitchen with white tile floor and blue sloped ceiling._002620.png,compbench_official_blipvqa,0.933200,1,0,,color,262,0,2620,ok
+color+263,A kitchen with blue tile floor and white sloped ceiling.,0,A kitchen with blue tile floor and white sloped ceiling._002630.png,compbench_official_blipvqa,0.961300,1,0,,color,263,0,2630,ok
+color+264,A bathroom with green tile and a red shower curtain.,0,A bathroom with green tile and a red shower curtain._002640.png,compbench_official_blipvqa,0.044500,1,0,,color,264,0,2640,ok
+color+265,A bathroom with red tile and a green shower curtain.,0,A bathroom with red tile and a green shower curtain._002650.png,compbench_official_blipvqa,0.208900,1,0,,color,265,0,2650,ok
+color+266,"A white bath tub sits empty in a tan, clean bathroom.",0,"A white bath tub sits empty in a tan, clean bathroom._002660.png",compbench_official_blipvqa,0.917600,1,0,,color,266,0,2660,ok
+color+267,"A tan bath tub sits empty in a white, clean bathroom.",0,"A tan bath tub sits empty in a white, clean bathroom._002670.png",compbench_official_blipvqa,0.151700,1,0,,color,267,0,2670,ok
+color+268,"two white sheep, a black goat and a white goat in a field",0,"two white sheep, a black goat and a white goat in a field_002680.png",compbench_official_blipvqa,0.388100,1,0,,color,268,0,2680,ok
+color+269,"two black sheep, a white goat and a white goat in a field",0,"two black sheep, a white goat and a white goat in a field_002690.png",compbench_official_blipvqa,0.386800,1,0,,color,269,0,2690,ok
+color+270,A black and white cat sits in a white sink.,0,A black and white cat sits in a white sink._002700.png,compbench_official_blipvqa,0.985300,1,0,,color,270,0,2700,ok
+color+271,A black and white cat sits in a black sink.,0,A black and white cat sits in a black sink._002710.png,compbench_official_blipvqa,0.977900,1,0,,color,271,0,2710,ok
+color+272,A woman in a white shirt and jeans holds a pink umbrella in the rain.,0,A woman in a white shirt and jeans holds a pink umbrella in the rain._002720.png,compbench_official_blipvqa,0.328800,1,0,,color,272,0,2720,ok
+color+273,A woman in a pink shirt and jeans holds a white umbrella in the rain.,0,A woman in a pink shirt and jeans holds a white umbrella in the rain._002730.png,compbench_official_blipvqa,0.068600,1,0,,color,273,0,2730,ok
+color+274,A small bathroom with a small brown toilet next to a white sink.,0,A small bathroom with a small brown toilet next to a white sink._002740.png,compbench_official_blipvqa,0.014700,1,0,,color,274,0,2740,ok
+color+275,A small bathroom with a small white toilet next to a brown sink.,0,A small bathroom with a small white toilet next to a brown sink._002750.png,compbench_official_blipvqa,0.031100,1,0,,color,275,0,2750,ok
+color+276,A black and green tile bathroom with a black toilet and a yellow bucket on the floor.,0,A black and green tile bathroom with a black toilet and a yellow bucket on the floor._002760.png,compbench_official_blipvqa,0.004200,1,0,,color,276,0,2760,ok
+color+277,A black and green tile bathroom with a yellow toilet and a black bucket on the floor.,0,A black and green tile bathroom with a yellow toilet and a black bucket on the floor._002770.png,compbench_official_blipvqa,0.028700,1,0,,color,277,0,2770,ok
+color+278,A red carpet in a bathroom with white fixtures.,0,A red carpet in a bathroom with white fixtures._002780.png,compbench_official_blipvqa,0.950200,1,0,,color,278,0,2780,ok
+color+279,A white carpet in a bathroom with red fixtures.,0,A white carpet in a bathroom with red fixtures._002790.png,compbench_official_blipvqa,0.053800,1,0,,color,279,0,2790,ok
+color+280,Many stoplights flash yellow on a snow covered street.,0,Many stoplights flash yellow on a snow covered street._002800.png,compbench_official_blipvqa,0.596500,1,0,,color,280,0,2800,ok
+color+281,Many stoplights flash snow on a yellow covered street.,0,Many stoplights flash snow on a yellow covered street._002810.png,compbench_official_blipvqa,0.815200,1,0,,color,281,0,2810,ok
+color+282,A blue scooter is parked near a curb in front of a green vintage car.,0,A blue scooter is parked near a curb in front of a green vintage car._002820.png,compbench_official_blipvqa,0.036500,1,0,,color,282,0,2820,ok
+color+283,A green scooter is parked near a curb in front of a blue vintage car.,0,A green scooter is parked near a curb in front of a blue vintage car._002830.png,compbench_official_blipvqa,0.088100,1,0,,color,283,0,2830,ok
+color+284,"A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets.",0,"A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets._002840.png",compbench_official_blipvqa,0.800000,1,0,,color,284,0,2840,ok
+color+285,"A dining area features a wood table and chairs, a brown refrigerator and light silver cabinets.",0,"A dining area features a wood table and chairs, a brown refrigerator and light silver cabinets._002850.png",compbench_official_blipvqa,0.339600,1,0,,color,285,0,2850,ok
+color+286,"Bathroom scene, white commode and matching white sink on light brown tone tiled floor.",0,"Bathroom scene, white commode and matching white sink on light brown tone tiled floor._002860.png",compbench_official_blipvqa,0.663900,1,0,,color,286,0,2860,ok
+color+287,"Bathroom scene, white commode and matching brown sink on light white tone tiled floor.",0,"Bathroom scene, white commode and matching brown sink on light white tone tiled floor._002870.png",compbench_official_blipvqa,0.734600,1,0,,color,287,0,2870,ok
+color+288,A traffic light with a smile green light above a red sign.,0,A traffic light with a smile green light above a red sign._002880.png,compbench_official_blipvqa,0.012800,1,0,,color,288,0,2880,ok
+color+289,A traffic light with a smile red light above a green sign.,0,A traffic light with a smile red light above a green sign._002890.png,compbench_official_blipvqa,0.081700,1,0,,color,289,0,2890,ok
+color+290,The man on the large black motorcycle has pink chaps.,0,The man on the large black motorcycle has pink chaps._002900.png,compbench_official_blipvqa,0.072000,1,0,,color,290,0,2900,ok
+color+291,The man on the large pink motorcycle has black chaps.,0,The man on the large pink motorcycle has black chaps._002910.png,compbench_official_blipvqa,0.141900,1,0,,color,291,0,2910,ok
+color+292,A black motorcycle is parked on grey cobblestones.,0,A black motorcycle is parked on grey cobblestones._002920.png,compbench_official_blipvqa,0.979600,1,0,,color,292,0,2920,ok
+color+293,A grey motorcycle is parked on black cobblestones.,0,A grey motorcycle is parked on black cobblestones._002930.png,compbench_official_blipvqa,0.653200,1,0,,color,293,0,2930,ok
+color+294,The white and yellow clock with a red roof reads 11:44.,0,The white and yellow clock with a red roof reads 11:44._002940.png,compbench_official_blipvqa,0.018900,1,0,,color,294,0,2940,ok
+color+295,The white and red clock with a yellow roof reads 11:44.,0,The white and red clock with a yellow roof reads 11:44._002950.png,compbench_official_blipvqa,0.578400,1,0,,color,295,0,2950,ok
+color+296,A man in a gray jacket standing in a kitchen next to a black dog.,0,A man in a gray jacket standing in a kitchen next to a black dog._002960.png,compbench_official_blipvqa,0.923700,1,0,,color,296,0,2960,ok
+color+297,A man in a black jacket standing in a kitchen next to a gray dog.,0,A man in a black jacket standing in a kitchen next to a gray dog._002970.png,compbench_official_blipvqa,0.940800,1,0,,color,297,0,2970,ok
+color+298,a white bathroom with a black and white shower curtain,0,a white bathroom with a black and white shower curtain_002980.png,compbench_official_blipvqa,0.964000,1,0,,color,298,0,2980,ok
+color+299,a black bathroom with a black and white shower curtain,0,a black bathroom with a black and white shower curtain_002990.png,compbench_official_blipvqa,0.974200,1,0,,color,299,0,2990,ok

@@ -1,0 +1,3 @@
+checkpoint,scale,gate_global,gate_object,gate_attribute,gate_relation,injection_global,injection_object,injection_attribute,injection_relation
+tpscda (paper),0.016446,0.981925,0.017898,0.017885,0.017896,0.016149,0.000294,0.000294,0.000294
+gateopt,0.063218,0.397210,0.126747,0.107079,0.111472,0.025111,0.008013,0.006769,0.007047

@@ -1,0 +1,51 @@
+TP-SCDA 参数统计（判据与 train_scripts/train.py 的 configure_trainable_parameters 完全一致）
+
+总参数量 (PixArt-XL-2-512 + TP-SCDA 模块): 619,618,753
+可训练参数量: 8,569,065
+可训练占比: 1.3830%
+冻结参数量: 611,049,688 (98.6170%)
+
+可训练参数张量明细:
+  semantic_adapters.attribute.down.bias: 64
+  semantic_adapters.attribute.down.weight: 73,728
+  semantic_adapters.attribute.up.bias: 1,152
+  semantic_adapters.attribute.up.weight: 73,728
+  semantic_adapters.global.down.bias: 64
+  semantic_adapters.global.down.weight: 73,728
+  semantic_adapters.global.up.bias: 1,152
+  semantic_adapters.global.up.weight: 73,728
+  semantic_adapters.object.down.bias: 64
+  semantic_adapters.object.down.weight: 73,728
+  semantic_adapters.object.up.bias: 1,152
+  semantic_adapters.object.up.weight: 73,728
+  semantic_adapters.relation.down.bias: 64
+  semantic_adapters.relation.down.weight: 73,728
+  semantic_adapters.relation.up.bias: 1,152
+  semantic_adapters.relation.up.weight: 73,728
+  semantic_layer_scale: 112
+  semantic_time_gate.bias: 4
+  semantic_time_gate.weight: 4,608
+  semantic_token_cross_attention.attribute_pair_proj.bias: 1,152
+  semantic_token_cross_attention.attribute_pair_proj.weight: 1,327,104
+  semantic_token_cross_attention.k_proj.bias: 1,152
+  semantic_token_cross_attention.k_proj.weight: 1,327,104
+  semantic_token_cross_attention.object_pair_proj.bias: 1,152
+  semantic_token_cross_attention.object_pair_proj.weight: 1,327,104
+  semantic_token_cross_attention.out_proj.bias: 1,152
+  semantic_token_cross_attention.out_proj.weight: 1,327,104
+  semantic_token_cross_attention.pair_strength: 1
+  semantic_token_cross_attention.q_proj.bias: 1,152
+  semantic_token_cross_attention.q_proj.weight: 1,327,104
+  semantic_token_cross_attention.role_bias: 3
+  semantic_token_cross_attention.v_proj.bias: 1,152
+  semantic_token_cross_attention.v_proj.weight: 1,327,104
+  semantic_token_gate: 1
+  semantic_token_layer_gate: 112
+
+冻结模块汇总（按顶层模块名）:
+  blocks: 595,349,048
+  t_block: 7,969,536
+  y_embedder: 6,048,000
+  t_embedder: 1,624,320
+  final_layer: 39,200
+  x_embedder: 19,584

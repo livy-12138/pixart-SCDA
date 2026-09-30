@@ -1,0 +1,10 @@
+model,seed,n,clip_mean
+baseline,43,64,0.344414
+baseline,44,64,0.342817
+baseline,45,64,0.344208
+learnable_layers,43,64,0.344395
+learnable_layers,44,64,0.34318
+learnable_layers,45,64,0.343497
+tpscda_nodistill,43,64,0.344472
+tpscda_nodistill,44,64,0.342688
+tpscda_nodistill,45,64,0.343093

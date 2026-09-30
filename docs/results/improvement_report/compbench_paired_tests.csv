@@ -1,0 +1,9 @@
+method,category,n,mean_baseline,mean_method,delta,ci_low,ci_high,better,worse,significant,verdict
+tpscda_nodistill,color,300,0.3956,0.3860,-0.0096,-0.0194,-0.0017,137,148,True,退步（显著）
+tpscda_nodistill,shape,300,0.4158,0.4118,-0.0040,-0.0074,-0.0007,139,157,True,退步（显著）
+tpscda_nodistill,texture,300,0.4701,0.4739,+0.0038,-0.0022,+0.0101,138,150,False,无显著差异
+tpscda_nodistill,spatial,300,0.2040,0.2107,+0.0067,-0.0045,+0.0189,38,34,False,无显著差异
+tpscda_nodistill,3d_spatial,300,0.3388,0.3371,-0.0017,-0.0097,+0.0062,133,147,False,无显著差异
+tpscda_nodistill,numeracy,300,0.5086,0.4993,-0.0093,-0.0198,+0.0009,14,26,False,无显著差异
+tpscda_nodistill,non_spatial,300,0.3095,0.3093,-0.0001,-0.0004,+0.0002,129,146,False,无显著差异
+tpscda_nodistill,complex,100,0.3314,0.3313,-0.0001,-0.0050,+0.0046,52,48,False,无显著差异

@@ -1,0 +1,201 @@
+item_id,category,prompt,model_for_A,model_for_B
+0,color,a blue banana and a green vase,frozen_ebcol020,frozen_current
+1,color,a blue cup and a brown elephant,frozen_ebcol020,frozen_current
+2,color,a white bathroom with a black and white shower curtain,frozen_current,frozen_ebcol020
+3,color,The man on the large black motorcycle has pink chaps.,frozen_ebcol020,frozen_current
+4,color,a blue banana and a green boat,frozen_current,frozen_ebcol020
+5,color,a red stop sign and a white line,frozen_current,frozen_ebcol020
+6,color,a red backpack and a blue orange,frozen_ebcol020,frozen_current
+7,color,a brown giraffe and a blue vase,frozen_ebcol020,frozen_current
+8,color,a red taxi and a yellow tire,frozen_current,frozen_ebcol020
+9,color,A bathroom with beige tile and a white toilet.,frozen_ebcol020,frozen_current
+10,color,a blue bowl and a brown elephant,frozen_current,frozen_ebcol020
+11,color,a blue cylinder and a red cube,frozen_ebcol020,frozen_current
+12,color,a purple apple and a red grape,frozen_current,frozen_ebcol020
+13,color,a green bench and a blue bowl,frozen_current,frozen_ebcol020
+14,color,a brown bowl and a blue horse,frozen_current,frozen_ebcol020
+15,color,a red cow and a brown suitcase,frozen_current,frozen_ebcol020
+16,color,A black motorcycle is parked on grey cobblestones.,frozen_ebcol020,frozen_current
+17,color,a red boat and a blue book,frozen_current,frozen_ebcol020
+18,color,A black and green tile bathroom with a black toilet and a yellow bucket on the floor.,frozen_current,frozen_ebcol020
+19,color,a brown banana and a green giraffe,frozen_current,frozen_ebcol020
+20,color,a blue backpack and a brown sheep,frozen_current,frozen_ebcol020
+21,color,a green banana and a brown bear,frozen_current,frozen_ebcol020
+22,color,a green apple and a black backpack,frozen_ebcol020,frozen_current
+23,color,a green grass and a yellow dandelion,frozen_ebcol020,frozen_current
+24,color,a gold clock and a red orange,frozen_ebcol020,frozen_current
+25,color,a blue horse and a brown vase,frozen_current,frozen_ebcol020
+26,color,a red orange and a brown sheep,frozen_ebcol020,frozen_current
+27,color,a brown cow and a red suitcase,frozen_current,frozen_ebcol020
+28,color,a blue backpack and a red car,frozen_ebcol020,frozen_current
+29,color,a white car and a red sheep,frozen_current,frozen_ebcol020
+30,color,a green banana and a brown dog,frozen_ebcol020,frozen_current
+31,color,A man in a gray jacket standing in a kitchen next to a black dog.,frozen_ebcol020,frozen_current
+32,color,A small bathroom with a small white toilet next to a brown sink.,frozen_current,frozen_ebcol020
+33,color,a blue train and a red vase,frozen_current,frozen_ebcol020
+34,color,a brown apple and a green horse,frozen_ebcol020,frozen_current
+35,color,a black cat and a gray mouse,frozen_current,frozen_ebcol020
+36,color,a green apple and a blue backpack,frozen_current,frozen_ebcol020
+37,color,a red backpack and a blue car,frozen_ebcol020,frozen_current
+38,color,A restroom features black and white checkered flooring and two toilets of which has a black seat and lid and the other a white seat and lid.,frozen_current,frozen_ebcol020
+39,color,a red giraffe and a brown train,frozen_current,frozen_ebcol020
+40,color,a red horse and a brown orange,frozen_current,frozen_ebcol020
+41,color,a red elephant and a brown suitcase,frozen_current,frozen_ebcol020
+42,color,a brown backpack and a blue sheep,frozen_ebcol020,frozen_current
+43,color,Two hot dogs sit on a green paper plate near a soda cup which are sitting on a white picnic table while a bike and a silver car are parked nearby.,frozen_current,frozen_ebcol020
+44,color,The white and yellow clock with a red roof reads 11:44.,frozen_ebcol020,frozen_current
+45,color,A traffic light with a smile green light above a red sign.,frozen_ebcol020,frozen_current
+46,color,a blue cup and a red orange,frozen_ebcol020,frozen_current
+47,color,a blue backpack and a red train,frozen_current,frozen_ebcol020
+48,color,a brown backpack and a blue giraffe,frozen_current,frozen_ebcol020
+49,color,a brown giraffe and a red train,frozen_ebcol020,frozen_current
+50,color,a white piano and a black bench,frozen_ebcol020,frozen_current
+51,color,A small white kitchen with brown wood floor.,frozen_current,frozen_ebcol020
+52,color,a red apple and a green suitcase,frozen_ebcol020,frozen_current
+53,color,a yellow taxi and a red tire,frozen_ebcol020,frozen_current
+54,color,Two hot dogs sit on a white paper plate near a soda cup which are sitting on a green picnic table while a bike and a silver car are parked nearby.,frozen_current,frozen_ebcol020
+55,color,a red backpack and a blue train,frozen_current,frozen_ebcol020
+56,color,A bathroom with white tile and a beige toilet.,frozen_current,frozen_ebcol020
+57,color,a blue cup and a green cell phone,frozen_ebcol020,frozen_current
+58,color,a green backpack and a blue banana,frozen_ebcol020,frozen_current
+59,color,a blue bowl and a brown horse,frozen_ebcol020,frozen_current
+60,color,a brown backpack and a blue bear,frozen_current,frozen_ebcol020
+61,color,a blue pen and a black ink,frozen_ebcol020,frozen_current
+62,color,a red rabbit and a yellow rat,frozen_ebcol020,frozen_current
+63,color,a green school bus and a red bag,frozen_current,frozen_ebcol020
+64,color,a yellow book and a red vase,frozen_current,frozen_ebcol020
+65,color,a brown horse and a blue vase,frozen_ebcol020,frozen_current
+66,color,a blue pencil and a yellow notebook,frozen_ebcol020,frozen_current
+67,color,a blue apple and a green backpack,frozen_ebcol020,frozen_current
+68,color,a blue car and a red cup,frozen_ebcol020,frozen_current
+69,color,a black white and gold vase sitting on a counter,frozen_ebcol020,frozen_current
+70,color,a blue bear and a brown vase,frozen_current,frozen_ebcol020
+71,color,a brown chair and a red elephant,frozen_current,frozen_ebcol020
+72,color,A black and white cat sits in a black sink.,frozen_current,frozen_ebcol020
+73,color,a blue bowl and a red train,frozen_ebcol020,frozen_current
+74,color,a yellow frog and a green fly,frozen_current,frozen_ebcol020
+75,color,a yellow pencil and a red eraser,frozen_ebcol020,frozen_current
+76,color,a green apple and a brown elephant,frozen_current,frozen_ebcol020
+77,color,a blue boat and a brown cat,frozen_ebcol020,frozen_current
+78,color,a red lipstick and a pink blush,frozen_ebcol020,frozen_current
+79,color,a yellow leaf and a green flower,frozen_current,frozen_ebcol020
+80,color,a brown banana and a green bear,frozen_ebcol020,frozen_current
+81,color,a red bench and a green orange,frozen_current,frozen_ebcol020
+82,color,a green tree and a brown grass,frozen_ebcol020,frozen_current
+83,color,a pink lipstick and a red blush,frozen_ebcol020,frozen_current
+84,color,a blue cake and a red suitcase,frozen_current,frozen_ebcol020
+85,color,Bathroom scene with white background and tan accents.,frozen_ebcol020,frozen_current
+86,color,a black cat and a brown mouse,frozen_current,frozen_ebcol020
+87,color,a green banana and a brown giraffe,frozen_current,frozen_ebcol020
+88,color,a brown bowl and a blue elephant,frozen_current,frozen_ebcol020
+89,color,a red apple and a green train,frozen_current,frozen_ebcol020
+90,color,a red cylinder and a blue cube,frozen_ebcol020,frozen_current
+91,color,a red backpack and a blue chair,frozen_current,frozen_ebcol020
+92,color,a green bench and a blue cake,frozen_current,frozen_ebcol020
+93,color,a black gold and white vase sitting on a counter,frozen_current,frozen_ebcol020
+94,color,a yellow rabbit and a red rat,frozen_current,frozen_ebcol020
+95,color,"Two toilet stall, one blue and the other orange.",frozen_current,frozen_ebcol020
+96,color,The man on the large pink motorcycle has black chaps.,frozen_current,frozen_ebcol020
+97,color,Many stoplights flash snow on a yellow covered street.,frozen_ebcol020,frozen_current
+98,color,a blue backpack and a red orange,frozen_current,frozen_ebcol020
+99,color,A blue scooter is parked near a curb in front of a green vintage car.,frozen_ebcol020,frozen_current
+100,color,a white dove and a black feather,frozen_current,frozen_ebcol020
+101,color,A green scooter is parked near a curb in front of a blue vintage car.,frozen_ebcol020,frozen_current
+102,color,a blue apple and a green cup,frozen_ebcol020,frozen_current
+103,color,a canary and a yellow bluebird,frozen_current,frozen_ebcol020
+104,color,a blue bag and a green water bottle,frozen_ebcol020,frozen_current
+105,color,"A dining area features a wood table and chairs, a brown refrigerator and light silver cabinets.",frozen_current,frozen_ebcol020
+106,color,a blue boat and a red suitcase,frozen_current,frozen_ebcol020
+107,color,a blue bench and a green bowl,frozen_ebcol020,frozen_current
+108,color,a yellow apple and red bananas,frozen_current,frozen_ebcol020
+109,color,"A dining area features a wood table and chairs, a silver refrigerator and light brown cabinets.",frozen_current,frozen_ebcol020
+110,color,a red cup and a blue orange,frozen_ebcol020,frozen_current
+111,color,a brown bear and a blue boat,frozen_current,frozen_ebcol020
+112,color,a white cat and a black paw,frozen_ebcol020,frozen_current
+113,color,a red train and a blue vase,frozen_ebcol020,frozen_current
+114,color,a red bear and a brown train,frozen_ebcol020,frozen_current
+115,color,a black piano and a white bench,frozen_ebcol020,frozen_current
+116,color,a red bear and a brown book,frozen_current,frozen_ebcol020
+117,color,a brown jacket and a black hat,frozen_ebcol020,frozen_current
+118,color,a green leaf and a yellow butterfly,frozen_ebcol020,frozen_current
+119,color,a blue sheep and a brown vase,frozen_current,frozen_ebcol020
+120,color,a stop sign and red white line,frozen_ebcol020,frozen_current
+121,color,a red chair and a brown elephant,frozen_current,frozen_ebcol020
+122,color,a red car and a blue cup,frozen_current,frozen_ebcol020
+123,color,a green snake and a brown log,frozen_ebcol020,frozen_current
+124,color,a blue backpack and a gold clock,frozen_ebcol020,frozen_current
+125,color,a gold backpack and a blue clock,frozen_ebcol020,frozen_current
+126,color,A white carpet in a bathroom with red fixtures.,frozen_ebcol020,frozen_current
+127,color,"two black sheep, a white goat and a white goat in a field",frozen_ebcol020,frozen_current
+128,color,a green apple and a red train,frozen_ebcol020,frozen_current
+129,color,a black bathroom with a black and white shower curtain,frozen_current,frozen_ebcol020
+130,color,a blue backpack and a green banana,frozen_current,frozen_ebcol020
+131,color,A small bathroom with a small brown toilet next to a white sink.,frozen_current,frozen_ebcol020
+132,color,a red apple and a purple grape,frozen_current,frozen_ebcol020
+133,color,a brown guitar and a black amplifier,frozen_current,frozen_ebcol020
+134,color,a white envelope and a blue stamp,frozen_ebcol020,frozen_current
+135,color,"Two toilet stall, one orange and the other blue.",frozen_current,frozen_ebcol020
+136,color,a blue snow and a white sled,frozen_ebcol020,frozen_current
+137,color,a green log and a brown moss,frozen_current,frozen_ebcol020
+138,color,a yellow pencil and a blue notebook,frozen_ebcol020,frozen_current
+139,color,a brown acorn and a green leaf,frozen_current,frozen_ebcol020
+140,color,a gold cat and a brown clock,frozen_ebcol020,frozen_current
+141,color,a red suitcase and a blue vase,frozen_ebcol020,frozen_current
+142,color,The white and red clock with a yellow roof reads 11:44.,frozen_current,frozen_ebcol020
+143,color,a red book and a blue cake,frozen_ebcol020,frozen_current
+144,color,a red hat and a black scarf,frozen_current,frozen_ebcol020
+145,color,a blue bird and a yellow canary,frozen_ebcol020,frozen_current
+146,color,a white snow and a blue sled,frozen_ebcol020,frozen_current
+147,color,A red carpet in a bathroom with white fixtures.,frozen_ebcol020,frozen_current
+148,color,a black squirrel and a brown nut,frozen_ebcol020,frozen_current
+149,color,a blue backpack and a brown giraffe,frozen_ebcol020,frozen_current
+150,color,a green rose and a blue tulip,frozen_current,frozen_ebcol020
+151,color,a blue bird and a brown bear,frozen_current,frozen_ebcol020
+152,color,a green leaf and a yellow flower,frozen_current,frozen_ebcol020
+153,color,a blue bicycle and a red helmet,frozen_current,frozen_ebcol020
+154,color,a black taxi and a yellow tire,frozen_ebcol020,frozen_current
+155,color,a black guitar and a brown amplifier,frozen_current,frozen_ebcol020
+156,color,a green apple and a brown horse,frozen_ebcol020,frozen_current
+157,color,a yellow pen and a blue highlighter,frozen_current,frozen_ebcol020
+158,color,a red car and a white sheep,frozen_current,frozen_ebcol020
+159,color,A woman in a pink shirt and jeans holds a white umbrella in the rain.,frozen_current,frozen_ebcol020
+160,color,"Kitchen scene, black counter top on one side, whitish on the other and grey sink with long neck faucet.",frozen_ebcol020,frozen_current
+161,color,"Bathroom scene, white commode and matching white sink on light brown tone tiled floor.",frozen_current,frozen_ebcol020
+162,color,a black hat and a red scarf,frozen_ebcol020,frozen_current
+163,color,"A tan bath tub sits empty in a white, clean bathroom.",frozen_current,frozen_ebcol020
+164,color,a red tomato and a yellow pepper,frozen_current,frozen_ebcol020
+165,color,a blue backpack and a brown cow,frozen_ebcol020,frozen_current
+166,color,a blue duck and a yellow pond,frozen_ebcol020,frozen_current
+167,color,a red rose and a white carnation,frozen_ebcol020,frozen_current
+168,color,a blue backpack and a red book,frozen_current,frozen_ebcol020
+169,color,a black cat and a white paw,frozen_current,frozen_ebcol020
+170,color,a green banana and a brown cow,frozen_ebcol020,frozen_current
+171,color,a blue backpack and a red chair,frozen_ebcol020,frozen_current
+172,color,a brown cup and a blue horse,frozen_ebcol020,frozen_current
+173,color,a blue backpack and a brown bear,frozen_ebcol020,frozen_current
+174,color,a red pencil and a yellow eraser,frozen_current,frozen_ebcol020
+175,color,A pink bathroom with a mirror and a green sink.,frozen_ebcol020,frozen_current
+176,color,a green frog and a brown pond,frozen_current,frozen_ebcol020
+177,color,A green bathroom with a mirror and a pink sink.,frozen_current,frozen_ebcol020
+178,color,"Bathroom scene, white commode and matching brown sink on light white tone tiled floor.",frozen_current,frozen_ebcol020
+179,color,a brown bear and a blue vase,frozen_current,frozen_ebcol020
+180,color,a green jay and a blue parrot,frozen_ebcol020,frozen_current
+181,color,a blue bear and a brown boat,frozen_ebcol020,frozen_current
+182,color,A stainless steel oven sits between black cupboards with white counter tops while sun shines through the kitchen windows.,frozen_ebcol020,frozen_current
+183,color,a yellow sun and a red sunset,frozen_ebcol020,frozen_current
+184,color,a brown log and a green moss,frozen_ebcol020,frozen_current
+185,color,a red bicycle and a blue helmet,frozen_ebcol020,frozen_current
+186,color,a green bag and a blue water bottle,frozen_ebcol020,frozen_current
+187,color,a red school bus and a green bag,frozen_current,frozen_ebcol020
+188,color,a red book and a brown sheep,frozen_ebcol020,frozen_current
+189,color,a brown horse and a red orange,frozen_current,frozen_ebcol020
+190,color,a brown cup and a blue sheep,frozen_ebcol020,frozen_current
+191,color,a black swan and a white lake,frozen_ebcol020,frozen_current
+192,color,A small brown kitchen with white wood floor.,frozen_ebcol020,frozen_current
+193,color,a brown apple and a green elephant,frozen_ebcol020,frozen_current
+194,color,a red apple and a green kiwi,frozen_current,frozen_ebcol020
+195,color,a brown book and a red sheep,frozen_current,frozen_ebcol020
+196,color,a red backpack and a blue book,frozen_ebcol020,frozen_current
+197,color,a green bench and a red orange,frozen_ebcol020,frozen_current
+198,color,a green apple and a red suitcase,frozen_ebcol020,frozen_current
+199,color,a green banana and a red suitcase,frozen_ebcol020,frozen_current

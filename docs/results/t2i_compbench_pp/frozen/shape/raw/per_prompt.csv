@@ -1,0 +1,301 @@
+prompt_id,prompt,seed,generated_image,metric,prediction,success,failure,error_message,category,prompt_index,repeat,global_index,status
+shape+0,an oblong cucumber and a teardrop plum,0,an oblong cucumber and a teardrop plum_000000.png,compbench_official_blipvqa,0.080200,1,0,,shape,0,0,0,ok
+shape+1,a pentagonal stop sign and a spherical traffic light,0,a pentagonal stop sign and a spherical traffic light_000010.png,compbench_official_blipvqa,0.686700,1,0,,shape,1,0,10,ok
+shape+2,a cubic ice cube and a spherical ice bucket,0,a cubic ice cube and a spherical ice bucket_000020.png,compbench_official_blipvqa,0.155300,1,0,,shape,2,0,20,ok
+shape+3,an oblong eggplant and a teardrop melon,0,an oblong eggplant and a teardrop melon_000030.png,compbench_official_blipvqa,0.382800,1,0,,shape,3,0,30,ok
+shape+4,a cubic block and a cylindrical bottle,0,a cubic block and a cylindrical bottle_000040.png,compbench_official_blipvqa,0.883300,1,0,,shape,4,0,40,ok
+shape+5,a cubic block and a cylindrical canister,0,a cubic block and a cylindrical canister_000050.png,compbench_official_blipvqa,0.026200,1,0,,shape,5,0,50,ok
+shape+6,a diamond pendant and a round locket,0,a diamond pendant and a round locket_000060.png,compbench_official_blipvqa,0.782800,1,0,,shape,6,0,60,ok
+shape+7,a teardrop pendant and a cubic bracelet charm,0,a teardrop pendant and a cubic bracelet charm_000070.png,compbench_official_blipvqa,0.635100,1,0,,shape,7,0,70,ok
+shape+8,a pentagonal speed limit sign and a pyramidal paperweight,0,a pentagonal speed limit sign and a pyramidal paperweight_000080.png,compbench_official_blipvqa,0.137400,1,0,,shape,8,0,80,ok
+shape+9,a diamond ring and a pyramidal ring box,0,a diamond ring and a pyramidal ring box_000090.png,compbench_official_blipvqa,0.912100,1,0,,shape,9,0,90,ok
+shape+10,a diamond brooch and a teardrop bracelet,0,a diamond brooch and a teardrop bracelet_000100.png,compbench_official_blipvqa,0.244600,1,0,,shape,10,0,100,ok
+shape+11,a pentagonal postbox and a pyramidal obelisk,0,a pentagonal postbox and a pyramidal obelisk_000110.png,compbench_official_blipvqa,0.648600,1,0,,shape,11,0,110,ok
+shape+12,a conical wizard hat and a spherical crystal wand,0,a conical wizard hat and a spherical crystal wand_000120.png,compbench_official_blipvqa,0.883500,1,0,,shape,12,0,120,ok
+shape+13,a round muffin and a square napkin,0,a round muffin and a square napkin_000130.png,compbench_official_blipvqa,0.495000,1,0,,shape,13,0,130,ok
+shape+14,a cylindrical candle and a pentagonal candle holder,0,a cylindrical candle and a pentagonal candle holder_000140.png,compbench_official_blipvqa,0.664300,1,0,,shape,14,0,140,ok
+shape+15,a round muffin and a square muffin liner,0,a round muffin and a square muffin liner_000150.png,compbench_official_blipvqa,0.306400,1,0,,shape,15,0,150,ok
+shape+16,a spherical globe and a conical flagpole,0,a spherical globe and a conical flagpole_000160.png,compbench_official_blipvqa,0.548600,1,0,,shape,16,0,160,ok
+shape+17,a big bear and a small squirrel,0,a big bear and a small squirrel_000170.png,compbench_official_blipvqa,0.893700,1,0,,shape,17,0,170,ok
+shape+18,an oval sink and a rectangular mirror.,0,an oval sink and a rectangular mirror._000180.png,compbench_official_blipvqa,0.067400,1,0,,shape,18,0,180,ok
+shape+19,an oval mirror and a rectangular painting,0,an oval mirror and a rectangular painting_000190.png,compbench_official_blipvqa,0.701900,1,0,,shape,19,0,190,ok
+shape+20,a triangular slice of cheese and a rectangular cheese board,0,a triangular slice of cheese and a rectangular cheese board_000200.png,compbench_official_blipvqa,0.334600,1,0,,shape,20,0,200,ok
+shape+21,a small bagel and a rectangular sandwich,0,a small bagel and a rectangular sandwich_000210.png,compbench_official_blipvqa,0.065000,1,0,,shape,21,0,210,ok
+shape+22,a tall skyscraper and a short lamppost,0,a tall skyscraper and a short lamppost_000220.png,compbench_official_blipvqa,0.827000,1,0,,shape,22,0,220,ok
+shape+23,a teardrop pendant and a triangular chain necklace,0,a teardrop pendant and a triangular chain necklace_000230.png,compbench_official_blipvqa,0.475600,1,0,,shape,23,0,230,ok
+shape+24,an oblong sweet potato and a teardrop peach,0,an oblong sweet potato and a teardrop peach_000240.png,compbench_official_blipvqa,0.619700,1,0,,shape,24,0,240,ok
+shape+25,a spherical balloon and a conical party hat,0,a spherical balloon and a conical party hat_000250.png,compbench_official_blipvqa,0.818700,1,0,,shape,25,0,250,ok
+shape+26,a pyramidal trophy and a spherical trophy ball,0,a pyramidal trophy and a spherical trophy ball_000260.png,compbench_official_blipvqa,0.795100,1,0,,shape,26,0,260,ok
+shape+27,an oblong squash and a teardrop plum,0,an oblong squash and a teardrop plum_000270.png,compbench_official_blipvqa,0.501400,1,0,,shape,27,0,270,ok
+shape+28,a tall skyscraper and a short street lamp,0,a tall skyscraper and a short street lamp_000280.png,compbench_official_blipvqa,0.885400,1,0,,shape,28,0,280,ok
+shape+29,a spherical baseball and a conical baseball cap,0,a spherical baseball and a conical baseball cap_000290.png,compbench_official_blipvqa,0.080100,1,0,,shape,29,0,290,ok
+shape+30,an oval coffee table and a rectangular rug,0,an oval coffee table and a rectangular rug_000300.png,compbench_official_blipvqa,0.517500,1,0,,shape,30,0,300,ok
+shape+31,a round cookie and a square container.,0,a round cookie and a square container._000310.png,compbench_official_blipvqa,0.885100,1,0,,shape,31,0,310,ok
+shape+32,a diamond engagement ring and a round pendant,0,a diamond engagement ring and a round pendant_000320.png,compbench_official_blipvqa,0.612000,1,0,,shape,32,0,320,ok
+shape+33,an oval bathtub and a square shower curtain,0,an oval bathtub and a square shower curtain_000330.png,compbench_official_blipvqa,0.132200,1,0,,shape,33,0,330,ok
+shape+34,an oblong acorn squash and a teardrop apricot,0,an oblong acorn squash and a teardrop apricot_000340.png,compbench_official_blipvqa,0.047700,1,0,,shape,34,0,340,ok
+shape+35,an oblong pear and a teardrop melon,0,an oblong pear and a teardrop melon_000350.png,compbench_official_blipvqa,0.158300,1,0,,shape,35,0,350,ok
+shape+36,a tall skyscraper and a short cabin,0,a tall skyscraper and a short cabin_000360.png,compbench_official_blipvqa,0.109700,1,0,,shape,36,0,360,ok
+shape+37,a round bag and a square box,0,a round bag and a square box_000370.png,compbench_official_blipvqa,0.782300,1,0,,shape,37,0,370,ok
+shape+38,a spherical ball and a conical party hat,0,a spherical ball and a conical party hat_000380.png,compbench_official_blipvqa,0.076300,1,0,,shape,38,0,380,ok
+shape+39,a long snake and a short tree,0,a long snake and a short tree_000390.png,compbench_official_blipvqa,0.180300,1,0,,shape,39,0,390,ok
+shape+40,a tall basketball player and a small hat,0,a tall basketball player and a small hat_000400.png,compbench_official_blipvqa,0.288100,1,0,,shape,40,0,400,ok
+shape+41,a square book and a cylindrical pencil,0,a square book and a cylindrical pencil_000410.png,compbench_official_blipvqa,0.479700,1,0,,shape,41,0,410,ok
+shape+42,a cubic block and a cylindrical container of hand cream,0,a cubic block and a cylindrical container of hand cream_000420.png,compbench_official_blipvqa,0.410700,1,0,,shape,42,0,420,ok
+shape+43,a cubic block and a triangular building set,0,a cubic block and a triangular building set_000430.png,compbench_official_blipvqa,0.738500,1,0,,shape,43,0,430,ok
+shape+44,a diamond pendant and a round bracelet,0,a diamond pendant and a round bracelet_000440.png,compbench_official_blipvqa,0.394100,1,0,,shape,44,0,440,ok
+shape+45,an oval sink and a rectangular soap dispenser,0,an oval sink and a rectangular soap dispenser_000450.png,compbench_official_blipvqa,0.377200,1,0,,shape,45,0,450,ok
+shape+46,an oblong squash and a teardrop strawberry,0,an oblong squash and a teardrop strawberry_000460.png,compbench_official_blipvqa,0.161300,1,0,,shape,46,0,460,ok
+shape+47,a rectangular laptop and a teardrop laptop bag,0,a rectangular laptop and a teardrop laptop bag_000470.png,compbench_official_blipvqa,0.030400,1,0,,shape,47,0,470,ok
+shape+48,an oblong carrot and a teardrop plum,0,an oblong carrot and a teardrop plum_000480.png,compbench_official_blipvqa,0.004300,1,0,,shape,48,0,480,ok
+shape+49,a big hippopotamus and a small rabbit,0,a big hippopotamus and a small rabbit_000490.png,compbench_official_blipvqa,0.890000,1,0,,shape,49,0,490,ok
+shape+50,a cylindrical vase and a triangular flower arrangement,0,a cylindrical vase and a triangular flower arrangement_000500.png,compbench_official_blipvqa,0.038300,1,0,,shape,50,0,500,ok
+shape+51,a spherical ornament and a triangular tree topper,0,a spherical ornament and a triangular tree topper_000510.png,compbench_official_blipvqa,0.960800,1,0,,shape,51,0,510,ok
+shape+52,a conical Christmas tree and a pentagonal tree skirt,0,a conical Christmas tree and a pentagonal tree skirt_000520.png,compbench_official_blipvqa,0.230600,1,0,,shape,52,0,520,ok
+shape+53,a round bagel and a square toaster,0,a round bagel and a square toaster_000530.png,compbench_official_blipvqa,0.750300,1,0,,shape,53,0,530,ok
+shape+54,a big hippopotamus and a small mouse,0,a big hippopotamus and a small mouse_000540.png,compbench_official_blipvqa,0.424500,1,0,,shape,54,0,540,ok
+shape+55,a big lion and a small mouse,0,a big lion and a small mouse_000550.png,compbench_official_blipvqa,0.926600,1,0,,shape,55,0,550,ok
+shape+56,a tall sunflower and a short daisy,0,a tall sunflower and a short daisy_000560.png,compbench_official_blipvqa,0.120000,1,0,,shape,56,0,560,ok
+shape+57,a spherical basketball and a conical referee hat,0,a spherical basketball and a conical referee hat_000570.png,compbench_official_blipvqa,0.336700,1,0,,shape,57,0,570,ok
+shape+58,a circular rug and a triangular coffee table,0,a circular rug and a triangular coffee table_000580.png,compbench_official_blipvqa,0.605200,1,0,,shape,58,0,580,ok
+shape+59,a pyramidal paperweight and a pentagonal paperclip holder,0,a pyramidal paperweight and a pentagonal paperclip holder_000590.png,compbench_official_blipvqa,0.087600,1,0,,shape,59,0,590,ok
+shape+60,a cubic box and a pyramidal paperweight,0,a cubic box and a pyramidal paperweight_000600.png,compbench_official_blipvqa,0.783900,1,0,,shape,60,0,600,ok
+shape+61,an oblong zucchini and a teardrop plum,0,an oblong zucchini and a teardrop plum_000610.png,compbench_official_blipvqa,0.127100,1,0,,shape,61,0,610,ok
+shape+62,a cubic block and a cylindrical flashlight.,0,a cubic block and a cylindrical flashlight._000620.png,compbench_official_blipvqa,0.682100,1,0,,shape,62,0,620,ok
+shape+63,a pentagonal yield sign and a pyramidal book stand.,0,a pentagonal yield sign and a pyramidal book stand._000630.png,compbench_official_blipvqa,0.863300,1,0,,shape,63,0,630,ok
+shape+64,an oblong potato and a teardrop mango,0,an oblong potato and a teardrop mango_000640.png,compbench_official_blipvqa,0.048400,1,0,,shape,64,0,640,ok
+shape+65,a round basketball and a cylindrical water bottle,0,a round basketball and a cylindrical water bottle_000650.png,compbench_official_blipvqa,0.915900,1,0,,shape,65,0,650,ok
+shape+66,a rectangular mirror and a spherical magnifying glass,0,a rectangular mirror and a spherical magnifying glass_000660.png,compbench_official_blipvqa,0.141200,1,0,,shape,66,0,660,ok
+shape+67,an oblong zucchini and a teardrop cherry,0,an oblong zucchini and a teardrop cherry_000670.png,compbench_official_blipvqa,0.829000,1,0,,shape,67,0,670,ok
+shape+68,a tall palm tree and a short cactus,0,a tall palm tree and a short cactus_000680.png,compbench_official_blipvqa,0.502700,1,0,,shape,68,0,680,ok
+shape+69,a diamond bracelet and a rectangular watch,0,a diamond bracelet and a rectangular watch_000690.png,compbench_official_blipvqa,0.883000,1,0,,shape,69,0,690,ok
+shape+70,a pentagonal medal and a pyramidal trophy,0,a pentagonal medal and a pyramidal trophy_000700.png,compbench_official_blipvqa,0.922600,1,0,,shape,70,0,700,ok
+shape+71,a round bagel and a rectangular sandwich press,0,a round bagel and a rectangular sandwich press_000710.png,compbench_official_blipvqa,0.489600,1,0,,shape,71,0,710,ok
+shape+72,a small block and a cylindrical soda can,0,a small block and a cylindrical soda can_000720.png,compbench_official_blipvqa,0.380600,1,0,,shape,72,0,720,ok
+shape+73,a cubic block and a cylindrical paper towel roll,0,a cubic block and a cylindrical paper towel roll_000730.png,compbench_official_blipvqa,0.357300,1,0,,shape,73,0,730,ok
+shape+74,a pyramidal candle and a diamond candlestick holder,0,a pyramidal candle and a diamond candlestick holder_000740.png,compbench_official_blipvqa,0.981100,1,0,,shape,74,0,740,ok
+shape+75,a tall skyscraper and a short cottage,0,a tall skyscraper and a short cottage_000750.png,compbench_official_blipvqa,0.502300,1,0,,shape,75,0,750,ok
+shape+76,a tall oak tree and a short sapling,0,a tall oak tree and a short sapling_000760.png,compbench_official_blipvqa,0.386800,1,0,,shape,76,0,760,ok
+shape+77,a pentagonal pencil sharpener and a cylindrical eraser,0,a pentagonal pencil sharpener and a cylindrical eraser_000770.png,compbench_official_blipvqa,0.252500,1,0,,shape,77,0,770,ok
+shape+78,a round pizza and a rectangular piece of lasagna,0,a round pizza and a rectangular piece of lasagna_000780.png,compbench_official_blipvqa,0.002900,1,0,,shape,78,0,780,ok
+shape+79,a pyramidal candle holder and a conical candle,0,a pyramidal candle holder and a conical candle_000790.png,compbench_official_blipvqa,0.979300,1,0,,shape,79,0,790,ok
+shape+80,an oblong sweet potato and a teardrop blueberry,0,an oblong sweet potato and a teardrop blueberry_000800.png,compbench_official_blipvqa,0.734600,1,0,,shape,80,0,800,ok
+shape+81,a big gorilla and a small mouse,0,a big gorilla and a small mouse_000810.png,compbench_official_blipvqa,0.112500,1,0,,shape,81,0,810,ok
+shape+82,a round cookie and a square tin,0,a round cookie and a square tin_000820.png,compbench_official_blipvqa,0.029700,1,0,,shape,82,0,820,ok
+shape+83,a pentagonal caution sign and a pyramidal vase,0,a pentagonal caution sign and a pyramidal vase_000830.png,compbench_official_blipvqa,0.468900,1,0,,shape,83,0,830,ok
+shape+84,a spherical soccer ball and a diamond soccer goal,0,a spherical soccer ball and a diamond soccer goal_000840.png,compbench_official_blipvqa,0.132500,1,0,,shape,84,0,840,ok
+shape+85,a rectangular computer and a teardrop pendant,0,a rectangular computer and a teardrop pendant_000850.png,compbench_official_blipvqa,0.840500,1,0,,shape,85,0,850,ok
+shape+86,an oval picture frame and a rectangular painting,0,an oval picture frame and a rectangular painting_000860.png,compbench_official_blipvqa,0.060200,1,0,,shape,86,0,860,ok
+shape+87,a pentagonal pencil and a teardrop pencil sharpener,0,a pentagonal pencil and a teardrop pencil sharpener_000870.png,compbench_official_blipvqa,0.610600,1,0,,shape,87,0,870,ok
+shape+88,a teardrop pendant and a pentagonal charm bracelet,0,a teardrop pendant and a pentagonal charm bracelet_000880.png,compbench_official_blipvqa,0.076400,1,0,,shape,88,0,880,ok
+shape+89,a cubic box and a cylindrical bottle of lotion,0,a cubic box and a cylindrical bottle of lotion_000890.png,compbench_official_blipvqa,0.818400,1,0,,shape,89,0,890,ok
+shape+90,a big tiger and a small kitten,0,a big tiger and a small kitten_000900.png,compbench_official_blipvqa,0.954500,1,0,,shape,90,0,900,ok
+shape+91,a pentagonal road sign and a pyramidal bookshelf,0,a pentagonal road sign and a pyramidal bookshelf_000910.png,compbench_official_blipvqa,0.095100,1,0,,shape,91,0,910,ok
+shape+92,a small rug and a triangular end table,0,a small rug and a triangular end table_000920.png,compbench_official_blipvqa,0.798400,1,0,,shape,92,0,920,ok
+shape+93,a teardrop pendant and a spherical bead necklace,0,a teardrop pendant and a spherical bead necklace_000930.png,compbench_official_blipvqa,0.432600,1,0,,shape,93,0,930,ok
+shape+94,a round bagel and a square piece of toast,0,a round bagel and a square piece of toast_000940.png,compbench_official_blipvqa,0.042200,1,0,,shape,94,0,940,ok
+shape+95,a big elephant and a small cricket,0,a big elephant and a small cricket_000950.png,compbench_official_blipvqa,0.874500,1,0,,shape,95,0,950,ok
+shape+96,a cubic ice cube and a cylindrical water bottle,0,a cubic ice cube and a cylindrical water bottle_000960.png,compbench_official_blipvqa,0.382700,1,0,,shape,96,0,960,ok
+shape+97,a pentagonal clock and a conical clock face,0,a pentagonal clock and a conical clock face_000970.png,compbench_official_blipvqa,0.693600,1,0,,shape,97,0,970,ok
+shape+98,an oblong watermelon and a teardrop pear.,0,an oblong watermelon and a teardrop pear._000980.png,compbench_official_blipvqa,0.396200,1,0,,shape,98,0,980,ok
+shape+99,a pyramidal paperweight and a conical pen holder,0,a pyramidal paperweight and a conical pen holder_000990.png,compbench_official_blipvqa,0.935000,1,0,,shape,99,0,990,ok
+shape+100,a big whale and a small dolphin,0,a big whale and a small dolphin_001000.png,compbench_official_blipvqa,0.529000,1,0,,shape,100,0,1000,ok
+shape+101,a rectangular television and a teardrop remote control,0,a rectangular television and a teardrop remote control_001010.png,compbench_official_blipvqa,0.102800,1,0,,shape,101,0,1010,ok
+shape+102,an oblong carrot and a teardrop peach,0,an oblong carrot and a teardrop peach_001020.png,compbench_official_blipvqa,0.007100,1,0,,shape,102,0,1020,ok
+shape+103,a round bagel and a rectangular bacon strip,0,a round bagel and a rectangular bacon strip_001030.png,compbench_official_blipvqa,0.097200,1,0,,shape,103,0,1030,ok
+shape+104,a pyramidal tomb and a spherical urn,0,a pyramidal tomb and a spherical urn_001040.png,compbench_official_blipvqa,0.691300,1,0,,shape,104,0,1040,ok
+shape+105,a round bagel and a rectangular piece of toast,0,a round bagel and a rectangular piece of toast_001050.png,compbench_official_blipvqa,0.023700,1,0,,shape,105,0,1050,ok
+shape+106,a pentagonal badge and a pyramidal crystal,0,a pentagonal badge and a pyramidal crystal_001060.png,compbench_official_blipvqa,0.633600,1,0,,shape,106,0,1060,ok
+shape+107,a spherical snowball and a conical snowman hat,0,a spherical snowball and a conical snowman hat_001070.png,compbench_official_blipvqa,0.785700,1,0,,shape,107,0,1070,ok
+shape+108,an oval picture frame and a square painting,0,an oval picture frame and a square painting_001080.png,compbench_official_blipvqa,0.019100,1,0,,shape,108,0,1080,ok
+shape+109,a long bridge and a short fence,0,a long bridge and a short fence_001090.png,compbench_official_blipvqa,0.655000,1,0,,shape,109,0,1090,ok
+shape+110,a triangular slice of pizza and a pentagonal pizza box,0,a triangular slice of pizza and a pentagonal pizza box_001100.png,compbench_official_blipvqa,0.775600,1,0,,shape,110,0,1100,ok
+shape+111,a diamond tiara and a round brooch,0,a diamond tiara and a round brooch_001110.png,compbench_official_blipvqa,0.140300,1,0,,shape,111,0,1110,ok
+shape+112,a circular pendant light and a triangular corner shelf.,0,a circular pendant light and a triangular corner shelf._001120.png,compbench_official_blipvqa,0.100600,1,0,,shape,112,0,1120,ok
+shape+113,a spherical snowball and a conical party hat,0,a spherical snowball and a conical party hat_001130.png,compbench_official_blipvqa,0.589600,1,0,,shape,113,0,1130,ok
+shape+114,a big bear and a small rabbit,0,a big bear and a small rabbit_001140.png,compbench_official_blipvqa,0.968300,1,0,,shape,114,0,1140,ok
+shape+115,a pentagonal star and a crescent moon,0,a pentagonal star and a crescent moon_001150.png,compbench_official_blipvqa,0.386500,1,0,,shape,115,0,1150,ok
+shape+116,a cubic block and a cylindrical toothpaste tube,0,a cubic block and a cylindrical toothpaste tube_001160.png,compbench_official_blipvqa,0.530700,1,0,,shape,116,0,1160,ok
+shape+117,a pyramidal trophy and a spherical trophy stand,0,a pyramidal trophy and a spherical trophy stand_001170.png,compbench_official_blipvqa,0.886600,1,0,,shape,117,0,1170,ok
+shape+118,a round bagel and a rectangular breakfast sandwich,0,a round bagel and a rectangular breakfast sandwich_001180.png,compbench_official_blipvqa,0.127200,1,0,,shape,118,0,1180,ok
+shape+119,a pentagonal traffic sign and a pyramidal paper clip holder,0,a pentagonal traffic sign and a pyramidal paper clip holder_001190.png,compbench_official_blipvqa,0.455900,1,0,,shape,119,0,1190,ok
+shape+120,a big elephant and a small dog,0,a big elephant and a small dog_001200.png,compbench_official_blipvqa,0.936600,1,0,,shape,120,0,1200,ok
+shape+121,a cubic box and a conical party hat,0,a cubic box and a conical party hat_001210.png,compbench_official_blipvqa,0.695200,1,0,,shape,121,0,1210,ok
+shape+122,a spherical tennis ball and a conical tennis shoe,0,a spherical tennis ball and a conical tennis shoe_001220.png,compbench_official_blipvqa,0.714900,1,0,,shape,122,0,1220,ok
+shape+123,a pentagonal parking sign and a pyramidal trophy,0,a pentagonal parking sign and a pyramidal trophy_001230.png,compbench_official_blipvqa,0.916200,1,0,,shape,123,0,1230,ok
+shape+124,a pyramidal bookend and a conical bookstand,0,a pyramidal bookend and a conical bookstand_001240.png,compbench_official_blipvqa,0.706200,1,0,,shape,124,0,1240,ok
+shape+125,a spherical snow globe and an oblong frame,0,a spherical snow globe and an oblong frame_001250.png,compbench_official_blipvqa,0.192600,1,0,,shape,125,0,1250,ok
+shape+126,a cubic block and a cylindrical container of markers,0,a cubic block and a cylindrical container of markers_001260.png,compbench_official_blipvqa,0.018800,1,0,,shape,126,0,1260,ok
+shape+127,a circular dining table and a triangular table runner,0,a circular dining table and a triangular table runner_001270.png,compbench_official_blipvqa,0.980000,1,0,,shape,127,0,1270,ok
+shape+128,a circular mirror and a triangular shelf unit,0,a circular mirror and a triangular shelf unit_001280.png,compbench_official_blipvqa,0.946200,1,0,,shape,128,0,1280,ok
+shape+129,a cubic block and a cylindrical tube of toothpaste,0,a cubic block and a cylindrical tube of toothpaste_001290.png,compbench_official_blipvqa,0.004000,1,0,,shape,129,0,1290,ok
+shape+130,an oblong potato and a teardrop grapefruit,0,an oblong potato and a teardrop grapefruit_001300.png,compbench_official_blipvqa,0.044700,1,0,,shape,130,0,1300,ok
+shape+131,a triangular slice of pizza and a pyramidal pizza box,0,a triangular slice of pizza and a pyramidal pizza box_001310.png,compbench_official_blipvqa,0.792800,1,0,,shape,131,0,1310,ok
+shape+132,a cubic block and a pyramidal puzzle box,0,a cubic block and a pyramidal puzzle box_001320.png,compbench_official_blipvqa,0.731200,1,0,,shape,132,0,1320,ok
+shape+133,a conical lampshade and a cubic lamp base,0,a conical lampshade and a cubic lamp base_001330.png,compbench_official_blipvqa,0.426000,1,0,,shape,133,0,1330,ok
+shape+134,a round pizza and a square pizza box,0,a round pizza and a square pizza box_001340.png,compbench_official_blipvqa,0.793700,1,0,,shape,134,0,1340,ok
+shape+135,a pentagonal yield sign and a pyramidal salt shaker,0,a pentagonal yield sign and a pyramidal salt shaker_001350.png,compbench_official_blipvqa,0.324200,1,0,,shape,135,0,1350,ok
+shape+136,an oblong squash and a teardrop nectarine.,0,an oblong squash and a teardrop nectarine._001360.png,compbench_official_blipvqa,0.169300,1,0,,shape,136,0,1360,ok
+shape+137,a cubic dice and a triangular game piece,0,a cubic dice and a triangular game piece_001370.png,compbench_official_blipvqa,0.566800,1,0,,shape,137,0,1370,ok
+shape+138,a circular pendant light and a triangular wall hook,0,a circular pendant light and a triangular wall hook_001380.png,compbench_official_blipvqa,0.175900,1,0,,shape,138,0,1380,ok
+shape+139,a small bathtub and a rectangular bath mat,0,a small bathtub and a rectangular bath mat_001390.png,compbench_official_blipvqa,0.102500,1,0,,shape,139,0,1390,ok
+shape+140,a cubic book and a cylindrical can of soup,0,a cubic book and a cylindrical can of soup_001400.png,compbench_official_blipvqa,0.001000,1,0,,shape,140,0,1400,ok
+shape+141,a pentagonal pencil sharpener and a spherical pencil eraser,0,a pentagonal pencil sharpener and a spherical pencil eraser_001410.png,compbench_official_blipvqa,0.883900,1,0,,shape,141,0,1410,ok
+shape+142,a circular mirror and a triangular corner shelf,0,a circular mirror and a triangular corner shelf_001420.png,compbench_official_blipvqa,0.030200,1,0,,shape,142,0,1420,ok
+shape+143,a triangular slice of pie and a rectangular pie dish,0,a triangular slice of pie and a rectangular pie dish_001430.png,compbench_official_blipvqa,0.766000,1,0,,shape,143,0,1430,ok
+shape+144,a cubic block and a cylindrical bottle of water,0,a cubic block and a cylindrical bottle of water_001440.png,compbench_official_blipvqa,0.423700,1,0,,shape,144,0,1440,ok
+shape+145,a tall basketball player and a short jockey.,0,a tall basketball player and a short jockey._001450.png,compbench_official_blipvqa,0.017600,1,0,,shape,145,0,1450,ok
+shape+146,a teardrop pendant and a pyramidal gemstone,0,a teardrop pendant and a pyramidal gemstone_001460.png,compbench_official_blipvqa,0.905600,1,0,,shape,146,0,1460,ok
+shape+147,a big hippopotamus and a small cat,0,a big hippopotamus and a small cat_001470.png,compbench_official_blipvqa,0.013500,1,0,,shape,147,0,1470,ok
+shape+148,a circular clock and a triangular wall shelf.,0,a circular clock and a triangular wall shelf._001480.png,compbench_official_blipvqa,0.977900,1,0,,shape,148,0,1480,ok
+shape+149,a tall lighthouse and a short bench,0,a tall lighthouse and a short bench_001490.png,compbench_official_blipvqa,0.839600,1,0,,shape,149,0,1490,ok
+shape+150,a round bagel and a square toaster.,0,a round bagel and a square toaster._001500.png,compbench_official_blipvqa,0.127000,1,0,,shape,150,0,1500,ok
+shape+151,a circular clock and a triangular wall art,0,a circular clock and a triangular wall art_001510.png,compbench_official_blipvqa,0.711900,1,0,,shape,151,0,1510,ok
+shape+152,a pyramidal puzzle box and a cubic puzzle piece,0,a pyramidal puzzle box and a cubic puzzle piece_001520.png,compbench_official_blipvqa,0.545700,1,0,,shape,152,0,1520,ok
+shape+153,an oblong squash and a teardrop apricot,0,an oblong squash and a teardrop apricot_001530.png,compbench_official_blipvqa,0.240100,1,0,,shape,153,0,1530,ok
+shape+154,a spherical globe and a conical pencil.,0,a spherical globe and a conical pencil._001540.png,compbench_official_blipvqa,0.517400,1,0,,shape,154,0,1540,ok
+shape+155,an oblong cucumber and a teardrop kiwi,0,an oblong cucumber and a teardrop kiwi_001550.png,compbench_official_blipvqa,0.132300,1,0,,shape,155,0,1550,ok
+shape+156,a spherical beach ball and a conical party hat,0,a spherical beach ball and a conical party hat_001560.png,compbench_official_blipvqa,0.884800,1,0,,shape,156,0,1560,ok
+shape+157,an oval rug and a square coffee table,0,an oval rug and a square coffee table_001570.png,compbench_official_blipvqa,0.059900,1,0,,shape,157,0,1570,ok
+shape+158,a diamond engagement ring and a teardrop necklace,0,a diamond engagement ring and a teardrop necklace_001580.png,compbench_official_blipvqa,0.162900,1,0,,shape,158,0,1580,ok
+shape+159,an oblong carrot and a teardrop grape,0,an oblong carrot and a teardrop grape_001590.png,compbench_official_blipvqa,0.002300,1,0,,shape,159,0,1590,ok
+shape+160,a spherical soccer ball and a conical traffic cone,0,a spherical soccer ball and a conical traffic cone_001600.png,compbench_official_blipvqa,0.126700,1,0,,shape,160,0,1600,ok
+shape+161,a tall skyscraper and a short bush.,0,a tall skyscraper and a short bush._001610.png,compbench_official_blipvqa,0.675200,1,0,,shape,161,0,1610,ok
+shape+162,a small stop sign and a pyramidal paperweight,0,a small stop sign and a pyramidal paperweight_001620.png,compbench_official_blipvqa,0.080000,1,0,,shape,162,0,1620,ok
+shape+163,a cubic block and a cylindrical jar of honey,0,a cubic block and a cylindrical jar of honey_001630.png,compbench_official_blipvqa,0.623600,1,0,,shape,163,0,1630,ok
+shape+164,a round pizza and a rectangular slice of bread,0,a round pizza and a rectangular slice of bread_001640.png,compbench_official_blipvqa,0.104600,1,0,,shape,164,0,1640,ok
+shape+165,a round bagel and a rectangular toaster,0,a round bagel and a rectangular toaster_001650.png,compbench_official_blipvqa,0.082100,1,0,,shape,165,0,1650,ok
+shape+166,a rectangular table and a pentagonal tablecloth,0,a rectangular table and a pentagonal tablecloth_001660.png,compbench_official_blipvqa,0.753800,1,0,,shape,166,0,1660,ok
+shape+167,a tall palm tree and a short shrub,0,a tall palm tree and a short shrub_001670.png,compbench_official_blipvqa,0.268400,1,0,,shape,167,0,1670,ok
+shape+168,a big pig and a small mouse,0,a big pig and a small mouse_001680.png,compbench_official_blipvqa,0.584400,1,0,,shape,168,0,1680,ok
+shape+169,an oblong squash and a teardrop peach,0,an oblong squash and a teardrop peach_001690.png,compbench_official_blipvqa,0.256500,1,0,,shape,169,0,1690,ok
+shape+170,a pentagonal stop sign and a pyramidal monument,0,a pentagonal stop sign and a pyramidal monument_001700.png,compbench_official_blipvqa,0.424100,1,0,,shape,170,0,1700,ok
+shape+171,a small eraser and a cylindrical pen,0,a small eraser and a cylindrical pen_001710.png,compbench_official_blipvqa,0.049200,1,0,,shape,171,0,1710,ok
+shape+172,a spherical globe and a conical pencil sharpener,0,a spherical globe and a conical pencil sharpener_001720.png,compbench_official_blipvqa,0.724400,1,0,,shape,172,0,1720,ok
+shape+173,a pyramidal trophy and a pentagonal trophy base,0,a pyramidal trophy and a pentagonal trophy base_001730.png,compbench_official_blipvqa,0.834300,1,0,,shape,173,0,1730,ok
+shape+174,an oval bathtub and a rectangular soap dish,0,an oval bathtub and a rectangular soap dish_001740.png,compbench_official_blipvqa,0.604400,1,0,,shape,174,0,1740,ok
+shape+175,a rectangular wallet and a spherical coin purse,0,a rectangular wallet and a spherical coin purse_001750.png,compbench_official_blipvqa,0.551200,1,0,,shape,175,0,1750,ok
+shape+176,a pentagonal badge and a pyramidal monument,0,a pentagonal badge and a pyramidal monument_001760.png,compbench_official_blipvqa,0.826100,1,0,,shape,176,0,1760,ok
+shape+177,a tall tree and a short bush,0,a tall tree and a short bush_001770.png,compbench_official_blipvqa,0.376800,1,0,,shape,177,0,1770,ok
+shape+178,a cubic dice and a cylindrical pencil holder,0,a cubic dice and a cylindrical pencil holder_001780.png,compbench_official_blipvqa,0.533300,1,0,,shape,178,0,1780,ok
+shape+179,a pentagonal street sign and a pyramidal pyramid,0,a pentagonal street sign and a pyramidal pyramid_001790.png,compbench_official_blipvqa,0.896400,1,0,,shape,179,0,1790,ok
+shape+180,a pyramidal mountain and a conical volcano,0,a pyramidal mountain and a conical volcano_001800.png,compbench_official_blipvqa,0.687500,1,0,,shape,180,0,1800,ok
+shape+181,a diamond ring and a round necklace,0,a diamond ring and a round necklace_001810.png,compbench_official_blipvqa,0.396100,1,0,,shape,181,0,1810,ok
+shape+182,a pentagonal badge and a pyramidal award statue,0,a pentagonal badge and a pyramidal award statue_001820.png,compbench_official_blipvqa,0.618600,1,0,,shape,182,0,1820,ok
+shape+183,a spherical golf ball and a conical tee.,0,a spherical golf ball and a conical tee._001830.png,compbench_official_blipvqa,0.783200,1,0,,shape,183,0,1830,ok
+shape+184,a tall oak tree and a short blade of grass,0,a tall oak tree and a short blade of grass_001840.png,compbench_official_blipvqa,0.663100,1,0,,shape,184,0,1840,ok
+shape+185,a rectangular table and a round lamp,0,a rectangular table and a round lamp_001850.png,compbench_official_blipvqa,0.020600,1,0,,shape,185,0,1850,ok
+shape+186,an oval platter and a rectangular tablecloth.,0,an oval platter and a rectangular tablecloth._001860.png,compbench_official_blipvqa,0.819500,1,0,,shape,186,0,1860,ok
+shape+187,a teardrop pendant and a diamond brooch pin,0,a teardrop pendant and a diamond brooch pin_001870.png,compbench_official_blipvqa,0.544200,1,0,,shape,187,0,1870,ok
+shape+188,a round doughnut and a square napkin.,0,a round doughnut and a square napkin._001880.png,compbench_official_blipvqa,0.054500,1,0,,shape,188,0,1880,ok
+shape+189,a diamond cufflink and a spherical shirt button,0,a diamond cufflink and a spherical shirt button_001890.png,compbench_official_blipvqa,0.706900,1,0,,shape,189,0,1890,ok
+shape+190,a cubic dice and a cylindrical salt shaker,0,a cubic dice and a cylindrical salt shaker_001900.png,compbench_official_blipvqa,0.525300,1,0,,shape,190,0,1900,ok
+shape+191,an oblong eggplant and a teardrop fig.,0,an oblong eggplant and a teardrop fig._001910.png,compbench_official_blipvqa,0.901300,1,0,,shape,191,0,1910,ok
+shape+192,a pentagonal stop sign and a pyramidal sculpture,0,a pentagonal stop sign and a pyramidal sculpture_001920.png,compbench_official_blipvqa,0.439600,1,0,,shape,192,0,1920,ok
+shape+193,a circular clock and a triangular shelf,0,a circular clock and a triangular shelf_001930.png,compbench_official_blipvqa,0.555900,1,0,,shape,193,0,1930,ok
+shape+194,a round watermelon and a square cutting board.,0,a round watermelon and a square cutting board._001940.png,compbench_official_blipvqa,0.356700,1,0,,shape,194,0,1940,ok
+shape+195,a circular clock and a triangular bookshelf,0,a circular clock and a triangular bookshelf_001950.png,compbench_official_blipvqa,0.218300,1,0,,shape,195,0,1950,ok
+shape+196,a big whale and a small shrimp,0,a big whale and a small shrimp_001960.png,compbench_official_blipvqa,0.372300,1,0,,shape,196,0,1960,ok
+shape+197,an oval picture and a rectangular frame.,0,an oval picture and a rectangular frame._001970.png,compbench_official_blipvqa,0.034400,1,0,,shape,197,0,1970,ok
+shape+198,an oval dining table and a square dining chair,0,an oval dining table and a square dining chair_001980.png,compbench_official_blipvqa,0.086400,1,0,,shape,198,0,1980,ok
+shape+199,a cubic die and a cylindrical flashlight,0,a cubic die and a cylindrical flashlight_001990.png,compbench_official_blipvqa,0.024100,1,0,,shape,199,0,1990,ok
+shape+200,a triangular slice of bread and a rectangular bread basket,0,a triangular slice of bread and a rectangular bread basket_002000.png,compbench_official_blipvqa,0.043900,1,0,,shape,200,0,2000,ok
+shape+201,a pentagonal toolbox and a spherical toolset,0,a pentagonal toolbox and a spherical toolset_002010.png,compbench_official_blipvqa,0.490700,1,0,,shape,201,0,2010,ok
+shape+202,a small key and a big door,0,a small key and a big door_002020.png,compbench_official_blipvqa,0.730300,1,0,,shape,202,0,2020,ok
+shape+203,an oval coffee table and a square end table,0,an oval coffee table and a square end table_002030.png,compbench_official_blipvqa,0.056000,1,0,,shape,203,0,2030,ok
+shape+204,a round balloon and a rectangular party invitation,0,a round balloon and a rectangular party invitation_002040.png,compbench_official_blipvqa,0.522200,1,0,,shape,204,0,2040,ok
+shape+205,a spherical crystal and a pyramidal crystal holder,0,a spherical crystal and a pyramidal crystal holder_002050.png,compbench_official_blipvqa,0.575700,1,0,,shape,205,0,2050,ok
+shape+206,a cubic box of chocolates and a teardrop chocolate truffle,0,a cubic box of chocolates and a teardrop chocolate truffle_002060.png,compbench_official_blipvqa,0.673700,1,0,,shape,206,0,2060,ok
+shape+207,a pentagonal desk and a diamond desk organizer,0,a pentagonal desk and a diamond desk organizer_002070.png,compbench_official_blipvqa,0.851200,1,0,,shape,207,0,2070,ok
+shape+208,a big mountain and a small tree,0,a big mountain and a small tree_002080.png,compbench_official_blipvqa,0.814300,1,0,,shape,208,0,2080,ok
+shape+209,an oval table and a square placemat,0,an oval table and a square placemat_002090.png,compbench_official_blipvqa,0.132400,1,0,,shape,209,0,2090,ok
+shape+210,a pentagonal chocolate box and a spherical chocolate truffle,0,a pentagonal chocolate box and a spherical chocolate truffle_002100.png,compbench_official_blipvqa,0.946900,1,0,,shape,210,0,2100,ok
+shape+211,a circular ceiling light and a triangular bookshelf.,0,a circular ceiling light and a triangular bookshelf._002110.png,compbench_official_blipvqa,0.290700,1,0,,shape,211,0,2110,ok
+shape+212,a spherical bowling ball and a conical bowling pin,0,a spherical bowling ball and a conical bowling pin_002120.png,compbench_official_blipvqa,0.765200,1,0,,shape,212,0,2120,ok
+shape+213,a big gorilla and a small monkey,0,a big gorilla and a small monkey_002130.png,compbench_official_blipvqa,0.324100,1,0,,shape,213,0,2130,ok
+shape+214,a short book and a long bookmark,0,a short book and a long bookmark_002140.png,compbench_official_blipvqa,0.353600,1,0,,shape,214,0,2140,ok
+shape+215,a small keychain and a big set of keys,0,a small keychain and a big set of keys_002150.png,compbench_official_blipvqa,0.492000,1,0,,shape,215,0,2150,ok
+shape+216,a pyramidal gift box and a cubic gift wrap,0,a pyramidal gift box and a cubic gift wrap_002160.png,compbench_official_blipvqa,0.601300,1,0,,shape,216,0,2160,ok
+shape+217,a cubic Rubik's cube and a pentagonal game box,0,a cubic Rubik's cube and a pentagonal game box_002170.png,compbench_official_blipvqa,0.776400,1,0,,shape,217,0,2170,ok
+shape+218,a big sunflower and a small daisy,0,a big sunflower and a small daisy_002180.png,compbench_official_blipvqa,0.468800,1,0,,shape,218,0,2180,ok
+shape+219,a cubic Rubik's cube and a cylindrical pencil holder,0,a cubic Rubik's cube and a cylindrical pencil holder_002190.png,compbench_official_blipvqa,0.147900,1,0,,shape,219,0,2190,ok
+shape+220,a pentagonal handbag and a spherical keychain charm,0,a pentagonal handbag and a spherical keychain charm_002200.png,compbench_official_blipvqa,0.546500,1,0,,shape,220,0,2200,ok
+shape+221,a big truck and a small car,0,a big truck and a small car_002210.png,compbench_official_blipvqa,0.306400,1,0,,shape,221,0,2210,ok
+shape+222,a long necklace and a short earring,0,a long necklace and a short earring_002220.png,compbench_official_blipvqa,0.203700,1,0,,shape,222,0,2220,ok
+shape+223,an oval coffee table and a square ottoman,0,an oval coffee table and a square ottoman_002230.png,compbench_official_blipvqa,0.090200,1,0,,shape,223,0,2230,ok
+shape+224,a rectangular phone and a teardrop phone charm,0,a rectangular phone and a teardrop phone charm_002240.png,compbench_official_blipvqa,0.816800,1,0,,shape,224,0,2240,ok
+shape+225,a small cup and a big saucer,0,a small cup and a big saucer_002250.png,compbench_official_blipvqa,0.578300,1,0,,shape,225,0,2250,ok
+shape+226,a small pebble and a big rock,0,a small pebble and a big rock_002260.png,compbench_official_blipvqa,0.842100,1,0,,shape,226,0,2260,ok
+shape+227,a cubic sugar cube and a cylindrical salt shaker,0,a cubic sugar cube and a cylindrical salt shaker_002270.png,compbench_official_blipvqa,0.765300,1,0,,shape,227,0,2270,ok
+shape+228,a small button and a big zipper,0,a small button and a big zipper_002280.png,compbench_official_blipvqa,0.368800,1,0,,shape,228,0,2280,ok
+shape+229,a spherical balloon and a rectangular banner,0,a spherical balloon and a rectangular banner_002290.png,compbench_official_blipvqa,0.603600,1,0,,shape,229,0,2290,ok
+shape+230,a big balloon and a small marble,0,a big balloon and a small marble_002300.png,compbench_official_blipvqa,0.920000,1,0,,shape,230,0,2300,ok
+shape+231,a diamond wine glass and a cylindrical wine bottle,0,a diamond wine glass and a cylindrical wine bottle_002310.png,compbench_official_blipvqa,0.820900,1,0,,shape,231,0,2310,ok
+shape+232,a round peach and a rectangular bar of soap,0,a round peach and a rectangular bar of soap_002320.png,compbench_official_blipvqa,0.546200,1,0,,shape,232,0,2320,ok
+shape+233,a triangular slice of bread and a cylindrical loaf,0,a triangular slice of bread and a cylindrical loaf_002330.png,compbench_official_blipvqa,0.362300,1,0,,shape,233,0,2330,ok
+shape+234,an oblong potato and a teardrop plum,0,an oblong potato and a teardrop plum_002340.png,compbench_official_blipvqa,0.313200,1,0,,shape,234,0,2340,ok
+shape+235,an oval pizza and a round pizza cutter.,0,an oval pizza and a round pizza cutter._002350.png,compbench_official_blipvqa,0.433900,1,0,,shape,235,0,2350,ok
+shape+236,a triangular sign and a small sculpture,0,a triangular sign and a small sculpture_002360.png,compbench_official_blipvqa,0.827400,1,0,,shape,236,0,2360,ok
+shape+237,an big bathtub and a square showerhead,0,an big bathtub and a square showerhead_002370.png,compbench_official_blipvqa,0.520600,1,0,,shape,237,0,2370,ok
+shape+238,a small lion and a big horse,0,a small lion and a big horse_002380.png,compbench_official_blipvqa,0.756400,1,0,,shape,238,0,2380,ok
+shape+239,a round cinnamon roll and a round toaster pastry,0,a round cinnamon roll and a round toaster pastry_002390.png,compbench_official_blipvqa,0.508900,1,0,,shape,239,0,2390,ok
+shape+240,The cylindrical water bottle with its square lid and conical base kept hikers hydrated on the triangular trail.,0,The cylindrical water bottle with its square lid and conical base kept hikers hydrated on the triangular trail._002400.png,compbench_official_blipvqa,0.002900,1,0,,shape,240,0,2400,ok
+shape+241,The rectangular mirror with its oval reflection and oblong frame hung in the round bathroom.,0,The rectangular mirror with its oval reflection and oblong frame hung in the round bathroom._002410.png,compbench_official_blipvqa,0.031900,1,0,,shape,241,0,2410,ok
+shape+242,The teardrop earrings with their triangular studs and spherical pearls sparkled in the diamond jewelry box.,0,The teardrop earrings with their triangular studs and spherical pearls sparkled in the diamond jewelry box._002420.png,compbench_official_blipvqa,0.068200,1,0,,shape,242,0,2420,ok
+shape+243,The cubic bookshelf with its cylindrical legs and rectangular shelves held books in the oblong study.,0,The cubic bookshelf with its cylindrical legs and rectangular shelves held books in the oblong study._002430.png,compbench_official_blipvqa,0.013100,1,0,,shape,243,0,2430,ok
+shape+244,The triangular sail with its pentagonal stitching and oblong boom propelled the circular boat on the ocean.,0,The triangular sail with its pentagonal stitching and oblong boom propelled the circular boat on the ocean._002440.png,compbench_official_blipvqa,0.087900,1,0,,shape,244,0,2440,ok
+shape+245,The crescent sofa with its square cushions and oval back provided seating in the triangular living room.,0,The crescent sofa with its square cushions and oval back provided seating in the triangular living room._002450.png,compbench_official_blipvqa,0.029800,1,0,,shape,245,0,2450,ok
+shape+246,The oblong vase with its diamond pattern and circular mouth displayed flowers in the conical corner of the room.,0,The oblong vase with its diamond pattern and circular mouth displayed flowers in the conical corner of the room._002460.png,compbench_official_blipvqa,0.001800,1,0,,shape,246,0,2460,ok
+shape+247,The pyramidal pyramid with its triangular base and rectangular entrance attracted tourists to the square desert.,0,The pyramidal pyramid with its triangular base and rectangular entrance attracted tourists to the square desert._002470.png,compbench_official_blipvqa,0.041700,1,0,,shape,247,0,2470,ok
+shape+248,The circular steering wheel with its triangular spokes and oblong rim controlled the conical car on the pentagonal road.,0,The circular steering wheel with its triangular spokes and oblong rim controlled the conical car on the pentagonal road._002480.png,compbench_official_blipvqa,0.023400,1,0,,shape,248,0,2480,ok
+shape+249,The conical ice cream cone with its spherical scoop and triangular cone held a tasty treat in the diamond park.,0,The conical ice cream cone with its spherical scoop and triangular cone held a tasty treat in the diamond park._002490.png,compbench_official_blipvqa,0.139600,1,0,,shape,249,0,2490,ok
+shape+250,A long rectangular table and a small circular vase were placed in the center of the room.,0,A long rectangular table and a small circular vase were placed in the center of the room._002500.png,compbench_official_blipvqa,0.007900,1,0,,shape,250,0,2500,ok
+shape+251,The cylindrical tower and the spherical dome stood tall against the skyline.,0,The cylindrical tower and the spherical dome stood tall against the skyline._002510.png,compbench_official_blipvqa,0.684700,1,0,,shape,251,0,2510,ok
+shape+252,The triangular wedge and the oblong brick were the only pieces left in the construction set.,0,The triangular wedge and the oblong brick were the only pieces left in the construction set._002520.png,compbench_official_blipvqa,0.203600,1,0,,shape,252,0,2520,ok
+shape+253,The round knob and the square plate were attached to the door.,0,The round knob and the square plate were attached to the door._002530.png,compbench_official_blipvqa,0.675600,1,0,,shape,253,0,2530,ok
+shape+254,The teardrop pendant and the diamond-studded bracelet were her favorite pieces of jewelry.,0,The teardrop pendant and the diamond-studded bracelet were her favorite pieces of jewelry._002540.png,compbench_official_blipvqa,0.029200,1,0,,shape,254,0,2540,ok
+shape+255,The conical hat and the crescent moon were the only things visible in the night sky.,0,The conical hat and the crescent moon were the only things visible in the night sky._002550.png,compbench_official_blipvqa,0.246500,1,0,,shape,255,0,2550,ok
+shape+256,A row of cubic boxes and a pile of pyramidal stones were stacked neatly in the corner of the room.,0,A row of cubic boxes and a pile of pyramidal stones were stacked neatly in the corner of the room._002560.png,compbench_official_blipvqa,0.011700,1,0,,shape,256,0,2560,ok
+shape+257,The oval mirror and the rectangular frame were mounted on the wall.,0,The oval mirror and the rectangular frame were mounted on the wall._002570.png,compbench_official_blipvqa,0.266400,1,0,,shape,257,0,2570,ok
+shape+258,The spherical ball and the pentagonal pyramid were the objects of focus in the geometry lesson.,0,The spherical ball and the pentagonal pyramid were the objects of focus in the geometry lesson._002580.png,compbench_official_blipvqa,0.011100,1,0,,shape,258,0,2580,ok
+shape+259,The triangular sail and the square deck were the defining features of the sailboat.,0,The triangular sail and the square deck were the defining features of the sailboat._002590.png,compbench_official_blipvqa,0.156300,1,0,,shape,259,0,2590,ok
+shape+260,The cylindrical barrel and the conical flask were the only containers left in the laboratory.,0,The cylindrical barrel and the conical flask were the only containers left in the laboratory._002600.png,compbench_official_blipvqa,0.250500,1,0,,shape,260,0,2600,ok
+shape+261,The oblong rug and the circular ottoman were arranged in the center of the living room.,0,The oblong rug and the circular ottoman were arranged in the center of the living room._002610.png,compbench_official_blipvqa,0.275300,1,0,,shape,261,0,2610,ok
+shape+262,The diamond window and the rectangular door were the only openings in the otherwise blank wall.,0,The diamond window and the rectangular door were the only openings in the otherwise blank wall._002620.png,compbench_official_blipvqa,0.032300,1,0,,shape,262,0,2620,ok
+shape+263,The spherical planet and the crescent moon were the celestial bodies that fascinated him the most.,0,The spherical planet and the crescent moon were the celestial bodies that fascinated him the most._002630.png,compbench_official_blipvqa,0.009300,1,0,,shape,263,0,2630,ok
+shape+264,The triangular slice and the round pizza were the only options on the menu.,0,The triangular slice and the round pizza were the only options on the menu._002640.png,compbench_official_blipvqa,0.022500,1,0,,shape,264,0,2640,ok
+shape+265,The cubic dice and the cylindrical pencil were the tools of his favorite game.,0,The cubic dice and the cylindrical pencil were the tools of his favorite game._002650.png,compbench_official_blipvqa,0.000100,1,0,,shape,265,0,2650,ok
+shape+266,The teardrop leaves and the oval petals made up the floral arrangement on the table.,0,The teardrop leaves and the oval petals made up the floral arrangement on the table._002660.png,compbench_official_blipvqa,0.250100,1,0,,shape,266,0,2660,ok
+shape+267,The square room and the oblong hallway were the only spaces in the house.,0,The square room and the oblong hallway were the only spaces in the house._002670.png,compbench_official_blipvqa,0.136400,1,0,,shape,267,0,2670,ok
+shape+268,The pyramidal roof and the triangular archway were the defining features of the ancient temple.,0,The pyramidal roof and the triangular archway were the defining features of the ancient temple._002680.png,compbench_official_blipvqa,0.239900,1,0,,shape,268,0,2680,ok
+shape+269,The circular wreath and the rectangular picture frame hung on the front door.,0,The circular wreath and the rectangular picture frame hung on the front door._002690.png,compbench_official_blipvqa,0.320600,1,0,,shape,269,0,2690,ok
+shape+270,The conical hat and the spherical ball were the objects of attention in the magic show.,0,The conical hat and the spherical ball were the objects of attention in the magic show._002700.png,compbench_official_blipvqa,0.259500,1,0,,shape,270,0,2700,ok
+shape+271,The crescent curve and the diamond pattern were the highlights of the carpet design.,0,The crescent curve and the diamond pattern were the highlights of the carpet design._002710.png,compbench_official_blipvqa,0.130200,1,0,,shape,271,0,2710,ok
+shape+272,The pentagonal prism and the triangular pyramid were the shapes that he struggled with the most in math class.,0,The pentagonal prism and the triangular pyramid were the shapes that he struggled with the most in math class._002720.png,compbench_official_blipvqa,0.002000,1,0,,shape,272,0,2720,ok
+shape+273,The cylindrical column and the square pedestal were the only pieces of furniture in the foyer.,0,The cylindrical column and the square pedestal were the only pieces of furniture in the foyer._002730.png,compbench_official_blipvqa,0.010500,1,0,,shape,273,0,2730,ok
+shape+274,The oblong table and the round chairs were arranged for the dinner party.,0,The oblong table and the round chairs were arranged for the dinner party._002740.png,compbench_official_blipvqa,0.197100,1,0,,shape,274,0,2740,ok
+shape+275,The spherical globe and the teardrop droplet were the symbols of science and nature.,0,The spherical globe and the teardrop droplet were the symbols of science and nature._002750.png,compbench_official_blipvqa,0.079200,1,0,,shape,275,0,2750,ok
+shape+276,The triangular roof and the diamond windows were the defining features of the modern architecture.,0,The triangular roof and the diamond windows were the defining features of the modern architecture._002760.png,compbench_official_blipvqa,0.494500,1,0,,shape,276,0,2760,ok
+shape+277,The cubic block and the cylindrical tube were the building blocks for his latest invention.,0,The cubic block and the cylindrical tube were the building blocks for his latest invention._002770.png,compbench_official_blipvqa,0.044400,1,0,,shape,277,0,2770,ok
+shape+278,The rectangular screen and the oval speakers were the only electronic devices in the room.,0,The rectangular screen and the oval speakers were the only electronic devices in the room._002780.png,compbench_official_blipvqa,0.169300,1,0,,shape,278,0,2780,ok
+shape+279,The conical mountain and the crescent beach were the contrasting views from the hotel room.,0,The conical mountain and the crescent beach were the contrasting views from the hotel room._002790.png,compbench_official_blipvqa,0.116300,1,0,,shape,279,0,2790,ok
+shape+280,The pentagonal star and the square checkerboard were the patterns on the quilt.,0,The pentagonal star and the square checkerboard were the patterns on the quilt._002800.png,compbench_official_blipvqa,0.443900,1,0,,shape,280,0,2800,ok
+shape+281,The pyramidal shape and the triangular lines were the inspiration for the art project.,0,The pyramidal shape and the triangular lines were the inspiration for the art project._002810.png,compbench_official_blipvqa,0.300800,1,0,,shape,281,0,2810,ok
+shape+282,The oblong painting and the circular sculpture were the centerpieces of the art exhibit.,0,The oblong painting and the circular sculpture were the centerpieces of the art exhibit._002820.png,compbench_official_blipvqa,0.373000,1,0,,shape,282,0,2820,ok
+shape+283,The diamond ring and the teardrop necklace were the precious gifts from her beloved.,0,The diamond ring and the teardrop necklace were the precious gifts from her beloved._002830.png,compbench_official_blipvqa,0.012200,1,0,,shape,283,0,2830,ok
+shape+284,The cylindrical tower and the spherical fountain were the landmarks of the city.,0,The cylindrical tower and the spherical fountain were the landmarks of the city._002840.png,compbench_official_blipvqa,0.080800,1,0,,shape,284,0,2840,ok
+shape+285,The triangular flag and the rectangular banner were waving in the wind on the parade.,0,The triangular flag and the rectangular banner were waving in the wind on the parade._002850.png,compbench_official_blipvqa,0.084800,1,0,,shape,285,0,2850,ok
+shape+286,The cubic room and the conical lampshade were the unique features of the hotel suite.,0,The cubic room and the conical lampshade were the unique features of the hotel suite._002860.png,compbench_official_blipvqa,0.029300,1,0,,shape,286,0,2860,ok
+shape+287,The oval platter and the round bowl were used for serving dinner.,0,The oval platter and the round bowl were used for serving dinner._002870.png,compbench_official_blipvqa,0.006000,1,0,,shape,287,0,2870,ok
+shape+288,The pentagonal prism and the pyramidal tetrahedron were the shapes of the crystals in the museum exhibit.,0,The pentagonal prism and the pyramidal tetrahedron were the shapes of the crystals in the museum exhibit._002880.png,compbench_official_blipvqa,0.463900,1,0,,shape,288,0,2880,ok
+shape+289,A triangular plane and a circular hot air balloon floated in the sky.,0,A triangular plane and a circular hot air balloon floated in the sky._002890.png,compbench_official_blipvqa,0.048400,1,0,,shape,289,0,2890,ok
+shape+290,A small kitten and a big dog sat side by side.,0,A small kitten and a big dog sat side by side._002900.png,compbench_official_blipvqa,0.526300,1,0,,shape,290,0,2900,ok
+shape+291,A long road and a short path led to the same destination.,0,A long road and a short path led to the same destination._002910.png,compbench_official_blipvqa,0.107500,1,0,,shape,291,0,2910,ok
+shape+292,The tall tree and the short shrub created a contrast in the garden.,0,The tall tree and the short shrub created a contrast in the garden._002920.png,compbench_official_blipvqa,0.424700,1,0,,shape,292,0,2920,ok
+shape+293,The big book and the small notepad were both useful for different purposes.,0,The big book and the small notepad were both useful for different purposes._002930.png,compbench_official_blipvqa,0.050300,1,0,,shape,293,0,2930,ok
+shape+294,The long dress and the short skirt were both fashionable choices.,0,The long dress and the short skirt were both fashionable choices._002940.png,compbench_official_blipvqa,0.060800,1,0,,shape,294,0,2940,ok
+shape+295,The tall tower and the short building dominated the skyline.,0,The tall tower and the short building dominated the skyline._002950.png,compbench_official_blipvqa,0.326500,1,0,,shape,295,0,2950,ok
+shape+296,The big elephant and the small mouse made an unlikely pair.,0,The big elephant and the small mouse made an unlikely pair._002960.png,compbench_official_blipvqa,0.287500,1,0,,shape,296,0,2960,ok
+shape+297,The long river and the short stream flowed through the picturesque valley.,0,The long river and the short stream flowed through the picturesque valley._002970.png,compbench_official_blipvqa,0.580900,1,0,,shape,297,0,2970,ok
+shape+298,The tall ladder and the short stool were both necessary for reaching high places.,0,The tall ladder and the short stool were both necessary for reaching high places._002980.png,compbench_official_blipvqa,0.132300,1,0,,shape,298,0,2980,ok
+shape+299,The big house and the small cabin provided different types of accommodations.,0,The big house and the small cabin provided different types of accommodations._002990.png,compbench_official_blipvqa,0.454300,1,0,,shape,299,0,2990,ok

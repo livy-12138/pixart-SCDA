@@ -1,0 +1,18 @@
+prompt_index,object_caption,object_distractor,positive_caption,neutral_caption,swapped_caption,binding
+3,a woman,a landscape,a woman with freckles blue eyes and short ginger hair,a woman with short hair,a woman with freckles brown eyes and short ginger hair,0
+12,a lemur,a dog,a lemur wearing a red magician hat and a blue coat,a lemur wearing a hat and a coat,a lemur wearing a blue magician hat and a red coat,1
+17,a man sitting in a chair,a landscape,a man sitting in a chair with his back on fire and his feet submerged in the sea,a man sitting in a chair,a man sitting in a chair with his chair on fire and his feet submerged in the sea,1
+25,a young man,a landscape,a young man wearing a white robe and carrying a giant sword,a young man carrying a sword,a young man wearing a giant white robe and carrying a sword,1
+32,a letter A,a landscape,a 3D letter A made of light blue ice,a 3D letter A,a 3D letter A made of dark red metal,0
+37,a little girl,a landscape,a little girl with red hair sitting at a table,a little girl sitting at a table,a little girl with blue hair sitting at a table,0
+40,a smiling woman,a landscape,a smiling woman wearing a red shirt and jeans,a smiling woman wearing clothes,a smiling woman wearing a blue shirt and jeans,0
+44,a banana-shaped couch,a landscape,a yellow banana-shaped couch with colorful cushions,a couch with cushions,a blue banana-shaped couch with yellow cushions,1
+45,a glass duck sculpture,a landscape,a transparent glass duck in front of a landscape painting,a duck sculpture in front of a painting,a painted glass landscape in front of a duck sculpture,1
+46,a blue jay,a dog,a blue jay standing on a basket of rainbow macarons,a bird standing on a basket of macarons,a yellow jay standing on a basket of blue macarons,1
+47,a bucket bag,a landscape,a blue suede bucket bag with golden paisley patterns and a ruby and pearl handle,a bucket bag with patterns and a handle,a red leather bucket bag with silver geometric patterns and a steel handle,1
+53,a yarn beach,a city,a yarn beach with beige sand and blue and white waves,a yarn beach with sand and waves,a yarn beach with black sand and red waves,1
+54,a chair,a landscape,a chair shaped like a pumpkin with deep orange cushioning,a chair in a loft,a chair shaped like a lemon with deep blue cushioning,1
+56,a glass heart,a landscape,a translucent glass human heart on a pedestal in a stormy sea,a human heart on a pedestal in the sea,a solid metal human heart on a pedestal in a calm desert,1
+58,a shipwreck,a city,a wooden shipwreck with fish swimming around it and old cannons,a shipwreck underwater,a metal shipwreck with birds flying around it and modern guns,1
+62,a cute ghost,a landscape,a glowing ghost holding a heart-shaped pumpkin,a ghost holding a pumpkin,a dark ghost holding a heart-shaped watermelon,1
+63,an anthropomorphic cat,a landscape,an anthropomorphic cat wearing a fancy gentleman hat and jacket,an anthropomorphic cat in a forest,an anthropomorphic cat wearing a cowboy hat and dress,1

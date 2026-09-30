@@ -1,0 +1,67 @@
+{
+  "method": "frozen",
+  "category": "complex",
+  "metric": "compbench_official_3in1",
+  "metric_long_name": "T2I-CompBench++ official 3-in-1 metric (mean of CLIPScore, Disentangled BLIP-VQA and UniDet) for complex compositions",
+  "official_mean_score": 0.3314480134723056,
+  "num_prompts": 100,
+  "num_images_selected": 1000,
+  "num_images_scored": 1000,
+  "num_images_failed": 0,
+  "is_full_official_run": false,
+  "evaluator_chain": [
+    "blip",
+    "unidet2d_complex",
+    "clip_complex",
+    "three_in_one"
+  ],
+  "evaluator_exit_codes": {
+    "blip": 0,
+    "unidet2d_complex": 0,
+    "clip_complex": 0,
+    "three_in_one": 0
+  },
+  "evaluator_wall_seconds": {
+    "blip": 574.24,
+    "unidet2d_complex": 343.97,
+    "clip_complex": 459.3,
+    "three_in_one": 0.21
+  },
+  "evaluator_vram": {
+    "blip": {
+      "max_gpu_used_mb": 4891,
+      "min_gpu_free_mb": 40699,
+      "samples": 276,
+      "note": "whole-GPU counters sampled via nvidia-smi every 2 s; includes any co-running job"
+    },
+    "unidet2d_complex": {
+      "max_gpu_used_mb": 10325,
+      "min_gpu_free_mb": 35265,
+      "samples": 170,
+      "note": "whole-GPU counters sampled via nvidia-smi every 2 s; includes any co-running job"
+    },
+    "clip_complex": {
+      "max_gpu_used_mb": 715,
+      "min_gpu_free_mb": 44875,
+      "samples": 216,
+      "note": "whole-GPU counters sampled via nvidia-smi every 2 s; includes any co-running job"
+    },
+    "three_in_one": {
+      "max_gpu_used_mb": 1,
+      "min_gpu_free_mb": 45589,
+      "samples": 1,
+      "note": "whole-GPU counters sampled via nvidia-smi every 2 s; includes any co-running job"
+    }
+  },
+  "evaluator_scores_parsed": {
+    "blip": 1000,
+    "unidet2d_complex": 1000,
+    "clip_complex": 1000,
+    "three_in_one": 1000
+  },
+  "all_steps_scored_every_image": true,
+  "status": "ok",
+  "abort_reason": null,
+  "manifest_source": "manifest:/root/compbench_work/images/frozen/manifest_complex.csv",
+  "seconds_per_image": 1.378
+}

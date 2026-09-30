@@ -1,0 +1,51 @@
+{
+  "protocol": {
+    "batch_size": 4,
+    "steps": 20,
+    "cfg_scale": 4.0,
+    "image_size": 512,
+    "sampler": "DPM-Solver order=2 multistep"
+  },
+  "gpu": "NVIDIA L20, 46068 MiB",
+  "cuda": "12.1",
+  "pytorch": "2.1.2+cu121",
+  "python": "3.10.21",
+  "host": "crdnotebook-2092669601777741825-scnoarmvhd-18241",
+  "note": "seconds_per_image is wall-clock per image for the full sampling loop INCLUDING VAE decode; peak_vram is the peak allocated torch memory during that loop.",
+  "results": [
+    {
+      "method": "frozen",
+      "checkpoint": "/root/private_data/PixArt-alpha-attentiongate/output/pretrained_models/PixArt-XL-2-512x512-native-gate-init.pth",
+      "total_params": 611049688,
+      "trainable_params": 0,
+      "trainable_fraction": 0.0,
+      "batch_size": 4,
+      "steps": 20,
+      "cfg": 4.0,
+      "image_size": 512,
+      "seconds_per_image_mean": 0.7466299057006835,
+      "seconds_per_image_std": 0.0023010256993571776,
+      "seconds_per_image_min": 0.7437108755111694,
+      "seconds_per_image_max": 0.7502628564834595,
+      "peak_vram_gb_decode_inclusive": 22.616724992,
+      "n_timed_runs": 5
+    },
+    {
+      "method": "tpscda",
+      "checkpoint": "/root/private_data/PixArt-alpha-attentiongate/output/coco2017_token_pair_learnable_layers/checkpoints/epoch_1_step_14786.pth",
+      "total_params": 619618753,
+      "trainable_params": 8569065,
+      "trainable_fraction": 0.013829576588041065,
+      "batch_size": 4,
+      "steps": 20,
+      "cfg": 4.0,
+      "image_size": 512,
+      "seconds_per_image_mean": 1.237847375869751,
+      "seconds_per_image_std": 0.0014518185889432493,
+      "seconds_per_image_min": 1.2357873320579529,
+      "seconds_per_image_max": 1.240084707736969,
+      "peak_vram_gb_decode_inclusive": 22.63299072,
+      "n_timed_runs": 5
+    }
+  ]
+}

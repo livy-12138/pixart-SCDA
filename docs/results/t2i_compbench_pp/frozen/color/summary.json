@@ -1,0 +1,37 @@
+{
+  "method": "frozen",
+  "category": "color",
+  "metric": "compbench_official_blipvqa",
+  "metric_long_name": "T2I-CompBench++ official Disentangled BLIP-VQA (attribute binding: color)",
+  "official_mean_score": 0.39561000000000024,
+  "num_prompts": 300,
+  "num_images_selected": 300,
+  "num_images_scored": 300,
+  "num_images_failed": 0,
+  "is_full_official_run": true,
+  "evaluator_chain": [
+    "blip"
+  ],
+  "evaluator_exit_codes": {
+    "blip": 0
+  },
+  "evaluator_wall_seconds": {
+    "blip": 433.96
+  },
+  "evaluator_vram": {
+    "blip": {
+      "max_gpu_used_mb": 4891,
+      "min_gpu_free_mb": 40699,
+      "samples": 207,
+      "note": "whole-GPU counters sampled via nvidia-smi every 2 s; includes any co-running job"
+    }
+  },
+  "evaluator_scores_parsed": {
+    "blip": 300
+  },
+  "all_steps_scored_every_image": true,
+  "status": "ok",
+  "abort_reason": null,
+  "manifest_source": "manifest:/root/compbench_work/images/frozen/manifest_color.csv",
+  "seconds_per_image": 1.447
+}

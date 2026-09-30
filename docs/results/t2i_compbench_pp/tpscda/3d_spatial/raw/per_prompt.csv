@@ -1,0 +1,301 @@
+prompt_id,prompt,seed,generated_image,metric,prediction,success,failure,error_message,category,prompt_index,repeat,global_index,status
+3d_spatial+0,a dog in front of a desk,0,a dog in front of a desk_000000.png,compbench_official_unidet_3d_spatial,0.387207,1,0,,3d_spatial,0,0,0,ok
+3d_spatial+1,a car in front of a mouse,0,a car in front of a mouse_000010.png,compbench_official_unidet_3d_spatial,0.436035,1,0,,3d_spatial,1,0,10,ok
+3d_spatial+2,a sheep in front of a key,0,a sheep in front of a key_000020.png,compbench_official_unidet_3d_spatial,0.249023,1,0,,3d_spatial,2,0,20,ok
+3d_spatial+3,a cat behind a boy,0,a cat behind a boy_000030.png,compbench_official_unidet_3d_spatial,0.433960,1,0,,3d_spatial,3,0,30,ok
+3d_spatial+4,a chair hidden by a mouse,0,a chair hidden by a mouse_000040.png,compbench_official_unidet_3d_spatial,0.357778,1,0,,3d_spatial,4,0,40,ok
+3d_spatial+5,a girl behind a cow,0,a girl behind a cow_000050.png,compbench_official_unidet_3d_spatial,0.336264,1,0,,3d_spatial,5,0,50,ok
+3d_spatial+6,a girl behind a sheep,0,a girl behind a sheep_000060.png,compbench_official_unidet_3d_spatial,0.480469,1,0,,3d_spatial,6,0,60,ok
+3d_spatial+7,a vase hidden by a candle,0,a vase hidden by a candle_000070.png,compbench_official_unidet_3d_spatial,0.241089,1,0,,3d_spatial,7,0,70,ok
+3d_spatial+8,a chicken in front of a person,0,a chicken in front of a person_000080.png,compbench_official_unidet_3d_spatial,0.245483,1,0,,3d_spatial,8,0,80,ok
+3d_spatial+9,a cup in front of a turtle,0,a cup in front of a turtle_000090.png,compbench_official_unidet_3d_spatial,0.248047,1,0,,3d_spatial,9,0,90,ok
+3d_spatial+10,a woman hidden by a cow,0,a woman hidden by a cow_000100.png,compbench_official_unidet_3d_spatial,0.623199,1,0,,3d_spatial,10,0,100,ok
+3d_spatial+11,a phone hidden by a man,0,a phone hidden by a man_000110.png,compbench_official_unidet_3d_spatial,0.094055,1,0,,3d_spatial,11,0,110,ok
+3d_spatial+12,a computer in front of a cow,0,a computer in front of a cow_000120.png,compbench_official_unidet_3d_spatial,0.335205,1,0,,3d_spatial,12,0,120,ok
+3d_spatial+13,a cat in front of a chair,0,a cat in front of a chair_000130.png,compbench_official_unidet_3d_spatial,0.693061,1,0,,3d_spatial,13,0,130,ok
+3d_spatial+14,a bee in front of a bowl,0,a bee in front of a bowl_000140.png,compbench_official_unidet_3d_spatial,0.236694,1,0,,3d_spatial,14,0,140,ok
+3d_spatial+15,a mouse hidden by a key,0,a mouse hidden by a key_000150.png,compbench_official_unidet_3d_spatial,0.244507,1,0,,3d_spatial,15,0,150,ok
+3d_spatial+16,a chair hidden by a turtle,0,a chair hidden by a turtle_000160.png,compbench_official_unidet_3d_spatial,0.246216,1,0,,3d_spatial,16,0,160,ok
+3d_spatial+17,a giraffe behind a sofa,0,a giraffe behind a sofa_000170.png,compbench_official_unidet_3d_spatial,0.396959,1,0,,3d_spatial,17,0,170,ok
+3d_spatial+18,a key in front of a girl,0,a key in front of a girl_000180.png,compbench_official_unidet_3d_spatial,0.236694,1,0,,3d_spatial,18,0,180,ok
+3d_spatial+19,a balloon behind a sofa,0,a balloon behind a sofa_000190.png,compbench_official_unidet_3d_spatial,0.465698,1,0,,3d_spatial,19,0,190,ok
+3d_spatial+20,a train hidden by a plate,0,a train hidden by a plate_000200.png,compbench_official_unidet_3d_spatial,0.249634,1,0,,3d_spatial,20,0,200,ok
+3d_spatial+21,a computer hidden by a pig,0,a computer hidden by a pig_000210.png,compbench_official_unidet_3d_spatial,0.127106,1,0,,3d_spatial,21,0,210,ok
+3d_spatial+22,a backpack hidden by a butterfly,0,a backpack hidden by a butterfly_000220.png,compbench_official_unidet_3d_spatial,0.247437,1,0,,3d_spatial,22,0,220,ok
+3d_spatial+23,a bowl behind a refrigerator,0,a bowl behind a refrigerator_000230.png,compbench_official_unidet_3d_spatial,0.129181,1,0,,3d_spatial,23,0,230,ok
+3d_spatial+24,a girl hidden by a refrigerator,0,a girl hidden by a refrigerator_000240.png,compbench_official_unidet_3d_spatial,0.118347,1,0,,3d_spatial,24,0,240,ok
+3d_spatial+25,a desk in front of a wallet,0,a desk in front of a wallet_000250.png,compbench_official_unidet_3d_spatial,0.148926,1,0,,3d_spatial,25,0,250,ok
+3d_spatial+26,a bag behind a balloon,0,a bag behind a balloon_000260.png,compbench_official_unidet_3d_spatial,0.428589,1,0,,3d_spatial,26,0,260,ok
+3d_spatial+27,a painting behind a phone,0,a painting behind a phone_000270.png,compbench_official_unidet_3d_spatial,0.032196,1,0,,3d_spatial,27,0,270,ok
+3d_spatial+28,a suitcase hidden by a table,0,a suitcase hidden by a table_000280.png,compbench_official_unidet_3d_spatial,0.242676,1,0,,3d_spatial,28,0,280,ok
+3d_spatial+29,a chair behind a girl,0,a chair behind a girl_000290.png,compbench_official_unidet_3d_spatial,0.198517,1,0,,3d_spatial,29,0,290,ok
+3d_spatial+30,a plate hidden by a refrigerator,0,a plate hidden by a refrigerator_000300.png,compbench_official_unidet_3d_spatial,0.246948,1,0,,3d_spatial,30,0,300,ok
+3d_spatial+31,a bee hidden by a bowl,0,a bee hidden by a bowl_000310.png,compbench_official_unidet_3d_spatial,0.459351,1,0,,3d_spatial,31,0,310,ok
+3d_spatial+32,a backpack in front of a woman,0,a backpack in front of a woman_000320.png,compbench_official_unidet_3d_spatial,0.746996,1,0,,3d_spatial,32,0,320,ok
+3d_spatial+33,a couch behind a backpack,0,a couch behind a backpack_000330.png,compbench_official_unidet_3d_spatial,0.245972,1,0,,3d_spatial,33,0,330,ok
+3d_spatial+34,a cup behind a bowl,0,a cup behind a bowl_000340.png,compbench_official_unidet_3d_spatial,0.311218,1,0,,3d_spatial,34,0,340,ok
+3d_spatial+35,a vase hidden by a clock,0,a vase hidden by a clock_000350.png,compbench_official_unidet_3d_spatial,0.244019,1,0,,3d_spatial,35,0,350,ok
+3d_spatial+36,a vase hidden by a airplane,0,a vase hidden by a airplane_000360.png,compbench_official_unidet_3d_spatial,0.247559,1,0,,3d_spatial,36,0,360,ok
+3d_spatial+37,a balloon hidden by a sheep,0,a balloon hidden by a sheep_000370.png,compbench_official_unidet_3d_spatial,0.486328,1,0,,3d_spatial,37,0,370,ok
+3d_spatial+38,a cup in front of a refrigerator,0,a cup in front of a refrigerator_000380.png,compbench_official_unidet_3d_spatial,0.187866,1,0,,3d_spatial,38,0,380,ok
+3d_spatial+39,a candle in front of a phone,0,a candle in front of a phone_000390.png,compbench_official_unidet_3d_spatial,0.235352,1,0,,3d_spatial,39,0,390,ok
+3d_spatial+40,a bowl hidden by a painting,0,a bowl hidden by a painting_000400.png,compbench_official_unidet_3d_spatial,0.044769,1,0,,3d_spatial,40,0,400,ok
+3d_spatial+41,a clock behind a painting,0,a clock behind a painting_000410.png,compbench_official_unidet_3d_spatial,0.215454,1,0,,3d_spatial,41,0,410,ok
+3d_spatial+42,a key hidden by a girl,0,a key hidden by a girl_000420.png,compbench_official_unidet_3d_spatial,0.223267,1,0,,3d_spatial,42,0,420,ok
+3d_spatial+43,a vase hidden by a book,0,a vase hidden by a book_000430.png,compbench_official_unidet_3d_spatial,0.238647,1,0,,3d_spatial,43,0,430,ok
+3d_spatial+44,a bowl in front of a cow,0,a bowl in front of a cow_000440.png,compbench_official_unidet_3d_spatial,0.410645,1,0,,3d_spatial,44,0,440,ok
+3d_spatial+45,a mouse in front of a car,0,a mouse in front of a car_000450.png,compbench_official_unidet_3d_spatial,0.099792,1,0,,3d_spatial,45,0,450,ok
+3d_spatial+46,a horse hidden by a boy,0,a horse hidden by a boy_000460.png,compbench_official_unidet_3d_spatial,0.630803,1,0,,3d_spatial,46,0,460,ok
+3d_spatial+47,a painting behind a boy,0,a painting behind a boy_000470.png,compbench_official_unidet_3d_spatial,0.232788,1,0,,3d_spatial,47,0,470,ok
+3d_spatial+48,a pig hidden by a lamp,0,a pig hidden by a lamp_000480.png,compbench_official_unidet_3d_spatial,0.479614,1,0,,3d_spatial,48,0,480,ok
+3d_spatial+49,a girl hidden by a bird,0,a girl hidden by a bird_000490.png,compbench_official_unidet_3d_spatial,0.572888,1,0,,3d_spatial,49,0,490,ok
+3d_spatial+50,a balloon behind a boy,0,a balloon behind a boy_000500.png,compbench_official_unidet_3d_spatial,0.405640,1,0,,3d_spatial,50,0,500,ok
+3d_spatial+51,a chair hidden by a rabbit,0,a chair hidden by a rabbit_000510.png,compbench_official_unidet_3d_spatial,0.238159,1,0,,3d_spatial,51,0,510,ok
+3d_spatial+52,a frog hidden by a chair,0,a frog hidden by a chair_000520.png,compbench_official_unidet_3d_spatial,0.270630,1,0,,3d_spatial,52,0,520,ok
+3d_spatial+53,a plate in front of a boy,0,a plate in front of a boy_000530.png,compbench_official_unidet_3d_spatial,0.476807,1,0,,3d_spatial,53,0,530,ok
+3d_spatial+54,a key behind a bicycle,0,a key behind a bicycle_000540.png,compbench_official_unidet_3d_spatial,0.000000,1,0,,3d_spatial,54,0,540,ok
+3d_spatial+55,a turtle hidden by a boy,0,a turtle hidden by a boy_000550.png,compbench_official_unidet_3d_spatial,0.651628,1,0,,3d_spatial,55,0,550,ok
+3d_spatial+56,a television hidden by a chair,0,a television hidden by a chair_000560.png,compbench_official_unidet_3d_spatial,0.415527,1,0,,3d_spatial,56,0,560,ok
+3d_spatial+57,a pig behind a boy,0,a pig behind a boy_000570.png,compbench_official_unidet_3d_spatial,0.594688,1,0,,3d_spatial,57,0,570,ok
+3d_spatial+58,a sheep in front of a frog,0,a sheep in front of a frog_000580.png,compbench_official_unidet_3d_spatial,0.244995,1,0,,3d_spatial,58,0,580,ok
+3d_spatial+59,a mouse in front of a boy,0,a mouse in front of a boy_000590.png,compbench_official_unidet_3d_spatial,0.215698,1,0,,3d_spatial,59,0,590,ok
+3d_spatial+60,a dog behind a bird,0,a dog behind a bird_000600.png,compbench_official_unidet_3d_spatial,0.242554,1,0,,3d_spatial,60,0,600,ok
+3d_spatial+61,a airplane in front of a giraffe,0,a airplane in front of a giraffe_000610.png,compbench_official_unidet_3d_spatial,0.490234,1,0,,3d_spatial,61,0,610,ok
+3d_spatial+62,a lamp hidden by a key,0,a lamp hidden by a key_000620.png,compbench_official_unidet_3d_spatial,0.030472,1,0,,3d_spatial,62,0,620,ok
+3d_spatial+63,a bicycle in front of a butterfly,0,a bicycle in front of a butterfly_000630.png,compbench_official_unidet_3d_spatial,0.381592,1,0,,3d_spatial,63,0,630,ok
+3d_spatial+64,a bee behind a bird,0,a bee behind a bird_000640.png,compbench_official_unidet_3d_spatial,0.228149,1,0,,3d_spatial,64,0,640,ok
+3d_spatial+65,a candle in front of a suitcase,0,a candle in front of a suitcase_000650.png,compbench_official_unidet_3d_spatial,0.428467,1,0,,3d_spatial,65,0,650,ok
+3d_spatial+66,a horse in front of a fish,0,a horse in front of a fish_000660.png,compbench_official_unidet_3d_spatial,0.464600,1,0,,3d_spatial,66,0,660,ok
+3d_spatial+67,a sheep in front of a cat,0,a sheep in front of a cat_000670.png,compbench_official_unidet_3d_spatial,0.243225,1,0,,3d_spatial,67,0,670,ok
+3d_spatial+68,a frog hidden by a candle,0,a frog hidden by a candle_000680.png,compbench_official_unidet_3d_spatial,0.557431,1,0,,3d_spatial,68,0,680,ok
+3d_spatial+69,a airplane in front of a frog,0,a airplane in front of a frog_000690.png,compbench_official_unidet_3d_spatial,0.309387,1,0,,3d_spatial,69,0,690,ok
+3d_spatial+70,a computer hidden by a couch,0,a computer hidden by a couch_000700.png,compbench_official_unidet_3d_spatial,0.226929,1,0,,3d_spatial,70,0,700,ok
+3d_spatial+71,a table hidden by a dog,0,a table hidden by a dog_000710.png,compbench_official_unidet_3d_spatial,0.270493,1,0,,3d_spatial,71,0,710,ok
+3d_spatial+72,a woman in front of a computer,0,a woman in front of a computer_000720.png,compbench_official_unidet_3d_spatial,0.228638,1,0,,3d_spatial,72,0,720,ok
+3d_spatial+73,a girl behind a chicken,0,a girl behind a chicken_000730.png,compbench_official_unidet_3d_spatial,0.464355,1,0,,3d_spatial,73,0,730,ok
+3d_spatial+74,a fish hidden by a dog,0,a fish hidden by a dog_000740.png,compbench_official_unidet_3d_spatial,0.467407,1,0,,3d_spatial,74,0,740,ok
+3d_spatial+75,a clock hidden by a train,0,a clock hidden by a train_000750.png,compbench_official_unidet_3d_spatial,0.175598,1,0,,3d_spatial,75,0,750,ok
+3d_spatial+76,a candle hidden by a bag,0,a candle hidden by a bag_000760.png,compbench_official_unidet_3d_spatial,0.189636,1,0,,3d_spatial,76,0,760,ok
+3d_spatial+77,a bowl hidden by a frog,0,a bowl hidden by a frog_000770.png,compbench_official_unidet_3d_spatial,0.428450,1,0,,3d_spatial,77,0,770,ok
+3d_spatial+78,a car hidden by a plate,0,a car hidden by a plate_000780.png,compbench_official_unidet_3d_spatial,0.247681,1,0,,3d_spatial,78,0,780,ok
+3d_spatial+79,a train behind a chair,0,a train behind a chair_000790.png,compbench_official_unidet_3d_spatial,0.000000,1,0,,3d_spatial,79,0,790,ok
+3d_spatial+80,a dog hidden by a bag,0,a dog hidden by a bag_000800.png,compbench_official_unidet_3d_spatial,0.865723,1,0,,3d_spatial,80,0,800,ok
+3d_spatial+81,a vase behind a television,0,a vase behind a television_000810.png,compbench_official_unidet_3d_spatial,0.241089,1,0,,3d_spatial,81,0,810,ok
+3d_spatial+82,a rabbit hidden by a chicken,0,a rabbit hidden by a chicken_000820.png,compbench_official_unidet_3d_spatial,0.454876,1,0,,3d_spatial,82,0,820,ok
+3d_spatial+83,a airplane in front of a mouse,0,a airplane in front of a mouse_000830.png,compbench_official_unidet_3d_spatial,0.171509,1,0,,3d_spatial,83,0,830,ok
+3d_spatial+84,a balloon in front of a clock,0,a balloon in front of a clock_000840.png,compbench_official_unidet_3d_spatial,0.454590,1,0,,3d_spatial,84,0,840,ok
+3d_spatial+85,a train hidden by a bee,0,a train hidden by a bee_000850.png,compbench_official_unidet_3d_spatial,0.433085,1,0,,3d_spatial,85,0,850,ok
+3d_spatial+86,a girl hidden by a desk,0,a girl hidden by a desk_000860.png,compbench_official_unidet_3d_spatial,0.309219,1,0,,3d_spatial,86,0,860,ok
+3d_spatial+87,a train in front of a boy,0,a train in front of a boy_000870.png,compbench_official_unidet_3d_spatial,0.480347,1,0,,3d_spatial,87,0,870,ok
+3d_spatial+88,a table in front of a microwave,0,a table in front of a microwave_000880.png,compbench_official_unidet_3d_spatial,0.234436,1,0,,3d_spatial,88,0,880,ok
+3d_spatial+89,a chair in front of a bee,0,a chair in front of a bee_000890.png,compbench_official_unidet_3d_spatial,0.204712,1,0,,3d_spatial,89,0,890,ok
+3d_spatial+90,a chair in front of a candle,0,a chair in front of a candle_000900.png,compbench_official_unidet_3d_spatial,0.384521,1,0,,3d_spatial,90,0,900,ok
+3d_spatial+91,a sofa hidden by a book,0,a sofa hidden by a book_000910.png,compbench_official_unidet_3d_spatial,0.244141,1,0,,3d_spatial,91,0,910,ok
+3d_spatial+92,a girl in front of a backpack,0,a girl in front of a backpack_000920.png,compbench_official_unidet_3d_spatial,0.448730,1,0,,3d_spatial,92,0,920,ok
+3d_spatial+93,a microwave in front of a butterfly,0,a microwave in front of a butterfly_000930.png,compbench_official_unidet_3d_spatial,0.405884,1,0,,3d_spatial,93,0,930,ok
+3d_spatial+94,a cow hidden by a phone,0,a cow hidden by a phone_000940.png,compbench_official_unidet_3d_spatial,0.259338,1,0,,3d_spatial,94,0,940,ok
+3d_spatial+95,a person hidden by a book,0,a person hidden by a book_000950.png,compbench_official_unidet_3d_spatial,0.119324,1,0,,3d_spatial,95,0,950,ok
+3d_spatial+96,a cat hidden by a rabbit,0,a cat hidden by a rabbit_000960.png,compbench_official_unidet_3d_spatial,0.192383,1,0,,3d_spatial,96,0,960,ok
+3d_spatial+97,a phone behind a vase,0,a phone behind a vase_000970.png,compbench_official_unidet_3d_spatial,0.199707,1,0,,3d_spatial,97,0,970,ok
+3d_spatial+98,a car hidden by a woman,0,a car hidden by a woman_000980.png,compbench_official_unidet_3d_spatial,0.670899,1,0,,3d_spatial,98,0,980,ok
+3d_spatial+99,a fish hidden by a vase,0,a fish hidden by a vase_000990.png,compbench_official_unidet_3d_spatial,0.191132,1,0,,3d_spatial,99,0,990,ok
+3d_spatial+100,a chicken behind a microwave,0,a chicken behind a microwave_001000.png,compbench_official_unidet_3d_spatial,0.715764,1,0,,3d_spatial,100,0,1000,ok
+3d_spatial+101,a candle behind a vase,0,a candle behind a vase_001010.png,compbench_official_unidet_3d_spatial,0.487671,1,0,,3d_spatial,101,0,1010,ok
+3d_spatial+102,a suitcase in front of a horse,0,a suitcase in front of a horse_001020.png,compbench_official_unidet_3d_spatial,0.453979,1,0,,3d_spatial,102,0,1020,ok
+3d_spatial+103,a train hidden by a horse,0,a train hidden by a horse_001030.png,compbench_official_unidet_3d_spatial,0.290466,1,0,,3d_spatial,103,0,1030,ok
+3d_spatial+104,a turtle behind a computer,0,a turtle behind a computer_001040.png,compbench_official_unidet_3d_spatial,0.028931,1,0,,3d_spatial,104,0,1040,ok
+3d_spatial+105,a painting hidden by a phone,0,a painting hidden by a phone_001050.png,compbench_official_unidet_3d_spatial,0.063538,1,0,,3d_spatial,105,0,1050,ok
+3d_spatial+106,a sheep hidden by a fish,0,a sheep hidden by a fish_001060.png,compbench_official_unidet_3d_spatial,0.249146,1,0,,3d_spatial,106,0,1060,ok
+3d_spatial+107,a lamp in front of a person,0,a lamp in front of a person_001070.png,compbench_official_unidet_3d_spatial,0.180664,1,0,,3d_spatial,107,0,1070,ok
+3d_spatial+108,a wallet hidden by a butterfly,0,a wallet hidden by a butterfly_001080.png,compbench_official_unidet_3d_spatial,0.221191,1,0,,3d_spatial,108,0,1080,ok
+3d_spatial+109,a rabbit in front of a balloon,0,a rabbit in front of a balloon_001090.png,compbench_official_unidet_3d_spatial,0.462524,1,0,,3d_spatial,109,0,1090,ok
+3d_spatial+110,a couch in front of a girl,0,a couch in front of a girl_001100.png,compbench_official_unidet_3d_spatial,0.382324,1,0,,3d_spatial,110,0,1100,ok
+3d_spatial+111,a car behind a clock,0,a car behind a clock_001110.png,compbench_official_unidet_3d_spatial,0.445679,1,0,,3d_spatial,111,0,1110,ok
+3d_spatial+112,a computer behind a table,0,a computer behind a table_001120.png,compbench_official_unidet_3d_spatial,0.224304,1,0,,3d_spatial,112,0,1120,ok
+3d_spatial+113,a couch hidden by a car,0,a couch hidden by a car_001130.png,compbench_official_unidet_3d_spatial,0.242554,1,0,,3d_spatial,113,0,1130,ok
+3d_spatial+114,a desk hidden by a person,0,a desk hidden by a person_001140.png,compbench_official_unidet_3d_spatial,0.604360,1,0,,3d_spatial,114,0,1140,ok
+3d_spatial+115,a painting behind a balloon,0,a painting behind a balloon_001150.png,compbench_official_unidet_3d_spatial,0.232788,1,0,,3d_spatial,115,0,1150,ok
+3d_spatial+116,a rabbit hidden by a car,0,a rabbit hidden by a car_001160.png,compbench_official_unidet_3d_spatial,0.837585,1,0,,3d_spatial,116,0,1160,ok
+3d_spatial+117,a table hidden by a sofa,0,a table hidden by a sofa_001170.png,compbench_official_unidet_3d_spatial,0.224487,1,0,,3d_spatial,117,0,1170,ok
+3d_spatial+118,a frog hidden by a bicycle,0,a frog hidden by a bicycle_001180.png,compbench_official_unidet_3d_spatial,0.099152,1,0,,3d_spatial,118,0,1180,ok
+3d_spatial+119,a microwave hidden by a sheep,0,a microwave hidden by a sheep_001190.png,compbench_official_unidet_3d_spatial,0.248413,1,0,,3d_spatial,119,0,1190,ok
+3d_spatial+120,a sheep hidden by a refrigerator,0,a sheep hidden by a refrigerator_001200.png,compbench_official_unidet_3d_spatial,0.186523,1,0,,3d_spatial,120,0,1200,ok
+3d_spatial+121,a cow in front of a pig,0,a cow in front of a pig_001210.png,compbench_official_unidet_3d_spatial,0.529717,1,0,,3d_spatial,121,0,1210,ok
+3d_spatial+122,a computer in front of a dog,0,a computer in front of a dog_001220.png,compbench_official_unidet_3d_spatial,0.360840,1,0,,3d_spatial,122,0,1220,ok
+3d_spatial+123,a wallet in front of a person,0,a wallet in front of a person_001230.png,compbench_official_unidet_3d_spatial,0.114075,1,0,,3d_spatial,123,0,1230,ok
+3d_spatial+124,a dog hidden by a person,0,a dog hidden by a person_001240.png,compbench_official_unidet_3d_spatial,0.241089,1,0,,3d_spatial,124,0,1240,ok
+3d_spatial+125,a phone hidden by a frog,0,a phone hidden by a frog_001250.png,compbench_official_unidet_3d_spatial,0.367597,1,0,,3d_spatial,125,0,1250,ok
+3d_spatial+126,a man hidden by a backpack,0,a man hidden by a backpack_001260.png,compbench_official_unidet_3d_spatial,0.777466,1,0,,3d_spatial,126,0,1260,ok
+3d_spatial+127,a book behind a woman,0,a book behind a woman_001270.png,compbench_official_unidet_3d_spatial,0.231445,1,0,,3d_spatial,127,0,1270,ok
+3d_spatial+128,a cat behind a wallet,0,a cat behind a wallet_001280.png,compbench_official_unidet_3d_spatial,0.242188,1,0,,3d_spatial,128,0,1280,ok
+3d_spatial+129,a couch behind a cow,0,a couch behind a cow_001290.png,compbench_official_unidet_3d_spatial,0.279114,1,0,,3d_spatial,129,0,1290,ok
+3d_spatial+130,a backpack hidden by a table,0,a backpack hidden by a table_001300.png,compbench_official_unidet_3d_spatial,0.105835,1,0,,3d_spatial,130,0,1300,ok
+3d_spatial+131,a chair in front of a sofa,0,a chair in front of a sofa_001310.png,compbench_official_unidet_3d_spatial,0.243958,1,0,,3d_spatial,131,0,1310,ok
+3d_spatial+132,a candle in front of a rabbit,0,a candle in front of a rabbit_001320.png,compbench_official_unidet_3d_spatial,0.484497,1,0,,3d_spatial,132,0,1320,ok
+3d_spatial+133,a television in front of a woman,0,a television in front of a woman_001330.png,compbench_official_unidet_3d_spatial,0.468808,1,0,,3d_spatial,133,0,1330,ok
+3d_spatial+134,a chair behind a woman,0,a chair behind a woman_001340.png,compbench_official_unidet_3d_spatial,0.215820,1,0,,3d_spatial,134,0,1340,ok
+3d_spatial+135,a airplane hidden by a vase,0,a airplane hidden by a vase_001350.png,compbench_official_unidet_3d_spatial,0.229980,1,0,,3d_spatial,135,0,1350,ok
+3d_spatial+136,a lamp hidden by a giraffe,0,a lamp hidden by a giraffe_001360.png,compbench_official_unidet_3d_spatial,0.283478,1,0,,3d_spatial,136,0,1360,ok
+3d_spatial+137,a dog in front of a refrigerator,0,a dog in front of a refrigerator_001370.png,compbench_official_unidet_3d_spatial,0.443604,1,0,,3d_spatial,137,0,1370,ok
+3d_spatial+138,a fish hidden by a sofa,0,a fish hidden by a sofa_001380.png,compbench_official_unidet_3d_spatial,0.428833,1,0,,3d_spatial,138,0,1380,ok
+3d_spatial+139,a balloon hidden by a computer,0,a balloon hidden by a computer_001390.png,compbench_official_unidet_3d_spatial,0.333618,1,0,,3d_spatial,139,0,1390,ok
+3d_spatial+140,a frog hidden by a lamp,0,a frog hidden by a lamp_001400.png,compbench_official_unidet_3d_spatial,0.048950,1,0,,3d_spatial,140,0,1400,ok
+3d_spatial+141,a refrigerator hidden by a bag,0,a refrigerator hidden by a bag_001410.png,compbench_official_unidet_3d_spatial,0.215210,1,0,,3d_spatial,141,0,1410,ok
+3d_spatial+142,a man in front of a balloon,0,a man in front of a balloon_001420.png,compbench_official_unidet_3d_spatial,0.374634,1,0,,3d_spatial,142,0,1420,ok
+3d_spatial+143,a desk hidden by a cup,0,a desk hidden by a cup_001430.png,compbench_official_unidet_3d_spatial,0.454778,1,0,,3d_spatial,143,0,1430,ok
+3d_spatial+144,a bag in front of a microwave,0,a bag in front of a microwave_001440.png,compbench_official_unidet_3d_spatial,0.067078,1,0,,3d_spatial,144,0,1440,ok
+3d_spatial+145,a balloon behind a desk,0,a balloon behind a desk_001450.png,compbench_official_unidet_3d_spatial,0.365051,1,0,,3d_spatial,145,0,1450,ok
+3d_spatial+146,a car behind a candle,0,a car behind a candle_001460.png,compbench_official_unidet_3d_spatial,0.318909,1,0,,3d_spatial,146,0,1460,ok
+3d_spatial+147,a frog behind a painting,0,a frog behind a painting_001470.png,compbench_official_unidet_3d_spatial,0.226929,1,0,,3d_spatial,147,0,1470,ok
+3d_spatial+148,a giraffe in front of a bee,0,a giraffe in front of a bee_001480.png,compbench_official_unidet_3d_spatial,0.277176,1,0,,3d_spatial,148,0,1480,ok
+3d_spatial+149,a woman in front of a car,0,a woman in front of a car_001490.png,compbench_official_unidet_3d_spatial,0.403564,1,0,,3d_spatial,149,0,1490,ok
+3d_spatial+150,a balloon hidden by a book,0,a balloon hidden by a book_001500.png,compbench_official_unidet_3d_spatial,0.453979,1,0,,3d_spatial,150,0,1500,ok
+3d_spatial+151,a desk behind a woman,0,a desk behind a woman_001510.png,compbench_official_unidet_3d_spatial,0.381050,1,0,,3d_spatial,151,0,1510,ok
+3d_spatial+152,a suitcase behind a car,0,a suitcase behind a car_001520.png,compbench_official_unidet_3d_spatial,0.245117,1,0,,3d_spatial,152,0,1520,ok
+3d_spatial+153,a chicken hidden by a couch,0,a chicken hidden by a couch_001530.png,compbench_official_unidet_3d_spatial,0.771760,1,0,,3d_spatial,153,0,1530,ok
+3d_spatial+154,a person behind a table,0,a person behind a table_001540.png,compbench_official_unidet_3d_spatial,0.391479,1,0,,3d_spatial,154,0,1540,ok
+3d_spatial+155,a airplane in front of a clock,0,a airplane in front of a clock_001550.png,compbench_official_unidet_3d_spatial,0.226746,1,0,,3d_spatial,155,0,1550,ok
+3d_spatial+156,a candle behind a man,0,a candle behind a man_001560.png,compbench_official_unidet_3d_spatial,0.466888,1,0,,3d_spatial,156,0,1560,ok
+3d_spatial+157,a desk hidden by a desk,0,a desk hidden by a desk_001570.png,compbench_official_unidet_3d_spatial,0.371826,1,0,,3d_spatial,157,0,1570,ok
+3d_spatial+158,a computer in front of a cat,0,a computer in front of a cat_001580.png,compbench_official_unidet_3d_spatial,0.407227,1,0,,3d_spatial,158,0,1580,ok
+3d_spatial+159,a suitcase behind a painting,0,a suitcase behind a painting_001590.png,compbench_official_unidet_3d_spatial,0.239868,1,0,,3d_spatial,159,0,1590,ok
+3d_spatial+160,a painting behind a person,0,a painting behind a person_001600.png,compbench_official_unidet_3d_spatial,0.208374,1,0,,3d_spatial,160,0,1600,ok
+3d_spatial+161,a airplane hidden by a turtle,0,a airplane hidden by a turtle_001610.png,compbench_official_unidet_3d_spatial,0.194977,1,0,,3d_spatial,161,0,1610,ok
+3d_spatial+162,a chicken in front of a bowl,0,a chicken in front of a bowl_001620.png,compbench_official_unidet_3d_spatial,0.847640,1,0,,3d_spatial,162,0,1620,ok
+3d_spatial+163,a backpack behind a clock,0,a backpack behind a clock_001630.png,compbench_official_unidet_3d_spatial,0.588806,1,0,,3d_spatial,163,0,1630,ok
+3d_spatial+164,a sofa in front of a computer,0,a sofa in front of a computer_001640.png,compbench_official_unidet_3d_spatial,0.246460,1,0,,3d_spatial,164,0,1640,ok
+3d_spatial+165,a couch in front of a pig,0,a couch in front of a pig_001650.png,compbench_official_unidet_3d_spatial,0.430054,1,0,,3d_spatial,165,0,1650,ok
+3d_spatial+166,a lamp hidden by a clock,0,a lamp hidden by a clock_001660.png,compbench_official_unidet_3d_spatial,0.070816,1,0,,3d_spatial,166,0,1660,ok
+3d_spatial+167,a girl in front of a desk,0,a girl in front of a desk_001670.png,compbench_official_unidet_3d_spatial,0.390082,1,0,,3d_spatial,167,0,1670,ok
+3d_spatial+168,a phone behind a pig,0,a phone behind a pig_001680.png,compbench_official_unidet_3d_spatial,0.532908,1,0,,3d_spatial,168,0,1680,ok
+3d_spatial+169,a wallet in front of a bowl,0,a wallet in front of a bowl_001690.png,compbench_official_unidet_3d_spatial,0.206055,1,0,,3d_spatial,169,0,1690,ok
+3d_spatial+170,a bee in front of a balloon,0,a bee in front of a balloon_001700.png,compbench_official_unidet_3d_spatial,0.309678,1,0,,3d_spatial,170,0,1700,ok
+3d_spatial+171,a bag behind a person,0,a bag behind a person_001710.png,compbench_official_unidet_3d_spatial,0.433228,1,0,,3d_spatial,171,0,1710,ok
+3d_spatial+172,a woman in front of a butterfly,0,a woman in front of a butterfly_001720.png,compbench_official_unidet_3d_spatial,0.493262,1,0,,3d_spatial,172,0,1720,ok
+3d_spatial+173,a cow in front of a book,0,a cow in front of a book_001730.png,compbench_official_unidet_3d_spatial,0.325806,1,0,,3d_spatial,173,0,1730,ok
+3d_spatial+174,a chair in front of a rabbit,0,a chair in front of a rabbit_001740.png,compbench_official_unidet_3d_spatial,0.231812,1,0,,3d_spatial,174,0,1740,ok
+3d_spatial+175,a pig hidden by a girl,0,a pig hidden by a girl_001750.png,compbench_official_unidet_3d_spatial,0.406616,1,0,,3d_spatial,175,0,1750,ok
+3d_spatial+176,a chicken behind a person,0,a chicken behind a person_001760.png,compbench_official_unidet_3d_spatial,0.239746,1,0,,3d_spatial,176,0,1760,ok
+3d_spatial+177,a plate hidden by a car,0,a plate hidden by a car_001770.png,compbench_official_unidet_3d_spatial,0.106842,1,0,,3d_spatial,177,0,1770,ok
+3d_spatial+178,a sofa in front of a chicken,0,a sofa in front of a chicken_001780.png,compbench_official_unidet_3d_spatial,0.651532,1,0,,3d_spatial,178,0,1780,ok
+3d_spatial+179,a plate behind a bee,0,a plate behind a bee_001790.png,compbench_official_unidet_3d_spatial,0.864745,1,0,,3d_spatial,179,0,1790,ok
+3d_spatial+180,a boy hidden by a plate,0,a boy hidden by a plate_001800.png,compbench_official_unidet_3d_spatial,0.472168,1,0,,3d_spatial,180,0,1800,ok
+3d_spatial+181,a car behind a suitcase,0,a car behind a suitcase_001810.png,compbench_official_unidet_3d_spatial,0.243286,1,0,,3d_spatial,181,0,1810,ok
+3d_spatial+182,a suitcase behind a bicycle,0,a suitcase behind a bicycle_001820.png,compbench_official_unidet_3d_spatial,0.088409,1,0,,3d_spatial,182,0,1820,ok
+3d_spatial+183,a cat in front of a bee,0,a cat in front of a bee_001830.png,compbench_official_unidet_3d_spatial,0.372559,1,0,,3d_spatial,183,0,1830,ok
+3d_spatial+184,a cat behind a chicken,0,a cat behind a chicken_001840.png,compbench_official_unidet_3d_spatial,0.244263,1,0,,3d_spatial,184,0,1840,ok
+3d_spatial+185,a sofa in front of a couch,0,a sofa in front of a couch_001850.png,compbench_official_unidet_3d_spatial,0.496582,1,0,,3d_spatial,185,0,1850,ok
+3d_spatial+186,a fish hidden by a bicycle,0,a fish hidden by a bicycle_001860.png,compbench_official_unidet_3d_spatial,0.342712,1,0,,3d_spatial,186,0,1860,ok
+3d_spatial+187,a chair behind a desk,0,a chair behind a desk_001870.png,compbench_official_unidet_3d_spatial,0.328796,1,0,,3d_spatial,187,0,1870,ok
+3d_spatial+188,a backpack hidden by a book,0,a backpack hidden by a book_001880.png,compbench_official_unidet_3d_spatial,0.156250,1,0,,3d_spatial,188,0,1880,ok
+3d_spatial+189,a man in front of a backpack,0,a man in front of a backpack_001890.png,compbench_official_unidet_3d_spatial,0.446289,1,0,,3d_spatial,189,0,1890,ok
+3d_spatial+190,a chicken hidden by a chicken,0,a chicken hidden by a chicken_001900.png,compbench_official_unidet_3d_spatial,0.442627,1,0,,3d_spatial,190,0,1900,ok
+3d_spatial+191,a pig behind a car,0,a pig behind a car_001910.png,compbench_official_unidet_3d_spatial,0.380859,1,0,,3d_spatial,191,0,1910,ok
+3d_spatial+192,a plate hidden by a person,0,a plate hidden by a person_001920.png,compbench_official_unidet_3d_spatial,0.528407,1,0,,3d_spatial,192,0,1920,ok
+3d_spatial+193,a refrigerator hidden by a book,0,a refrigerator hidden by a book_001930.png,compbench_official_unidet_3d_spatial,0.228149,1,0,,3d_spatial,193,0,1930,ok
+3d_spatial+194,a lamp hidden by a chair,0,a lamp hidden by a chair_001940.png,compbench_official_unidet_3d_spatial,0.460938,1,0,,3d_spatial,194,0,1940,ok
+3d_spatial+195,a chair in front of a table,0,a chair in front of a table_001950.png,compbench_official_unidet_3d_spatial,0.439697,1,0,,3d_spatial,195,0,1950,ok
+3d_spatial+196,a giraffe in front of a wallet,0,a giraffe in front of a wallet_001960.png,compbench_official_unidet_3d_spatial,0.140747,1,0,,3d_spatial,196,0,1960,ok
+3d_spatial+197,a horse hidden by a bicycle,0,a horse hidden by a bicycle_001970.png,compbench_official_unidet_3d_spatial,0.272934,1,0,,3d_spatial,197,0,1970,ok
+3d_spatial+198,a chicken in front of a bird,0,a chicken in front of a bird_001980.png,compbench_official_unidet_3d_spatial,0.491211,1,0,,3d_spatial,198,0,1980,ok
+3d_spatial+199,a bird in front of a balloon,0,a bird in front of a balloon_001990.png,compbench_official_unidet_3d_spatial,0.489380,1,0,,3d_spatial,199,0,1990,ok
+3d_spatial+200,a bicycle hidden by a microwave,0,a bicycle hidden by a microwave_002000.png,compbench_official_unidet_3d_spatial,0.038116,1,0,,3d_spatial,200,0,2000,ok
+3d_spatial+201,a turtle hidden by a pig,0,a turtle hidden by a pig_002010.png,compbench_official_unidet_3d_spatial,0.248657,1,0,,3d_spatial,201,0,2010,ok
+3d_spatial+202,a sofa hidden by a cow,0,a sofa hidden by a cow_002020.png,compbench_official_unidet_3d_spatial,0.578020,1,0,,3d_spatial,202,0,2020,ok
+3d_spatial+203,a vase in front of a butterfly,0,a vase in front of a butterfly_002030.png,compbench_official_unidet_3d_spatial,0.491699,1,0,,3d_spatial,203,0,2030,ok
+3d_spatial+204,a bicycle in front of a turtle,0,a bicycle in front of a turtle_002040.png,compbench_official_unidet_3d_spatial,0.242554,1,0,,3d_spatial,204,0,2040,ok
+3d_spatial+205,a backpack behind a mouse,0,a backpack behind a mouse_002050.png,compbench_official_unidet_3d_spatial,0.578339,1,0,,3d_spatial,205,0,2050,ok
+3d_spatial+206,a lamp behind a chair,0,a lamp behind a chair_002060.png,compbench_official_unidet_3d_spatial,0.442383,1,0,,3d_spatial,206,0,2060,ok
+3d_spatial+207,a clock hidden by a candle,0,a clock hidden by a candle_002070.png,compbench_official_unidet_3d_spatial,0.166016,1,0,,3d_spatial,207,0,2070,ok
+3d_spatial+208,a car behind a table,0,a car behind a table_002080.png,compbench_official_unidet_3d_spatial,0.409821,1,0,,3d_spatial,208,0,2080,ok
+3d_spatial+209,a sofa behind a backpack,0,a sofa behind a backpack_002090.png,compbench_official_unidet_3d_spatial,0.207397,1,0,,3d_spatial,209,0,2090,ok
+3d_spatial+210,a phone behind a plate,0,a phone behind a plate_002100.png,compbench_official_unidet_3d_spatial,0.163452,1,0,,3d_spatial,210,0,2100,ok
+3d_spatial+211,a phone behind a fish,0,a phone behind a fish_002110.png,compbench_official_unidet_3d_spatial,0.232788,1,0,,3d_spatial,211,0,2110,ok
+3d_spatial+212,a table behind a butterfly,0,a table behind a butterfly_002120.png,compbench_official_unidet_3d_spatial,0.307220,1,0,,3d_spatial,212,0,2120,ok
+3d_spatial+213,a cat hidden by a dog,0,a cat hidden by a dog_002130.png,compbench_official_unidet_3d_spatial,0.601206,1,0,,3d_spatial,213,0,2130,ok
+3d_spatial+214,a man hidden by a computer,0,a man hidden by a computer_002140.png,compbench_official_unidet_3d_spatial,0.281551,1,0,,3d_spatial,214,0,2140,ok
+3d_spatial+215,a key hidden by a wallet,0,a key hidden by a wallet_002150.png,compbench_official_unidet_3d_spatial,0.000000,1,0,,3d_spatial,215,0,2150,ok
+3d_spatial+216,a candle in front of a bag,0,a candle in front of a bag_002160.png,compbench_official_unidet_3d_spatial,0.170410,1,0,,3d_spatial,216,0,2160,ok
+3d_spatial+217,a boy in front of a cup,0,a boy in front of a cup_002170.png,compbench_official_unidet_3d_spatial,0.673858,1,0,,3d_spatial,217,0,2170,ok
+3d_spatial+218,a chicken behind a clock,0,a chicken behind a clock_002180.png,compbench_official_unidet_3d_spatial,0.286865,1,0,,3d_spatial,218,0,2180,ok
+3d_spatial+219,a computer in front of a microwave,0,a computer in front of a microwave_002190.png,compbench_official_unidet_3d_spatial,0.240356,1,0,,3d_spatial,219,0,2190,ok
+3d_spatial+220,a vase hidden by a bicycle,0,a vase hidden by a bicycle_002200.png,compbench_official_unidet_3d_spatial,0.175293,1,0,,3d_spatial,220,0,2200,ok
+3d_spatial+221,a mouse in front of a microwave,0,a mouse in front of a microwave_002210.png,compbench_official_unidet_3d_spatial,0.216675,1,0,,3d_spatial,221,0,2210,ok
+3d_spatial+222,a bag hidden by a airplane,0,a bag hidden by a airplane_002220.png,compbench_official_unidet_3d_spatial,0.240723,1,0,,3d_spatial,222,0,2220,ok
+3d_spatial+223,a computer in front of a phone,0,a computer in front of a phone_002230.png,compbench_official_unidet_3d_spatial,0.200195,1,0,,3d_spatial,223,0,2230,ok
+3d_spatial+224,a chair behind a giraffe,0,a chair behind a giraffe_002240.png,compbench_official_unidet_3d_spatial,0.728154,1,0,,3d_spatial,224,0,2240,ok
+3d_spatial+225,a horse in front of a table,0,a horse in front of a table_002250.png,compbench_official_unidet_3d_spatial,0.474490,1,0,,3d_spatial,225,0,2250,ok
+3d_spatial+226,a frog behind a rabbit,0,a frog behind a rabbit_002260.png,compbench_official_unidet_3d_spatial,0.241699,1,0,,3d_spatial,226,0,2260,ok
+3d_spatial+227,a turtle hidden by a bowl,0,a turtle hidden by a bowl_002270.png,compbench_official_unidet_3d_spatial,0.478760,1,0,,3d_spatial,227,0,2270,ok
+3d_spatial+228,a plate behind a girl,0,a plate behind a girl_002280.png,compbench_official_unidet_3d_spatial,0.632128,1,0,,3d_spatial,228,0,2280,ok
+3d_spatial+229,a rabbit behind a bag,0,a rabbit behind a bag_002290.png,compbench_official_unidet_3d_spatial,0.249634,1,0,,3d_spatial,229,0,2290,ok
+3d_spatial+230,a pig in front of a frog,0,a pig in front of a frog_002300.png,compbench_official_unidet_3d_spatial,0.241699,1,0,,3d_spatial,230,0,2300,ok
+3d_spatial+231,a couch in front of a phone,0,a couch in front of a phone_002310.png,compbench_official_unidet_3d_spatial,0.245483,1,0,,3d_spatial,231,0,2310,ok
+3d_spatial+232,a bee in front of a lamp,0,a bee in front of a lamp_002320.png,compbench_official_unidet_3d_spatial,0.211060,1,0,,3d_spatial,232,0,2320,ok
+3d_spatial+233,a bag hidden by a giraffe,0,a bag hidden by a giraffe_002330.png,compbench_official_unidet_3d_spatial,0.235840,1,0,,3d_spatial,233,0,2330,ok
+3d_spatial+234,a turtle in front of a book,0,a turtle in front of a book_002340.png,compbench_official_unidet_3d_spatial,0.389648,1,0,,3d_spatial,234,0,2340,ok
+3d_spatial+235,a balloon in front of a man,0,a balloon in front of a man_002350.png,compbench_official_unidet_3d_spatial,0.423828,1,0,,3d_spatial,235,0,2350,ok
+3d_spatial+236,a bag hidden by a girl,0,a bag hidden by a girl_002360.png,compbench_official_unidet_3d_spatial,0.451582,1,0,,3d_spatial,236,0,2360,ok
+3d_spatial+237,a pig hidden by a chicken,0,a pig hidden by a chicken_002370.png,compbench_official_unidet_3d_spatial,0.225952,1,0,,3d_spatial,237,0,2370,ok
+3d_spatial+238,a dog hidden by a vase,0,a dog hidden by a vase_002380.png,compbench_official_unidet_3d_spatial,0.436768,1,0,,3d_spatial,238,0,2380,ok
+3d_spatial+239,a mouse hidden by a microwave,0,a mouse hidden by a microwave_002390.png,compbench_official_unidet_3d_spatial,0.327087,1,0,,3d_spatial,239,0,2390,ok
+3d_spatial+240,a television in front of a sofa,0,a television in front of a sofa_002400.png,compbench_official_unidet_3d_spatial,0.405762,1,0,,3d_spatial,240,0,2400,ok
+3d_spatial+241,a phone in front of a phone,0,a phone in front of a phone_002410.png,compbench_official_unidet_3d_spatial,0.486328,1,0,,3d_spatial,241,0,2410,ok
+3d_spatial+242,a mouse hidden by a horse,0,a mouse hidden by a horse_002420.png,compbench_official_unidet_3d_spatial,0.244995,1,0,,3d_spatial,242,0,2420,ok
+3d_spatial+243,a horse in front of a book,0,a horse in front of a book_002430.png,compbench_official_unidet_3d_spatial,0.388184,1,0,,3d_spatial,243,0,2430,ok
+3d_spatial+244,a girl hidden by a table,0,a girl hidden by a table_002440.png,compbench_official_unidet_3d_spatial,0.371216,1,0,,3d_spatial,244,0,2440,ok
+3d_spatial+245,a chicken in front of a painting,0,a chicken in front of a painting_002450.png,compbench_official_unidet_3d_spatial,0.244507,1,0,,3d_spatial,245,0,2450,ok
+3d_spatial+246,a cow in front of a person,0,a cow in front of a person_002460.png,compbench_official_unidet_3d_spatial,0.098175,1,0,,3d_spatial,246,0,2460,ok
+3d_spatial+247,a airplane hidden by a man,0,a airplane hidden by a man_002470.png,compbench_official_unidet_3d_spatial,0.483887,1,0,,3d_spatial,247,0,2470,ok
+3d_spatial+248,a plate in front of a suitcase,0,a plate in front of a suitcase_002480.png,compbench_official_unidet_3d_spatial,0.552925,1,0,,3d_spatial,248,0,2480,ok
+3d_spatial+249,a candle behind a candle,0,a candle behind a candle_002490.png,compbench_official_unidet_3d_spatial,0.485596,1,0,,3d_spatial,249,0,2490,ok
+3d_spatial+250,a dog hidden by a television,0,a dog hidden by a television_002500.png,compbench_official_unidet_3d_spatial,0.247559,1,0,,3d_spatial,250,0,2500,ok
+3d_spatial+251,a lamp hidden by a microwave,0,a lamp hidden by a microwave_002510.png,compbench_official_unidet_3d_spatial,0.387695,1,0,,3d_spatial,251,0,2510,ok
+3d_spatial+252,a frog in front of a horse,0,a frog in front of a horse_002520.png,compbench_official_unidet_3d_spatial,0.247681,1,0,,3d_spatial,252,0,2520,ok
+3d_spatial+253,a frog behind a cow,0,a frog behind a cow_002530.png,compbench_official_unidet_3d_spatial,0.059937,1,0,,3d_spatial,253,0,2530,ok
+3d_spatial+254,a chair in front of a computer,0,a chair in front of a computer_002540.png,compbench_official_unidet_3d_spatial,0.171143,1,0,,3d_spatial,254,0,2540,ok
+3d_spatial+255,a lamp behind a woman,0,a lamp behind a woman_002550.png,compbench_official_unidet_3d_spatial,0.402710,1,0,,3d_spatial,255,0,2550,ok
+3d_spatial+256,a table hidden by a wallet,0,a table hidden by a wallet_002560.png,compbench_official_unidet_3d_spatial,0.136108,1,0,,3d_spatial,256,0,2560,ok
+3d_spatial+257,a pig hidden by a clock,0,a pig hidden by a clock_002570.png,compbench_official_unidet_3d_spatial,0.231567,1,0,,3d_spatial,257,0,2570,ok
+3d_spatial+258,a turtle behind a pig,0,a turtle behind a pig_002580.png,compbench_official_unidet_3d_spatial,0.243530,1,0,,3d_spatial,258,0,2580,ok
+3d_spatial+259,a desk in front of a bee,0,a desk in front of a bee_002590.png,compbench_official_unidet_3d_spatial,0.234924,1,0,,3d_spatial,259,0,2590,ok
+3d_spatial+260,a man behind a bag,0,a man behind a bag_002600.png,compbench_official_unidet_3d_spatial,0.767819,1,0,,3d_spatial,260,0,2600,ok
+3d_spatial+261,a man behind a sofa,0,a man behind a sofa_002610.png,compbench_official_unidet_3d_spatial,0.791791,1,0,,3d_spatial,261,0,2610,ok
+3d_spatial+262,a giraffe behind a vase,0,a giraffe behind a vase_002620.png,compbench_official_unidet_3d_spatial,0.427002,1,0,,3d_spatial,262,0,2620,ok
+3d_spatial+263,a couch in front of a bee,0,a couch in front of a bee_002630.png,compbench_official_unidet_3d_spatial,0.227539,1,0,,3d_spatial,263,0,2630,ok
+3d_spatial+264,a fish behind a clock,0,a fish behind a clock_002640.png,compbench_official_unidet_3d_spatial,0.243774,1,0,,3d_spatial,264,0,2640,ok
+3d_spatial+265,a dog in front of a couch,0,a dog in front of a couch_002650.png,compbench_official_unidet_3d_spatial,0.415527,1,0,,3d_spatial,265,0,2650,ok
+3d_spatial+266,a airplane hidden by a bag,0,a airplane hidden by a bag_002660.png,compbench_official_unidet_3d_spatial,0.494674,1,0,,3d_spatial,266,0,2660,ok
+3d_spatial+267,a pig behind a chair,0,a pig behind a chair_002670.png,compbench_official_unidet_3d_spatial,0.193726,1,0,,3d_spatial,267,0,2670,ok
+3d_spatial+268,a lamp hidden by a boy,0,a lamp hidden by a boy_002680.png,compbench_official_unidet_3d_spatial,0.232788,1,0,,3d_spatial,268,0,2680,ok
+3d_spatial+269,a sheep behind a plate,0,a sheep behind a plate_002690.png,compbench_official_unidet_3d_spatial,0.563819,1,0,,3d_spatial,269,0,2690,ok
+3d_spatial+270,a balloon in front of a person,0,a balloon in front of a person_002700.png,compbench_official_unidet_3d_spatial,0.356689,1,0,,3d_spatial,270,0,2700,ok
+3d_spatial+271,a dog hidden by a frog,0,a dog hidden by a frog_002710.png,compbench_official_unidet_3d_spatial,0.225464,1,0,,3d_spatial,271,0,2710,ok
+3d_spatial+272,a boy hidden by a desk,0,a boy hidden by a desk_002720.png,compbench_official_unidet_3d_spatial,0.298461,1,0,,3d_spatial,272,0,2720,ok
+3d_spatial+273,a plate behind a person,0,a plate behind a person_002730.png,compbench_official_unidet_3d_spatial,0.395874,1,0,,3d_spatial,273,0,2730,ok
+3d_spatial+274,a girl hidden by a horse,0,a girl hidden by a horse_002740.png,compbench_official_unidet_3d_spatial,0.437134,1,0,,3d_spatial,274,0,2740,ok
+3d_spatial+275,a computer behind a wallet,0,a computer behind a wallet_002750.png,compbench_official_unidet_3d_spatial,0.198242,1,0,,3d_spatial,275,0,2750,ok
+3d_spatial+276,a cup hidden by a boy,0,a cup hidden by a boy_002760.png,compbench_official_unidet_3d_spatial,0.598012,1,0,,3d_spatial,276,0,2760,ok
+3d_spatial+277,a car hidden by a suitcase,0,a car hidden by a suitcase_002770.png,compbench_official_unidet_3d_spatial,0.495020,1,0,,3d_spatial,277,0,2770,ok
+3d_spatial+278,a computer in front of a clock,0,a computer in front of a clock_002780.png,compbench_official_unidet_3d_spatial,0.288690,1,0,,3d_spatial,278,0,2780,ok
+3d_spatial+279,a mouse hidden by a dog,0,a mouse hidden by a dog_002790.png,compbench_official_unidet_3d_spatial,0.416016,1,0,,3d_spatial,279,0,2790,ok
+3d_spatial+280,a couch behind a person,0,a couch behind a person_002800.png,compbench_official_unidet_3d_spatial,0.243286,1,0,,3d_spatial,280,0,2800,ok
+3d_spatial+281,a sheep behind a phone,0,a sheep behind a phone_002810.png,compbench_official_unidet_3d_spatial,0.247437,1,0,,3d_spatial,281,0,2810,ok
+3d_spatial+282,a sheep in front of a horse,0,a sheep in front of a horse_002820.png,compbench_official_unidet_3d_spatial,0.248657,1,0,,3d_spatial,282,0,2820,ok
+3d_spatial+283,a bicycle behind a butterfly,0,a bicycle behind a butterfly_002830.png,compbench_official_unidet_3d_spatial,0.249634,1,0,,3d_spatial,283,0,2830,ok
+3d_spatial+284,a clock hidden by a sheep,0,a clock hidden by a sheep_002840.png,compbench_official_unidet_3d_spatial,0.441895,1,0,,3d_spatial,284,0,2840,ok
+3d_spatial+285,a pig in front of a television,0,a pig in front of a television_002850.png,compbench_official_unidet_3d_spatial,0.246948,1,0,,3d_spatial,285,0,2850,ok
+3d_spatial+286,a boy hidden by a horse,0,a boy hidden by a horse_002860.png,compbench_official_unidet_3d_spatial,0.591229,1,0,,3d_spatial,286,0,2860,ok
+3d_spatial+287,a key behind a candle,0,a key behind a candle_002870.png,compbench_official_unidet_3d_spatial,0.114929,1,0,,3d_spatial,287,0,2870,ok
+3d_spatial+288,a bird behind a rabbit,0,a bird behind a rabbit_002880.png,compbench_official_unidet_3d_spatial,0.555493,1,0,,3d_spatial,288,0,2880,ok
+3d_spatial+289,a mouse in front of a sofa,0,a mouse in front of a sofa_002890.png,compbench_official_unidet_3d_spatial,0.241577,1,0,,3d_spatial,289,0,2890,ok
+3d_spatial+290,a rabbit in front of a sofa,0,a rabbit in front of a sofa_002900.png,compbench_official_unidet_3d_spatial,0.617863,1,0,,3d_spatial,290,0,2900,ok
+3d_spatial+291,a cup behind a cat,0,a cup behind a cat_002910.png,compbench_official_unidet_3d_spatial,0.706096,1,0,,3d_spatial,291,0,2910,ok
+3d_spatial+292,a mouse hidden by a bee,0,a mouse hidden by a bee_002920.png,compbench_official_unidet_3d_spatial,0.240601,1,0,,3d_spatial,292,0,2920,ok
+3d_spatial+293,a cup behind a desk,0,a cup behind a desk_002930.png,compbench_official_unidet_3d_spatial,0.276062,1,0,,3d_spatial,293,0,2930,ok
+3d_spatial+294,a bird in front of a turtle,0,a bird in front of a turtle_002940.png,compbench_official_unidet_3d_spatial,0.431864,1,0,,3d_spatial,294,0,2940,ok
+3d_spatial+295,a giraffe in front of a clock,0,a giraffe in front of a clock_002950.png,compbench_official_unidet_3d_spatial,0.154785,1,0,,3d_spatial,295,0,2950,ok
+3d_spatial+296,a book in front of a candle,0,a book in front of a candle_002960.png,compbench_official_unidet_3d_spatial,0.311401,1,0,,3d_spatial,296,0,2960,ok
+3d_spatial+297,a painting in front of a pig,0,a painting in front of a pig_002970.png,compbench_official_unidet_3d_spatial,0.245605,1,0,,3d_spatial,297,0,2970,ok
+3d_spatial+298,a bird behind a car,0,a bird behind a car_002980.png,compbench_official_unidet_3d_spatial,0.309010,1,0,,3d_spatial,298,0,2980,ok
+3d_spatial+299,a fish in front of a book,0,a fish in front of a book_002990.png,compbench_official_unidet_3d_spatial,0.287292,1,0,,3d_spatial,299,0,2990,ok

@@ -1,0 +1,1001 @@
+prompt_id,prompt,seed,generated_image,metric,prediction,success,failure,error_message,category,prompt_index,repeat,global_index,status
+complex+0,The red hat was on top of the brown coat rack.,0,The red hat was on top of the brown coat rack._000000.png,compbench_official_3in1,0.330550,1,0,,complex,0,0,0,ok
+complex+0,The red hat was on top of the brown coat rack.,1,The red hat was on top of the brown coat rack._000001.png,compbench_official_3in1,0.259350,1,0,,complex,0,1,1,ok
+complex+0,The red hat was on top of the brown coat rack.,2,The red hat was on top of the brown coat rack._000002.png,compbench_official_3in1,0.165150,1,0,,complex,0,2,2,ok
+complex+0,The red hat was on top of the brown coat rack.,3,The red hat was on top of the brown coat rack._000003.png,compbench_official_3in1,0.230600,1,0,,complex,0,3,3,ok
+complex+0,The red hat was on top of the brown coat rack.,4,The red hat was on top of the brown coat rack._000004.png,compbench_official_3in1,0.167950,1,0,,complex,0,4,4,ok
+complex+0,The red hat was on top of the brown coat rack.,5,The red hat was on top of the brown coat rack._000005.png,compbench_official_3in1,0.259650,1,0,,complex,0,5,5,ok
+complex+0,The red hat was on top of the brown coat rack.,6,The red hat was on top of the brown coat rack._000006.png,compbench_official_3in1,0.200000,1,0,,complex,0,6,6,ok
+complex+0,The red hat was on top of the brown coat rack.,7,The red hat was on top of the brown coat rack._000007.png,compbench_official_3in1,0.270450,1,0,,complex,0,7,7,ok
+complex+0,The red hat was on top of the brown coat rack.,8,The red hat was on top of the brown coat rack._000008.png,compbench_official_3in1,0.337900,1,0,,complex,0,8,8,ok
+complex+0,The red hat was on top of the brown coat rack.,9,The red hat was on top of the brown coat rack._000009.png,compbench_official_3in1,0.279850,1,0,,complex,0,9,9,ok
+complex+1,The blue water bottle was on top of the red backpack.,0,The blue water bottle was on top of the red backpack._000010.png,compbench_official_3in1,0.396600,1,0,,complex,1,0,10,ok
+complex+1,The blue water bottle was on top of the red backpack.,1,The blue water bottle was on top of the red backpack._000011.png,compbench_official_3in1,0.180650,1,0,,complex,1,1,11,ok
+complex+1,The blue water bottle was on top of the red backpack.,2,The blue water bottle was on top of the red backpack._000012.png,compbench_official_3in1,0.022600,1,0,,complex,1,2,12,ok
+complex+1,The blue water bottle was on top of the red backpack.,3,The blue water bottle was on top of the red backpack._000013.png,compbench_official_3in1,0.001950,1,0,,complex,1,3,13,ok
+complex+1,The blue water bottle was on top of the red backpack.,4,The blue water bottle was on top of the red backpack._000014.png,compbench_official_3in1,0.196050,1,0,,complex,1,4,14,ok
+complex+1,The blue water bottle was on top of the red backpack.,5,The blue water bottle was on top of the red backpack._000015.png,compbench_official_3in1,0.276100,1,0,,complex,1,5,15,ok
+complex+1,The blue water bottle was on top of the red backpack.,6,The blue water bottle was on top of the red backpack._000016.png,compbench_official_3in1,0.024900,1,0,,complex,1,6,16,ok
+complex+1,The blue water bottle was on top of the red backpack.,7,The blue water bottle was on top of the red backpack._000017.png,compbench_official_3in1,0.278000,1,0,,complex,1,7,17,ok
+complex+1,The blue water bottle was on top of the red backpack.,8,The blue water bottle was on top of the red backpack._000018.png,compbench_official_3in1,0.389500,1,0,,complex,1,8,18,ok
+complex+1,The blue water bottle was on top of the red backpack.,9,The blue water bottle was on top of the red backpack._000019.png,compbench_official_3in1,0.415300,1,0,,complex,1,9,19,ok
+complex+2,The black phone was resting on the brown charger.,0,The black phone was resting on the brown charger._000020.png,compbench_official_3in1,0.169492,1,0,,complex,2,0,20,ok
+complex+2,The black phone was resting on the brown charger.,1,The black phone was resting on the brown charger._000021.png,compbench_official_3in1,0.183893,1,0,,complex,2,1,21,ok
+complex+2,The black phone was resting on the brown charger.,2,The black phone was resting on the brown charger._000022.png,compbench_official_3in1,0.488657,1,0,,complex,2,2,22,ok
+complex+2,The black phone was resting on the brown charger.,3,The black phone was resting on the brown charger._000023.png,compbench_official_3in1,0.219116,1,0,,complex,2,3,23,ok
+complex+2,The black phone was resting on the brown charger.,4,The black phone was resting on the brown charger._000024.png,compbench_official_3in1,0.148893,1,0,,complex,2,4,24,ok
+complex+2,The black phone was resting on the brown charger.,5,The black phone was resting on the brown charger._000025.png,compbench_official_3in1,0.260334,1,0,,complex,2,5,25,ok
+complex+2,The black phone was resting on the brown charger.,6,The black phone was resting on the brown charger._000026.png,compbench_official_3in1,0.163511,1,0,,complex,2,6,26,ok
+complex+2,The black phone was resting on the brown charger.,7,The black phone was resting on the brown charger._000027.png,compbench_official_3in1,0.324618,1,0,,complex,2,7,27,ok
+complex+2,The black phone was resting on the brown charger.,8,The black phone was resting on the brown charger._000028.png,compbench_official_3in1,0.202430,1,0,,complex,2,8,28,ok
+complex+2,The black phone was resting on the brown charger.,9,The black phone was resting on the brown charger._000029.png,compbench_official_3in1,0.220159,1,0,,complex,2,9,29,ok
+complex+3,The leather wallet was inside the brown purse.,0,The leather wallet was inside the brown purse._000030.png,compbench_official_3in1,0.284017,1,0,,complex,3,0,30,ok
+complex+3,The leather wallet was inside the brown purse.,1,The leather wallet was inside the brown purse._000031.png,compbench_official_3in1,0.430328,1,0,,complex,3,1,31,ok
+complex+3,The leather wallet was inside the brown purse.,2,The leather wallet was inside the brown purse._000032.png,compbench_official_3in1,0.548950,1,0,,complex,3,2,32,ok
+complex+3,The leather wallet was inside the brown purse.,3,The leather wallet was inside the brown purse._000033.png,compbench_official_3in1,0.288889,1,0,,complex,3,3,33,ok
+complex+3,The leather wallet was inside the brown purse.,4,The leather wallet was inside the brown purse._000034.png,compbench_official_3in1,0.187786,1,0,,complex,3,4,34,ok
+complex+3,The leather wallet was inside the brown purse.,5,The leather wallet was inside the brown purse._000035.png,compbench_official_3in1,0.479727,1,0,,complex,3,5,35,ok
+complex+3,The leather wallet was inside the brown purse.,6,The leather wallet was inside the brown purse._000036.png,compbench_official_3in1,0.467075,1,0,,complex,3,6,36,ok
+complex+3,The leather wallet was inside the brown purse.,7,The leather wallet was inside the brown purse._000037.png,compbench_official_3in1,0.428797,1,0,,complex,3,7,37,ok
+complex+3,The leather wallet was inside the brown purse.,8,The leather wallet was inside the brown purse._000038.png,compbench_official_3in1,0.161059,1,0,,complex,3,8,38,ok
+complex+3,The leather wallet was inside the brown purse.,9,The leather wallet was inside the brown purse._000039.png,compbench_official_3in1,0.166460,1,0,,complex,3,9,39,ok
+complex+4,The fluffy cat is on the left of the soft pillow.,0,The fluffy cat is on the left of the soft pillow._000040.png,compbench_official_3in1,0.947667,1,0,,complex,4,0,40,ok
+complex+4,The fluffy cat is on the left of the soft pillow.,1,The fluffy cat is on the left of the soft pillow._000041.png,compbench_official_3in1,0.455550,1,0,,complex,4,1,41,ok
+complex+4,The fluffy cat is on the left of the soft pillow.,2,The fluffy cat is on the left of the soft pillow._000042.png,compbench_official_3in1,0.479150,1,0,,complex,4,2,42,ok
+complex+4,The fluffy cat is on the left of the soft pillow.,3,The fluffy cat is on the left of the soft pillow._000043.png,compbench_official_3in1,0.398550,1,0,,complex,4,3,43,ok
+complex+4,The fluffy cat is on the left of the soft pillow.,4,The fluffy cat is on the left of the soft pillow._000044.png,compbench_official_3in1,0.432450,1,0,,complex,4,4,44,ok
+complex+4,The fluffy cat is on the left of the soft pillow.,5,The fluffy cat is on the left of the soft pillow._000045.png,compbench_official_3in1,0.450400,1,0,,complex,4,5,45,ok
+complex+4,The fluffy cat is on the left of the soft pillow.,6,The fluffy cat is on the left of the soft pillow._000046.png,compbench_official_3in1,0.437200,1,0,,complex,4,6,46,ok
+complex+4,The fluffy cat is on the left of the soft pillow.,7,The fluffy cat is on the left of the soft pillow._000047.png,compbench_official_3in1,0.346450,1,0,,complex,4,7,47,ok
+complex+4,The fluffy cat is on the left of the soft pillow.,8,The fluffy cat is on the left of the soft pillow._000048.png,compbench_official_3in1,0.817735,1,0,,complex,4,8,48,ok
+complex+4,The fluffy cat is on the left of the soft pillow.,9,The fluffy cat is on the left of the soft pillow._000049.png,compbench_official_3in1,0.456700,1,0,,complex,4,9,49,ok
+complex+5,The rectangular picture frame was hung above the beige couch.,0,The rectangular picture frame was hung above the beige couch._000050.png,compbench_official_3in1,0.353792,1,0,,complex,5,0,50,ok
+complex+5,The rectangular picture frame was hung above the beige couch.,1,The rectangular picture frame was hung above the beige couch._000051.png,compbench_official_3in1,0.567613,1,0,,complex,5,1,51,ok
+complex+5,The rectangular picture frame was hung above the beige couch.,2,The rectangular picture frame was hung above the beige couch._000052.png,compbench_official_3in1,0.479215,1,0,,complex,5,2,52,ok
+complex+5,The rectangular picture frame was hung above the beige couch.,3,The rectangular picture frame was hung above the beige couch._000053.png,compbench_official_3in1,0.513553,1,0,,complex,5,3,53,ok
+complex+5,The rectangular picture frame was hung above the beige couch.,4,The rectangular picture frame was hung above the beige couch._000054.png,compbench_official_3in1,0.538222,1,0,,complex,5,4,54,ok
+complex+5,The rectangular picture frame was hung above the beige couch.,5,The rectangular picture frame was hung above the beige couch._000055.png,compbench_official_3in1,0.560721,1,0,,complex,5,5,55,ok
+complex+5,The rectangular picture frame was hung above the beige couch.,6,The rectangular picture frame was hung above the beige couch._000056.png,compbench_official_3in1,0.535866,1,0,,complex,5,6,56,ok
+complex+5,The rectangular picture frame was hung above the beige couch.,7,The rectangular picture frame was hung above the beige couch._000057.png,compbench_official_3in1,0.515502,1,0,,complex,5,7,57,ok
+complex+5,The rectangular picture frame was hung above the beige couch.,8,The rectangular picture frame was hung above the beige couch._000058.png,compbench_official_3in1,0.223321,1,0,,complex,5,8,58,ok
+complex+5,The rectangular picture frame was hung above the beige couch.,9,The rectangular picture frame was hung above the beige couch._000059.png,compbench_official_3in1,0.543626,1,0,,complex,5,9,59,ok
+complex+6,The soft pillow was on top of the hard rocking chair.,0,The soft pillow was on top of the hard rocking chair._000060.png,compbench_official_3in1,0.235500,1,0,,complex,6,0,60,ok
+complex+6,The soft pillow was on top of the hard rocking chair.,1,The soft pillow was on top of the hard rocking chair._000061.png,compbench_official_3in1,0.260000,1,0,,complex,6,1,61,ok
+complex+6,The soft pillow was on top of the hard rocking chair.,2,The soft pillow was on top of the hard rocking chair._000062.png,compbench_official_3in1,0.090900,1,0,,complex,6,2,62,ok
+complex+6,The soft pillow was on top of the hard rocking chair.,3,The soft pillow was on top of the hard rocking chair._000063.png,compbench_official_3in1,0.246250,1,0,,complex,6,3,63,ok
+complex+6,The soft pillow was on top of the hard rocking chair.,4,The soft pillow was on top of the hard rocking chair._000064.png,compbench_official_3in1,0.110750,1,0,,complex,6,4,64,ok
+complex+6,The soft pillow was on top of the hard rocking chair.,5,The soft pillow was on top of the hard rocking chair._000065.png,compbench_official_3in1,0.312400,1,0,,complex,6,5,65,ok
+complex+6,The soft pillow was on top of the hard rocking chair.,6,The soft pillow was on top of the hard rocking chair._000066.png,compbench_official_3in1,0.160050,1,0,,complex,6,6,66,ok
+complex+6,The soft pillow was on top of the hard rocking chair.,7,The soft pillow was on top of the hard rocking chair._000067.png,compbench_official_3in1,0.242750,1,0,,complex,6,7,67,ok
+complex+6,The soft pillow was on top of the hard rocking chair.,8,The soft pillow was on top of the hard rocking chair._000068.png,compbench_official_3in1,0.167200,1,0,,complex,6,8,68,ok
+complex+6,The soft pillow was on top of the hard rocking chair.,9,The soft pillow was on top of the hard rocking chair._000069.png,compbench_official_3in1,0.181150,1,0,,complex,6,9,69,ok
+complex+7,The brown dog was lying on the green mat.,0,The brown dog was lying on the green mat._000070.png,compbench_official_3in1,0.569422,1,0,,complex,7,0,70,ok
+complex+7,The brown dog was lying on the green mat.,1,The brown dog was lying on the green mat._000071.png,compbench_official_3in1,0.595684,1,0,,complex,7,1,71,ok
+complex+7,The brown dog was lying on the green mat.,2,The brown dog was lying on the green mat._000072.png,compbench_official_3in1,0.580602,1,0,,complex,7,2,72,ok
+complex+7,The brown dog was lying on the green mat.,3,The brown dog was lying on the green mat._000073.png,compbench_official_3in1,0.566236,1,0,,complex,7,3,73,ok
+complex+7,The brown dog was lying on the green mat.,4,The brown dog was lying on the green mat._000074.png,compbench_official_3in1,0.570853,1,0,,complex,7,4,74,ok
+complex+7,The brown dog was lying on the green mat.,5,The brown dog was lying on the green mat._000075.png,compbench_official_3in1,0.563459,1,0,,complex,7,5,75,ok
+complex+7,The brown dog was lying on the green mat.,6,The brown dog was lying on the green mat._000076.png,compbench_official_3in1,0.548022,1,0,,complex,7,6,76,ok
+complex+7,The brown dog was lying on the green mat.,7,The brown dog was lying on the green mat._000077.png,compbench_official_3in1,0.596621,1,0,,complex,7,7,77,ok
+complex+7,The brown dog was lying on the green mat.,8,The brown dog was lying on the green mat._000078.png,compbench_official_3in1,0.603601,1,0,,complex,7,8,78,ok
+complex+7,The brown dog was lying on the green mat.,9,The brown dog was lying on the green mat._000079.png,compbench_official_3in1,0.566205,1,0,,complex,7,9,79,ok
+complex+8,The green plant was on the right of the white wall.,0,The green plant was on the right of the white wall._000080.png,compbench_official_3in1,0.438100,1,0,,complex,8,0,80,ok
+complex+8,The green plant was on the right of the white wall.,1,The green plant was on the right of the white wall._000081.png,compbench_official_3in1,0.447550,1,0,,complex,8,1,81,ok
+complex+8,The green plant was on the right of the white wall.,2,The green plant was on the right of the white wall._000082.png,compbench_official_3in1,0.414650,1,0,,complex,8,2,82,ok
+complex+8,The green plant was on the right of the white wall.,3,The green plant was on the right of the white wall._000083.png,compbench_official_3in1,0.448050,1,0,,complex,8,3,83,ok
+complex+8,The green plant was on the right of the white wall.,4,The green plant was on the right of the white wall._000084.png,compbench_official_3in1,0.425450,1,0,,complex,8,4,84,ok
+complex+8,The green plant was on the right of the white wall.,5,The green plant was on the right of the white wall._000085.png,compbench_official_3in1,0.433750,1,0,,complex,8,5,85,ok
+complex+8,The green plant was on the right of the white wall.,6,The green plant was on the right of the white wall._000086.png,compbench_official_3in1,0.442000,1,0,,complex,8,6,86,ok
+complex+8,The green plant was on the right of the white wall.,7,The green plant was on the right of the white wall._000087.png,compbench_official_3in1,0.451650,1,0,,complex,8,7,87,ok
+complex+8,The green plant was on the right of the white wall.,8,The green plant was on the right of the white wall._000088.png,compbench_official_3in1,0.462250,1,0,,complex,8,8,88,ok
+complex+8,The green plant was on the right of the white wall.,9,The green plant was on the right of the white wall._000089.png,compbench_official_3in1,0.439950,1,0,,complex,8,9,89,ok
+complex+9,The blue bowl was on top of the white placemat.,0,The blue bowl was on top of the white placemat._000090.png,compbench_official_3in1,0.381750,1,0,,complex,9,0,90,ok
+complex+9,The blue bowl was on top of the white placemat.,1,The blue bowl was on top of the white placemat._000091.png,compbench_official_3in1,0.049350,1,0,,complex,9,1,91,ok
+complex+9,The blue bowl was on top of the white placemat.,2,The blue bowl was on top of the white placemat._000092.png,compbench_official_3in1,0.009700,1,0,,complex,9,2,92,ok
+complex+9,The blue bowl was on top of the white placemat.,3,The blue bowl was on top of the white placemat._000093.png,compbench_official_3in1,0.031400,1,0,,complex,9,3,93,ok
+complex+9,The blue bowl was on top of the white placemat.,4,The blue bowl was on top of the white placemat._000094.png,compbench_official_3in1,0.035100,1,0,,complex,9,4,94,ok
+complex+9,The blue bowl was on top of the white placemat.,5,The blue bowl was on top of the white placemat._000095.png,compbench_official_3in1,0.422200,1,0,,complex,9,5,95,ok
+complex+9,The blue bowl was on top of the white placemat.,6,The blue bowl was on top of the white placemat._000096.png,compbench_official_3in1,0.032450,1,0,,complex,9,6,96,ok
+complex+9,The blue bowl was on top of the white placemat.,7,The blue bowl was on top of the white placemat._000097.png,compbench_official_3in1,0.005650,1,0,,complex,9,7,97,ok
+complex+9,The blue bowl was on top of the white placemat.,8,The blue bowl was on top of the white placemat._000098.png,compbench_official_3in1,0.183600,1,0,,complex,9,8,98,ok
+complex+9,The blue bowl was on top of the white placemat.,9,The blue bowl was on top of the white placemat._000099.png,compbench_official_3in1,0.047600,1,0,,complex,9,9,99,ok
+complex+10,The rectangular mirror was hung above the white sink.,0,The rectangular mirror was hung above the white sink._000100.png,compbench_official_3in1,0.531053,1,0,,complex,10,0,100,ok
+complex+10,The rectangular mirror was hung above the white sink.,1,The rectangular mirror was hung above the white sink._000101.png,compbench_official_3in1,0.566216,1,0,,complex,10,1,101,ok
+complex+10,The rectangular mirror was hung above the white sink.,2,The rectangular mirror was hung above the white sink._000102.png,compbench_official_3in1,0.578433,1,0,,complex,10,2,102,ok
+complex+10,The rectangular mirror was hung above the white sink.,3,The rectangular mirror was hung above the white sink._000103.png,compbench_official_3in1,0.582061,1,0,,complex,10,3,103,ok
+complex+10,The rectangular mirror was hung above the white sink.,4,The rectangular mirror was hung above the white sink._000104.png,compbench_official_3in1,0.539490,1,0,,complex,10,4,104,ok
+complex+10,The rectangular mirror was hung above the white sink.,5,The rectangular mirror was hung above the white sink._000105.png,compbench_official_3in1,0.563297,1,0,,complex,10,5,105,ok
+complex+10,The rectangular mirror was hung above the white sink.,6,The rectangular mirror was hung above the white sink._000106.png,compbench_official_3in1,0.577743,1,0,,complex,10,6,106,ok
+complex+10,The rectangular mirror was hung above the white sink.,7,The rectangular mirror was hung above the white sink._000107.png,compbench_official_3in1,0.591801,1,0,,complex,10,7,107,ok
+complex+10,The rectangular mirror was hung above the white sink.,8,The rectangular mirror was hung above the white sink._000108.png,compbench_official_3in1,0.583865,1,0,,complex,10,8,108,ok
+complex+10,The rectangular mirror was hung above the white sink.,9,The rectangular mirror was hung above the white sink._000109.png,compbench_official_3in1,0.565290,1,0,,complex,10,9,109,ok
+complex+11,The black chair is on top of the blue rug.,0,The black chair is on top of the blue rug._000110.png,compbench_official_3in1,0.358350,1,0,,complex,11,0,110,ok
+complex+11,The black chair is on top of the blue rug.,1,The black chair is on top of the blue rug._000111.png,compbench_official_3in1,0.433050,1,0,,complex,11,1,111,ok
+complex+11,The black chair is on top of the blue rug.,2,The black chair is on top of the blue rug._000112.png,compbench_official_3in1,0.397050,1,0,,complex,11,2,112,ok
+complex+11,The black chair is on top of the blue rug.,3,The black chair is on top of the blue rug._000113.png,compbench_official_3in1,0.436350,1,0,,complex,11,3,113,ok
+complex+11,The black chair is on top of the blue rug.,4,The black chair is on top of the blue rug._000114.png,compbench_official_3in1,0.277950,1,0,,complex,11,4,114,ok
+complex+11,The black chair is on top of the blue rug.,5,The black chair is on top of the blue rug._000115.png,compbench_official_3in1,0.384500,1,0,,complex,11,5,115,ok
+complex+11,The black chair is on top of the blue rug.,6,The black chair is on top of the blue rug._000116.png,compbench_official_3in1,0.300500,1,0,,complex,11,6,116,ok
+complex+11,The black chair is on top of the blue rug.,7,The black chair is on top of the blue rug._000117.png,compbench_official_3in1,0.322900,1,0,,complex,11,7,117,ok
+complex+11,The black chair is on top of the blue rug.,8,The black chair is on top of the blue rug._000118.png,compbench_official_3in1,0.406500,1,0,,complex,11,8,118,ok
+complex+11,The black chair is on top of the blue rug.,9,The black chair is on top of the blue rug._000119.png,compbench_official_3in1,0.376100,1,0,,complex,11,9,119,ok
+complex+12,The black chair was on the left of the white table.,0,The black chair was on the left of the white table._000120.png,compbench_official_3in1,0.074250,1,0,,complex,12,0,120,ok
+complex+12,The black chair was on the left of the white table.,1,The black chair was on the left of the white table._000121.png,compbench_official_3in1,0.038750,1,0,,complex,12,1,121,ok
+complex+12,The black chair was on the left of the white table.,2,The black chair was on the left of the white table._000122.png,compbench_official_3in1,0.118200,1,0,,complex,12,2,122,ok
+complex+12,The black chair was on the left of the white table.,3,The black chair was on the left of the white table._000123.png,compbench_official_3in1,0.338400,1,0,,complex,12,3,123,ok
+complex+12,The black chair was on the left of the white table.,4,The black chair was on the left of the white table._000124.png,compbench_official_3in1,0.436700,1,0,,complex,12,4,124,ok
+complex+12,The black chair was on the left of the white table.,5,The black chair was on the left of the white table._000125.png,compbench_official_3in1,0.022050,1,0,,complex,12,5,125,ok
+complex+12,The black chair was on the left of the white table.,6,The black chair was on the left of the white table._000126.png,compbench_official_3in1,0.015350,1,0,,complex,12,6,126,ok
+complex+12,The black chair was on the left of the white table.,7,The black chair was on the left of the white table._000127.png,compbench_official_3in1,0.067800,1,0,,complex,12,7,127,ok
+complex+12,The black chair was on the left of the white table.,8,The black chair was on the left of the white table._000128.png,compbench_official_3in1,0.005750,1,0,,complex,12,8,128,ok
+complex+12,The black chair was on the left of the white table.,9,The black chair was on the left of the white table._000129.png,compbench_official_3in1,0.027350,1,0,,complex,12,9,129,ok
+complex+13,The square book was next to the green notebook.,0,The square book was next to the green notebook._000130.png,compbench_official_3in1,0.251200,1,0,,complex,13,0,130,ok
+complex+13,The square book was next to the green notebook.,1,The square book was next to the green notebook._000131.png,compbench_official_3in1,0.273100,1,0,,complex,13,1,131,ok
+complex+13,The square book was next to the green notebook.,2,The square book was next to the green notebook._000132.png,compbench_official_3in1,0.280700,1,0,,complex,13,2,132,ok
+complex+13,The square book was next to the green notebook.,3,The square book was next to the green notebook._000133.png,compbench_official_3in1,0.290750,1,0,,complex,13,3,133,ok
+complex+13,The square book was next to the green notebook.,4,The square book was next to the green notebook._000134.png,compbench_official_3in1,0.245450,1,0,,complex,13,4,134,ok
+complex+13,The square book was next to the green notebook.,5,The square book was next to the green notebook._000135.png,compbench_official_3in1,0.260200,1,0,,complex,13,5,135,ok
+complex+13,The square book was next to the green notebook.,6,The square book was next to the green notebook._000136.png,compbench_official_3in1,0.286150,1,0,,complex,13,6,136,ok
+complex+13,The square book was next to the green notebook.,7,The square book was next to the green notebook._000137.png,compbench_official_3in1,0.324900,1,0,,complex,13,7,137,ok
+complex+13,The square book was next to the green notebook.,8,The square book was next to the green notebook._000138.png,compbench_official_3in1,0.358950,1,0,,complex,13,8,138,ok
+complex+13,The square book was next to the green notebook.,9,The square book was next to the green notebook._000139.png,compbench_official_3in1,0.304050,1,0,,complex,13,9,139,ok
+complex+14,The red book was on top of the yellow bookshelf.,0,The red book was on top of the yellow bookshelf._000140.png,compbench_official_3in1,0.017450,1,0,,complex,14,0,140,ok
+complex+14,The red book was on top of the yellow bookshelf.,1,The red book was on top of the yellow bookshelf._000141.png,compbench_official_3in1,0.256250,1,0,,complex,14,1,141,ok
+complex+14,The red book was on top of the yellow bookshelf.,2,The red book was on top of the yellow bookshelf._000142.png,compbench_official_3in1,0.002850,1,0,,complex,14,2,142,ok
+complex+14,The red book was on top of the yellow bookshelf.,3,The red book was on top of the yellow bookshelf._000143.png,compbench_official_3in1,0.157500,1,0,,complex,14,3,143,ok
+complex+14,The red book was on top of the yellow bookshelf.,4,The red book was on top of the yellow bookshelf._000144.png,compbench_official_3in1,0.005900,1,0,,complex,14,4,144,ok
+complex+14,The red book was on top of the yellow bookshelf.,5,The red book was on top of the yellow bookshelf._000145.png,compbench_official_3in1,0.146650,1,0,,complex,14,5,145,ok
+complex+14,The red book was on top of the yellow bookshelf.,6,The red book was on top of the yellow bookshelf._000146.png,compbench_official_3in1,0.280700,1,0,,complex,14,6,146,ok
+complex+14,The red book was on top of the yellow bookshelf.,7,The red book was on top of the yellow bookshelf._000147.png,compbench_official_3in1,0.333400,1,0,,complex,14,7,147,ok
+complex+14,The red book was on top of the yellow bookshelf.,8,The red book was on top of the yellow bookshelf._000148.png,compbench_official_3in1,0.214300,1,0,,complex,14,8,148,ok
+complex+14,The red book was on top of the yellow bookshelf.,9,The red book was on top of the yellow bookshelf._000149.png,compbench_official_3in1,0.001100,1,0,,complex,14,9,149,ok
+complex+15,The rectangular mirror was hung above the black dresser.,0,The rectangular mirror was hung above the black dresser._000150.png,compbench_official_3in1,0.484336,1,0,,complex,15,0,150,ok
+complex+15,The rectangular mirror was hung above the black dresser.,1,The rectangular mirror was hung above the black dresser._000151.png,compbench_official_3in1,0.474401,1,0,,complex,15,1,151,ok
+complex+15,The rectangular mirror was hung above the black dresser.,2,The rectangular mirror was hung above the black dresser._000152.png,compbench_official_3in1,0.307681,1,0,,complex,15,2,152,ok
+complex+15,The rectangular mirror was hung above the black dresser.,3,The rectangular mirror was hung above the black dresser._000153.png,compbench_official_3in1,0.489426,1,0,,complex,15,3,153,ok
+complex+15,The rectangular mirror was hung above the black dresser.,4,The rectangular mirror was hung above the black dresser._000154.png,compbench_official_3in1,0.401898,1,0,,complex,15,4,154,ok
+complex+15,The rectangular mirror was hung above the black dresser.,5,The rectangular mirror was hung above the black dresser._000155.png,compbench_official_3in1,0.485087,1,0,,complex,15,5,155,ok
+complex+15,The rectangular mirror was hung above the black dresser.,6,The rectangular mirror was hung above the black dresser._000156.png,compbench_official_3in1,0.396511,1,0,,complex,15,6,156,ok
+complex+15,The rectangular mirror was hung above the black dresser.,7,The rectangular mirror was hung above the black dresser._000157.png,compbench_official_3in1,0.425594,1,0,,complex,15,7,157,ok
+complex+15,The rectangular mirror was hung above the black dresser.,8,The rectangular mirror was hung above the black dresser._000158.png,compbench_official_3in1,0.448117,1,0,,complex,15,8,158,ok
+complex+15,The rectangular mirror was hung above the black dresser.,9,The rectangular mirror was hung above the black dresser._000159.png,compbench_official_3in1,0.271394,1,0,,complex,15,9,159,ok
+complex+16,The rough brick was on top of the smooth tile.,0,The rough brick was on top of the smooth tile._000160.png,compbench_official_3in1,0.026200,1,0,,complex,16,0,160,ok
+complex+16,The rough brick was on top of the smooth tile.,1,The rough brick was on top of the smooth tile._000161.png,compbench_official_3in1,0.042450,1,0,,complex,16,1,161,ok
+complex+16,The rough brick was on top of the smooth tile.,2,The rough brick was on top of the smooth tile._000162.png,compbench_official_3in1,0.036050,1,0,,complex,16,2,162,ok
+complex+16,The rough brick was on top of the smooth tile.,3,The rough brick was on top of the smooth tile._000163.png,compbench_official_3in1,0.026000,1,0,,complex,16,3,163,ok
+complex+16,The rough brick was on top of the smooth tile.,4,The rough brick was on top of the smooth tile._000164.png,compbench_official_3in1,0.037100,1,0,,complex,16,4,164,ok
+complex+16,The rough brick was on top of the smooth tile.,5,The rough brick was on top of the smooth tile._000165.png,compbench_official_3in1,0.020400,1,0,,complex,16,5,165,ok
+complex+16,The rough brick was on top of the smooth tile.,6,The rough brick was on top of the smooth tile._000166.png,compbench_official_3in1,0.050350,1,0,,complex,16,6,166,ok
+complex+16,The rough brick was on top of the smooth tile.,7,The rough brick was on top of the smooth tile._000167.png,compbench_official_3in1,0.032100,1,0,,complex,16,7,167,ok
+complex+16,The rough brick was on top of the smooth tile.,8,The rough brick was on top of the smooth tile._000168.png,compbench_official_3in1,0.028850,1,0,,complex,16,8,168,ok
+complex+16,The rough brick was on top of the smooth tile.,9,The rough brick was on top of the smooth tile._000169.png,compbench_official_3in1,0.051050,1,0,,complex,16,9,169,ok
+complex+17,The red apple was on top of the black plate.,0,The red apple was on top of the black plate._000170.png,compbench_official_3in1,0.410000,1,0,,complex,17,0,170,ok
+complex+17,The red apple was on top of the black plate.,1,The red apple was on top of the black plate._000171.png,compbench_official_3in1,0.421050,1,0,,complex,17,1,171,ok
+complex+17,The red apple was on top of the black plate.,2,The red apple was on top of the black plate._000172.png,compbench_official_3in1,0.079200,1,0,,complex,17,2,172,ok
+complex+17,The red apple was on top of the black plate.,3,The red apple was on top of the black plate._000173.png,compbench_official_3in1,0.445500,1,0,,complex,17,3,173,ok
+complex+17,The red apple was on top of the black plate.,4,The red apple was on top of the black plate._000174.png,compbench_official_3in1,0.454550,1,0,,complex,17,4,174,ok
+complex+17,The red apple was on top of the black plate.,5,The red apple was on top of the black plate._000175.png,compbench_official_3in1,0.456150,1,0,,complex,17,5,175,ok
+complex+17,The red apple was on top of the black plate.,6,The red apple was on top of the black plate._000176.png,compbench_official_3in1,0.008800,1,0,,complex,17,6,176,ok
+complex+17,The red apple was on top of the black plate.,7,The red apple was on top of the black plate._000177.png,compbench_official_3in1,0.474700,1,0,,complex,17,7,177,ok
+complex+17,The red apple was on top of the black plate.,8,The red apple was on top of the black plate._000178.png,compbench_official_3in1,0.427850,1,0,,complex,17,8,178,ok
+complex+17,The red apple was on top of the black plate.,9,The red apple was on top of the black plate._000179.png,compbench_official_3in1,0.429900,1,0,,complex,17,9,179,ok
+complex+18,The striped rug was on top of the tiled floor.,0,The striped rug was on top of the tiled floor._000180.png,compbench_official_3in1,0.311350,1,0,,complex,18,0,180,ok
+complex+18,The striped rug was on top of the tiled floor.,1,The striped rug was on top of the tiled floor._000181.png,compbench_official_3in1,0.128950,1,0,,complex,18,1,181,ok
+complex+18,The striped rug was on top of the tiled floor.,2,The striped rug was on top of the tiled floor._000182.png,compbench_official_3in1,0.048250,1,0,,complex,18,2,182,ok
+complex+18,The striped rug was on top of the tiled floor.,3,The striped rug was on top of the tiled floor._000183.png,compbench_official_3in1,0.262250,1,0,,complex,18,3,183,ok
+complex+18,The striped rug was on top of the tiled floor.,4,The striped rug was on top of the tiled floor._000184.png,compbench_official_3in1,0.105850,1,0,,complex,18,4,184,ok
+complex+18,The striped rug was on top of the tiled floor.,5,The striped rug was on top of the tiled floor._000185.png,compbench_official_3in1,0.443200,1,0,,complex,18,5,185,ok
+complex+18,The striped rug was on top of the tiled floor.,6,The striped rug was on top of the tiled floor._000186.png,compbench_official_3in1,0.469350,1,0,,complex,18,6,186,ok
+complex+18,The striped rug was on top of the tiled floor.,7,The striped rug was on top of the tiled floor._000187.png,compbench_official_3in1,0.152450,1,0,,complex,18,7,187,ok
+complex+18,The striped rug was on top of the tiled floor.,8,The striped rug was on top of the tiled floor._000188.png,compbench_official_3in1,0.386350,1,0,,complex,18,8,188,ok
+complex+18,The striped rug was on top of the tiled floor.,9,The striped rug was on top of the tiled floor._000189.png,compbench_official_3in1,0.452600,1,0,,complex,18,9,189,ok
+complex+19,The striped rug was on top of the wooden floor.,0,The striped rug was on top of the wooden floor._000190.png,compbench_official_3in1,0.422000,1,0,,complex,19,0,190,ok
+complex+19,The striped rug was on top of the wooden floor.,1,The striped rug was on top of the wooden floor._000191.png,compbench_official_3in1,0.479550,1,0,,complex,19,1,191,ok
+complex+19,The striped rug was on top of the wooden floor.,2,The striped rug was on top of the wooden floor._000192.png,compbench_official_3in1,0.443250,1,0,,complex,19,2,192,ok
+complex+19,The striped rug was on top of the wooden floor.,3,The striped rug was on top of the wooden floor._000193.png,compbench_official_3in1,0.381550,1,0,,complex,19,3,193,ok
+complex+19,The striped rug was on top of the wooden floor.,4,The striped rug was on top of the wooden floor._000194.png,compbench_official_3in1,0.479850,1,0,,complex,19,4,194,ok
+complex+19,The striped rug was on top of the wooden floor.,5,The striped rug was on top of the wooden floor._000195.png,compbench_official_3in1,0.477400,1,0,,complex,19,5,195,ok
+complex+19,The striped rug was on top of the wooden floor.,6,The striped rug was on top of the wooden floor._000196.png,compbench_official_3in1,0.472800,1,0,,complex,19,6,196,ok
+complex+19,The striped rug was on top of the wooden floor.,7,The striped rug was on top of the wooden floor._000197.png,compbench_official_3in1,0.480050,1,0,,complex,19,7,197,ok
+complex+19,The striped rug was on top of the wooden floor.,8,The striped rug was on top of the wooden floor._000198.png,compbench_official_3in1,0.440200,1,0,,complex,19,8,198,ok
+complex+19,The striped rug was on top of the wooden floor.,9,The striped rug was on top of the wooden floor._000199.png,compbench_official_3in1,0.488400,1,0,,complex,19,9,199,ok
+complex+20,The red umbrella was on top of the white coat rack.,0,The red umbrella was on top of the white coat rack._000200.png,compbench_official_3in1,0.172700,1,0,,complex,20,0,200,ok
+complex+20,The red umbrella was on top of the white coat rack.,1,The red umbrella was on top of the white coat rack._000201.png,compbench_official_3in1,0.337950,1,0,,complex,20,1,201,ok
+complex+20,The red umbrella was on top of the white coat rack.,2,The red umbrella was on top of the white coat rack._000202.png,compbench_official_3in1,0.050900,1,0,,complex,20,2,202,ok
+complex+20,The red umbrella was on top of the white coat rack.,3,The red umbrella was on top of the white coat rack._000203.png,compbench_official_3in1,0.079600,1,0,,complex,20,3,203,ok
+complex+20,The red umbrella was on top of the white coat rack.,4,The red umbrella was on top of the white coat rack._000204.png,compbench_official_3in1,0.135100,1,0,,complex,20,4,204,ok
+complex+20,The red umbrella was on top of the white coat rack.,5,The red umbrella was on top of the white coat rack._000205.png,compbench_official_3in1,0.073200,1,0,,complex,20,5,205,ok
+complex+20,The red umbrella was on top of the white coat rack.,6,The red umbrella was on top of the white coat rack._000206.png,compbench_official_3in1,0.087150,1,0,,complex,20,6,206,ok
+complex+20,The red umbrella was on top of the white coat rack.,7,The red umbrella was on top of the white coat rack._000207.png,compbench_official_3in1,0.193150,1,0,,complex,20,7,207,ok
+complex+20,The red umbrella was on top of the white coat rack.,8,The red umbrella was on top of the white coat rack._000208.png,compbench_official_3in1,0.097150,1,0,,complex,20,8,208,ok
+complex+20,The red umbrella was on top of the white coat rack.,9,The red umbrella was on top of the white coat rack._000209.png,compbench_official_3in1,0.070750,1,0,,complex,20,9,209,ok
+complex+21,The silver laptop was on top of the black desk.,0,The silver laptop was on top of the black desk._000210.png,compbench_official_3in1,0.082300,1,0,,complex,21,0,210,ok
+complex+21,The silver laptop was on top of the black desk.,1,The silver laptop was on top of the black desk._000211.png,compbench_official_3in1,0.304550,1,0,,complex,21,1,211,ok
+complex+21,The silver laptop was on top of the black desk.,2,The silver laptop was on top of the black desk._000212.png,compbench_official_3in1,0.009700,1,0,,complex,21,2,212,ok
+complex+21,The silver laptop was on top of the black desk.,3,The silver laptop was on top of the black desk._000213.png,compbench_official_3in1,0.179150,1,0,,complex,21,3,213,ok
+complex+21,The silver laptop was on top of the black desk.,4,The silver laptop was on top of the black desk._000214.png,compbench_official_3in1,0.009600,1,0,,complex,21,4,214,ok
+complex+21,The silver laptop was on top of the black desk.,5,The silver laptop was on top of the black desk._000215.png,compbench_official_3in1,0.462350,1,0,,complex,21,5,215,ok
+complex+21,The silver laptop was on top of the black desk.,6,The silver laptop was on top of the black desk._000216.png,compbench_official_3in1,0.265400,1,0,,complex,21,6,216,ok
+complex+21,The silver laptop was on top of the black desk.,7,The silver laptop was on top of the black desk._000217.png,compbench_official_3in1,0.374950,1,0,,complex,21,7,217,ok
+complex+21,The silver laptop was on top of the black desk.,8,The silver laptop was on top of the black desk._000218.png,compbench_official_3in1,0.449100,1,0,,complex,21,8,218,ok
+complex+21,The silver laptop was on top of the black desk.,9,The silver laptop was on top of the black desk._000219.png,compbench_official_3in1,0.012550,1,0,,complex,21,9,219,ok
+complex+22,The black headphones were next to the green phone.,0,The black headphones were next to the green phone._000220.png,compbench_official_3in1,0.009250,1,0,,complex,22,0,220,ok
+complex+22,The black headphones were next to the green phone.,1,The black headphones were next to the green phone._000221.png,compbench_official_3in1,0.000100,1,0,,complex,22,1,221,ok
+complex+22,The black headphones were next to the green phone.,2,The black headphones were next to the green phone._000222.png,compbench_official_3in1,0.020100,1,0,,complex,22,2,222,ok
+complex+22,The black headphones were next to the green phone.,3,The black headphones were next to the green phone._000223.png,compbench_official_3in1,0.047600,1,0,,complex,22,3,223,ok
+complex+22,The black headphones were next to the green phone.,4,The black headphones were next to the green phone._000224.png,compbench_official_3in1,0.013500,1,0,,complex,22,4,224,ok
+complex+22,The black headphones were next to the green phone.,5,The black headphones were next to the green phone._000225.png,compbench_official_3in1,0.161350,1,0,,complex,22,5,225,ok
+complex+22,The black headphones were next to the green phone.,6,The black headphones were next to the green phone._000226.png,compbench_official_3in1,0.020800,1,0,,complex,22,6,226,ok
+complex+22,The black headphones were next to the green phone.,7,The black headphones were next to the green phone._000227.png,compbench_official_3in1,0.031300,1,0,,complex,22,7,227,ok
+complex+22,The black headphones were next to the green phone.,8,The black headphones were next to the green phone._000228.png,compbench_official_3in1,0.155600,1,0,,complex,22,8,228,ok
+complex+22,The black headphones were next to the green phone.,9,The black headphones were next to the green phone._000229.png,compbench_official_3in1,0.066150,1,0,,complex,22,9,229,ok
+complex+23,The silver watch was resting on the brown nightstand.,0,The silver watch was resting on the brown nightstand._000230.png,compbench_official_3in1,0.555941,1,0,,complex,23,0,230,ok
+complex+23,The silver watch was resting on the brown nightstand.,1,The silver watch was resting on the brown nightstand._000231.png,compbench_official_3in1,0.532843,1,0,,complex,23,1,231,ok
+complex+23,The silver watch was resting on the brown nightstand.,2,The silver watch was resting on the brown nightstand._000232.png,compbench_official_3in1,0.545788,1,0,,complex,23,2,232,ok
+complex+23,The silver watch was resting on the brown nightstand.,3,The silver watch was resting on the brown nightstand._000233.png,compbench_official_3in1,0.529814,1,0,,complex,23,3,233,ok
+complex+23,The silver watch was resting on the brown nightstand.,4,The silver watch was resting on the brown nightstand._000234.png,compbench_official_3in1,0.426171,1,0,,complex,23,4,234,ok
+complex+23,The silver watch was resting on the brown nightstand.,5,The silver watch was resting on the brown nightstand._000235.png,compbench_official_3in1,0.584033,1,0,,complex,23,5,235,ok
+complex+23,The silver watch was resting on the brown nightstand.,6,The silver watch was resting on the brown nightstand._000236.png,compbench_official_3in1,0.546326,1,0,,complex,23,6,236,ok
+complex+23,The silver watch was resting on the brown nightstand.,7,The silver watch was resting on the brown nightstand._000237.png,compbench_official_3in1,0.528768,1,0,,complex,23,7,237,ok
+complex+23,The silver watch was resting on the brown nightstand.,8,The silver watch was resting on the brown nightstand._000238.png,compbench_official_3in1,0.532349,1,0,,complex,23,8,238,ok
+complex+23,The silver watch was resting on the brown nightstand.,9,The silver watch was resting on the brown nightstand._000239.png,compbench_official_3in1,0.490162,1,0,,complex,23,9,239,ok
+complex+24,The red mug was on top of the green coaster.,0,The red mug was on top of the green coaster._000240.png,compbench_official_3in1,0.431100,1,0,,complex,24,0,240,ok
+complex+24,The red mug was on top of the green coaster.,1,The red mug was on top of the green coaster._000241.png,compbench_official_3in1,0.436550,1,0,,complex,24,1,241,ok
+complex+24,The red mug was on top of the green coaster.,2,The red mug was on top of the green coaster._000242.png,compbench_official_3in1,0.378050,1,0,,complex,24,2,242,ok
+complex+24,The red mug was on top of the green coaster.,3,The red mug was on top of the green coaster._000243.png,compbench_official_3in1,0.048250,1,0,,complex,24,3,243,ok
+complex+24,The red mug was on top of the green coaster.,4,The red mug was on top of the green coaster._000244.png,compbench_official_3in1,0.437150,1,0,,complex,24,4,244,ok
+complex+24,The red mug was on top of the green coaster.,5,The red mug was on top of the green coaster._000245.png,compbench_official_3in1,0.429350,1,0,,complex,24,5,245,ok
+complex+24,The red mug was on top of the green coaster.,6,The red mug was on top of the green coaster._000246.png,compbench_official_3in1,0.023450,1,0,,complex,24,6,246,ok
+complex+24,The red mug was on top of the green coaster.,7,The red mug was on top of the green coaster._000247.png,compbench_official_3in1,0.069200,1,0,,complex,24,7,247,ok
+complex+24,The red mug was on top of the green coaster.,8,The red mug was on top of the green coaster._000248.png,compbench_official_3in1,0.417150,1,0,,complex,24,8,248,ok
+complex+24,The red mug was on top of the green coaster.,9,The red mug was on top of the green coaster._000249.png,compbench_official_3in1,0.139450,1,0,,complex,24,9,249,ok
+complex+25,The rectangular mirror was hung above the wooden dresser.,0,The rectangular mirror was hung above the wooden dresser._000250.png,compbench_official_3in1,0.174591,1,0,,complex,25,0,250,ok
+complex+25,The rectangular mirror was hung above the wooden dresser.,1,The rectangular mirror was hung above the wooden dresser._000251.png,compbench_official_3in1,0.164536,1,0,,complex,25,1,251,ok
+complex+25,The rectangular mirror was hung above the wooden dresser.,2,The rectangular mirror was hung above the wooden dresser._000252.png,compbench_official_3in1,0.388392,1,0,,complex,25,2,252,ok
+complex+25,The rectangular mirror was hung above the wooden dresser.,3,The rectangular mirror was hung above the wooden dresser._000253.png,compbench_official_3in1,0.478629,1,0,,complex,25,3,253,ok
+complex+25,The rectangular mirror was hung above the wooden dresser.,4,The rectangular mirror was hung above the wooden dresser._000254.png,compbench_official_3in1,0.489055,1,0,,complex,25,4,254,ok
+complex+25,The rectangular mirror was hung above the wooden dresser.,5,The rectangular mirror was hung above the wooden dresser._000255.png,compbench_official_3in1,0.477952,1,0,,complex,25,5,255,ok
+complex+25,The rectangular mirror was hung above the wooden dresser.,6,The rectangular mirror was hung above the wooden dresser._000256.png,compbench_official_3in1,0.242658,1,0,,complex,25,6,256,ok
+complex+25,The rectangular mirror was hung above the wooden dresser.,7,The rectangular mirror was hung above the wooden dresser._000257.png,compbench_official_3in1,0.170875,1,0,,complex,25,7,257,ok
+complex+25,The rectangular mirror was hung above the wooden dresser.,8,The rectangular mirror was hung above the wooden dresser._000258.png,compbench_official_3in1,0.166681,1,0,,complex,25,8,258,ok
+complex+25,The rectangular mirror was hung above the wooden dresser.,9,The rectangular mirror was hung above the wooden dresser._000259.png,compbench_official_3in1,0.409418,1,0,,complex,25,9,259,ok
+complex+26,The square box was next to the circular canister.,0,The square box was next to the circular canister._000260.png,compbench_official_3in1,0.196950,1,0,,complex,26,0,260,ok
+complex+26,The square box was next to the circular canister.,1,The square box was next to the circular canister._000261.png,compbench_official_3in1,0.270300,1,0,,complex,26,1,261,ok
+complex+26,The square box was next to the circular canister.,2,The square box was next to the circular canister._000262.png,compbench_official_3in1,0.147550,1,0,,complex,26,2,262,ok
+complex+26,The square box was next to the circular canister.,3,The square box was next to the circular canister._000263.png,compbench_official_3in1,0.108000,1,0,,complex,26,3,263,ok
+complex+26,The square box was next to the circular canister.,4,The square box was next to the circular canister._000264.png,compbench_official_3in1,0.039450,1,0,,complex,26,4,264,ok
+complex+26,The square box was next to the circular canister.,5,The square box was next to the circular canister._000265.png,compbench_official_3in1,0.051600,1,0,,complex,26,5,265,ok
+complex+26,The square box was next to the circular canister.,6,The square box was next to the circular canister._000266.png,compbench_official_3in1,0.147200,1,0,,complex,26,6,266,ok
+complex+26,The square box was next to the circular canister.,7,The square box was next to the circular canister._000267.png,compbench_official_3in1,0.324300,1,0,,complex,26,7,267,ok
+complex+26,The square box was next to the circular canister.,8,The square box was next to the circular canister._000268.png,compbench_official_3in1,0.152200,1,0,,complex,26,8,268,ok
+complex+26,The square box was next to the circular canister.,9,The square box was next to the circular canister._000269.png,compbench_official_3in1,0.125000,1,0,,complex,26,9,269,ok
+complex+27,The brown boots were on top of the wooden shoe rack.,0,The brown boots were on top of the wooden shoe rack._000270.png,compbench_official_3in1,0.426700,1,0,,complex,27,0,270,ok
+complex+27,The brown boots were on top of the wooden shoe rack.,1,The brown boots were on top of the wooden shoe rack._000271.png,compbench_official_3in1,0.398900,1,0,,complex,27,1,271,ok
+complex+27,The brown boots were on top of the wooden shoe rack.,2,The brown boots were on top of the wooden shoe rack._000272.png,compbench_official_3in1,0.399250,1,0,,complex,27,2,272,ok
+complex+27,The brown boots were on top of the wooden shoe rack.,3,The brown boots were on top of the wooden shoe rack._000273.png,compbench_official_3in1,0.399950,1,0,,complex,27,3,273,ok
+complex+27,The brown boots were on top of the wooden shoe rack.,4,The brown boots were on top of the wooden shoe rack._000274.png,compbench_official_3in1,0.349200,1,0,,complex,27,4,274,ok
+complex+27,The brown boots were on top of the wooden shoe rack.,5,The brown boots were on top of the wooden shoe rack._000275.png,compbench_official_3in1,0.221950,1,0,,complex,27,5,275,ok
+complex+27,The brown boots were on top of the wooden shoe rack.,6,The brown boots were on top of the wooden shoe rack._000276.png,compbench_official_3in1,0.398250,1,0,,complex,27,6,276,ok
+complex+27,The brown boots were on top of the wooden shoe rack.,7,The brown boots were on top of the wooden shoe rack._000277.png,compbench_official_3in1,0.423600,1,0,,complex,27,7,277,ok
+complex+27,The brown boots were on top of the wooden shoe rack.,8,The brown boots were on top of the wooden shoe rack._000278.png,compbench_official_3in1,0.356700,1,0,,complex,27,8,278,ok
+complex+27,The brown boots were on top of the wooden shoe rack.,9,The brown boots were on top of the wooden shoe rack._000279.png,compbench_official_3in1,0.299500,1,0,,complex,27,9,279,ok
+complex+28,The green plant was on the left of the yellow lamp.,0,The green plant was on the left of the yellow lamp._000280.png,compbench_official_3in1,0.385750,1,0,,complex,28,0,280,ok
+complex+28,The green plant was on the left of the yellow lamp.,1,The green plant was on the left of the yellow lamp._000281.png,compbench_official_3in1,0.429250,1,0,,complex,28,1,281,ok
+complex+28,The green plant was on the left of the yellow lamp.,2,The green plant was on the left of the yellow lamp._000282.png,compbench_official_3in1,0.429450,1,0,,complex,28,2,282,ok
+complex+28,The green plant was on the left of the yellow lamp.,3,The green plant was on the left of the yellow lamp._000283.png,compbench_official_3in1,0.377100,1,0,,complex,28,3,283,ok
+complex+28,The green plant was on the left of the yellow lamp.,4,The green plant was on the left of the yellow lamp._000284.png,compbench_official_3in1,0.455100,1,0,,complex,28,4,284,ok
+complex+28,The green plant was on the left of the yellow lamp.,5,The green plant was on the left of the yellow lamp._000285.png,compbench_official_3in1,0.409500,1,0,,complex,28,5,285,ok
+complex+28,The green plant was on the left of the yellow lamp.,6,The green plant was on the left of the yellow lamp._000286.png,compbench_official_3in1,0.378400,1,0,,complex,28,6,286,ok
+complex+28,The green plant was on the left of the yellow lamp.,7,The green plant was on the left of the yellow lamp._000287.png,compbench_official_3in1,0.047350,1,0,,complex,28,7,287,ok
+complex+28,The green plant was on the left of the yellow lamp.,8,The green plant was on the left of the yellow lamp._000288.png,compbench_official_3in1,0.321000,1,0,,complex,28,8,288,ok
+complex+28,The green plant was on the left of the yellow lamp.,9,The green plant was on the left of the yellow lamp._000289.png,compbench_official_3in1,0.032300,1,0,,complex,28,9,289,ok
+complex+29,The green plant is on top of the silver nightstand.,0,The green plant is on top of the silver nightstand._000290.png,compbench_official_3in1,0.388450,1,0,,complex,29,0,290,ok
+complex+29,The green plant is on top of the silver nightstand.,1,The green plant is on top of the silver nightstand._000291.png,compbench_official_3in1,0.435500,1,0,,complex,29,1,291,ok
+complex+29,The green plant is on top of the silver nightstand.,2,The green plant is on top of the silver nightstand._000292.png,compbench_official_3in1,0.425950,1,0,,complex,29,2,292,ok
+complex+29,The green plant is on top of the silver nightstand.,3,The green plant is on top of the silver nightstand._000293.png,compbench_official_3in1,0.299550,1,0,,complex,29,3,293,ok
+complex+29,The green plant is on top of the silver nightstand.,4,The green plant is on top of the silver nightstand._000294.png,compbench_official_3in1,0.215600,1,0,,complex,29,4,294,ok
+complex+29,The green plant is on top of the silver nightstand.,5,The green plant is on top of the silver nightstand._000295.png,compbench_official_3in1,0.446050,1,0,,complex,29,5,295,ok
+complex+29,The green plant is on top of the silver nightstand.,6,The green plant is on top of the silver nightstand._000296.png,compbench_official_3in1,0.389200,1,0,,complex,29,6,296,ok
+complex+29,The green plant is on top of the silver nightstand.,7,The green plant is on top of the silver nightstand._000297.png,compbench_official_3in1,0.212700,1,0,,complex,29,7,297,ok
+complex+29,The green plant is on top of the silver nightstand.,8,The green plant is on top of the silver nightstand._000298.png,compbench_official_3in1,0.374150,1,0,,complex,29,8,298,ok
+complex+29,The green plant is on top of the silver nightstand.,9,The green plant is on top of the silver nightstand._000299.png,compbench_official_3in1,0.393600,1,0,,complex,29,9,299,ok
+complex+30,The fluffy cat was lying on the soft blanket.,0,The fluffy cat was lying on the soft blanket._000300.png,compbench_official_3in1,0.613719,1,0,,complex,30,0,300,ok
+complex+30,The fluffy cat was lying on the soft blanket.,1,The fluffy cat was lying on the soft blanket._000301.png,compbench_official_3in1,0.599551,1,0,,complex,30,1,301,ok
+complex+30,The fluffy cat was lying on the soft blanket.,2,The fluffy cat was lying on the soft blanket._000302.png,compbench_official_3in1,0.605962,1,0,,complex,30,2,302,ok
+complex+30,The fluffy cat was lying on the soft blanket.,3,The fluffy cat was lying on the soft blanket._000303.png,compbench_official_3in1,0.608835,1,0,,complex,30,3,303,ok
+complex+30,The fluffy cat was lying on the soft blanket.,4,The fluffy cat was lying on the soft blanket._000304.png,compbench_official_3in1,0.615892,1,0,,complex,30,4,304,ok
+complex+30,The fluffy cat was lying on the soft blanket.,5,The fluffy cat was lying on the soft blanket._000305.png,compbench_official_3in1,0.579556,1,0,,complex,30,5,305,ok
+complex+30,The fluffy cat was lying on the soft blanket.,6,The fluffy cat was lying on the soft blanket._000306.png,compbench_official_3in1,0.605839,1,0,,complex,30,6,306,ok
+complex+30,The fluffy cat was lying on the soft blanket.,7,The fluffy cat was lying on the soft blanket._000307.png,compbench_official_3in1,0.609091,1,0,,complex,30,7,307,ok
+complex+30,The fluffy cat was lying on the soft blanket.,8,The fluffy cat was lying on the soft blanket._000308.png,compbench_official_3in1,0.595298,1,0,,complex,30,8,308,ok
+complex+30,The fluffy cat was lying on the soft blanket.,9,The fluffy cat was lying on the soft blanket._000309.png,compbench_official_3in1,0.609043,1,0,,complex,30,9,309,ok
+complex+31,The soft towel was on top of the hard counter.,0,The soft towel was on top of the hard counter._000310.png,compbench_official_3in1,0.422800,1,0,,complex,31,0,310,ok
+complex+31,The soft towel was on top of the hard counter.,1,The soft towel was on top of the hard counter._000311.png,compbench_official_3in1,0.420050,1,0,,complex,31,1,311,ok
+complex+31,The soft towel was on top of the hard counter.,2,The soft towel was on top of the hard counter._000312.png,compbench_official_3in1,0.467450,1,0,,complex,31,2,312,ok
+complex+31,The soft towel was on top of the hard counter.,3,The soft towel was on top of the hard counter._000313.png,compbench_official_3in1,0.458050,1,0,,complex,31,3,313,ok
+complex+31,The soft towel was on top of the hard counter.,4,The soft towel was on top of the hard counter._000314.png,compbench_official_3in1,0.466300,1,0,,complex,31,4,314,ok
+complex+31,The soft towel was on top of the hard counter.,5,The soft towel was on top of the hard counter._000315.png,compbench_official_3in1,0.456250,1,0,,complex,31,5,315,ok
+complex+31,The soft towel was on top of the hard counter.,6,The soft towel was on top of the hard counter._000316.png,compbench_official_3in1,0.445350,1,0,,complex,31,6,316,ok
+complex+31,The soft towel was on top of the hard counter.,7,The soft towel was on top of the hard counter._000317.png,compbench_official_3in1,0.453450,1,0,,complex,31,7,317,ok
+complex+31,The soft towel was on top of the hard counter.,8,The soft towel was on top of the hard counter._000318.png,compbench_official_3in1,0.460950,1,0,,complex,31,8,318,ok
+complex+31,The soft towel was on top of the hard counter.,9,The soft towel was on top of the hard counter._000319.png,compbench_official_3in1,0.405550,1,0,,complex,31,9,319,ok
+complex+32,The white book was on top of the blue shelf.,0,The white book was on top of the blue shelf._000320.png,compbench_official_3in1,0.414550,1,0,,complex,32,0,320,ok
+complex+32,The white book was on top of the blue shelf.,1,The white book was on top of the blue shelf._000321.png,compbench_official_3in1,0.421050,1,0,,complex,32,1,321,ok
+complex+32,The white book was on top of the blue shelf.,2,The white book was on top of the blue shelf._000322.png,compbench_official_3in1,0.295400,1,0,,complex,32,2,322,ok
+complex+32,The white book was on top of the blue shelf.,3,The white book was on top of the blue shelf._000323.png,compbench_official_3in1,0.229850,1,0,,complex,32,3,323,ok
+complex+32,The white book was on top of the blue shelf.,4,The white book was on top of the blue shelf._000324.png,compbench_official_3in1,0.257850,1,0,,complex,32,4,324,ok
+complex+32,The white book was on top of the blue shelf.,5,The white book was on top of the blue shelf._000325.png,compbench_official_3in1,0.225600,1,0,,complex,32,5,325,ok
+complex+32,The white book was on top of the blue shelf.,6,The white book was on top of the blue shelf._000326.png,compbench_official_3in1,0.244400,1,0,,complex,32,6,326,ok
+complex+32,The white book was on top of the blue shelf.,7,The white book was on top of the blue shelf._000327.png,compbench_official_3in1,0.214600,1,0,,complex,32,7,327,ok
+complex+32,The white book was on top of the blue shelf.,8,The white book was on top of the blue shelf._000328.png,compbench_official_3in1,0.048850,1,0,,complex,32,8,328,ok
+complex+32,The white book was on top of the blue shelf.,9,The white book was on top of the blue shelf._000329.png,compbench_official_3in1,0.097200,1,0,,complex,32,9,329,ok
+complex+33,The white mug is on top of the black coaster.,0,The white mug is on top of the black coaster._000330.png,compbench_official_3in1,0.092200,1,0,,complex,33,0,330,ok
+complex+33,The white mug is on top of the black coaster.,1,The white mug is on top of the black coaster._000331.png,compbench_official_3in1,0.065800,1,0,,complex,33,1,331,ok
+complex+33,The white mug is on top of the black coaster.,2,The white mug is on top of the black coaster._000332.png,compbench_official_3in1,0.064150,1,0,,complex,33,2,332,ok
+complex+33,The white mug is on top of the black coaster.,3,The white mug is on top of the black coaster._000333.png,compbench_official_3in1,0.236900,1,0,,complex,33,3,333,ok
+complex+33,The white mug is on top of the black coaster.,4,The white mug is on top of the black coaster._000334.png,compbench_official_3in1,0.074750,1,0,,complex,33,4,334,ok
+complex+33,The white mug is on top of the black coaster.,5,The white mug is on top of the black coaster._000335.png,compbench_official_3in1,0.139400,1,0,,complex,33,5,335,ok
+complex+33,The white mug is on top of the black coaster.,6,The white mug is on top of the black coaster._000336.png,compbench_official_3in1,0.067700,1,0,,complex,33,6,336,ok
+complex+33,The white mug is on top of the black coaster.,7,The white mug is on top of the black coaster._000337.png,compbench_official_3in1,0.460350,1,0,,complex,33,7,337,ok
+complex+33,The white mug is on top of the black coaster.,8,The white mug is on top of the black coaster._000338.png,compbench_official_3in1,0.479300,1,0,,complex,33,8,338,ok
+complex+33,The white mug is on top of the black coaster.,9,The white mug is on top of the black coaster._000339.png,compbench_official_3in1,0.458300,1,0,,complex,33,9,339,ok
+complex+34,The black suitcase was next to the brown briefcase.,0,The black suitcase was next to the brown briefcase._000340.png,compbench_official_3in1,0.350700,1,0,,complex,34,0,340,ok
+complex+34,The black suitcase was next to the brown briefcase.,1,The black suitcase was next to the brown briefcase._000341.png,compbench_official_3in1,0.362850,1,0,,complex,34,1,341,ok
+complex+34,The black suitcase was next to the brown briefcase.,2,The black suitcase was next to the brown briefcase._000342.png,compbench_official_3in1,0.006600,1,0,,complex,34,2,342,ok
+complex+34,The black suitcase was next to the brown briefcase.,3,The black suitcase was next to the brown briefcase._000343.png,compbench_official_3in1,0.014100,1,0,,complex,34,3,343,ok
+complex+34,The black suitcase was next to the brown briefcase.,4,The black suitcase was next to the brown briefcase._000344.png,compbench_official_3in1,0.427200,1,0,,complex,34,4,344,ok
+complex+34,The black suitcase was next to the brown briefcase.,5,The black suitcase was next to the brown briefcase._000345.png,compbench_official_3in1,0.190400,1,0,,complex,34,5,345,ok
+complex+34,The black suitcase was next to the brown briefcase.,6,The black suitcase was next to the brown briefcase._000346.png,compbench_official_3in1,0.013800,1,0,,complex,34,6,346,ok
+complex+34,The black suitcase was next to the brown briefcase.,7,The black suitcase was next to the brown briefcase._000347.png,compbench_official_3in1,0.235850,1,0,,complex,34,7,347,ok
+complex+34,The black suitcase was next to the brown briefcase.,8,The black suitcase was next to the brown briefcase._000348.png,compbench_official_3in1,0.334500,1,0,,complex,34,8,348,ok
+complex+34,The black suitcase was next to the brown briefcase.,9,The black suitcase was next to the brown briefcase._000349.png,compbench_official_3in1,0.397850,1,0,,complex,34,9,349,ok
+complex+35,The round clock was on the right of the wooden picture frame.,0,The round clock was on the right of the wooden picture frame._000350.png,compbench_official_3in1,0.119700,1,0,,complex,35,0,350,ok
+complex+35,The round clock was on the right of the wooden picture frame.,1,The round clock was on the right of the wooden picture frame._000351.png,compbench_official_3in1,0.256750,1,0,,complex,35,1,351,ok
+complex+35,The round clock was on the right of the wooden picture frame.,2,The round clock was on the right of the wooden picture frame._000352.png,compbench_official_3in1,0.320800,1,0,,complex,35,2,352,ok
+complex+35,The round clock was on the right of the wooden picture frame.,3,The round clock was on the right of the wooden picture frame._000353.png,compbench_official_3in1,0.187600,1,0,,complex,35,3,353,ok
+complex+35,The round clock was on the right of the wooden picture frame.,4,The round clock was on the right of the wooden picture frame._000354.png,compbench_official_3in1,0.079400,1,0,,complex,35,4,354,ok
+complex+35,The round clock was on the right of the wooden picture frame.,5,The round clock was on the right of the wooden picture frame._000355.png,compbench_official_3in1,0.236600,1,0,,complex,35,5,355,ok
+complex+35,The round clock was on the right of the wooden picture frame.,6,The round clock was on the right of the wooden picture frame._000356.png,compbench_official_3in1,0.229400,1,0,,complex,35,6,356,ok
+complex+35,The round clock was on the right of the wooden picture frame.,7,The round clock was on the right of the wooden picture frame._000357.png,compbench_official_3in1,0.090000,1,0,,complex,35,7,357,ok
+complex+35,The round clock was on the right of the wooden picture frame.,8,The round clock was on the right of the wooden picture frame._000358.png,compbench_official_3in1,0.025850,1,0,,complex,35,8,358,ok
+complex+35,The round clock was on the right of the wooden picture frame.,9,The round clock was on the right of the wooden picture frame._000359.png,compbench_official_3in1,0.097000,1,0,,complex,35,9,359,ok
+complex+36,The round clock was on the left of the rectangular picture frame.,0,The round clock was on the left of the rectangular picture frame._000360.png,compbench_official_3in1,0.247950,1,0,,complex,36,0,360,ok
+complex+36,The round clock was on the left of the rectangular picture frame.,1,The round clock was on the left of the rectangular picture frame._000361.png,compbench_official_3in1,0.155900,1,0,,complex,36,1,361,ok
+complex+36,The round clock was on the left of the rectangular picture frame.,2,The round clock was on the left of the rectangular picture frame._000362.png,compbench_official_3in1,0.049950,1,0,,complex,36,2,362,ok
+complex+36,The round clock was on the left of the rectangular picture frame.,3,The round clock was on the left of the rectangular picture frame._000363.png,compbench_official_3in1,0.188400,1,0,,complex,36,3,363,ok
+complex+36,The round clock was on the left of the rectangular picture frame.,4,The round clock was on the left of the rectangular picture frame._000364.png,compbench_official_3in1,0.024650,1,0,,complex,36,4,364,ok
+complex+36,The round clock was on the left of the rectangular picture frame.,5,The round clock was on the left of the rectangular picture frame._000365.png,compbench_official_3in1,0.299300,1,0,,complex,36,5,365,ok
+complex+36,The round clock was on the left of the rectangular picture frame.,6,The round clock was on the left of the rectangular picture frame._000366.png,compbench_official_3in1,0.112750,1,0,,complex,36,6,366,ok
+complex+36,The round clock was on the left of the rectangular picture frame.,7,The round clock was on the left of the rectangular picture frame._000367.png,compbench_official_3in1,0.201700,1,0,,complex,36,7,367,ok
+complex+36,The round clock was on the left of the rectangular picture frame.,8,The round clock was on the left of the rectangular picture frame._000368.png,compbench_official_3in1,0.335400,1,0,,complex,36,8,368,ok
+complex+36,The round clock was on the left of the rectangular picture frame.,9,The round clock was on the left of the rectangular picture frame._000369.png,compbench_official_3in1,0.025250,1,0,,complex,36,9,369,ok
+complex+37,The black pencil was next to the green notebook.,0,The black pencil was next to the green notebook._000370.png,compbench_official_3in1,0.111050,1,0,,complex,37,0,370,ok
+complex+37,The black pencil was next to the green notebook.,1,The black pencil was next to the green notebook._000371.png,compbench_official_3in1,0.320100,1,0,,complex,37,1,371,ok
+complex+37,The black pencil was next to the green notebook.,2,The black pencil was next to the green notebook._000372.png,compbench_official_3in1,0.362650,1,0,,complex,37,2,372,ok
+complex+37,The black pencil was next to the green notebook.,3,The black pencil was next to the green notebook._000373.png,compbench_official_3in1,0.030050,1,0,,complex,37,3,373,ok
+complex+37,The black pencil was next to the green notebook.,4,The black pencil was next to the green notebook._000374.png,compbench_official_3in1,0.426700,1,0,,complex,37,4,374,ok
+complex+37,The black pencil was next to the green notebook.,5,The black pencil was next to the green notebook._000375.png,compbench_official_3in1,0.329600,1,0,,complex,37,5,375,ok
+complex+37,The black pencil was next to the green notebook.,6,The black pencil was next to the green notebook._000376.png,compbench_official_3in1,0.364300,1,0,,complex,37,6,376,ok
+complex+37,The black pencil was next to the green notebook.,7,The black pencil was next to the green notebook._000377.png,compbench_official_3in1,0.361750,1,0,,complex,37,7,377,ok
+complex+37,The black pencil was next to the green notebook.,8,The black pencil was next to the green notebook._000378.png,compbench_official_3in1,0.398450,1,0,,complex,37,8,378,ok
+complex+37,The black pencil was next to the green notebook.,9,The black pencil was next to the green notebook._000379.png,compbench_official_3in1,0.426850,1,0,,complex,37,9,379,ok
+complex+38,The rectangular book was on top of the black shelf.,0,The rectangular book was on top of the black shelf._000380.png,compbench_official_3in1,0.233500,1,0,,complex,38,0,380,ok
+complex+38,The rectangular book was on top of the black shelf.,1,The rectangular book was on top of the black shelf._000381.png,compbench_official_3in1,0.146200,1,0,,complex,38,1,381,ok
+complex+38,The rectangular book was on top of the black shelf.,2,The rectangular book was on top of the black shelf._000382.png,compbench_official_3in1,0.063650,1,0,,complex,38,2,382,ok
+complex+38,The rectangular book was on top of the black shelf.,3,The rectangular book was on top of the black shelf._000383.png,compbench_official_3in1,0.109750,1,0,,complex,38,3,383,ok
+complex+38,The rectangular book was on top of the black shelf.,4,The rectangular book was on top of the black shelf._000384.png,compbench_official_3in1,0.015800,1,0,,complex,38,4,384,ok
+complex+38,The rectangular book was on top of the black shelf.,5,The rectangular book was on top of the black shelf._000385.png,compbench_official_3in1,0.011650,1,0,,complex,38,5,385,ok
+complex+38,The rectangular book was on top of the black shelf.,6,The rectangular book was on top of the black shelf._000386.png,compbench_official_3in1,0.194450,1,0,,complex,38,6,386,ok
+complex+38,The rectangular book was on top of the black shelf.,7,The rectangular book was on top of the black shelf._000387.png,compbench_official_3in1,0.002550,1,0,,complex,38,7,387,ok
+complex+38,The rectangular book was on top of the black shelf.,8,The rectangular book was on top of the black shelf._000388.png,compbench_official_3in1,0.077250,1,0,,complex,38,8,388,ok
+complex+38,The rectangular book was on top of the black shelf.,9,The rectangular book was on top of the black shelf._000389.png,compbench_official_3in1,0.041850,1,0,,complex,38,9,389,ok
+complex+39,The red apple was next to the oval plate.,0,The red apple was next to the oval plate._000390.png,compbench_official_3in1,0.374300,1,0,,complex,39,0,390,ok
+complex+39,The red apple was next to the oval plate.,1,The red apple was next to the oval plate._000391.png,compbench_official_3in1,0.371950,1,0,,complex,39,1,391,ok
+complex+39,The red apple was next to the oval plate.,2,The red apple was next to the oval plate._000392.png,compbench_official_3in1,0.367300,1,0,,complex,39,2,392,ok
+complex+39,The red apple was next to the oval plate.,3,The red apple was next to the oval plate._000393.png,compbench_official_3in1,0.407900,1,0,,complex,39,3,393,ok
+complex+39,The red apple was next to the oval plate.,4,The red apple was next to the oval plate._000394.png,compbench_official_3in1,0.372650,1,0,,complex,39,4,394,ok
+complex+39,The red apple was next to the oval plate.,5,The red apple was next to the oval plate._000395.png,compbench_official_3in1,0.318950,1,0,,complex,39,5,395,ok
+complex+39,The red apple was next to the oval plate.,6,The red apple was next to the oval plate._000396.png,compbench_official_3in1,0.307450,1,0,,complex,39,6,396,ok
+complex+39,The red apple was next to the oval plate.,7,The red apple was next to the oval plate._000397.png,compbench_official_3in1,0.356650,1,0,,complex,39,7,397,ok
+complex+39,The red apple was next to the oval plate.,8,The red apple was next to the oval plate._000398.png,compbench_official_3in1,0.360650,1,0,,complex,39,8,398,ok
+complex+39,The red apple was next to the oval plate.,9,The red apple was next to the oval plate._000399.png,compbench_official_3in1,0.300100,1,0,,complex,39,9,399,ok
+complex+40,The black camera was next to the white tripod.,0,The black camera was next to the white tripod._000400.png,compbench_official_3in1,0.526619,1,0,,complex,40,0,400,ok
+complex+40,The black camera was next to the white tripod.,1,The black camera was next to the white tripod._000401.png,compbench_official_3in1,0.687751,1,0,,complex,40,1,401,ok
+complex+40,The black camera was next to the white tripod.,2,The black camera was next to the white tripod._000402.png,compbench_official_3in1,0.602735,1,0,,complex,40,2,402,ok
+complex+40,The black camera was next to the white tripod.,3,The black camera was next to the white tripod._000403.png,compbench_official_3in1,0.586830,1,0,,complex,40,3,403,ok
+complex+40,The black camera was next to the white tripod.,4,The black camera was next to the white tripod._000404.png,compbench_official_3in1,0.499824,1,0,,complex,40,4,404,ok
+complex+40,The black camera was next to the white tripod.,5,The black camera was next to the white tripod._000405.png,compbench_official_3in1,0.586061,1,0,,complex,40,5,405,ok
+complex+40,The black camera was next to the white tripod.,6,The black camera was next to the white tripod._000406.png,compbench_official_3in1,0.549557,1,0,,complex,40,6,406,ok
+complex+40,The black camera was next to the white tripod.,7,The black camera was next to the white tripod._000407.png,compbench_official_3in1,0.522926,1,0,,complex,40,7,407,ok
+complex+40,The black camera was next to the white tripod.,8,The black camera was next to the white tripod._000408.png,compbench_official_3in1,0.779473,1,0,,complex,40,8,408,ok
+complex+40,The black camera was next to the white tripod.,9,The black camera was next to the white tripod._000409.png,compbench_official_3in1,0.825061,1,0,,complex,40,9,409,ok
+complex+41,The white shirt was on top of the blue pants.,0,The white shirt was on top of the blue pants._000410.png,compbench_official_3in1,0.111700,1,0,,complex,41,0,410,ok
+complex+41,The white shirt was on top of the blue pants.,1,The white shirt was on top of the blue pants._000411.png,compbench_official_3in1,0.411150,1,0,,complex,41,1,411,ok
+complex+41,The white shirt was on top of the blue pants.,2,The white shirt was on top of the blue pants._000412.png,compbench_official_3in1,0.434250,1,0,,complex,41,2,412,ok
+complex+41,The white shirt was on top of the blue pants.,3,The white shirt was on top of the blue pants._000413.png,compbench_official_3in1,0.428900,1,0,,complex,41,3,413,ok
+complex+41,The white shirt was on top of the blue pants.,4,The white shirt was on top of the blue pants._000414.png,compbench_official_3in1,0.447800,1,0,,complex,41,4,414,ok
+complex+41,The white shirt was on top of the blue pants.,5,The white shirt was on top of the blue pants._000415.png,compbench_official_3in1,0.007600,1,0,,complex,41,5,415,ok
+complex+41,The white shirt was on top of the blue pants.,6,The white shirt was on top of the blue pants._000416.png,compbench_official_3in1,0.466250,1,0,,complex,41,6,416,ok
+complex+41,The white shirt was on top of the blue pants.,7,The white shirt was on top of the blue pants._000417.png,compbench_official_3in1,0.412600,1,0,,complex,41,7,417,ok
+complex+41,The white shirt was on top of the blue pants.,8,The white shirt was on top of the blue pants._000418.png,compbench_official_3in1,0.438550,1,0,,complex,41,8,418,ok
+complex+41,The white shirt was on top of the blue pants.,9,The white shirt was on top of the blue pants._000419.png,compbench_official_3in1,0.002500,1,0,,complex,41,9,419,ok
+complex+42,The white cat is lying on the brown sofa.,0,The white cat is lying on the brown sofa._000420.png,compbench_official_3in1,0.595776,1,0,,complex,42,0,420,ok
+complex+42,The white cat is lying on the brown sofa.,1,The white cat is lying on the brown sofa._000421.png,compbench_official_3in1,0.593195,1,0,,complex,42,1,421,ok
+complex+42,The white cat is lying on the brown sofa.,2,The white cat is lying on the brown sofa._000422.png,compbench_official_3in1,0.553558,1,0,,complex,42,2,422,ok
+complex+42,The white cat is lying on the brown sofa.,3,The white cat is lying on the brown sofa._000423.png,compbench_official_3in1,0.595313,1,0,,complex,42,3,423,ok
+complex+42,The white cat is lying on the brown sofa.,4,The white cat is lying on the brown sofa._000424.png,compbench_official_3in1,0.534484,1,0,,complex,42,4,424,ok
+complex+42,The white cat is lying on the brown sofa.,5,The white cat is lying on the brown sofa._000425.png,compbench_official_3in1,0.568840,1,0,,complex,42,5,425,ok
+complex+42,The white cat is lying on the brown sofa.,6,The white cat is lying on the brown sofa._000426.png,compbench_official_3in1,0.578416,1,0,,complex,42,6,426,ok
+complex+42,The white cat is lying on the brown sofa.,7,The white cat is lying on the brown sofa._000427.png,compbench_official_3in1,0.551751,1,0,,complex,42,7,427,ok
+complex+42,The white cat is lying on the brown sofa.,8,The white cat is lying on the brown sofa._000428.png,compbench_official_3in1,0.573646,1,0,,complex,42,8,428,ok
+complex+42,The white cat is lying on the brown sofa.,9,The white cat is lying on the brown sofa._000429.png,compbench_official_3in1,0.584939,1,0,,complex,42,9,429,ok
+complex+43,The green plant was on top of the wooden shelf.,0,The green plant was on top of the wooden shelf._000430.png,compbench_official_3in1,0.448200,1,0,,complex,43,0,430,ok
+complex+43,The green plant was on top of the wooden shelf.,1,The green plant was on top of the wooden shelf._000431.png,compbench_official_3in1,0.427550,1,0,,complex,43,1,431,ok
+complex+43,The green plant was on top of the wooden shelf.,2,The green plant was on top of the wooden shelf._000432.png,compbench_official_3in1,0.421850,1,0,,complex,43,2,432,ok
+complex+43,The green plant was on top of the wooden shelf.,3,The green plant was on top of the wooden shelf._000433.png,compbench_official_3in1,0.422200,1,0,,complex,43,3,433,ok
+complex+43,The green plant was on top of the wooden shelf.,4,The green plant was on top of the wooden shelf._000434.png,compbench_official_3in1,0.428800,1,0,,complex,43,4,434,ok
+complex+43,The green plant was on top of the wooden shelf.,5,The green plant was on top of the wooden shelf._000435.png,compbench_official_3in1,0.425850,1,0,,complex,43,5,435,ok
+complex+43,The green plant was on top of the wooden shelf.,6,The green plant was on top of the wooden shelf._000436.png,compbench_official_3in1,0.372950,1,0,,complex,43,6,436,ok
+complex+43,The green plant was on top of the wooden shelf.,7,The green plant was on top of the wooden shelf._000437.png,compbench_official_3in1,0.455600,1,0,,complex,43,7,437,ok
+complex+43,The green plant was on top of the wooden shelf.,8,The green plant was on top of the wooden shelf._000438.png,compbench_official_3in1,0.431750,1,0,,complex,43,8,438,ok
+complex+43,The green plant was on top of the wooden shelf.,9,The green plant was on top of the wooden shelf._000439.png,compbench_official_3in1,0.427350,1,0,,complex,43,9,439,ok
+complex+44,The black chair was next to the silver table.,0,The black chair was next to the silver table._000440.png,compbench_official_3in1,0.008900,1,0,,complex,44,0,440,ok
+complex+44,The black chair was next to the silver table.,1,The black chair was next to the silver table._000441.png,compbench_official_3in1,0.163250,1,0,,complex,44,1,441,ok
+complex+44,The black chair was next to the silver table.,2,The black chair was next to the silver table._000442.png,compbench_official_3in1,0.450250,1,0,,complex,44,2,442,ok
+complex+44,The black chair was next to the silver table.,3,The black chair was next to the silver table._000443.png,compbench_official_3in1,0.007550,1,0,,complex,44,3,443,ok
+complex+44,The black chair was next to the silver table.,4,The black chair was next to the silver table._000444.png,compbench_official_3in1,0.120450,1,0,,complex,44,4,444,ok
+complex+44,The black chair was next to the silver table.,5,The black chair was next to the silver table._000445.png,compbench_official_3in1,0.423050,1,0,,complex,44,5,445,ok
+complex+44,The black chair was next to the silver table.,6,The black chair was next to the silver table._000446.png,compbench_official_3in1,0.241800,1,0,,complex,44,6,446,ok
+complex+44,The black chair was next to the silver table.,7,The black chair was next to the silver table._000447.png,compbench_official_3in1,0.032100,1,0,,complex,44,7,447,ok
+complex+44,The black chair was next to the silver table.,8,The black chair was next to the silver table._000448.png,compbench_official_3in1,0.003850,1,0,,complex,44,8,448,ok
+complex+44,The black chair was next to the silver table.,9,The black chair was next to the silver table._000449.png,compbench_official_3in1,0.318000,1,0,,complex,44,9,449,ok
+complex+45,The green plant was on the left of the white lamp.,0,The green plant was on the left of the white lamp._000450.png,compbench_official_3in1,0.451800,1,0,,complex,45,0,450,ok
+complex+45,The green plant was on the left of the white lamp.,1,The green plant was on the left of the white lamp._000451.png,compbench_official_3in1,0.385150,1,0,,complex,45,1,451,ok
+complex+45,The green plant was on the left of the white lamp.,2,The green plant was on the left of the white lamp._000452.png,compbench_official_3in1,0.398300,1,0,,complex,45,2,452,ok
+complex+45,The green plant was on the left of the white lamp.,3,The green plant was on the left of the white lamp._000453.png,compbench_official_3in1,0.062150,1,0,,complex,45,3,453,ok
+complex+45,The green plant was on the left of the white lamp.,4,The green plant was on the left of the white lamp._000454.png,compbench_official_3in1,0.304700,1,0,,complex,45,4,454,ok
+complex+45,The green plant was on the left of the white lamp.,5,The green plant was on the left of the white lamp._000455.png,compbench_official_3in1,0.429050,1,0,,complex,45,5,455,ok
+complex+45,The green plant was on the left of the white lamp.,6,The green plant was on the left of the white lamp._000456.png,compbench_official_3in1,0.389950,1,0,,complex,45,6,456,ok
+complex+45,The green plant was on the left of the white lamp.,7,The green plant was on the left of the white lamp._000457.png,compbench_official_3in1,0.015850,1,0,,complex,45,7,457,ok
+complex+45,The green plant was on the left of the white lamp.,8,The green plant was on the left of the white lamp._000458.png,compbench_official_3in1,0.385550,1,0,,complex,45,8,458,ok
+complex+45,The green plant was on the left of the white lamp.,9,The green plant was on the left of the white lamp._000459.png,compbench_official_3in1,0.413100,1,0,,complex,45,9,459,ok
+complex+46,The green plant was next to the white vase.,0,The green plant was next to the white vase._000460.png,compbench_official_3in1,0.452450,1,0,,complex,46,0,460,ok
+complex+46,The green plant was next to the white vase.,1,The green plant was next to the white vase._000461.png,compbench_official_3in1,0.450300,1,0,,complex,46,1,461,ok
+complex+46,The green plant was next to the white vase.,2,The green plant was next to the white vase._000462.png,compbench_official_3in1,0.456200,1,0,,complex,46,2,462,ok
+complex+46,The green plant was next to the white vase.,3,The green plant was next to the white vase._000463.png,compbench_official_3in1,0.455950,1,0,,complex,46,3,463,ok
+complex+46,The green plant was next to the white vase.,4,The green plant was next to the white vase._000464.png,compbench_official_3in1,0.458000,1,0,,complex,46,4,464,ok
+complex+46,The green plant was next to the white vase.,5,The green plant was next to the white vase._000465.png,compbench_official_3in1,0.453350,1,0,,complex,46,5,465,ok
+complex+46,The green plant was next to the white vase.,6,The green plant was next to the white vase._000466.png,compbench_official_3in1,0.455000,1,0,,complex,46,6,466,ok
+complex+46,The green plant was next to the white vase.,7,The green plant was next to the white vase._000467.png,compbench_official_3in1,0.432400,1,0,,complex,46,7,467,ok
+complex+46,The green plant was next to the white vase.,8,The green plant was next to the white vase._000468.png,compbench_official_3in1,0.451200,1,0,,complex,46,8,468,ok
+complex+46,The green plant was next to the white vase.,9,The green plant was next to the white vase._000469.png,compbench_official_3in1,0.463800,1,0,,complex,46,9,469,ok
+complex+47,The oval mirror is hung above the white sink.,0,The oval mirror is hung above the white sink._000470.png,compbench_official_3in1,0.552787,1,0,,complex,47,0,470,ok
+complex+47,The oval mirror is hung above the white sink.,1,The oval mirror is hung above the white sink._000471.png,compbench_official_3in1,0.514715,1,0,,complex,47,1,471,ok
+complex+47,The oval mirror is hung above the white sink.,2,The oval mirror is hung above the white sink._000472.png,compbench_official_3in1,0.583369,1,0,,complex,47,2,472,ok
+complex+47,The oval mirror is hung above the white sink.,3,The oval mirror is hung above the white sink._000473.png,compbench_official_3in1,0.576947,1,0,,complex,47,3,473,ok
+complex+47,The oval mirror is hung above the white sink.,4,The oval mirror is hung above the white sink._000474.png,compbench_official_3in1,0.584271,1,0,,complex,47,4,474,ok
+complex+47,The oval mirror is hung above the white sink.,5,The oval mirror is hung above the white sink._000475.png,compbench_official_3in1,0.570822,1,0,,complex,47,5,475,ok
+complex+47,The oval mirror is hung above the white sink.,6,The oval mirror is hung above the white sink._000476.png,compbench_official_3in1,0.388387,1,0,,complex,47,6,476,ok
+complex+47,The oval mirror is hung above the white sink.,7,The oval mirror is hung above the white sink._000477.png,compbench_official_3in1,0.599916,1,0,,complex,47,7,477,ok
+complex+47,The oval mirror is hung above the white sink.,8,The oval mirror is hung above the white sink._000478.png,compbench_official_3in1,0.605291,1,0,,complex,47,8,478,ok
+complex+47,The oval mirror is hung above the white sink.,9,The oval mirror is hung above the white sink._000479.png,compbench_official_3in1,0.555925,1,0,,complex,47,9,479,ok
+complex+48,The yellow pencil was next to the blue pen.,0,The yellow pencil was next to the blue pen._000480.png,compbench_official_3in1,0.175500,1,0,,complex,48,0,480,ok
+complex+48,The yellow pencil was next to the blue pen.,1,The yellow pencil was next to the blue pen._000481.png,compbench_official_3in1,0.037500,1,0,,complex,48,1,481,ok
+complex+48,The yellow pencil was next to the blue pen.,2,The yellow pencil was next to the blue pen._000482.png,compbench_official_3in1,0.171350,1,0,,complex,48,2,482,ok
+complex+48,The yellow pencil was next to the blue pen.,3,The yellow pencil was next to the blue pen._000483.png,compbench_official_3in1,0.002500,1,0,,complex,48,3,483,ok
+complex+48,The yellow pencil was next to the blue pen.,4,The yellow pencil was next to the blue pen._000484.png,compbench_official_3in1,0.003150,1,0,,complex,48,4,484,ok
+complex+48,The yellow pencil was next to the blue pen.,5,The yellow pencil was next to the blue pen._000485.png,compbench_official_3in1,0.076050,1,0,,complex,48,5,485,ok
+complex+48,The yellow pencil was next to the blue pen.,6,The yellow pencil was next to the blue pen._000486.png,compbench_official_3in1,0.002000,1,0,,complex,48,6,486,ok
+complex+48,The yellow pencil was next to the blue pen.,7,The yellow pencil was next to the blue pen._000487.png,compbench_official_3in1,0.040000,1,0,,complex,48,7,487,ok
+complex+48,The yellow pencil was next to the blue pen.,8,The yellow pencil was next to the blue pen._000488.png,compbench_official_3in1,0.005500,1,0,,complex,48,8,488,ok
+complex+48,The yellow pencil was next to the blue pen.,9,The yellow pencil was next to the blue pen._000489.png,compbench_official_3in1,0.000650,1,0,,complex,48,9,489,ok
+complex+49,The rectangular mirror was hung above the blue sink.,0,The rectangular mirror was hung above the blue sink._000490.png,compbench_official_3in1,0.139476,1,0,,complex,49,0,490,ok
+complex+49,The rectangular mirror was hung above the blue sink.,1,The rectangular mirror was hung above the blue sink._000491.png,compbench_official_3in1,0.530582,1,0,,complex,49,1,491,ok
+complex+49,The rectangular mirror was hung above the blue sink.,2,The rectangular mirror was hung above the blue sink._000492.png,compbench_official_3in1,0.484486,1,0,,complex,49,2,492,ok
+complex+49,The rectangular mirror was hung above the blue sink.,3,The rectangular mirror was hung above the blue sink._000493.png,compbench_official_3in1,0.150943,1,0,,complex,49,3,493,ok
+complex+49,The rectangular mirror was hung above the blue sink.,4,The rectangular mirror was hung above the blue sink._000494.png,compbench_official_3in1,0.158016,1,0,,complex,49,4,494,ok
+complex+49,The rectangular mirror was hung above the blue sink.,5,The rectangular mirror was hung above the blue sink._000495.png,compbench_official_3in1,0.504925,1,0,,complex,49,5,495,ok
+complex+49,The rectangular mirror was hung above the blue sink.,6,The rectangular mirror was hung above the blue sink._000496.png,compbench_official_3in1,0.148881,1,0,,complex,49,6,496,ok
+complex+49,The rectangular mirror was hung above the blue sink.,7,The rectangular mirror was hung above the blue sink._000497.png,compbench_official_3in1,0.152617,1,0,,complex,49,7,497,ok
+complex+49,The rectangular mirror was hung above the blue sink.,8,The rectangular mirror was hung above the blue sink._000498.png,compbench_official_3in1,0.135148,1,0,,complex,49,8,498,ok
+complex+49,The rectangular mirror was hung above the blue sink.,9,The rectangular mirror was hung above the blue sink._000499.png,compbench_official_3in1,0.146598,1,0,,complex,49,9,499,ok
+complex+50,The pink phone case was resting on the white nightstand.,0,The pink phone case was resting on the white nightstand._000500.png,compbench_official_3in1,0.511077,1,0,,complex,50,0,500,ok
+complex+50,The pink phone case was resting on the white nightstand.,1,The pink phone case was resting on the white nightstand._000501.png,compbench_official_3in1,0.435028,1,0,,complex,50,1,501,ok
+complex+50,The pink phone case was resting on the white nightstand.,2,The pink phone case was resting on the white nightstand._000502.png,compbench_official_3in1,0.480625,1,0,,complex,50,2,502,ok
+complex+50,The pink phone case was resting on the white nightstand.,3,The pink phone case was resting on the white nightstand._000503.png,compbench_official_3in1,0.538624,1,0,,complex,50,3,503,ok
+complex+50,The pink phone case was resting on the white nightstand.,4,The pink phone case was resting on the white nightstand._000504.png,compbench_official_3in1,0.515393,1,0,,complex,50,4,504,ok
+complex+50,The pink phone case was resting on the white nightstand.,5,The pink phone case was resting on the white nightstand._000505.png,compbench_official_3in1,0.529476,1,0,,complex,50,5,505,ok
+complex+50,The pink phone case was resting on the white nightstand.,6,The pink phone case was resting on the white nightstand._000506.png,compbench_official_3in1,0.532393,1,0,,complex,50,6,506,ok
+complex+50,The pink phone case was resting on the white nightstand.,7,The pink phone case was resting on the white nightstand._000507.png,compbench_official_3in1,0.553975,1,0,,complex,50,7,507,ok
+complex+50,The pink phone case was resting on the white nightstand.,8,The pink phone case was resting on the white nightstand._000508.png,compbench_official_3in1,0.449619,1,0,,complex,50,8,508,ok
+complex+50,The pink phone case was resting on the white nightstand.,9,The pink phone case was resting on the white nightstand._000509.png,compbench_official_3in1,0.485354,1,0,,complex,50,9,509,ok
+complex+51,The rectangular mirror was hung above the wooden shelf.,0,The rectangular mirror was hung above the wooden shelf._000510.png,compbench_official_3in1,0.546022,1,0,,complex,51,0,510,ok
+complex+51,The rectangular mirror was hung above the wooden shelf.,1,The rectangular mirror was hung above the wooden shelf._000511.png,compbench_official_3in1,0.519066,1,0,,complex,51,1,511,ok
+complex+51,The rectangular mirror was hung above the wooden shelf.,2,The rectangular mirror was hung above the wooden shelf._000512.png,compbench_official_3in1,0.530042,1,0,,complex,51,2,512,ok
+complex+51,The rectangular mirror was hung above the wooden shelf.,3,The rectangular mirror was hung above the wooden shelf._000513.png,compbench_official_3in1,0.253098,1,0,,complex,51,3,513,ok
+complex+51,The rectangular mirror was hung above the wooden shelf.,4,The rectangular mirror was hung above the wooden shelf._000514.png,compbench_official_3in1,0.487940,1,0,,complex,51,4,514,ok
+complex+51,The rectangular mirror was hung above the wooden shelf.,5,The rectangular mirror was hung above the wooden shelf._000515.png,compbench_official_3in1,0.176664,1,0,,complex,51,5,515,ok
+complex+51,The rectangular mirror was hung above the wooden shelf.,6,The rectangular mirror was hung above the wooden shelf._000516.png,compbench_official_3in1,0.154212,1,0,,complex,51,6,516,ok
+complex+51,The rectangular mirror was hung above the wooden shelf.,7,The rectangular mirror was hung above the wooden shelf._000517.png,compbench_official_3in1,0.531430,1,0,,complex,51,7,517,ok
+complex+51,The rectangular mirror was hung above the wooden shelf.,8,The rectangular mirror was hung above the wooden shelf._000518.png,compbench_official_3in1,0.368071,1,0,,complex,51,8,518,ok
+complex+51,The rectangular mirror was hung above the wooden shelf.,9,The rectangular mirror was hung above the wooden shelf._000519.png,compbench_official_3in1,0.491938,1,0,,complex,51,9,519,ok
+complex+52,The oval plate was on top of the square placemat.,0,The oval plate was on top of the square placemat._000520.png,compbench_official_3in1,0.037550,1,0,,complex,52,0,520,ok
+complex+52,The oval plate was on top of the square placemat.,1,The oval plate was on top of the square placemat._000521.png,compbench_official_3in1,0.008550,1,0,,complex,52,1,521,ok
+complex+52,The oval plate was on top of the square placemat.,2,The oval plate was on top of the square placemat._000522.png,compbench_official_3in1,0.286650,1,0,,complex,52,2,522,ok
+complex+52,The oval plate was on top of the square placemat.,3,The oval plate was on top of the square placemat._000523.png,compbench_official_3in1,0.009850,1,0,,complex,52,3,523,ok
+complex+52,The oval plate was on top of the square placemat.,4,The oval plate was on top of the square placemat._000524.png,compbench_official_3in1,0.027300,1,0,,complex,52,4,524,ok
+complex+52,The oval plate was on top of the square placemat.,5,The oval plate was on top of the square placemat._000525.png,compbench_official_3in1,0.017500,1,0,,complex,52,5,525,ok
+complex+52,The oval plate was on top of the square placemat.,6,The oval plate was on top of the square placemat._000526.png,compbench_official_3in1,0.085050,1,0,,complex,52,6,526,ok
+complex+52,The oval plate was on top of the square placemat.,7,The oval plate was on top of the square placemat._000527.png,compbench_official_3in1,0.331000,1,0,,complex,52,7,527,ok
+complex+52,The oval plate was on top of the square placemat.,8,The oval plate was on top of the square placemat._000528.png,compbench_official_3in1,0.033800,1,0,,complex,52,8,528,ok
+complex+52,The oval plate was on top of the square placemat.,9,The oval plate was on top of the square placemat._000529.png,compbench_official_3in1,0.061150,1,0,,complex,52,9,529,ok
+complex+53,The white shirt was on top of the black pants.,0,The white shirt was on top of the black pants._000530.png,compbench_official_3in1,0.432650,1,0,,complex,53,0,530,ok
+complex+53,The white shirt was on top of the black pants.,1,The white shirt was on top of the black pants._000531.png,compbench_official_3in1,0.436250,1,0,,complex,53,1,531,ok
+complex+53,The white shirt was on top of the black pants.,2,The white shirt was on top of the black pants._000532.png,compbench_official_3in1,0.470200,1,0,,complex,53,2,532,ok
+complex+53,The white shirt was on top of the black pants.,3,The white shirt was on top of the black pants._000533.png,compbench_official_3in1,0.010800,1,0,,complex,53,3,533,ok
+complex+53,The white shirt was on top of the black pants.,4,The white shirt was on top of the black pants._000534.png,compbench_official_3in1,0.473700,1,0,,complex,53,4,534,ok
+complex+53,The white shirt was on top of the black pants.,5,The white shirt was on top of the black pants._000535.png,compbench_official_3in1,0.467600,1,0,,complex,53,5,535,ok
+complex+53,The white shirt was on top of the black pants.,6,The white shirt was on top of the black pants._000536.png,compbench_official_3in1,0.434800,1,0,,complex,53,6,536,ok
+complex+53,The white shirt was on top of the black pants.,7,The white shirt was on top of the black pants._000537.png,compbench_official_3in1,0.000600,1,0,,complex,53,7,537,ok
+complex+53,The white shirt was on top of the black pants.,8,The white shirt was on top of the black pants._000538.png,compbench_official_3in1,0.412900,1,0,,complex,53,8,538,ok
+complex+53,The white shirt was on top of the black pants.,9,The white shirt was on top of the black pants._000539.png,compbench_official_3in1,0.466000,1,0,,complex,53,9,539,ok
+complex+54,The black phone was resting on the silver charger.,0,The black phone was resting on the silver charger._000540.png,compbench_official_3in1,0.267622,1,0,,complex,54,0,540,ok
+complex+54,The black phone was resting on the silver charger.,1,The black phone was resting on the silver charger._000541.png,compbench_official_3in1,0.345184,1,0,,complex,54,1,541,ok
+complex+54,The black phone was resting on the silver charger.,2,The black phone was resting on the silver charger._000542.png,compbench_official_3in1,0.221343,1,0,,complex,54,2,542,ok
+complex+54,The black phone was resting on the silver charger.,3,The black phone was resting on the silver charger._000543.png,compbench_official_3in1,0.332583,1,0,,complex,54,3,543,ok
+complex+54,The black phone was resting on the silver charger.,4,The black phone was resting on the silver charger._000544.png,compbench_official_3in1,0.449023,1,0,,complex,54,4,544,ok
+complex+54,The black phone was resting on the silver charger.,5,The black phone was resting on the silver charger._000545.png,compbench_official_3in1,0.558703,1,0,,complex,54,5,545,ok
+complex+54,The black phone was resting on the silver charger.,6,The black phone was resting on the silver charger._000546.png,compbench_official_3in1,0.449825,1,0,,complex,54,6,546,ok
+complex+54,The black phone was resting on the silver charger.,7,The black phone was resting on the silver charger._000547.png,compbench_official_3in1,0.462643,1,0,,complex,54,7,547,ok
+complex+54,The black phone was resting on the silver charger.,8,The black phone was resting on the silver charger._000548.png,compbench_official_3in1,0.369021,1,0,,complex,54,8,548,ok
+complex+54,The black phone was resting on the silver charger.,9,The black phone was resting on the silver charger._000549.png,compbench_official_3in1,0.295458,1,0,,complex,54,9,549,ok
+complex+55,The striped rug was next to the beige armchair.,0,The striped rug was next to the beige armchair._000550.png,compbench_official_3in1,0.398350,1,0,,complex,55,0,550,ok
+complex+55,The striped rug was next to the beige armchair.,1,The striped rug was next to the beige armchair._000551.png,compbench_official_3in1,0.325750,1,0,,complex,55,1,551,ok
+complex+55,The striped rug was next to the beige armchair.,2,The striped rug was next to the beige armchair._000552.png,compbench_official_3in1,0.396850,1,0,,complex,55,2,552,ok
+complex+55,The striped rug was next to the beige armchair.,3,The striped rug was next to the beige armchair._000553.png,compbench_official_3in1,0.346050,1,0,,complex,55,3,553,ok
+complex+55,The striped rug was next to the beige armchair.,4,The striped rug was next to the beige armchair._000554.png,compbench_official_3in1,0.368700,1,0,,complex,55,4,554,ok
+complex+55,The striped rug was next to the beige armchair.,5,The striped rug was next to the beige armchair._000555.png,compbench_official_3in1,0.202400,1,0,,complex,55,5,555,ok
+complex+55,The striped rug was next to the beige armchair.,6,The striped rug was next to the beige armchair._000556.png,compbench_official_3in1,0.424000,1,0,,complex,55,6,556,ok
+complex+55,The striped rug was next to the beige armchair.,7,The striped rug was next to the beige armchair._000557.png,compbench_official_3in1,0.355200,1,0,,complex,55,7,557,ok
+complex+55,The striped rug was next to the beige armchair.,8,The striped rug was next to the beige armchair._000558.png,compbench_official_3in1,0.389950,1,0,,complex,55,8,558,ok
+complex+55,The striped rug was next to the beige armchair.,9,The striped rug was next to the beige armchair._000559.png,compbench_official_3in1,0.430050,1,0,,complex,55,9,559,ok
+complex+56,The red apple was next to the yellow pear.,0,The red apple was next to the yellow pear._000560.png,compbench_official_3in1,0.888424,1,0,,complex,56,0,560,ok
+complex+56,The red apple was next to the yellow pear.,1,The red apple was next to the yellow pear._000561.png,compbench_official_3in1,0.921931,1,0,,complex,56,1,561,ok
+complex+56,The red apple was next to the yellow pear.,2,The red apple was next to the yellow pear._000562.png,compbench_official_3in1,0.522073,1,0,,complex,56,2,562,ok
+complex+56,The red apple was next to the yellow pear.,3,The red apple was next to the yellow pear._000563.png,compbench_official_3in1,0.850525,1,0,,complex,56,3,563,ok
+complex+56,The red apple was next to the yellow pear.,4,The red apple was next to the yellow pear._000564.png,compbench_official_3in1,0.702623,1,0,,complex,56,4,564,ok
+complex+56,The red apple was next to the yellow pear.,5,The red apple was next to the yellow pear._000565.png,compbench_official_3in1,0.893622,1,0,,complex,56,5,565,ok
+complex+56,The red apple was next to the yellow pear.,6,The red apple was next to the yellow pear._000566.png,compbench_official_3in1,0.895689,1,0,,complex,56,6,566,ok
+complex+56,The red apple was next to the yellow pear.,7,The red apple was next to the yellow pear._000567.png,compbench_official_3in1,0.763144,1,0,,complex,56,7,567,ok
+complex+56,The red apple was next to the yellow pear.,8,The red apple was next to the yellow pear._000568.png,compbench_official_3in1,0.911214,1,0,,complex,56,8,568,ok
+complex+56,The red apple was next to the yellow pear.,9,The red apple was next to the yellow pear._000569.png,compbench_official_3in1,0.864001,1,0,,complex,56,9,569,ok
+complex+57,The square coaster was next to the circular glass.,0,The square coaster was next to the circular glass._000570.png,compbench_official_3in1,0.260650,1,0,,complex,57,0,570,ok
+complex+57,The square coaster was next to the circular glass.,1,The square coaster was next to the circular glass._000571.png,compbench_official_3in1,0.153900,1,0,,complex,57,1,571,ok
+complex+57,The square coaster was next to the circular glass.,2,The square coaster was next to the circular glass._000572.png,compbench_official_3in1,0.166450,1,0,,complex,57,2,572,ok
+complex+57,The square coaster was next to the circular glass.,3,The square coaster was next to the circular glass._000573.png,compbench_official_3in1,0.113150,1,0,,complex,57,3,573,ok
+complex+57,The square coaster was next to the circular glass.,4,The square coaster was next to the circular glass._000574.png,compbench_official_3in1,0.235050,1,0,,complex,57,4,574,ok
+complex+57,The square coaster was next to the circular glass.,5,The square coaster was next to the circular glass._000575.png,compbench_official_3in1,0.153400,1,0,,complex,57,5,575,ok
+complex+57,The square coaster was next to the circular glass.,6,The square coaster was next to the circular glass._000576.png,compbench_official_3in1,0.083450,1,0,,complex,57,6,576,ok
+complex+57,The square coaster was next to the circular glass.,7,The square coaster was next to the circular glass._000577.png,compbench_official_3in1,0.034350,1,0,,complex,57,7,577,ok
+complex+57,The square coaster was next to the circular glass.,8,The square coaster was next to the circular glass._000578.png,compbench_official_3in1,0.218900,1,0,,complex,57,8,578,ok
+complex+57,The square coaster was next to the circular glass.,9,The square coaster was next to the circular glass._000579.png,compbench_official_3in1,0.143850,1,0,,complex,57,9,579,ok
+complex+58,The hardcover book was next to the brown notebook.,0,The hardcover book was next to the brown notebook._000580.png,compbench_official_3in1,0.287500,1,0,,complex,58,0,580,ok
+complex+58,The hardcover book was next to the brown notebook.,1,The hardcover book was next to the brown notebook._000581.png,compbench_official_3in1,0.410200,1,0,,complex,58,1,581,ok
+complex+58,The hardcover book was next to the brown notebook.,2,The hardcover book was next to the brown notebook._000582.png,compbench_official_3in1,0.442000,1,0,,complex,58,2,582,ok
+complex+58,The hardcover book was next to the brown notebook.,3,The hardcover book was next to the brown notebook._000583.png,compbench_official_3in1,0.462100,1,0,,complex,58,3,583,ok
+complex+58,The hardcover book was next to the brown notebook.,4,The hardcover book was next to the brown notebook._000584.png,compbench_official_3in1,0.439900,1,0,,complex,58,4,584,ok
+complex+58,The hardcover book was next to the brown notebook.,5,The hardcover book was next to the brown notebook._000585.png,compbench_official_3in1,0.338150,1,0,,complex,58,5,585,ok
+complex+58,The hardcover book was next to the brown notebook.,6,The hardcover book was next to the brown notebook._000586.png,compbench_official_3in1,0.436650,1,0,,complex,58,6,586,ok
+complex+58,The hardcover book was next to the brown notebook.,7,The hardcover book was next to the brown notebook._000587.png,compbench_official_3in1,0.304450,1,0,,complex,58,7,587,ok
+complex+58,The hardcover book was next to the brown notebook.,8,The hardcover book was next to the brown notebook._000588.png,compbench_official_3in1,0.401050,1,0,,complex,58,8,588,ok
+complex+58,The hardcover book was next to the brown notebook.,9,The hardcover book was next to the brown notebook._000589.png,compbench_official_3in1,0.443950,1,0,,complex,58,9,589,ok
+complex+59,The soft blanket was on top of the hard couch.,0,The soft blanket was on top of the hard couch._000590.png,compbench_official_3in1,0.282850,1,0,,complex,59,0,590,ok
+complex+59,The soft blanket was on top of the hard couch.,1,The soft blanket was on top of the hard couch._000591.png,compbench_official_3in1,0.108900,1,0,,complex,59,1,591,ok
+complex+59,The soft blanket was on top of the hard couch.,2,The soft blanket was on top of the hard couch._000592.png,compbench_official_3in1,0.291450,1,0,,complex,59,2,592,ok
+complex+59,The soft blanket was on top of the hard couch.,3,The soft blanket was on top of the hard couch._000593.png,compbench_official_3in1,0.336950,1,0,,complex,59,3,593,ok
+complex+59,The soft blanket was on top of the hard couch.,4,The soft blanket was on top of the hard couch._000594.png,compbench_official_3in1,0.132800,1,0,,complex,59,4,594,ok
+complex+59,The soft blanket was on top of the hard couch.,5,The soft blanket was on top of the hard couch._000595.png,compbench_official_3in1,0.286950,1,0,,complex,59,5,595,ok
+complex+59,The soft blanket was on top of the hard couch.,6,The soft blanket was on top of the hard couch._000596.png,compbench_official_3in1,0.277900,1,0,,complex,59,6,596,ok
+complex+59,The soft blanket was on top of the hard couch.,7,The soft blanket was on top of the hard couch._000597.png,compbench_official_3in1,0.368350,1,0,,complex,59,7,597,ok
+complex+59,The soft blanket was on top of the hard couch.,8,The soft blanket was on top of the hard couch._000598.png,compbench_official_3in1,0.372550,1,0,,complex,59,8,598,ok
+complex+59,The soft blanket was on top of the hard couch.,9,The soft blanket was on top of the hard couch._000599.png,compbench_official_3in1,0.192900,1,0,,complex,59,9,599,ok
+complex+60,The green plant was on the right of the white window.,0,The green plant was on the right of the white window._000600.png,compbench_official_3in1,0.462500,1,0,,complex,60,0,600,ok
+complex+60,The green plant was on the right of the white window.,1,The green plant was on the right of the white window._000601.png,compbench_official_3in1,0.441850,1,0,,complex,60,1,601,ok
+complex+60,The green plant was on the right of the white window.,2,The green plant was on the right of the white window._000602.png,compbench_official_3in1,0.461700,1,0,,complex,60,2,602,ok
+complex+60,The green plant was on the right of the white window.,3,The green plant was on the right of the white window._000603.png,compbench_official_3in1,0.461200,1,0,,complex,60,3,603,ok
+complex+60,The green plant was on the right of the white window.,4,The green plant was on the right of the white window._000604.png,compbench_official_3in1,0.465200,1,0,,complex,60,4,604,ok
+complex+60,The green plant was on the right of the white window.,5,The green plant was on the right of the white window._000605.png,compbench_official_3in1,0.458700,1,0,,complex,60,5,605,ok
+complex+60,The green plant was on the right of the white window.,6,The green plant was on the right of the white window._000606.png,compbench_official_3in1,0.457400,1,0,,complex,60,6,606,ok
+complex+60,The green plant was on the right of the white window.,7,The green plant was on the right of the white window._000607.png,compbench_official_3in1,0.462050,1,0,,complex,60,7,607,ok
+complex+60,The green plant was on the right of the white window.,8,The green plant was on the right of the white window._000608.png,compbench_official_3in1,0.451400,1,0,,complex,60,8,608,ok
+complex+60,The green plant was on the right of the white window.,9,The green plant was on the right of the white window._000609.png,compbench_official_3in1,0.448450,1,0,,complex,60,9,609,ok
+complex+61,The blue book was on top of the red bookshelf.,0,The blue book was on top of the red bookshelf._000610.png,compbench_official_3in1,0.270450,1,0,,complex,61,0,610,ok
+complex+61,The blue book was on top of the red bookshelf.,1,The blue book was on top of the red bookshelf._000611.png,compbench_official_3in1,0.305950,1,0,,complex,61,1,611,ok
+complex+61,The blue book was on top of the red bookshelf.,2,The blue book was on top of the red bookshelf._000612.png,compbench_official_3in1,0.360400,1,0,,complex,61,2,612,ok
+complex+61,The blue book was on top of the red bookshelf.,3,The blue book was on top of the red bookshelf._000613.png,compbench_official_3in1,0.174650,1,0,,complex,61,3,613,ok
+complex+61,The blue book was on top of the red bookshelf.,4,The blue book was on top of the red bookshelf._000614.png,compbench_official_3in1,0.291000,1,0,,complex,61,4,614,ok
+complex+61,The blue book was on top of the red bookshelf.,5,The blue book was on top of the red bookshelf._000615.png,compbench_official_3in1,0.220000,1,0,,complex,61,5,615,ok
+complex+61,The blue book was on top of the red bookshelf.,6,The blue book was on top of the red bookshelf._000616.png,compbench_official_3in1,0.003650,1,0,,complex,61,6,616,ok
+complex+61,The blue book was on top of the red bookshelf.,7,The blue book was on top of the red bookshelf._000617.png,compbench_official_3in1,0.035650,1,0,,complex,61,7,617,ok
+complex+61,The blue book was on top of the red bookshelf.,8,The blue book was on top of the red bookshelf._000618.png,compbench_official_3in1,0.196400,1,0,,complex,61,8,618,ok
+complex+61,The blue book was on top of the red bookshelf.,9,The blue book was on top of the red bookshelf._000619.png,compbench_official_3in1,0.235050,1,0,,complex,61,9,619,ok
+complex+62,The striped rug was next to the brown couch.,0,The striped rug was next to the brown couch._000620.png,compbench_official_3in1,0.405850,1,0,,complex,62,0,620,ok
+complex+62,The striped rug was next to the brown couch.,1,The striped rug was next to the brown couch._000621.png,compbench_official_3in1,0.455900,1,0,,complex,62,1,621,ok
+complex+62,The striped rug was next to the brown couch.,2,The striped rug was next to the brown couch._000622.png,compbench_official_3in1,0.396450,1,0,,complex,62,2,622,ok
+complex+62,The striped rug was next to the brown couch.,3,The striped rug was next to the brown couch._000623.png,compbench_official_3in1,0.437400,1,0,,complex,62,3,623,ok
+complex+62,The striped rug was next to the brown couch.,4,The striped rug was next to the brown couch._000624.png,compbench_official_3in1,0.396350,1,0,,complex,62,4,624,ok
+complex+62,The striped rug was next to the brown couch.,5,The striped rug was next to the brown couch._000625.png,compbench_official_3in1,0.458900,1,0,,complex,62,5,625,ok
+complex+62,The striped rug was next to the brown couch.,6,The striped rug was next to the brown couch._000626.png,compbench_official_3in1,0.426050,1,0,,complex,62,6,626,ok
+complex+62,The striped rug was next to the brown couch.,7,The striped rug was next to the brown couch._000627.png,compbench_official_3in1,0.175900,1,0,,complex,62,7,627,ok
+complex+62,The striped rug was next to the brown couch.,8,The striped rug was next to the brown couch._000628.png,compbench_official_3in1,0.437050,1,0,,complex,62,8,628,ok
+complex+62,The striped rug was next to the brown couch.,9,The striped rug was next to the brown couch._000629.png,compbench_official_3in1,0.250600,1,0,,complex,62,9,629,ok
+complex+63,The square book was on top of the blue table.,0,The square book was on top of the blue table._000630.png,compbench_official_3in1,0.018950,1,0,,complex,63,0,630,ok
+complex+63,The square book was on top of the blue table.,1,The square book was on top of the blue table._000631.png,compbench_official_3in1,0.329000,1,0,,complex,63,1,631,ok
+complex+63,The square book was on top of the blue table.,2,The square book was on top of the blue table._000632.png,compbench_official_3in1,0.233700,1,0,,complex,63,2,632,ok
+complex+63,The square book was on top of the blue table.,3,The square book was on top of the blue table._000633.png,compbench_official_3in1,0.372200,1,0,,complex,63,3,633,ok
+complex+63,The square book was on top of the blue table.,4,The square book was on top of the blue table._000634.png,compbench_official_3in1,0.335800,1,0,,complex,63,4,634,ok
+complex+63,The square book was on top of the blue table.,5,The square book was on top of the blue table._000635.png,compbench_official_3in1,0.181550,1,0,,complex,63,5,635,ok
+complex+63,The square book was on top of the blue table.,6,The square book was on top of the blue table._000636.png,compbench_official_3in1,0.017200,1,0,,complex,63,6,636,ok
+complex+63,The square book was on top of the blue table.,7,The square book was on top of the blue table._000637.png,compbench_official_3in1,0.110850,1,0,,complex,63,7,637,ok
+complex+63,The square book was on top of the blue table.,8,The square book was on top of the blue table._000638.png,compbench_official_3in1,0.028850,1,0,,complex,63,8,638,ok
+complex+63,The square book was on top of the blue table.,9,The square book was on top of the blue table._000639.png,compbench_official_3in1,0.043100,1,0,,complex,63,9,639,ok
+complex+64,The black sofa was on the left of the white coffee table.,0,The black sofa was on the left of the white coffee table._000640.png,compbench_official_3in1,0.004900,1,0,,complex,64,0,640,ok
+complex+64,The black sofa was on the left of the white coffee table.,1,The black sofa was on the left of the white coffee table._000641.png,compbench_official_3in1,0.018550,1,0,,complex,64,1,641,ok
+complex+64,The black sofa was on the left of the white coffee table.,2,The black sofa was on the left of the white coffee table._000642.png,compbench_official_3in1,0.005950,1,0,,complex,64,2,642,ok
+complex+64,The black sofa was on the left of the white coffee table.,3,The black sofa was on the left of the white coffee table._000643.png,compbench_official_3in1,0.022550,1,0,,complex,64,3,643,ok
+complex+64,The black sofa was on the left of the white coffee table.,4,The black sofa was on the left of the white coffee table._000644.png,compbench_official_3in1,0.371300,1,0,,complex,64,4,644,ok
+complex+64,The black sofa was on the left of the white coffee table.,5,The black sofa was on the left of the white coffee table._000645.png,compbench_official_3in1,0.013500,1,0,,complex,64,5,645,ok
+complex+64,The black sofa was on the left of the white coffee table.,6,The black sofa was on the left of the white coffee table._000646.png,compbench_official_3in1,0.034550,1,0,,complex,64,6,646,ok
+complex+64,The black sofa was on the left of the white coffee table.,7,The black sofa was on the left of the white coffee table._000647.png,compbench_official_3in1,0.003350,1,0,,complex,64,7,647,ok
+complex+64,The black sofa was on the left of the white coffee table.,8,The black sofa was on the left of the white coffee table._000648.png,compbench_official_3in1,0.008900,1,0,,complex,64,8,648,ok
+complex+64,The black sofa was on the left of the white coffee table.,9,The black sofa was on the left of the white coffee table._000649.png,compbench_official_3in1,0.343700,1,0,,complex,64,9,649,ok
+complex+65,The striped rug was on top of the brown carpet.,0,The striped rug was on top of the brown carpet._000650.png,compbench_official_3in1,0.416600,1,0,,complex,65,0,650,ok
+complex+65,The striped rug was on top of the brown carpet.,1,The striped rug was on top of the brown carpet._000651.png,compbench_official_3in1,0.033900,1,0,,complex,65,1,651,ok
+complex+65,The striped rug was on top of the brown carpet.,2,The striped rug was on top of the brown carpet._000652.png,compbench_official_3in1,0.273450,1,0,,complex,65,2,652,ok
+complex+65,The striped rug was on top of the brown carpet.,3,The striped rug was on top of the brown carpet._000653.png,compbench_official_3in1,0.028550,1,0,,complex,65,3,653,ok
+complex+65,The striped rug was on top of the brown carpet.,4,The striped rug was on top of the brown carpet._000654.png,compbench_official_3in1,0.065450,1,0,,complex,65,4,654,ok
+complex+65,The striped rug was on top of the brown carpet.,5,The striped rug was on top of the brown carpet._000655.png,compbench_official_3in1,0.083600,1,0,,complex,65,5,655,ok
+complex+65,The striped rug was on top of the brown carpet.,6,The striped rug was on top of the brown carpet._000656.png,compbench_official_3in1,0.227200,1,0,,complex,65,6,656,ok
+complex+65,The striped rug was on top of the brown carpet.,7,The striped rug was on top of the brown carpet._000657.png,compbench_official_3in1,0.222900,1,0,,complex,65,7,657,ok
+complex+65,The striped rug was on top of the brown carpet.,8,The striped rug was on top of the brown carpet._000658.png,compbench_official_3in1,0.046050,1,0,,complex,65,8,658,ok
+complex+65,The striped rug was on top of the brown carpet.,9,The striped rug was on top of the brown carpet._000659.png,compbench_official_3in1,0.052500,1,0,,complex,65,9,659,ok
+complex+66,The silver fork was resting on the brown napkin.,0,The silver fork was resting on the brown napkin._000660.png,compbench_official_3in1,0.300392,1,0,,complex,66,0,660,ok
+complex+66,The silver fork was resting on the brown napkin.,1,The silver fork was resting on the brown napkin._000661.png,compbench_official_3in1,0.405347,1,0,,complex,66,1,661,ok
+complex+66,The silver fork was resting on the brown napkin.,2,The silver fork was resting on the brown napkin._000662.png,compbench_official_3in1,0.325875,1,0,,complex,66,2,662,ok
+complex+66,The silver fork was resting on the brown napkin.,3,The silver fork was resting on the brown napkin._000663.png,compbench_official_3in1,0.232962,1,0,,complex,66,3,663,ok
+complex+66,The silver fork was resting on the brown napkin.,4,The silver fork was resting on the brown napkin._000664.png,compbench_official_3in1,0.180805,1,0,,complex,66,4,664,ok
+complex+66,The silver fork was resting on the brown napkin.,5,The silver fork was resting on the brown napkin._000665.png,compbench_official_3in1,0.427640,1,0,,complex,66,5,665,ok
+complex+66,The silver fork was resting on the brown napkin.,6,The silver fork was resting on the brown napkin._000666.png,compbench_official_3in1,0.371550,1,0,,complex,66,6,666,ok
+complex+66,The silver fork was resting on the brown napkin.,7,The silver fork was resting on the brown napkin._000667.png,compbench_official_3in1,0.285238,1,0,,complex,66,7,667,ok
+complex+66,The silver fork was resting on the brown napkin.,8,The silver fork was resting on the brown napkin._000668.png,compbench_official_3in1,0.169047,1,0,,complex,66,8,668,ok
+complex+66,The silver fork was resting on the brown napkin.,9,The silver fork was resting on the brown napkin._000669.png,compbench_official_3in1,0.179010,1,0,,complex,66,9,669,ok
+complex+67,The striped rug was next to the wooden bench.,0,The striped rug was next to the wooden bench._000670.png,compbench_official_3in1,0.431950,1,0,,complex,67,0,670,ok
+complex+67,The striped rug was next to the wooden bench.,1,The striped rug was next to the wooden bench._000671.png,compbench_official_3in1,0.472250,1,0,,complex,67,1,671,ok
+complex+67,The striped rug was next to the wooden bench.,2,The striped rug was next to the wooden bench._000672.png,compbench_official_3in1,0.412600,1,0,,complex,67,2,672,ok
+complex+67,The striped rug was next to the wooden bench.,3,The striped rug was next to the wooden bench._000673.png,compbench_official_3in1,0.397750,1,0,,complex,67,3,673,ok
+complex+67,The striped rug was next to the wooden bench.,4,The striped rug was next to the wooden bench._000674.png,compbench_official_3in1,0.456950,1,0,,complex,67,4,674,ok
+complex+67,The striped rug was next to the wooden bench.,5,The striped rug was next to the wooden bench._000675.png,compbench_official_3in1,0.412550,1,0,,complex,67,5,675,ok
+complex+67,The striped rug was next to the wooden bench.,6,The striped rug was next to the wooden bench._000676.png,compbench_official_3in1,0.353700,1,0,,complex,67,6,676,ok
+complex+67,The striped rug was next to the wooden bench.,7,The striped rug was next to the wooden bench._000677.png,compbench_official_3in1,0.467450,1,0,,complex,67,7,677,ok
+complex+67,The striped rug was next to the wooden bench.,8,The striped rug was next to the wooden bench._000678.png,compbench_official_3in1,0.453250,1,0,,complex,67,8,678,ok
+complex+67,The striped rug was next to the wooden bench.,9,The striped rug was next to the wooden bench._000679.png,compbench_official_3in1,0.418150,1,0,,complex,67,9,679,ok
+complex+68,The blue mug is on top of the green coaster.,0,The blue mug is on top of the green coaster._000680.png,compbench_official_3in1,0.058650,1,0,,complex,68,0,680,ok
+complex+68,The blue mug is on top of the green coaster.,1,The blue mug is on top of the green coaster._000681.png,compbench_official_3in1,0.322900,1,0,,complex,68,1,681,ok
+complex+68,The blue mug is on top of the green coaster.,2,The blue mug is on top of the green coaster._000682.png,compbench_official_3in1,0.434200,1,0,,complex,68,2,682,ok
+complex+68,The blue mug is on top of the green coaster.,3,The blue mug is on top of the green coaster._000683.png,compbench_official_3in1,0.447850,1,0,,complex,68,3,683,ok
+complex+68,The blue mug is on top of the green coaster.,4,The blue mug is on top of the green coaster._000684.png,compbench_official_3in1,0.147800,1,0,,complex,68,4,684,ok
+complex+68,The blue mug is on top of the green coaster.,5,The blue mug is on top of the green coaster._000685.png,compbench_official_3in1,0.412500,1,0,,complex,68,5,685,ok
+complex+68,The blue mug is on top of the green coaster.,6,The blue mug is on top of the green coaster._000686.png,compbench_official_3in1,0.101200,1,0,,complex,68,6,686,ok
+complex+68,The blue mug is on top of the green coaster.,7,The blue mug is on top of the green coaster._000687.png,compbench_official_3in1,0.213000,1,0,,complex,68,7,687,ok
+complex+68,The blue mug is on top of the green coaster.,8,The blue mug is on top of the green coaster._000688.png,compbench_official_3in1,0.016850,1,0,,complex,68,8,688,ok
+complex+68,The blue mug is on top of the green coaster.,9,The blue mug is on top of the green coaster._000689.png,compbench_official_3in1,0.055950,1,0,,complex,68,9,689,ok
+complex+69,The red hat was on top of the brown coat.,0,The red hat was on top of the brown coat._000690.png,compbench_official_3in1,0.038150,1,0,,complex,69,0,690,ok
+complex+69,The red hat was on top of the brown coat.,1,The red hat was on top of the brown coat._000691.png,compbench_official_3in1,0.112250,1,0,,complex,69,1,691,ok
+complex+69,The red hat was on top of the brown coat.,2,The red hat was on top of the brown coat._000692.png,compbench_official_3in1,0.035750,1,0,,complex,69,2,692,ok
+complex+69,The red hat was on top of the brown coat.,3,The red hat was on top of the brown coat._000693.png,compbench_official_3in1,0.014900,1,0,,complex,69,3,693,ok
+complex+69,The red hat was on top of the brown coat.,4,The red hat was on top of the brown coat._000694.png,compbench_official_3in1,0.066750,1,0,,complex,69,4,694,ok
+complex+69,The red hat was on top of the brown coat.,5,The red hat was on top of the brown coat._000695.png,compbench_official_3in1,0.016200,1,0,,complex,69,5,695,ok
+complex+69,The red hat was on top of the brown coat.,6,The red hat was on top of the brown coat._000696.png,compbench_official_3in1,0.427950,1,0,,complex,69,6,696,ok
+complex+69,The red hat was on top of the brown coat.,7,The red hat was on top of the brown coat._000697.png,compbench_official_3in1,0.055200,1,0,,complex,69,7,697,ok
+complex+69,The red hat was on top of the brown coat.,8,The red hat was on top of the brown coat._000698.png,compbench_official_3in1,0.023450,1,0,,complex,69,8,698,ok
+complex+69,The red hat was on top of the brown coat.,9,The red hat was on top of the brown coat._000699.png,compbench_official_3in1,0.248950,1,0,,complex,69,9,699,ok
+complex+70,The white shirt was on the black hanger.,0,The white shirt was on the black hanger._000700.png,compbench_official_3in1,0.410627,1,0,,complex,70,0,700,ok
+complex+70,The white shirt was on the black hanger.,1,The white shirt was on the black hanger._000701.png,compbench_official_3in1,0.236285,1,0,,complex,70,1,701,ok
+complex+70,The white shirt was on the black hanger.,2,The white shirt was on the black hanger._000702.png,compbench_official_3in1,0.545432,1,0,,complex,70,2,702,ok
+complex+70,The white shirt was on the black hanger.,3,The white shirt was on the black hanger._000703.png,compbench_official_3in1,0.504046,1,0,,complex,70,3,703,ok
+complex+70,The white shirt was on the black hanger.,4,The white shirt was on the black hanger._000704.png,compbench_official_3in1,0.206520,1,0,,complex,70,4,704,ok
+complex+70,The white shirt was on the black hanger.,5,The white shirt was on the black hanger._000705.png,compbench_official_3in1,0.558689,1,0,,complex,70,5,705,ok
+complex+70,The white shirt was on the black hanger.,6,The white shirt was on the black hanger._000706.png,compbench_official_3in1,0.593299,1,0,,complex,70,6,706,ok
+complex+70,The white shirt was on the black hanger.,7,The white shirt was on the black hanger._000707.png,compbench_official_3in1,0.293389,1,0,,complex,70,7,707,ok
+complex+70,The white shirt was on the black hanger.,8,The white shirt was on the black hanger._000708.png,compbench_official_3in1,0.586036,1,0,,complex,70,8,708,ok
+complex+70,The white shirt was on the black hanger.,9,The white shirt was on the black hanger._000709.png,compbench_official_3in1,0.549602,1,0,,complex,70,9,709,ok
+complex+71,The soft blanket was on top of the hard armchair.,0,The soft blanket was on top of the hard armchair._000710.png,compbench_official_3in1,0.156250,1,0,,complex,71,0,710,ok
+complex+71,The soft blanket was on top of the hard armchair.,1,The soft blanket was on top of the hard armchair._000711.png,compbench_official_3in1,0.162100,1,0,,complex,71,1,711,ok
+complex+71,The soft blanket was on top of the hard armchair.,2,The soft blanket was on top of the hard armchair._000712.png,compbench_official_3in1,0.120400,1,0,,complex,71,2,712,ok
+complex+71,The soft blanket was on top of the hard armchair.,3,The soft blanket was on top of the hard armchair._000713.png,compbench_official_3in1,0.167300,1,0,,complex,71,3,713,ok
+complex+71,The soft blanket was on top of the hard armchair.,4,The soft blanket was on top of the hard armchair._000714.png,compbench_official_3in1,0.167050,1,0,,complex,71,4,714,ok
+complex+71,The soft blanket was on top of the hard armchair.,5,The soft blanket was on top of the hard armchair._000715.png,compbench_official_3in1,0.163400,1,0,,complex,71,5,715,ok
+complex+71,The soft blanket was on top of the hard armchair.,6,The soft blanket was on top of the hard armchair._000716.png,compbench_official_3in1,0.252100,1,0,,complex,71,6,716,ok
+complex+71,The soft blanket was on top of the hard armchair.,7,The soft blanket was on top of the hard armchair._000717.png,compbench_official_3in1,0.271150,1,0,,complex,71,7,717,ok
+complex+71,The soft blanket was on top of the hard armchair.,8,The soft blanket was on top of the hard armchair._000718.png,compbench_official_3in1,0.140300,1,0,,complex,71,8,718,ok
+complex+71,The soft blanket was on top of the hard armchair.,9,The soft blanket was on top of the hard armchair._000719.png,compbench_official_3in1,0.194250,1,0,,complex,71,9,719,ok
+complex+72,The fluffy pillow was on top of the hard chair.,0,The fluffy pillow was on top of the hard chair._000720.png,compbench_official_3in1,0.092350,1,0,,complex,72,0,720,ok
+complex+72,The fluffy pillow was on top of the hard chair.,1,The fluffy pillow was on top of the hard chair._000721.png,compbench_official_3in1,0.125550,1,0,,complex,72,1,721,ok
+complex+72,The fluffy pillow was on top of the hard chair.,2,The fluffy pillow was on top of the hard chair._000722.png,compbench_official_3in1,0.025050,1,0,,complex,72,2,722,ok
+complex+72,The fluffy pillow was on top of the hard chair.,3,The fluffy pillow was on top of the hard chair._000723.png,compbench_official_3in1,0.024350,1,0,,complex,72,3,723,ok
+complex+72,The fluffy pillow was on top of the hard chair.,4,The fluffy pillow was on top of the hard chair._000724.png,compbench_official_3in1,0.060900,1,0,,complex,72,4,724,ok
+complex+72,The fluffy pillow was on top of the hard chair.,5,The fluffy pillow was on top of the hard chair._000725.png,compbench_official_3in1,0.151700,1,0,,complex,72,5,725,ok
+complex+72,The fluffy pillow was on top of the hard chair.,6,The fluffy pillow was on top of the hard chair._000726.png,compbench_official_3in1,0.063250,1,0,,complex,72,6,726,ok
+complex+72,The fluffy pillow was on top of the hard chair.,7,The fluffy pillow was on top of the hard chair._000727.png,compbench_official_3in1,0.193100,1,0,,complex,72,7,727,ok
+complex+72,The fluffy pillow was on top of the hard chair.,8,The fluffy pillow was on top of the hard chair._000728.png,compbench_official_3in1,0.111100,1,0,,complex,72,8,728,ok
+complex+72,The fluffy pillow was on top of the hard chair.,9,The fluffy pillow was on top of the hard chair._000729.png,compbench_official_3in1,0.036700,1,0,,complex,72,9,729,ok
+complex+73,The soft pillow was on top of the wooden chair.,0,The soft pillow was on top of the wooden chair._000730.png,compbench_official_3in1,0.425150,1,0,,complex,73,0,730,ok
+complex+73,The soft pillow was on top of the wooden chair.,1,The soft pillow was on top of the wooden chair._000731.png,compbench_official_3in1,0.421600,1,0,,complex,73,1,731,ok
+complex+73,The soft pillow was on top of the wooden chair.,2,The soft pillow was on top of the wooden chair._000732.png,compbench_official_3in1,0.402550,1,0,,complex,73,2,732,ok
+complex+73,The soft pillow was on top of the wooden chair.,3,The soft pillow was on top of the wooden chair._000733.png,compbench_official_3in1,0.431350,1,0,,complex,73,3,733,ok
+complex+73,The soft pillow was on top of the wooden chair.,4,The soft pillow was on top of the wooden chair._000734.png,compbench_official_3in1,0.433500,1,0,,complex,73,4,734,ok
+complex+73,The soft pillow was on top of the wooden chair.,5,The soft pillow was on top of the wooden chair._000735.png,compbench_official_3in1,0.435450,1,0,,complex,73,5,735,ok
+complex+73,The soft pillow was on top of the wooden chair.,6,The soft pillow was on top of the wooden chair._000736.png,compbench_official_3in1,0.387350,1,0,,complex,73,6,736,ok
+complex+73,The soft pillow was on top of the wooden chair.,7,The soft pillow was on top of the wooden chair._000737.png,compbench_official_3in1,0.412750,1,0,,complex,73,7,737,ok
+complex+73,The soft pillow was on top of the wooden chair.,8,The soft pillow was on top of the wooden chair._000738.png,compbench_official_3in1,0.396600,1,0,,complex,73,8,738,ok
+complex+73,The soft pillow was on top of the wooden chair.,9,The soft pillow was on top of the wooden chair._000739.png,compbench_official_3in1,0.418350,1,0,,complex,73,9,739,ok
+complex+74,The round clock is next to the white picture frame.,0,The round clock is next to the white picture frame._000740.png,compbench_official_3in1,0.311550,1,0,,complex,74,0,740,ok
+complex+74,The round clock is next to the white picture frame.,1,The round clock is next to the white picture frame._000741.png,compbench_official_3in1,0.134450,1,0,,complex,74,1,741,ok
+complex+74,The round clock is next to the white picture frame.,2,The round clock is next to the white picture frame._000742.png,compbench_official_3in1,0.306850,1,0,,complex,74,2,742,ok
+complex+74,The round clock is next to the white picture frame.,3,The round clock is next to the white picture frame._000743.png,compbench_official_3in1,0.385500,1,0,,complex,74,3,743,ok
+complex+74,The round clock is next to the white picture frame.,4,The round clock is next to the white picture frame._000744.png,compbench_official_3in1,0.305550,1,0,,complex,74,4,744,ok
+complex+74,The round clock is next to the white picture frame.,5,The round clock is next to the white picture frame._000745.png,compbench_official_3in1,0.133150,1,0,,complex,74,5,745,ok
+complex+74,The round clock is next to the white picture frame.,6,The round clock is next to the white picture frame._000746.png,compbench_official_3in1,0.306200,1,0,,complex,74,6,746,ok
+complex+74,The round clock is next to the white picture frame.,7,The round clock is next to the white picture frame._000747.png,compbench_official_3in1,0.342050,1,0,,complex,74,7,747,ok
+complex+74,The round clock is next to the white picture frame.,8,The round clock is next to the white picture frame._000748.png,compbench_official_3in1,0.339600,1,0,,complex,74,8,748,ok
+complex+74,The round clock is next to the white picture frame.,9,The round clock is next to the white picture frame._000749.png,compbench_official_3in1,0.345550,1,0,,complex,74,9,749,ok
+complex+75,The warm yellow light shone down on the cozy red armchair.,0,The warm yellow light shone down on the cozy red armchair._000750.png,compbench_official_3in1,0.491584,1,0,,complex,75,0,750,ok
+complex+75,The warm yellow light shone down on the cozy red armchair.,1,The warm yellow light shone down on the cozy red armchair._000751.png,compbench_official_3in1,0.560742,1,0,,complex,75,1,751,ok
+complex+75,The warm yellow light shone down on the cozy red armchair.,2,The warm yellow light shone down on the cozy red armchair._000752.png,compbench_official_3in1,0.516460,1,0,,complex,75,2,752,ok
+complex+75,The warm yellow light shone down on the cozy red armchair.,3,The warm yellow light shone down on the cozy red armchair._000753.png,compbench_official_3in1,0.574402,1,0,,complex,75,3,753,ok
+complex+75,The warm yellow light shone down on the cozy red armchair.,4,The warm yellow light shone down on the cozy red armchair._000754.png,compbench_official_3in1,0.551869,1,0,,complex,75,4,754,ok
+complex+75,The warm yellow light shone down on the cozy red armchair.,5,The warm yellow light shone down on the cozy red armchair._000755.png,compbench_official_3in1,0.562548,1,0,,complex,75,5,755,ok
+complex+75,The warm yellow light shone down on the cozy red armchair.,6,The warm yellow light shone down on the cozy red armchair._000756.png,compbench_official_3in1,0.367021,1,0,,complex,75,6,756,ok
+complex+75,The warm yellow light shone down on the cozy red armchair.,7,The warm yellow light shone down on the cozy red armchair._000757.png,compbench_official_3in1,0.421671,1,0,,complex,75,7,757,ok
+complex+75,The warm yellow light shone down on the cozy red armchair.,8,The warm yellow light shone down on the cozy red armchair._000758.png,compbench_official_3in1,0.434683,1,0,,complex,75,8,758,ok
+complex+75,The warm yellow light shone down on the cozy red armchair.,9,The warm yellow light shone down on the cozy red armchair._000759.png,compbench_official_3in1,0.406978,1,0,,complex,75,9,759,ok
+complex+76,The bright red fire engine sped past the dull grey building.,0,The bright red fire engine sped past the dull grey building._000760.png,compbench_official_3in1,0.413530,1,0,,complex,76,0,760,ok
+complex+76,The bright red fire engine sped past the dull grey building.,1,The bright red fire engine sped past the dull grey building._000761.png,compbench_official_3in1,0.545769,1,0,,complex,76,1,761,ok
+complex+76,The bright red fire engine sped past the dull grey building.,2,The bright red fire engine sped past the dull grey building._000762.png,compbench_official_3in1,0.423802,1,0,,complex,76,2,762,ok
+complex+76,The bright red fire engine sped past the dull grey building.,3,The bright red fire engine sped past the dull grey building._000763.png,compbench_official_3in1,0.523062,1,0,,complex,76,3,763,ok
+complex+76,The bright red fire engine sped past the dull grey building.,4,The bright red fire engine sped past the dull grey building._000764.png,compbench_official_3in1,0.483179,1,0,,complex,76,4,764,ok
+complex+76,The bright red fire engine sped past the dull grey building.,5,The bright red fire engine sped past the dull grey building._000765.png,compbench_official_3in1,0.392430,1,0,,complex,76,5,765,ok
+complex+76,The bright red fire engine sped past the dull grey building.,6,The bright red fire engine sped past the dull grey building._000766.png,compbench_official_3in1,0.548567,1,0,,complex,76,6,766,ok
+complex+76,The bright red fire engine sped past the dull grey building.,7,The bright red fire engine sped past the dull grey building._000767.png,compbench_official_3in1,0.416715,1,0,,complex,76,7,767,ok
+complex+76,The bright red fire engine sped past the dull grey building.,8,The bright red fire engine sped past the dull grey building._000768.png,compbench_official_3in1,0.350625,1,0,,complex,76,8,768,ok
+complex+76,The bright red fire engine sped past the dull grey building.,9,The bright red fire engine sped past the dull grey building._000769.png,compbench_official_3in1,0.444497,1,0,,complex,76,9,769,ok
+complex+77,The soft pink rose petal fell onto the rough grey sidewalk.,0,The soft pink rose petal fell onto the rough grey sidewalk._000770.png,compbench_official_3in1,0.539404,1,0,,complex,77,0,770,ok
+complex+77,The soft pink rose petal fell onto the rough grey sidewalk.,1,The soft pink rose petal fell onto the rough grey sidewalk._000771.png,compbench_official_3in1,0.438585,1,0,,complex,77,1,771,ok
+complex+77,The soft pink rose petal fell onto the rough grey sidewalk.,2,The soft pink rose petal fell onto the rough grey sidewalk._000772.png,compbench_official_3in1,0.475464,1,0,,complex,77,2,772,ok
+complex+77,The soft pink rose petal fell onto the rough grey sidewalk.,3,The soft pink rose petal fell onto the rough grey sidewalk._000773.png,compbench_official_3in1,0.559163,1,0,,complex,77,3,773,ok
+complex+77,The soft pink rose petal fell onto the rough grey sidewalk.,4,The soft pink rose petal fell onto the rough grey sidewalk._000774.png,compbench_official_3in1,0.371510,1,0,,complex,77,4,774,ok
+complex+77,The soft pink rose petal fell onto the rough grey sidewalk.,5,The soft pink rose petal fell onto the rough grey sidewalk._000775.png,compbench_official_3in1,0.538478,1,0,,complex,77,5,775,ok
+complex+77,The soft pink rose petal fell onto the rough grey sidewalk.,6,The soft pink rose petal fell onto the rough grey sidewalk._000776.png,compbench_official_3in1,0.414190,1,0,,complex,77,6,776,ok
+complex+77,The soft pink rose petal fell onto the rough grey sidewalk.,7,The soft pink rose petal fell onto the rough grey sidewalk._000777.png,compbench_official_3in1,0.462117,1,0,,complex,77,7,777,ok
+complex+77,The soft pink rose petal fell onto the rough grey sidewalk.,8,The soft pink rose petal fell onto the rough grey sidewalk._000778.png,compbench_official_3in1,0.504814,1,0,,complex,77,8,778,ok
+complex+77,The soft pink rose petal fell onto the rough grey sidewalk.,9,The soft pink rose petal fell onto the rough grey sidewalk._000779.png,compbench_official_3in1,0.424023,1,0,,complex,77,9,779,ok
+complex+78,The soft pink petals of the cherry blossom contrasted with the rough brown bark.,0,The soft pink petals of the cherry blossom contrasted with the rough brown bark._000780.png,compbench_official_3in1,0.585085,1,0,,complex,78,0,780,ok
+complex+78,The soft pink petals of the cherry blossom contrasted with the rough brown bark.,1,The soft pink petals of the cherry blossom contrasted with the rough brown bark._000781.png,compbench_official_3in1,0.521978,1,0,,complex,78,1,781,ok
+complex+78,The soft pink petals of the cherry blossom contrasted with the rough brown bark.,2,The soft pink petals of the cherry blossom contrasted with the rough brown bark._000782.png,compbench_official_3in1,0.494822,1,0,,complex,78,2,782,ok
+complex+78,The soft pink petals of the cherry blossom contrasted with the rough brown bark.,3,The soft pink petals of the cherry blossom contrasted with the rough brown bark._000783.png,compbench_official_3in1,0.270599,1,0,,complex,78,3,783,ok
+complex+78,The soft pink petals of the cherry blossom contrasted with the rough brown bark.,4,The soft pink petals of the cherry blossom contrasted with the rough brown bark._000784.png,compbench_official_3in1,0.577185,1,0,,complex,78,4,784,ok
+complex+78,The soft pink petals of the cherry blossom contrasted with the rough brown bark.,5,The soft pink petals of the cherry blossom contrasted with the rough brown bark._000785.png,compbench_official_3in1,0.543614,1,0,,complex,78,5,785,ok
+complex+78,The soft pink petals of the cherry blossom contrasted with the rough brown bark.,6,The soft pink petals of the cherry blossom contrasted with the rough brown bark._000786.png,compbench_official_3in1,0.300981,1,0,,complex,78,6,786,ok
+complex+78,The soft pink petals of the cherry blossom contrasted with the rough brown bark.,7,The soft pink petals of the cherry blossom contrasted with the rough brown bark._000787.png,compbench_official_3in1,0.400622,1,0,,complex,78,7,787,ok
+complex+78,The soft pink petals of the cherry blossom contrasted with the rough brown bark.,8,The soft pink petals of the cherry blossom contrasted with the rough brown bark._000788.png,compbench_official_3in1,0.538057,1,0,,complex,78,8,788,ok
+complex+78,The soft pink petals of the cherry blossom contrasted with the rough brown bark.,9,The soft pink petals of the cherry blossom contrasted with the rough brown bark._000789.png,compbench_official_3in1,0.517977,1,0,,complex,78,9,789,ok
+complex+79,The smooth black river flowed next to the tall green trees.,0,The smooth black river flowed next to the tall green trees._000790.png,compbench_official_3in1,0.347115,1,0,,complex,79,0,790,ok
+complex+79,The smooth black river flowed next to the tall green trees.,1,The smooth black river flowed next to the tall green trees._000791.png,compbench_official_3in1,0.397793,1,0,,complex,79,1,791,ok
+complex+79,The smooth black river flowed next to the tall green trees.,2,The smooth black river flowed next to the tall green trees._000792.png,compbench_official_3in1,0.320261,1,0,,complex,79,2,792,ok
+complex+79,The smooth black river flowed next to the tall green trees.,3,The smooth black river flowed next to the tall green trees._000793.png,compbench_official_3in1,0.359554,1,0,,complex,79,3,793,ok
+complex+79,The smooth black river flowed next to the tall green trees.,4,The smooth black river flowed next to the tall green trees._000794.png,compbench_official_3in1,0.340137,1,0,,complex,79,4,794,ok
+complex+79,The smooth black river flowed next to the tall green trees.,5,The smooth black river flowed next to the tall green trees._000795.png,compbench_official_3in1,0.359353,1,0,,complex,79,5,795,ok
+complex+79,The smooth black river flowed next to the tall green trees.,6,The smooth black river flowed next to the tall green trees._000796.png,compbench_official_3in1,0.332967,1,0,,complex,79,6,796,ok
+complex+79,The smooth black river flowed next to the tall green trees.,7,The smooth black river flowed next to the tall green trees._000797.png,compbench_official_3in1,0.359378,1,0,,complex,79,7,797,ok
+complex+79,The smooth black river flowed next to the tall green trees.,8,The smooth black river flowed next to the tall green trees._000798.png,compbench_official_3in1,0.348781,1,0,,complex,79,8,798,ok
+complex+79,The smooth black river flowed next to the tall green trees.,9,The smooth black river flowed next to the tall green trees._000799.png,compbench_official_3in1,0.289287,1,0,,complex,79,9,799,ok
+complex+80,The sleek black pen wrote on the crisp white notepad.,0,The sleek black pen wrote on the crisp white notepad._000800.png,compbench_official_3in1,0.537288,1,0,,complex,80,0,800,ok
+complex+80,The sleek black pen wrote on the crisp white notepad.,1,The sleek black pen wrote on the crisp white notepad._000801.png,compbench_official_3in1,0.505462,1,0,,complex,80,1,801,ok
+complex+80,The sleek black pen wrote on the crisp white notepad.,2,The sleek black pen wrote on the crisp white notepad._000802.png,compbench_official_3in1,0.586177,1,0,,complex,80,2,802,ok
+complex+80,The sleek black pen wrote on the crisp white notepad.,3,The sleek black pen wrote on the crisp white notepad._000803.png,compbench_official_3in1,0.589773,1,0,,complex,80,3,803,ok
+complex+80,The sleek black pen wrote on the crisp white notepad.,4,The sleek black pen wrote on the crisp white notepad._000804.png,compbench_official_3in1,0.535404,1,0,,complex,80,4,804,ok
+complex+80,The sleek black pen wrote on the crisp white notepad.,5,The sleek black pen wrote on the crisp white notepad._000805.png,compbench_official_3in1,0.544198,1,0,,complex,80,5,805,ok
+complex+80,The sleek black pen wrote on the crisp white notepad.,6,The sleek black pen wrote on the crisp white notepad._000806.png,compbench_official_3in1,0.587336,1,0,,complex,80,6,806,ok
+complex+80,The sleek black pen wrote on the crisp white notepad.,7,The sleek black pen wrote on the crisp white notepad._000807.png,compbench_official_3in1,0.581516,1,0,,complex,80,7,807,ok
+complex+80,The sleek black pen wrote on the crisp white notepad.,8,The sleek black pen wrote on the crisp white notepad._000808.png,compbench_official_3in1,0.584435,1,0,,complex,80,8,808,ok
+complex+80,The sleek black pen wrote on the crisp white notepad.,9,The sleek black pen wrote on the crisp white notepad._000809.png,compbench_official_3in1,0.537919,1,0,,complex,80,9,809,ok
+complex+81,The sleek black briefcase sat on the clean white sofa.,0,The sleek black briefcase sat on the clean white sofa._000810.png,compbench_official_3in1,0.305247,1,0,,complex,81,0,810,ok
+complex+81,The sleek black briefcase sat on the clean white sofa.,1,The sleek black briefcase sat on the clean white sofa._000811.png,compbench_official_3in1,0.510817,1,0,,complex,81,1,811,ok
+complex+81,The sleek black briefcase sat on the clean white sofa.,2,The sleek black briefcase sat on the clean white sofa._000812.png,compbench_official_3in1,0.391504,1,0,,complex,81,2,812,ok
+complex+81,The sleek black briefcase sat on the clean white sofa.,3,The sleek black briefcase sat on the clean white sofa._000813.png,compbench_official_3in1,0.192092,1,0,,complex,81,3,813,ok
+complex+81,The sleek black briefcase sat on the clean white sofa.,4,The sleek black briefcase sat on the clean white sofa._000814.png,compbench_official_3in1,0.394407,1,0,,complex,81,4,814,ok
+complex+81,The sleek black briefcase sat on the clean white sofa.,5,The sleek black briefcase sat on the clean white sofa._000815.png,compbench_official_3in1,0.581508,1,0,,complex,81,5,815,ok
+complex+81,The sleek black briefcase sat on the clean white sofa.,6,The sleek black briefcase sat on the clean white sofa._000816.png,compbench_official_3in1,0.170306,1,0,,complex,81,6,816,ok
+complex+81,The sleek black briefcase sat on the clean white sofa.,7,The sleek black briefcase sat on the clean white sofa._000817.png,compbench_official_3in1,0.169983,1,0,,complex,81,7,817,ok
+complex+81,The sleek black briefcase sat on the clean white sofa.,8,The sleek black briefcase sat on the clean white sofa._000818.png,compbench_official_3in1,0.597944,1,0,,complex,81,8,818,ok
+complex+81,The sleek black briefcase sat on the clean white sofa.,9,The sleek black briefcase sat on the clean white sofa._000819.png,compbench_official_3in1,0.525814,1,0,,complex,81,9,819,ok
+complex+82,The bright yellow banana contrasted with the dull brown apple.,0,The bright yellow banana contrasted with the dull brown apple._000820.png,compbench_official_3in1,0.191693,1,0,,complex,82,0,820,ok
+complex+82,The bright yellow banana contrasted with the dull brown apple.,1,The bright yellow banana contrasted with the dull brown apple._000821.png,compbench_official_3in1,0.360137,1,0,,complex,82,1,821,ok
+complex+82,The bright yellow banana contrasted with the dull brown apple.,2,The bright yellow banana contrasted with the dull brown apple._000822.png,compbench_official_3in1,0.244604,1,0,,complex,82,2,822,ok
+complex+82,The bright yellow banana contrasted with the dull brown apple.,3,The bright yellow banana contrasted with the dull brown apple._000823.png,compbench_official_3in1,0.155083,1,0,,complex,82,3,823,ok
+complex+82,The bright yellow banana contrasted with the dull brown apple.,4,The bright yellow banana contrasted with the dull brown apple._000824.png,compbench_official_3in1,0.146112,1,0,,complex,82,4,824,ok
+complex+82,The bright yellow banana contrasted with the dull brown apple.,5,The bright yellow banana contrasted with the dull brown apple._000825.png,compbench_official_3in1,0.309968,1,0,,complex,82,5,825,ok
+complex+82,The bright yellow banana contrasted with the dull brown apple.,6,The bright yellow banana contrasted with the dull brown apple._000826.png,compbench_official_3in1,0.322636,1,0,,complex,82,6,826,ok
+complex+82,The bright yellow banana contrasted with the dull brown apple.,7,The bright yellow banana contrasted with the dull brown apple._000827.png,compbench_official_3in1,0.223668,1,0,,complex,82,7,827,ok
+complex+82,The bright yellow banana contrasted with the dull brown apple.,8,The bright yellow banana contrasted with the dull brown apple._000828.png,compbench_official_3in1,0.322252,1,0,,complex,82,8,828,ok
+complex+82,The bright yellow banana contrasted with the dull brown apple.,9,The bright yellow banana contrasted with the dull brown apple._000829.png,compbench_official_3in1,0.166642,1,0,,complex,82,9,829,ok
+complex+83,The sleek black laptop sat on the clean white desk.,0,The sleek black laptop sat on the clean white desk._000830.png,compbench_official_3in1,0.452036,1,0,,complex,83,0,830,ok
+complex+83,The sleek black laptop sat on the clean white desk.,1,The sleek black laptop sat on the clean white desk._000831.png,compbench_official_3in1,0.463477,1,0,,complex,83,1,831,ok
+complex+83,The sleek black laptop sat on the clean white desk.,2,The sleek black laptop sat on the clean white desk._000832.png,compbench_official_3in1,0.566871,1,0,,complex,83,2,832,ok
+complex+83,The sleek black laptop sat on the clean white desk.,3,The sleek black laptop sat on the clean white desk._000833.png,compbench_official_3in1,0.368890,1,0,,complex,83,3,833,ok
+complex+83,The sleek black laptop sat on the clean white desk.,4,The sleek black laptop sat on the clean white desk._000834.png,compbench_official_3in1,0.592239,1,0,,complex,83,4,834,ok
+complex+83,The sleek black laptop sat on the clean white desk.,5,The sleek black laptop sat on the clean white desk._000835.png,compbench_official_3in1,0.588854,1,0,,complex,83,5,835,ok
+complex+83,The sleek black laptop sat on the clean white desk.,6,The sleek black laptop sat on the clean white desk._000836.png,compbench_official_3in1,0.519773,1,0,,complex,83,6,836,ok
+complex+83,The sleek black laptop sat on the clean white desk.,7,The sleek black laptop sat on the clean white desk._000837.png,compbench_official_3in1,0.507793,1,0,,complex,83,7,837,ok
+complex+83,The sleek black laptop sat on the clean white desk.,8,The sleek black laptop sat on the clean white desk._000838.png,compbench_official_3in1,0.517961,1,0,,complex,83,8,838,ok
+complex+83,The sleek black laptop sat on the clean white desk.,9,The sleek black laptop sat on the clean white desk._000839.png,compbench_official_3in1,0.431892,1,0,,complex,83,9,839,ok
+complex+84,The shiny silver watch ticked on the rough wooden table.,0,The shiny silver watch ticked on the rough wooden table._000840.png,compbench_official_3in1,0.434530,1,0,,complex,84,0,840,ok
+complex+84,The shiny silver watch ticked on the rough wooden table.,1,The shiny silver watch ticked on the rough wooden table._000841.png,compbench_official_3in1,0.543677,1,0,,complex,84,1,841,ok
+complex+84,The shiny silver watch ticked on the rough wooden table.,2,The shiny silver watch ticked on the rough wooden table._000842.png,compbench_official_3in1,0.391675,1,0,,complex,84,2,842,ok
+complex+84,The shiny silver watch ticked on the rough wooden table.,3,The shiny silver watch ticked on the rough wooden table._000843.png,compbench_official_3in1,0.523802,1,0,,complex,84,3,843,ok
+complex+84,The shiny silver watch ticked on the rough wooden table.,4,The shiny silver watch ticked on the rough wooden table._000844.png,compbench_official_3in1,0.511313,1,0,,complex,84,4,844,ok
+complex+84,The shiny silver watch ticked on the rough wooden table.,5,The shiny silver watch ticked on the rough wooden table._000845.png,compbench_official_3in1,0.510280,1,0,,complex,84,5,845,ok
+complex+84,The shiny silver watch ticked on the rough wooden table.,6,The shiny silver watch ticked on the rough wooden table._000846.png,compbench_official_3in1,0.361276,1,0,,complex,84,6,846,ok
+complex+84,The shiny silver watch ticked on the rough wooden table.,7,The shiny silver watch ticked on the rough wooden table._000847.png,compbench_official_3in1,0.493570,1,0,,complex,84,7,847,ok
+complex+84,The shiny silver watch ticked on the rough wooden table.,8,The shiny silver watch ticked on the rough wooden table._000848.png,compbench_official_3in1,0.516448,1,0,,complex,84,8,848,ok
+complex+84,The shiny silver watch ticked on the rough wooden table.,9,The shiny silver watch ticked on the rough wooden table._000849.png,compbench_official_3in1,0.511252,1,0,,complex,84,9,849,ok
+complex+85,The bright orange pumpkin sat next to the crisp green apples.,0,The bright orange pumpkin sat next to the crisp green apples._000850.png,compbench_official_3in1,0.192770,1,0,,complex,85,0,850,ok
+complex+85,The bright orange pumpkin sat next to the crisp green apples.,1,The bright orange pumpkin sat next to the crisp green apples._000851.png,compbench_official_3in1,0.222582,1,0,,complex,85,1,851,ok
+complex+85,The bright orange pumpkin sat next to the crisp green apples.,2,The bright orange pumpkin sat next to the crisp green apples._000852.png,compbench_official_3in1,0.144454,1,0,,complex,85,2,852,ok
+complex+85,The bright orange pumpkin sat next to the crisp green apples.,3,The bright orange pumpkin sat next to the crisp green apples._000853.png,compbench_official_3in1,0.239912,1,0,,complex,85,3,853,ok
+complex+85,The bright orange pumpkin sat next to the crisp green apples.,4,The bright orange pumpkin sat next to the crisp green apples._000854.png,compbench_official_3in1,0.267904,1,0,,complex,85,4,854,ok
+complex+85,The bright orange pumpkin sat next to the crisp green apples.,5,The bright orange pumpkin sat next to the crisp green apples._000855.png,compbench_official_3in1,0.301482,1,0,,complex,85,5,855,ok
+complex+85,The bright orange pumpkin sat next to the crisp green apples.,6,The bright orange pumpkin sat next to the crisp green apples._000856.png,compbench_official_3in1,0.192583,1,0,,complex,85,6,856,ok
+complex+85,The bright orange pumpkin sat next to the crisp green apples.,7,The bright orange pumpkin sat next to the crisp green apples._000857.png,compbench_official_3in1,0.291850,1,0,,complex,85,7,857,ok
+complex+85,The bright orange pumpkin sat next to the crisp green apples.,8,The bright orange pumpkin sat next to the crisp green apples._000858.png,compbench_official_3in1,0.262043,1,0,,complex,85,8,858,ok
+complex+85,The bright orange pumpkin sat next to the crisp green apples.,9,The bright orange pumpkin sat next to the crisp green apples._000859.png,compbench_official_3in1,0.330564,1,0,,complex,85,9,859,ok
+complex+86,The striped black and white cat lay next to the soft grey blanket.,0,The striped black and white cat lay next to the soft grey blanket._000860.png,compbench_official_3in1,0.292981,1,0,,complex,86,0,860,ok
+complex+86,The striped black and white cat lay next to the soft grey blanket.,1,The striped black and white cat lay next to the soft grey blanket._000861.png,compbench_official_3in1,0.147788,1,0,,complex,86,1,861,ok
+complex+86,The striped black and white cat lay next to the soft grey blanket.,2,The striped black and white cat lay next to the soft grey blanket._000862.png,compbench_official_3in1,0.313297,1,0,,complex,86,2,862,ok
+complex+86,The striped black and white cat lay next to the soft grey blanket.,3,The striped black and white cat lay next to the soft grey blanket._000863.png,compbench_official_3in1,0.218929,1,0,,complex,86,3,863,ok
+complex+86,The striped black and white cat lay next to the soft grey blanket.,4,The striped black and white cat lay next to the soft grey blanket._000864.png,compbench_official_3in1,0.123483,1,0,,complex,86,4,864,ok
+complex+86,The striped black and white cat lay next to the soft grey blanket.,5,The striped black and white cat lay next to the soft grey blanket._000865.png,compbench_official_3in1,0.246723,1,0,,complex,86,5,865,ok
+complex+86,The striped black and white cat lay next to the soft grey blanket.,6,The striped black and white cat lay next to the soft grey blanket._000866.png,compbench_official_3in1,0.169941,1,0,,complex,86,6,866,ok
+complex+86,The striped black and white cat lay next to the soft grey blanket.,7,The striped black and white cat lay next to the soft grey blanket._000867.png,compbench_official_3in1,0.104592,1,0,,complex,86,7,867,ok
+complex+86,The striped black and white cat lay next to the soft grey blanket.,8,The striped black and white cat lay next to the soft grey blanket._000868.png,compbench_official_3in1,0.145973,1,0,,complex,86,8,868,ok
+complex+86,The striped black and white cat lay next to the soft grey blanket.,9,The striped black and white cat lay next to the soft grey blanket._000869.png,compbench_official_3in1,0.102181,1,0,,complex,86,9,869,ok
+complex+87,The smooth purple vase sat next to the tall white candlestick.,0,The smooth purple vase sat next to the tall white candlestick._000870.png,compbench_official_3in1,0.373993,1,0,,complex,87,0,870,ok
+complex+87,The smooth purple vase sat next to the tall white candlestick.,1,The smooth purple vase sat next to the tall white candlestick._000871.png,compbench_official_3in1,0.312121,1,0,,complex,87,1,871,ok
+complex+87,The smooth purple vase sat next to the tall white candlestick.,2,The smooth purple vase sat next to the tall white candlestick._000872.png,compbench_official_3in1,0.369784,1,0,,complex,87,2,872,ok
+complex+87,The smooth purple vase sat next to the tall white candlestick.,3,The smooth purple vase sat next to the tall white candlestick._000873.png,compbench_official_3in1,0.169816,1,0,,complex,87,3,873,ok
+complex+87,The smooth purple vase sat next to the tall white candlestick.,4,The smooth purple vase sat next to the tall white candlestick._000874.png,compbench_official_3in1,0.286649,1,0,,complex,87,4,874,ok
+complex+87,The smooth purple vase sat next to the tall white candlestick.,5,The smooth purple vase sat next to the tall white candlestick._000875.png,compbench_official_3in1,0.279491,1,0,,complex,87,5,875,ok
+complex+87,The smooth purple vase sat next to the tall white candlestick.,6,The smooth purple vase sat next to the tall white candlestick._000876.png,compbench_official_3in1,0.097147,1,0,,complex,87,6,876,ok
+complex+87,The smooth purple vase sat next to the tall white candlestick.,7,The smooth purple vase sat next to the tall white candlestick._000877.png,compbench_official_3in1,0.100976,1,0,,complex,87,7,877,ok
+complex+87,The smooth purple vase sat next to the tall white candlestick.,8,The smooth purple vase sat next to the tall white candlestick._000878.png,compbench_official_3in1,0.237393,1,0,,complex,87,8,878,ok
+complex+87,The smooth purple vase sat next to the tall white candlestick.,9,The smooth purple vase sat next to the tall white candlestick._000879.png,compbench_official_3in1,0.258494,1,0,,complex,87,9,879,ok
+complex+88,The crisp green lettuce lay next to the juicy red tomato.,0,The crisp green lettuce lay next to the juicy red tomato._000880.png,compbench_official_3in1,0.198402,1,0,,complex,88,0,880,ok
+complex+88,The crisp green lettuce lay next to the juicy red tomato.,1,The crisp green lettuce lay next to the juicy red tomato._000881.png,compbench_official_3in1,0.269186,1,0,,complex,88,1,881,ok
+complex+88,The crisp green lettuce lay next to the juicy red tomato.,2,The crisp green lettuce lay next to the juicy red tomato._000882.png,compbench_official_3in1,0.252773,1,0,,complex,88,2,882,ok
+complex+88,The crisp green lettuce lay next to the juicy red tomato.,3,The crisp green lettuce lay next to the juicy red tomato._000883.png,compbench_official_3in1,0.226444,1,0,,complex,88,3,883,ok
+complex+88,The crisp green lettuce lay next to the juicy red tomato.,4,The crisp green lettuce lay next to the juicy red tomato._000884.png,compbench_official_3in1,0.255879,1,0,,complex,88,4,884,ok
+complex+88,The crisp green lettuce lay next to the juicy red tomato.,5,The crisp green lettuce lay next to the juicy red tomato._000885.png,compbench_official_3in1,0.288015,1,0,,complex,88,5,885,ok
+complex+88,The crisp green lettuce lay next to the juicy red tomato.,6,The crisp green lettuce lay next to the juicy red tomato._000886.png,compbench_official_3in1,0.239985,1,0,,complex,88,6,886,ok
+complex+88,The crisp green lettuce lay next to the juicy red tomato.,7,The crisp green lettuce lay next to the juicy red tomato._000887.png,compbench_official_3in1,0.249285,1,0,,complex,88,7,887,ok
+complex+88,The crisp green lettuce lay next to the juicy red tomato.,8,The crisp green lettuce lay next to the juicy red tomato._000888.png,compbench_official_3in1,0.284102,1,0,,complex,88,8,888,ok
+complex+88,The crisp green lettuce lay next to the juicy red tomato.,9,The crisp green lettuce lay next to the juicy red tomato._000889.png,compbench_official_3in1,0.237706,1,0,,complex,88,9,889,ok
+complex+89,The colorful balloons floated near the sleek black hot air balloon.,0,The colorful balloons floated near the sleek black hot air balloon._000890.png,compbench_official_3in1,0.123738,1,0,,complex,89,0,890,ok
+complex+89,The colorful balloons floated near the sleek black hot air balloon.,1,The colorful balloons floated near the sleek black hot air balloon._000891.png,compbench_official_3in1,0.121203,1,0,,complex,89,1,891,ok
+complex+89,The colorful balloons floated near the sleek black hot air balloon.,2,The colorful balloons floated near the sleek black hot air balloon._000892.png,compbench_official_3in1,0.194845,1,0,,complex,89,2,892,ok
+complex+89,The colorful balloons floated near the sleek black hot air balloon.,3,The colorful balloons floated near the sleek black hot air balloon._000893.png,compbench_official_3in1,0.222315,1,0,,complex,89,3,893,ok
+complex+89,The colorful balloons floated near the sleek black hot air balloon.,4,The colorful balloons floated near the sleek black hot air balloon._000894.png,compbench_official_3in1,0.113034,1,0,,complex,89,4,894,ok
+complex+89,The colorful balloons floated near the sleek black hot air balloon.,5,The colorful balloons floated near the sleek black hot air balloon._000895.png,compbench_official_3in1,0.306435,1,0,,complex,89,5,895,ok
+complex+89,The colorful balloons floated near the sleek black hot air balloon.,6,The colorful balloons floated near the sleek black hot air balloon._000896.png,compbench_official_3in1,0.294836,1,0,,complex,89,6,896,ok
+complex+89,The colorful balloons floated near the sleek black hot air balloon.,7,The colorful balloons floated near the sleek black hot air balloon._000897.png,compbench_official_3in1,0.218510,1,0,,complex,89,7,897,ok
+complex+89,The colorful balloons floated near the sleek black hot air balloon.,8,The colorful balloons floated near the sleek black hot air balloon._000898.png,compbench_official_3in1,0.222892,1,0,,complex,89,8,898,ok
+complex+89,The colorful balloons floated near the sleek black hot air balloon.,9,The colorful balloons floated near the sleek black hot air balloon._000899.png,compbench_official_3in1,0.311789,1,0,,complex,89,9,899,ok
+complex+90,The rough brown bark of the tree contrasted with the smooth green leaves.,0,The rough brown bark of the tree contrasted with the smooth green leaves._000900.png,compbench_official_3in1,0.441483,1,0,,complex,90,0,900,ok
+complex+90,The rough brown bark of the tree contrasted with the smooth green leaves.,1,The rough brown bark of the tree contrasted with the smooth green leaves._000901.png,compbench_official_3in1,0.463169,1,0,,complex,90,1,901,ok
+complex+90,The rough brown bark of the tree contrasted with the smooth green leaves.,2,The rough brown bark of the tree contrasted with the smooth green leaves._000902.png,compbench_official_3in1,0.331424,1,0,,complex,90,2,902,ok
+complex+90,The rough brown bark of the tree contrasted with the smooth green leaves.,3,The rough brown bark of the tree contrasted with the smooth green leaves._000903.png,compbench_official_3in1,0.492819,1,0,,complex,90,3,903,ok
+complex+90,The rough brown bark of the tree contrasted with the smooth green leaves.,4,The rough brown bark of the tree contrasted with the smooth green leaves._000904.png,compbench_official_3in1,0.479482,1,0,,complex,90,4,904,ok
+complex+90,The rough brown bark of the tree contrasted with the smooth green leaves.,5,The rough brown bark of the tree contrasted with the smooth green leaves._000905.png,compbench_official_3in1,0.469584,1,0,,complex,90,5,905,ok
+complex+90,The rough brown bark of the tree contrasted with the smooth green leaves.,6,The rough brown bark of the tree contrasted with the smooth green leaves._000906.png,compbench_official_3in1,0.431629,1,0,,complex,90,6,906,ok
+complex+90,The rough brown bark of the tree contrasted with the smooth green leaves.,7,The rough brown bark of the tree contrasted with the smooth green leaves._000907.png,compbench_official_3in1,0.444183,1,0,,complex,90,7,907,ok
+complex+90,The rough brown bark of the tree contrasted with the smooth green leaves.,8,The rough brown bark of the tree contrasted with the smooth green leaves._000908.png,compbench_official_3in1,0.436147,1,0,,complex,90,8,908,ok
+complex+90,The rough brown bark of the tree contrasted with the smooth green leaves.,9,The rough brown bark of the tree contrasted with the smooth green leaves._000909.png,compbench_official_3in1,0.496837,1,0,,complex,90,9,909,ok
+complex+91,The sharp red apple contrasted with the soft green pear.,0,The sharp red apple contrasted with the soft green pear._000910.png,compbench_official_3in1,0.343316,1,0,,complex,91,0,910,ok
+complex+91,The sharp red apple contrasted with the soft green pear.,1,The sharp red apple contrasted with the soft green pear._000911.png,compbench_official_3in1,0.332069,1,0,,complex,91,1,911,ok
+complex+91,The sharp red apple contrasted with the soft green pear.,2,The sharp red apple contrasted with the soft green pear._000912.png,compbench_official_3in1,0.352745,1,0,,complex,91,2,912,ok
+complex+91,The sharp red apple contrasted with the soft green pear.,3,The sharp red apple contrasted with the soft green pear._000913.png,compbench_official_3in1,0.344982,1,0,,complex,91,3,913,ok
+complex+91,The sharp red apple contrasted with the soft green pear.,4,The sharp red apple contrasted with the soft green pear._000914.png,compbench_official_3in1,0.392081,1,0,,complex,91,4,914,ok
+complex+91,The sharp red apple contrasted with the soft green pear.,5,The sharp red apple contrasted with the soft green pear._000915.png,compbench_official_3in1,0.256377,1,0,,complex,91,5,915,ok
+complex+91,The sharp red apple contrasted with the soft green pear.,6,The sharp red apple contrasted with the soft green pear._000916.png,compbench_official_3in1,0.362648,1,0,,complex,91,6,916,ok
+complex+91,The sharp red apple contrasted with the soft green pear.,7,The sharp red apple contrasted with the soft green pear._000917.png,compbench_official_3in1,0.284238,1,0,,complex,91,7,917,ok
+complex+91,The sharp red apple contrasted with the soft green pear.,8,The sharp red apple contrasted with the soft green pear._000918.png,compbench_official_3in1,0.389647,1,0,,complex,91,8,918,ok
+complex+91,The sharp red apple contrasted with the soft green pear.,9,The sharp red apple contrasted with the soft green pear._000919.png,compbench_official_3in1,0.340406,1,0,,complex,91,9,919,ok
+complex+92,The warm yellow light shone down on the colorful fruit market.,0,The warm yellow light shone down on the colorful fruit market._000920.png,compbench_official_3in1,0.628412,1,0,,complex,92,0,920,ok
+complex+92,The warm yellow light shone down on the colorful fruit market.,1,The warm yellow light shone down on the colorful fruit market._000921.png,compbench_official_3in1,0.610460,1,0,,complex,92,1,921,ok
+complex+92,The warm yellow light shone down on the colorful fruit market.,2,The warm yellow light shone down on the colorful fruit market._000922.png,compbench_official_3in1,0.651422,1,0,,complex,92,2,922,ok
+complex+92,The warm yellow light shone down on the colorful fruit market.,3,The warm yellow light shone down on the colorful fruit market._000923.png,compbench_official_3in1,0.643179,1,0,,complex,92,3,923,ok
+complex+92,The warm yellow light shone down on the colorful fruit market.,4,The warm yellow light shone down on the colorful fruit market._000924.png,compbench_official_3in1,0.616212,1,0,,complex,92,4,924,ok
+complex+92,The warm yellow light shone down on the colorful fruit market.,5,The warm yellow light shone down on the colorful fruit market._000925.png,compbench_official_3in1,0.634583,1,0,,complex,92,5,925,ok
+complex+92,The warm yellow light shone down on the colorful fruit market.,6,The warm yellow light shone down on the colorful fruit market._000926.png,compbench_official_3in1,0.617491,1,0,,complex,92,6,926,ok
+complex+92,The warm yellow light shone down on the colorful fruit market.,7,The warm yellow light shone down on the colorful fruit market._000927.png,compbench_official_3in1,0.635046,1,0,,complex,92,7,927,ok
+complex+92,The warm yellow light shone down on the colorful fruit market.,8,The warm yellow light shone down on the colorful fruit market._000928.png,compbench_official_3in1,0.623951,1,0,,complex,92,8,928,ok
+complex+92,The warm yellow light shone down on the colorful fruit market.,9,The warm yellow light shone down on the colorful fruit market._000929.png,compbench_official_3in1,0.612706,1,0,,complex,92,9,929,ok
+complex+93,The warm yellow light shone down on the colorful fall leaves.,0,The warm yellow light shone down on the colorful fall leaves._000930.png,compbench_official_3in1,0.632174,1,0,,complex,93,0,930,ok
+complex+93,The warm yellow light shone down on the colorful fall leaves.,1,The warm yellow light shone down on the colorful fall leaves._000931.png,compbench_official_3in1,0.639142,1,0,,complex,93,1,931,ok
+complex+93,The warm yellow light shone down on the colorful fall leaves.,2,The warm yellow light shone down on the colorful fall leaves._000932.png,compbench_official_3in1,0.615738,1,0,,complex,93,2,932,ok
+complex+93,The warm yellow light shone down on the colorful fall leaves.,3,The warm yellow light shone down on the colorful fall leaves._000933.png,compbench_official_3in1,0.619100,1,0,,complex,93,3,933,ok
+complex+93,The warm yellow light shone down on the colorful fall leaves.,4,The warm yellow light shone down on the colorful fall leaves._000934.png,compbench_official_3in1,0.609634,1,0,,complex,93,4,934,ok
+complex+93,The warm yellow light shone down on the colorful fall leaves.,5,The warm yellow light shone down on the colorful fall leaves._000935.png,compbench_official_3in1,0.618565,1,0,,complex,93,5,935,ok
+complex+93,The warm yellow light shone down on the colorful fall leaves.,6,The warm yellow light shone down on the colorful fall leaves._000936.png,compbench_official_3in1,0.639979,1,0,,complex,93,6,936,ok
+complex+93,The warm yellow light shone down on the colorful fall leaves.,7,The warm yellow light shone down on the colorful fall leaves._000937.png,compbench_official_3in1,0.630880,1,0,,complex,93,7,937,ok
+complex+93,The warm yellow light shone down on the colorful fall leaves.,8,The warm yellow light shone down on the colorful fall leaves._000938.png,compbench_official_3in1,0.607053,1,0,,complex,93,8,938,ok
+complex+93,The warm yellow light shone down on the colorful fall leaves.,9,The warm yellow light shone down on the colorful fall leaves._000939.png,compbench_official_3in1,0.632968,1,0,,complex,93,9,939,ok
+complex+94,The sharp blue scissors cut through the thick white paper.,0,The sharp blue scissors cut through the thick white paper._000940.png,compbench_official_3in1,0.409440,1,0,,complex,94,0,940,ok
+complex+94,The sharp blue scissors cut through the thick white paper.,1,The sharp blue scissors cut through the thick white paper._000941.png,compbench_official_3in1,0.445099,1,0,,complex,94,1,941,ok
+complex+94,The sharp blue scissors cut through the thick white paper.,2,The sharp blue scissors cut through the thick white paper._000942.png,compbench_official_3in1,0.425071,1,0,,complex,94,2,942,ok
+complex+94,The sharp blue scissors cut through the thick white paper.,3,The sharp blue scissors cut through the thick white paper._000943.png,compbench_official_3in1,0.329272,1,0,,complex,94,3,943,ok
+complex+94,The sharp blue scissors cut through the thick white paper.,4,The sharp blue scissors cut through the thick white paper._000944.png,compbench_official_3in1,0.221344,1,0,,complex,94,4,944,ok
+complex+94,The sharp blue scissors cut through the thick white paper.,5,The sharp blue scissors cut through the thick white paper._000945.png,compbench_official_3in1,0.402724,1,0,,complex,94,5,945,ok
+complex+94,The sharp blue scissors cut through the thick white paper.,6,The sharp blue scissors cut through the thick white paper._000946.png,compbench_official_3in1,0.502995,1,0,,complex,94,6,946,ok
+complex+94,The sharp blue scissors cut through the thick white paper.,7,The sharp blue scissors cut through the thick white paper._000947.png,compbench_official_3in1,0.463236,1,0,,complex,94,7,947,ok
+complex+94,The sharp blue scissors cut through the thick white paper.,8,The sharp blue scissors cut through the thick white paper._000948.png,compbench_official_3in1,0.436632,1,0,,complex,94,8,948,ok
+complex+94,The sharp blue scissors cut through the thick white paper.,9,The sharp blue scissors cut through the thick white paper._000949.png,compbench_official_3in1,0.378534,1,0,,complex,94,9,949,ok
+complex+95,The shiny silver watch ticked on the rough wooden nightstand.,0,The shiny silver watch ticked on the rough wooden nightstand._000950.png,compbench_official_3in1,0.472040,1,0,,complex,95,0,950,ok
+complex+95,The shiny silver watch ticked on the rough wooden nightstand.,1,The shiny silver watch ticked on the rough wooden nightstand._000951.png,compbench_official_3in1,0.320808,1,0,,complex,95,1,951,ok
+complex+95,The shiny silver watch ticked on the rough wooden nightstand.,2,The shiny silver watch ticked on the rough wooden nightstand._000952.png,compbench_official_3in1,0.313346,1,0,,complex,95,2,952,ok
+complex+95,The shiny silver watch ticked on the rough wooden nightstand.,3,The shiny silver watch ticked on the rough wooden nightstand._000953.png,compbench_official_3in1,0.356042,1,0,,complex,95,3,953,ok
+complex+95,The shiny silver watch ticked on the rough wooden nightstand.,4,The shiny silver watch ticked on the rough wooden nightstand._000954.png,compbench_official_3in1,0.374466,1,0,,complex,95,4,954,ok
+complex+95,The shiny silver watch ticked on the rough wooden nightstand.,5,The shiny silver watch ticked on the rough wooden nightstand._000955.png,compbench_official_3in1,0.402024,1,0,,complex,95,5,955,ok
+complex+95,The shiny silver watch ticked on the rough wooden nightstand.,6,The shiny silver watch ticked on the rough wooden nightstand._000956.png,compbench_official_3in1,0.337550,1,0,,complex,95,6,956,ok
+complex+95,The shiny silver watch ticked on the rough wooden nightstand.,7,The shiny silver watch ticked on the rough wooden nightstand._000957.png,compbench_official_3in1,0.332099,1,0,,complex,95,7,957,ok
+complex+95,The shiny silver watch ticked on the rough wooden nightstand.,8,The shiny silver watch ticked on the rough wooden nightstand._000958.png,compbench_official_3in1,0.360073,1,0,,complex,95,8,958,ok
+complex+95,The shiny silver watch ticked on the rough wooden nightstand.,9,The shiny silver watch ticked on the rough wooden nightstand._000959.png,compbench_official_3in1,0.334172,1,0,,complex,95,9,959,ok
+complex+96,The smooth white marble statue stood in front of the rough grey wall.,0,The smooth white marble statue stood in front of the rough grey wall._000960.png,compbench_official_3in1,0.165024,1,0,,complex,96,0,960,ok
+complex+96,The smooth white marble statue stood in front of the rough grey wall.,1,The smooth white marble statue stood in front of the rough grey wall._000961.png,compbench_official_3in1,0.200083,1,0,,complex,96,1,961,ok
+complex+96,The smooth white marble statue stood in front of the rough grey wall.,2,The smooth white marble statue stood in front of the rough grey wall._000962.png,compbench_official_3in1,0.222662,1,0,,complex,96,2,962,ok
+complex+96,The smooth white marble statue stood in front of the rough grey wall.,3,The smooth white marble statue stood in front of the rough grey wall._000963.png,compbench_official_3in1,0.202023,1,0,,complex,96,3,963,ok
+complex+96,The smooth white marble statue stood in front of the rough grey wall.,4,The smooth white marble statue stood in front of the rough grey wall._000964.png,compbench_official_3in1,0.181745,1,0,,complex,96,4,964,ok
+complex+96,The smooth white marble statue stood in front of the rough grey wall.,5,The smooth white marble statue stood in front of the rough grey wall._000965.png,compbench_official_3in1,0.163150,1,0,,complex,96,5,965,ok
+complex+96,The smooth white marble statue stood in front of the rough grey wall.,6,The smooth white marble statue stood in front of the rough grey wall._000966.png,compbench_official_3in1,0.216131,1,0,,complex,96,6,966,ok
+complex+96,The smooth white marble statue stood in front of the rough grey wall.,7,The smooth white marble statue stood in front of the rough grey wall._000967.png,compbench_official_3in1,0.194624,1,0,,complex,96,7,967,ok
+complex+96,The smooth white marble statue stood in front of the rough grey wall.,8,The smooth white marble statue stood in front of the rough grey wall._000968.png,compbench_official_3in1,0.187257,1,0,,complex,96,8,968,ok
+complex+96,The smooth white marble statue stood in front of the rough grey wall.,9,The smooth white marble statue stood in front of the rough grey wall._000969.png,compbench_official_3in1,0.206419,1,0,,complex,96,9,969,ok
+complex+97,The soft white feathers of the owl contrasted with the sharp black talons.,0,The soft white feathers of the owl contrasted with the sharp black talons._000970.png,compbench_official_3in1,0.324519,1,0,,complex,97,0,970,ok
+complex+97,The soft white feathers of the owl contrasted with the sharp black talons.,1,The soft white feathers of the owl contrasted with the sharp black talons._000971.png,compbench_official_3in1,0.340747,1,0,,complex,97,1,971,ok
+complex+97,The soft white feathers of the owl contrasted with the sharp black talons.,2,The soft white feathers of the owl contrasted with the sharp black talons._000972.png,compbench_official_3in1,0.362747,1,0,,complex,97,2,972,ok
+complex+97,The soft white feathers of the owl contrasted with the sharp black talons.,3,The soft white feathers of the owl contrasted with the sharp black talons._000973.png,compbench_official_3in1,0.351410,1,0,,complex,97,3,973,ok
+complex+97,The soft white feathers of the owl contrasted with the sharp black talons.,4,The soft white feathers of the owl contrasted with the sharp black talons._000974.png,compbench_official_3in1,0.411028,1,0,,complex,97,4,974,ok
+complex+97,The soft white feathers of the owl contrasted with the sharp black talons.,5,The soft white feathers of the owl contrasted with the sharp black talons._000975.png,compbench_official_3in1,0.346794,1,0,,complex,97,5,975,ok
+complex+97,The soft white feathers of the owl contrasted with the sharp black talons.,6,The soft white feathers of the owl contrasted with the sharp black talons._000976.png,compbench_official_3in1,0.395003,1,0,,complex,97,6,976,ok
+complex+97,The soft white feathers of the owl contrasted with the sharp black talons.,7,The soft white feathers of the owl contrasted with the sharp black talons._000977.png,compbench_official_3in1,0.287375,1,0,,complex,97,7,977,ok
+complex+97,The soft white feathers of the owl contrasted with the sharp black talons.,8,The soft white feathers of the owl contrasted with the sharp black talons._000978.png,compbench_official_3in1,0.363178,1,0,,complex,97,8,978,ok
+complex+97,The soft white feathers of the owl contrasted with the sharp black talons.,9,The soft white feathers of the owl contrasted with the sharp black talons._000979.png,compbench_official_3in1,0.309919,1,0,,complex,97,9,979,ok
+complex+98,The crisp white sheet covered the lumpy blue mattress.,0,The crisp white sheet covered the lumpy blue mattress._000980.png,compbench_official_3in1,0.429138,1,0,,complex,98,0,980,ok
+complex+98,The crisp white sheet covered the lumpy blue mattress.,1,The crisp white sheet covered the lumpy blue mattress._000981.png,compbench_official_3in1,0.152634,1,0,,complex,98,1,981,ok
+complex+98,The crisp white sheet covered the lumpy blue mattress.,2,The crisp white sheet covered the lumpy blue mattress._000982.png,compbench_official_3in1,0.270937,1,0,,complex,98,2,982,ok
+complex+98,The crisp white sheet covered the lumpy blue mattress.,3,The crisp white sheet covered the lumpy blue mattress._000983.png,compbench_official_3in1,0.423001,1,0,,complex,98,3,983,ok
+complex+98,The crisp white sheet covered the lumpy blue mattress.,4,The crisp white sheet covered the lumpy blue mattress._000984.png,compbench_official_3in1,0.449726,1,0,,complex,98,4,984,ok
+complex+98,The crisp white sheet covered the lumpy blue mattress.,5,The crisp white sheet covered the lumpy blue mattress._000985.png,compbench_official_3in1,0.158292,1,0,,complex,98,5,985,ok
+complex+98,The crisp white sheet covered the lumpy blue mattress.,6,The crisp white sheet covered the lumpy blue mattress._000986.png,compbench_official_3in1,0.174214,1,0,,complex,98,6,986,ok
+complex+98,The crisp white sheet covered the lumpy blue mattress.,7,The crisp white sheet covered the lumpy blue mattress._000987.png,compbench_official_3in1,0.170845,1,0,,complex,98,7,987,ok
+complex+98,The crisp white sheet covered the lumpy blue mattress.,8,The crisp white sheet covered the lumpy blue mattress._000988.png,compbench_official_3in1,0.386516,1,0,,complex,98,8,988,ok
+complex+98,The crisp white sheet covered the lumpy blue mattress.,9,The crisp white sheet covered the lumpy blue mattress._000989.png,compbench_official_3in1,0.145418,1,0,,complex,98,9,989,ok
+complex+99,The soft pink pillow leaned against the hard wooden chair.,0,The soft pink pillow leaned against the hard wooden chair._000990.png,compbench_official_3in1,0.585030,1,0,,complex,99,0,990,ok
+complex+99,The soft pink pillow leaned against the hard wooden chair.,1,The soft pink pillow leaned against the hard wooden chair._000991.png,compbench_official_3in1,0.567629,1,0,,complex,99,1,991,ok
+complex+99,The soft pink pillow leaned against the hard wooden chair.,2,The soft pink pillow leaned against the hard wooden chair._000992.png,compbench_official_3in1,0.573161,1,0,,complex,99,2,992,ok
+complex+99,The soft pink pillow leaned against the hard wooden chair.,3,The soft pink pillow leaned against the hard wooden chair._000993.png,compbench_official_3in1,0.548024,1,0,,complex,99,3,993,ok
+complex+99,The soft pink pillow leaned against the hard wooden chair.,4,The soft pink pillow leaned against the hard wooden chair._000994.png,compbench_official_3in1,0.596191,1,0,,complex,99,4,994,ok
+complex+99,The soft pink pillow leaned against the hard wooden chair.,5,The soft pink pillow leaned against the hard wooden chair._000995.png,compbench_official_3in1,0.554928,1,0,,complex,99,5,995,ok
+complex+99,The soft pink pillow leaned against the hard wooden chair.,6,The soft pink pillow leaned against the hard wooden chair._000996.png,compbench_official_3in1,0.602486,1,0,,complex,99,6,996,ok
+complex+99,The soft pink pillow leaned against the hard wooden chair.,7,The soft pink pillow leaned against the hard wooden chair._000997.png,compbench_official_3in1,0.597644,1,0,,complex,99,7,997,ok
+complex+99,The soft pink pillow leaned against the hard wooden chair.,8,The soft pink pillow leaned against the hard wooden chair._000998.png,compbench_official_3in1,0.574386,1,0,,complex,99,8,998,ok
+complex+99,The soft pink pillow leaned against the hard wooden chair.,9,The soft pink pillow leaned against the hard wooden chair._000999.png,compbench_official_3in1,0.587808,1,0,,complex,99,9,999,ok

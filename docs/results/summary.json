@@ -1,0 +1,344 @@
+{
+  "t2i_compbench_pp": {
+    "status": "completed",
+    "source": "T2I-CompBench++ official evaluators (BLIP-VQA / UniDet / CLIPScore / 3-in-1)",
+    "rows": [
+      {
+        "method": "tpscda",
+        "category": "color",
+        "status": "completed",
+        "metric": "compbench_official_blipvqa",
+        "official_mean_score": 0.3922293333333337,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "blip"
+        ],
+        "evaluator_wall_seconds": {
+          "blip": 459.86
+        },
+        "source_dir": "/root/compbench_work/results/tpscda/color"
+      },
+      {
+        "method": "tpscda",
+        "category": "shape",
+        "status": "completed",
+        "metric": "compbench_official_blipvqa",
+        "official_mean_score": 0.413457,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "blip"
+        ],
+        "evaluator_wall_seconds": {
+          "blip": 456.76
+        },
+        "source_dir": "/root/compbench_work/results/tpscda/shape"
+      },
+      {
+        "method": "tpscda",
+        "category": "texture",
+        "status": "completed",
+        "metric": "compbench_official_blipvqa",
+        "official_mean_score": 0.46966099999999955,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "blip"
+        ],
+        "evaluator_wall_seconds": {
+          "blip": 457.95
+        },
+        "source_dir": "/root/compbench_work/results/tpscda/texture"
+      },
+      {
+        "method": "tpscda",
+        "category": "spatial",
+        "status": "completed",
+        "metric": "compbench_official_unidet_2d_spatial",
+        "official_mean_score": 0.19690414091678932,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "unidet2d"
+        ],
+        "evaluator_wall_seconds": {
+          "unidet2d": 108.95
+        },
+        "source_dir": "/root/compbench_work/results/tpscda/spatial"
+      },
+      {
+        "method": "tpscda",
+        "category": "3d_spatial",
+        "status": "completed",
+        "metric": "compbench_official_unidet_3d_spatial",
+        "official_mean_score": 0.3366157574620865,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "unidet3d"
+        ],
+        "evaluator_wall_seconds": {
+          "unidet3d": 179.26
+        },
+        "source_dir": "/root/compbench_work/results/tpscda/3d_spatial"
+      },
+      {
+        "method": "tpscda",
+        "category": "numeracy",
+        "status": "completed",
+        "metric": "compbench_official_unidet_numeracy",
+        "official_mean_score": 0.4960833333333333,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "unidet_num"
+        ],
+        "evaluator_wall_seconds": {
+          "unidet_num": 13.91
+        },
+        "source_dir": "/root/compbench_work/results/tpscda/numeracy"
+      },
+      {
+        "method": "tpscda",
+        "category": "non_spatial",
+        "status": "completed",
+        "metric": "compbench_official_clipscore",
+        "official_mean_score": 0.309283447265625,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "clip"
+        ],
+        "evaluator_wall_seconds": {
+          "clip": 159.1
+        },
+        "source_dir": "/root/compbench_work/results/tpscda/non_spatial"
+      },
+      {
+        "method": "tpscda",
+        "category": "complex",
+        "status": "completed",
+        "metric": "compbench_official_3in1",
+        "official_mean_score": 0.331175635946282,
+        "num_prompts": 100,
+        "num_images_selected": 1000,
+        "num_images_scored": 1000,
+        "num_images_failed": 0,
+        "is_full_official_run": false,
+        "evaluator_chain": [
+          "blip",
+          "unidet2d_complex",
+          "clip_complex",
+          "three_in_one"
+        ],
+        "evaluator_wall_seconds": {
+          "blip": 556.26,
+          "unidet2d_complex": 340.91,
+          "clip_complex": 461.78,
+          "three_in_one": 0.29
+        },
+        "source_dir": "/root/compbench_work/results/tpscda/complex"
+      },
+      {
+        "method": "frozen",
+        "category": "color",
+        "status": "completed",
+        "metric": "compbench_official_blipvqa",
+        "official_mean_score": 0.39561000000000024,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "blip"
+        ],
+        "evaluator_wall_seconds": {
+          "blip": 433.96
+        },
+        "source_dir": "/root/compbench_work/results/frozen/color"
+      },
+      {
+        "method": "frozen",
+        "category": "shape",
+        "status": "completed",
+        "metric": "compbench_official_blipvqa",
+        "official_mean_score": 0.415809,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "blip"
+        ],
+        "evaluator_wall_seconds": {
+          "blip": 430.61
+        },
+        "source_dir": "/root/compbench_work/results/frozen/shape"
+      },
+      {
+        "method": "frozen",
+        "category": "texture",
+        "status": "completed",
+        "metric": "compbench_official_blipvqa",
+        "official_mean_score": 0.470087333333333,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "blip"
+        ],
+        "evaluator_wall_seconds": {
+          "blip": 440.69
+        },
+        "source_dir": "/root/compbench_work/results/frozen/texture"
+      },
+      {
+        "method": "frozen",
+        "category": "spatial",
+        "status": "completed",
+        "metric": "compbench_official_unidet_2d_spatial",
+        "official_mean_score": 0.2040415663317909,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "unidet2d"
+        ],
+        "evaluator_wall_seconds": {
+          "unidet2d": 111.65
+        },
+        "source_dir": "/root/compbench_work/results/frozen/spatial"
+      },
+      {
+        "method": "frozen",
+        "category": "3d_spatial",
+        "status": "completed",
+        "metric": "compbench_official_unidet_3d_spatial",
+        "official_mean_score": 0.3388037379389235,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "unidet3d"
+        ],
+        "evaluator_wall_seconds": {
+          "unidet3d": 174.16
+        },
+        "source_dir": "/root/compbench_work/results/frozen/3d_spatial"
+      },
+      {
+        "method": "frozen",
+        "category": "numeracy",
+        "status": "completed",
+        "metric": "compbench_official_unidet_numeracy",
+        "official_mean_score": 0.5086111111111112,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "unidet_num"
+        ],
+        "evaluator_wall_seconds": {
+          "unidet_num": 14.29
+        },
+        "source_dir": "/root/compbench_work/results/frozen/numeracy"
+      },
+      {
+        "method": "frozen",
+        "category": "non_spatial",
+        "status": "completed",
+        "metric": "compbench_official_clipscore",
+        "official_mean_score": 0.309451904296875,
+        "num_prompts": 300,
+        "num_images_selected": 300,
+        "num_images_scored": 300,
+        "num_images_failed": 0,
+        "is_full_official_run": true,
+        "evaluator_chain": [
+          "clip"
+        ],
+        "evaluator_wall_seconds": {
+          "clip": 152.95
+        },
+        "source_dir": "/root/compbench_work/results/frozen/non_spatial"
+      },
+      {
+        "method": "frozen",
+        "category": "complex",
+        "status": "completed",
+        "metric": "compbench_official_3in1",
+        "official_mean_score": 0.3314480134723056,
+        "num_prompts": 100,
+        "num_images_selected": 1000,
+        "num_images_scored": 1000,
+        "num_images_failed": 0,
+        "is_full_official_run": false,
+        "evaluator_chain": [
+          "blip",
+          "unidet2d_complex",
+          "clip_complex",
+          "three_in_one"
+        ],
+        "evaluator_wall_seconds": {
+          "blip": 574.24,
+          "unidet2d_complex": 343.97,
+          "clip_complex": 459.3,
+          "three_in_one": 0.21
+        },
+        "source_dir": "/root/compbench_work/results/frozen/complex"
+      }
+    ]
+  },
+  "geneval_color_attribution": {
+    "status": "not_completed",
+    "reason": "官方 GenEval 评测器要求 mmdet 2.x；本机仅可安装 mmdet 3.x，权重键名（attentions.0 -> self_attn 等）与 inference_detector 返回格式均不兼容；安装 mmdet 2.x 需 mmcv 1.x，会破坏已可用的 T2I-CompBench++ UniDet 评测器（需 mmcv 2.x）。",
+    "did_not_do": "没有使用替代检测器或自实现流程冒充官方结果。",
+    "suggested_path": "在独立 conda 环境中安装 mmdet 2.x + mmcv 1.x 后运行官方评测器。",
+    "see": "results/EXPERIMENT_ISSUES.md ISSUE-010"
+  },
+  "human_binding_annotation": {
+    "status": "not_completed",
+    "reason": "人工标注需两名标注者；服务器无法自动完成。",
+    "delivered": "results/human_binding/annotation_sheet.csv（200 条 prompt，方法已盲化）+ 盲化对照表",
+    "did_not_do": "没有伪造任何人工标注结果，也没有计算 Cohen kappa。"
+  },
+  "parser_alignment": {
+    "status": "completed_descriptive_only",
+    "reason": "无人工真值，按任务书要求只做描述性统计。",
+    "did_not_do": "没有输出 precision/recall/F1。",
+    "artifacts": "results/parser_alignment/"
+  },
+  "note_issue_011": "TP-SCDA 与 Frozen 的 T2I-CompBench++ 数值均在【恢复交叉注意力掩码】后测得；当前仓库代码（掩码丢失）的结果保存在 /root/compbench_work/results_buggy/，详见 results/EXPERIMENT_ISSUES.md ISSUE-011。"
+}

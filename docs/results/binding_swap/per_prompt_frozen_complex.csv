@@ -1,0 +1,124 @@
+prompt_index,prompt,swapped,n_images,correct_wins
+0,The red hat was on top of the brown coat rack.,The coat hat was on top of the brown red rack.,10,1.0
+2,The black phone was resting on the brown charger.,The brown phone was resting on the black charger.,10,1.0
+3,The leather wallet was inside the brown purse.,The brown wallet was inside the leather purse.,10,1.0
+4,The fluffy cat is on the left of the soft pillow.,The soft cat is on the left of the fluffy pillow.,10,0.4
+6,The soft pillow was on top of the hard rocking chair.,The rocking pillow was on top of the hard soft chair.,10,0.1
+7,The brown dog was lying on the green mat.,The green dog was lying on the brown mat.,10,1.0
+8,The green plant was on the right of the white wall.,The white plant was on the right of the green wall.,10,1.0
+9,The blue bowl was on top of the white placemat.,The white bowl was on top of the blue placemat.,10,0.0
+10,The rectangular mirror was hung above the white sink.,The white mirror was hung above the rectangular sink.,10,0.9
+11,The black chair is on top of the blue rug.,The blue chair is on top of the black rug.,10,0.0
+12,The black chair was on the left of the white table.,The white chair was on the left of the black table.,10,0.2
+13,The square book was next to the green notebook.,The green book was next to the square notebook.,10,0.1
+15,The rectangular mirror was hung above the black dresser.,The black mirror was hung above the rectangular dresser.,10,1.0
+16,The rough brick was on top of the smooth tile.,The smooth brick was on top of the rough tile.,10,1.0
+17,The red apple was on top of the black plate.,The black apple was on top of the red plate.,10,0.0
+18,The striped rug was on top of the tiled floor.,The tiled rug was on top of the striped floor.,10,1.0
+19,The striped rug was on top of the wooden floor.,The wooden rug was on top of the striped floor.,10,1.0
+20,The red umbrella was on top of the white coat rack.,The coat umbrella was on top of the white red rack.,10,1.0
+21,The silver laptop was on top of the black desk.,The black laptop was on top of the silver desk.,10,0.1
+22,The black headphones were next to the green phone.,The green headphones were next to the black phone.,10,0.8
+23,The silver watch was resting on the brown nightstand.,The brown watch was resting on the silver nightstand.,10,1.0
+24,The red mug was on top of the green coaster.,The green mug was on top of the red coaster.,10,0.0
+25,The rectangular mirror was hung above the wooden dresser.,The wooden mirror was hung above the rectangular dresser.,10,0.9
+26,The square box was next to the circular canister.,The circular box was next to the square canister.,10,1.0
+28,The green plant was on the left of the yellow lamp.,The yellow plant was on the left of the green lamp.,10,1.0
+29,The green plant is on top of the silver nightstand.,The silver plant is on top of the green nightstand.,10,0.7
+30,The fluffy cat was lying on the soft blanket.,The soft cat was lying on the fluffy blanket.,10,0.0
+31,The soft towel was on top of the hard counter.,The hard towel was on top of the soft counter.,10,0.0
+32,The white book was on top of the blue shelf.,The blue book was on top of the white shelf.,10,0.9
+33,The white mug is on top of the black coaster.,The black mug is on top of the white coaster.,10,0.0
+34,The black suitcase was next to the brown briefcase.,The brown suitcase was next to the black briefcase.,10,1.0
+37,The black pencil was next to the green notebook.,The green pencil was next to the black notebook.,10,0.0
+38,The rectangular book was on top of the black shelf.,The black book was on top of the rectangular shelf.,10,0.0
+39,The red apple was next to the oval plate.,The oval apple was next to the red plate.,10,0.0
+40,The black camera was next to the white tripod.,The white camera was next to the black tripod.,10,0.4
+41,The white shirt was on top of the blue pants.,The blue shirt was on top of the white pants.,10,0.9
+42,The white cat is lying on the brown sofa.,The brown cat is lying on the white sofa.,10,1.0
+43,The green plant was on top of the wooden shelf.,The wooden plant was on top of the green shelf.,10,0.8
+44,The black chair was next to the silver table.,The silver chair was next to the black table.,10,0.9
+45,The green plant was on the left of the white lamp.,The white plant was on the left of the green lamp.,10,0.1
+46,The green plant was next to the white vase.,The white plant was next to the green vase.,10,1.0
+47,The oval mirror is hung above the white sink.,The white mirror is hung above the oval sink.,10,1.0
+48,The yellow pencil was next to the blue pen.,The blue pencil was next to the yellow pen.,10,0.9
+49,The rectangular mirror was hung above the blue sink.,The blue mirror was hung above the rectangular sink.,10,0.2
+51,The rectangular mirror was hung above the wooden shelf.,The wooden mirror was hung above the rectangular shelf.,10,0.9
+52,The oval plate was on top of the square placemat.,The square plate was on top of the oval placemat.,10,0.9
+53,The white shirt was on top of the black pants.,The black shirt was on top of the white pants.,10,0.9
+54,The black phone was resting on the silver charger.,The silver phone was resting on the black charger.,10,1.0
+55,The striped rug was next to the beige armchair.,The beige rug was next to the striped armchair.,10,1.0
+56,The red apple was next to the yellow pear.,The yellow apple was next to the red pear.,10,0.0
+57,The square coaster was next to the circular glass.,The circular coaster was next to the square glass.,10,1.0
+58,The hardcover book was next to the brown notebook.,The brown book was next to the hardcover notebook.,10,0.6
+59,The soft blanket was on top of the hard couch.,The hard blanket was on top of the soft couch.,10,0.5
+60,The green plant was on the right of the white window.,The white plant was on the right of the green window.,10,0.8
+61,The blue book was on top of the red bookshelf.,The red book was on top of the blue bookshelf.,10,0.0
+62,The striped rug was next to the brown couch.,The brown rug was next to the striped couch.,10,0.7
+63,The square book was on top of the blue table.,The blue book was on top of the square table.,10,0.8
+65,The striped rug was on top of the brown carpet.,The brown rug was on top of the striped carpet.,10,0.0
+66,The silver fork was resting on the brown napkin.,The brown fork was resting on the silver napkin.,10,0.6
+67,The striped rug was next to the wooden bench.,The wooden rug was next to the striped bench.,10,0.6
+68,The blue mug is on top of the green coaster.,The green mug is on top of the blue coaster.,10,0.0
+69,The red hat was on top of the brown coat.,The brown hat was on top of the red coat.,10,0.1
+70,The white shirt was on the black hanger.,The black shirt was on the white hanger.,10,1.0
+71,The soft blanket was on top of the hard armchair.,The hard blanket was on top of the soft armchair.,10,0.1
+72,The fluffy pillow was on top of the hard chair.,The hard pillow was on top of the fluffy chair.,10,0.9
+73,The soft pillow was on top of the wooden chair.,The wooden pillow was on top of the soft chair.,10,0.4
+74,The round clock is next to the white picture frame.,The picture clock is next to the white round frame.,10,0.1
+75,The warm yellow light shone down on the cozy red armchair.,The cozy red light shone down on the warm yellow armchair.,10,0.6
+79,The smooth black river flowed next to the tall green trees.,The tall green river flowed next to the smooth black trees.,10,0.9
+80,The sleek black pen wrote on the crisp white notepad.,The crisp white pen wrote on the sleek black notepad.,10,0.0
+83,The sleek black laptop sat on the clean white desk.,The clean white laptop sat on the sleek black desk.,10,1.0
+84,The shiny silver watch ticked on the rough wooden table.,The rough wooden watch ticked on the shiny silver table.,10,0.5
+85,The bright orange pumpkin sat next to the crisp green apples.,The crisp green pumpkin sat next to the bright orange apples.,10,0.9
+86,The striped black and white cat lay next to the soft grey blanket.,The soft grey and white cat lay next to the striped black blanket.,10,1.0
+87,The smooth purple vase sat next to the tall white candlestick.,The tall white vase sat next to the smooth purple candlestick.,10,0.9
+88,The crisp green lettuce lay next to the juicy red tomato.,The juicy red lettuce lay next to the crisp green tomato.,10,1.0
+90,The rough brown bark of the tree contrasted with the smooth green leaves.,The smooth green bark of the tree contrasted with the rough brown leaves.,10,0.8
+91,The sharp red apple contrasted with the soft green pear.,The soft green apple contrasted with the sharp red pear.,10,0.1
+92,The warm yellow light shone down on the colorful fruit market.,The colorful fruit light shone down on the warm yellow market.,10,1.0
+94,The sharp blue scissors cut through the thick white paper.,The thick white scissors cut through the sharp blue paper.,10,0.8
+95,The shiny silver watch ticked on the rough wooden nightstand.,The rough wooden watch ticked on the shiny silver nightstand.,10,0.5
+97,The soft white feathers of the owl contrasted with the sharp black talons.,The sharp black feathers of the owl contrasted with the soft white talons.,10,1.0
+98,The crisp white sheet covered the lumpy blue mattress.,The lumpy blue sheet covered the crisp white mattress.,10,0.0
+99,The soft pink pillow leaned against the hard wooden chair.,The hard wooden pillow leaned against the soft pink chair.,10,0.9
+100,The colorful hot air balloon floated near the dark grey storm clouds.,The grey hot storm balloon floated near the dark colorful air clouds.,1,1.0
+101,The shiny silver car zoomed past the old rusty truck.,The old rusty car zoomed past the shiny silver truck.,1,0.0
+103,The long red scarf draped over the short black jacket.,The short black scarf draped over the long red jacket.,1,0.0
+104,The sharp black cat clawed at the soft red blanket.,The soft red cat clawed at the sharp black blanket.,1,0.0
+105,The fluffy white cat snuggled up next to the warm brown blanket.,The warm brown cat snuggled up next to the fluffy white blanket.,1,1.0
+106,The sleek black dress hung on the clean white hanger.,The clean white dress hung on the sleek black hanger.,1,1.0
+107,The sleek black cat sat next to the fluffy white pillow.,The fluffy white cat sat next to the sleek black pillow.,1,1.0
+108,The soft white snow contrasted with the sharp green pine needles.,The sharp pine snow contrasted with the soft green white needles.,1,1.0
+109,The prickly green cactus contrasted with the smooth white walls.,The smooth white cactus contrasted with the prickly green walls.,1,1.0
+110,The shiny silver ring sparkled on the rough wooden table.,The rough wooden ring sparkled on the shiny silver table.,1,0.0
+112,The sleek silver airplane flew above the fluffy white clouds.,The fluffy white airplane flew above the sleek silver clouds.,1,1.0
+116,The juicy red tomato lay next to the ripe orange pepper.,The ripe orange tomato lay next to the juicy red pepper.,1,1.0
+117,The sweet red strawberry lay next to the tart green apple.,The tart green strawberry lay next to the sweet red apple.,1,1.0
+118,The bright blue bird perched on the rough brown branch.,The rough brown bird perched on the bright blue branch.,1,1.0
+119,The fluffy white cat slept on the warm fuzzy blanket.,The warm fuzzy cat slept on the fluffy white blanket.,1,1.0
+120,The warm yellow sun shone down on the cool blue water.,The cool blue sun shone down on the warm yellow water.,1,1.0
+122,The rough brown bark of the tree contrasted with the soft green leaves.,The soft green bark of the tree contrasted with the rough brown leaves.,1,1.0
+123,The crunchy brown leaves covered the damp grey sidewalk.,The damp grey leaves covered the crunchy brown sidewalk.,1,1.0
+124,The soft pink blanket draped over the hard wooden chair.,The hard wooden blanket draped over the soft pink chair.,1,1.0
+127,The slimy green frog hopped onto the wet brown lily pad.,The brown lily frog hopped onto the wet slimy green pad.,1,1.0
+129,The warm yellow light shone down on the colorful flower bouquet.,The colorful flower light shone down on the warm yellow bouquet.,1,1.0
+130,The bright green grass contrasted with the dull grey pavement.,The dull grey grass contrasted with the bright green pavement.,1,1.0
+131,The prickly green cactus contrasted with the smooth white sand.,The smooth white cactus contrasted with the prickly green sand.,1,1.0
+132,The fluffy white clouds floated above the jagged mountain peaks.,The jagged mountain clouds floated above the fluffy white peaks.,1,0.0
+133,The soft blue blanket contrasted with the rough wooden floor.,The rough wooden blanket contrasted with the soft blue floor.,1,1.0
+135,The sleek black cat sat on top of the fluffy white pillow.,The fluffy white cat sat on top of the sleek black pillow.,1,1.0
+136,The fluffy white clouds floated above the deep blue sea.,The deep blue clouds floated above the fluffy white sea.,1,0.0
+137,The fluffy white clouds floated above the dark grey city skyline.,The dark city clouds floated above the fluffy grey white skyline.,1,1.0
+138,The rough brown boots contrasted with the soft white snow.,The soft white boots contrasted with the rough brown snow.,1,1.0
+139,The striped black and white zebra grazed near the tall green tree.,The tall green and white zebra grazed near the striped black tree.,1,1.0
+142,The soft blue sky contrasted with the sharp white clouds.,The sharp white sky contrasted with the soft blue clouds.,1,1.0
+143,The bright orange construction cones marked the rough asphalt road.,The bright rough asphalt cones marked the orange construction road.,1,1.0
+144,The rough brown boots contrasted with the smooth white snow.,The smooth white boots contrasted with the rough brown snow.,1,1.0
+146,The shiny black motorcycle zoomed past the old rusty car.,The old rusty motorcycle zoomed past the shiny black car.,1,1.0
+147,The rough brown burlap sack lay next to the smooth white satin ribbon.,The smooth white satin sack lay next to the rough brown burlap ribbon.,1,0.0
+148,The smooth black leather jacket hung next to the rugged brown boots.,The rugged black brown jacket hung next to the smooth leather boots.,1,1.0
+149,The smooth white snow covered the rough brown ground.,The rough brown snow covered the smooth white ground.,1,1.0
+251,"The vibrant, glittering lights of the carnival rides spun and twirled in dizzying circles, thrilling and delighting the adventurous.","The vibrant, dizzying lights of the carnival rides spun and twirled in glittering circles, thrilling and delighting the adventurous.",1,1.0
+258,"The bold, striking patterns of the tiger's stripes blended seamlessly with the dappled light of the jungle, a creature of stealth and beauty.","The bold, striking patterns of the dappled 's stripes blended seamlessly with the tiger light of the jungle, a creature of stealth and beauty.",1,1.0
