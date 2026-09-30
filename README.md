@@ -1,273 +1,90 @@
-# TP-SCDA — Semantic-Conditioned Token-Pair Adaptation for PixArt-α
+# 面向文生图属性绑定的双门控交叉注意力替换
 
-A research fork of [PixArt-α](https://github.com/PixArt-alpha/PixArt-alpha) that injects
-text-semantic structure (objects, attributes, relations) into a **frozen** DiT backbone
-through lightweight adapters, a token-pair cross-attention bias, and learnable layer gates.
+**Dual-gated cross-attention replacement for object–attribute binding in text-to-image generation**
 
-Base revision: `cac2fd3b4544cf7620d8fbbf8b19d97ffcb85892` (upstream, 2024-10-31).
-License: Apache 2.0 (inherited from upstream — see `LICENSE`).
+面向 **PixArt-α / PixArt-XL-2-512** 的**免训练、推理期**注意力改写：在冻结主干上做 token-pair 交叉注意力重分配，并用**空间半径门控 + 时间去噪门控**把副作用限制在目标对象的支撑域与目标去噪窗口内。不新增可训练参数，不修改主干权重。
+
+> **关于仓库名**：本仓库最早是早期 **TP-SCDA**（semantic-conditioned token-pair adaptation）线的实现与实验记录，那条线是**负结果**（八类指标与冻结基线持平），并暴露了两个实现缺陷。当前论文的工作是在**修复这些缺陷之后**完成的。旧版 README 已归档到 [`docs/legacy/`](docs/legacy/README_2026-09-30_TP-SCDA-negative.md)，负结果与缺陷记录完整保留在 [`docs/results/`](docs/results)。
 
 ---
 
-## Read this first: the headline result is negative
+## 1. 方法要点
 
-**TP-SCDA ties the frozen PixArt-α baseline on all eight T2I-CompBench++ metrics.**
-On the checkpoints available here, the method does not measurably improve prompt
-adherence. This is reported as-is rather than papered over.
+主干（冻结）：PixArt-XL-2-512（28 层 DiT，hidden 1152，16 heads）+ T5-xxl 文本编码器，全部实验共用同一份冻结检查点。
 
-Two defects were found along the way, and they are arguably the more useful
-contribution of this work:
+- **token-pair 注意力重分配**：在 DiT 每个 block 的交叉注意力前向中，把对象 token 与其配对属性 token 的注意力权重向该属性 token 集中、其余列按行归一化等比稀释。这是 softmax **之后**的逐行重分配，不引入加性偏置；实现见 `diffusion/model/nets/PixArt_blocks.py`（支持 `replace` / `reweight` / `raise` / `equalize` / `outside` / `sink` 等模式）。
+- **半径渐变的空间门控**：以对象锚点为中心、沿半径由中心强度衰减到对象支撑域边界，边界外强度为 0，从而只在该对象附近生效。实现见 `diffusion/model/nets/lcar.py`。
+- **时间去噪门控**：只在归一化去噪进度 p ∈ [0.25, 0.5] 的窗口内施加替换，窗口外**退化为恒等映射**（不替换）。
+- 提示词解析不出对象-属性对时掩码为空、算子自动跳过——这也是 2D 空间与 3D 空间两类上算子不激活的原因。
 
-| ID | Finding | Status |
-|---|---|---|
-| **ISSUE-011** | The rewritten `MultiHeadCrossAttention` silently dropped the cross-attention key-padding mask, so every image patch attended to T5 padding tokens. All previously computed generation metrics were measured on degraded images. | **Fixed** (`cross_attn_key_padding` in `diffusion/model/nets/PixArt_blocks.py`) |
-| **ISSUE-008** | The learnable layer gates never learned anything. Initialization at `±4.0` sits in the sigmoid saturation region, where `dλ/dw = 0.0177`. The maximum reachable parameter distance over the whole run (~0.052) was ~20× short of the ~1.0 needed to escape. | **Diagnosed + reworked**; effective learning rate improved ~570× per step |
+论文口径的参数：替换强度 0.9→0.1、半径倍率 ρ = 1、竞争抑制系数 μ = 0.5、时间窗 [0.25, 0.5]，全部写在配置文件里，无隐式默认值。
 
-Details: `docs/results/PROJECT_SUMMARY.md` (summary), `docs/results/EXPERIMENT_ISSUES.md`
-(all 13 issues), `docs/results/GATE_OPTIMIZATION.md` (ISSUE-008 diagnosis).
+## 2. 主要结果
 
-### Table 5 — T2I-CompBench++ (8 categories, official evaluator)
+T2I-CompBench++ 官方评测器，每类 300 条提示词、每提示词 1 张（n = 300）：
 
-Measured **after** the ISSUE-011 mask fix. 300 prompts/category, 1 image per prompt.
-
-| Category | TP-SCDA | Frozen PixArt-α |
+| 设置 | 颜色 | 计数（numeracy） |
 |---|---:|---:|
-| Color | 0.3922 | 0.3956 |
-| Shape | 0.4135 | 0.4158 |
-| Texture | 0.4697 | 0.4701 |
-| 2D Spatial | 0.1969 | 0.2040 |
-| 3D Spatial | 0.3366 | 0.3388 |
-| Numeracy | 0.4961 | 0.5086 |
-| Non-spatial | 0.3093 | 0.3095 |
-| Complex | 0.3312 | 0.3314 |
+| 冻结基线（不施加干预） | 0.3956 | 0.5155 |
+| 半径替换（全程施加） | **0.4679**（Δ +0.0722，显著） | 0.1692（Δ −0.3464，**显著下降**） |
+| 半径替换 + 时间门控 [0.25, 0.5] | **0.4411**（Δ +0.0455，显著） | 0.4207（Δ −0.0948，代价比全程降低 **72.63%**） |
 
-Table 6 (GenEval) was **not completed** — the official evaluator requires `mmdet` 2.x,
-which is incompatible with the `mmcv` 2.x needed by the CompBench++ UniDet evaluator.
-No substitute implementation was passed off as the official result.
+- 时间门控把颜色增益的计数代价从 −0.3464 压到 −0.0948，颜色增益仍显著：两类串扰可以被**分别切断**。
+- **代价如实标注**：计数在两种设置下都低于冻结基线，本文的定位是"缓解而非消除"；其余类别（形状/纹理/2D/3D 空间/非空间/复杂）见论文表 2、表 3。
+- 同协议（每类前 100 条，复杂类每提示词 10 张）与现有方法对比：颜色 0.4050 > 冻结 PixArt-α 0.3086 > SynGen 迁移实现 0.2969 > DreamRenderer 适配实现 0.2475；形状 0.5359 为同组最高。该协议与 300 条协议**不可直接比较**。
+- 推理开销实测（NVIDIA L20 46 GB / CUDA 12.1 / PyTorch 2.1.2 / fp16 / batch 4 / DPM-Solver 20 步 / CFG 4.0 / 512×512）：冻结主干 0.75 s/图、峰值显存 22.62 GB；本文方法 1.24 s/图、峰值 22.63 GB。
 
----
+## 3. 代码位置
 
-## Method
+| 路径 | 作用 |
+|---|---|
+| `diffusion/model/nets/lcar.py` | 半径渐变 + 锚点空间门控（LCAR） |
+| `diffusion/model/nets/PixArt_blocks.py` | 交叉注意力改写入口与各替换模式；含 ISSUE-011 的 key-padding mask 修复 |
+| `diffusion/model/nets/PixArt.py` | 模型主体、条件注入与门控挂钩 |
+| `docs/results/_work/gen_compbench.py` | 生成 + 评测驱动（类别以命令行参数传入；随机种子按图像身份确定性派生） |
+| `docs/results/_work/run_lcar_twaxis.py` | 半径 × 时间双轴扫描（论文时间谱一组实验） |
+| `configs/` | 实验配置；配置之间以 `exec()` 链式继承（改基类会带动所有派生配置） |
+| `tools/` `scripts/` `train_scripts/` `app/` | 数据准备、评测、训练入口（`train_scripts/train.py`）、Gradio demo |
+| `docs/` `docs/results/` `docs/reports/` | 运行说明、逐提示词结果、配对检验、人工标注、效率实测、机制可视化素材 |
 
-Everything below trains **only** the added parameters. The PixArt DiT blocks and the
-T5 encoder stay frozen.
+## 4. 复现
 
-**Trainable parameters: 8,569,065 / 619,618,753 (1.383%).**
-Training: 3.72 h, peak 30.38 GB. Inference: 1.238 s/image vs 0.747 s/image for the
-frozen baseline (peak 22.63 GB).
+1. 环境：Linux + CUDA 见 [`docs/RUNNING_LINUX.md`](docs/RUNNING_LINUX.md)（`environment-linux.yml` / `requirements-linux.txt`）；DCU 见 [`docs/RUNNING_DCU.md`](docs/RUNNING_DCU.md)。
+2. 数据与权重：T2I-CompBench++ 官方 val 提示词、PixArt-XL-2-512 与 T5-xxl 公开权重，**三者均未修改**。
+3. 生成：用 `docs/results/_work/gen_compbench.py` 逐类生成（每类 300 条、每提示词 1 张）。
+4. 评测：官方 T2I-CompBench++ 评测器逐类评测，得到 `per_prompt.csv`。
+5. 统计：逐提示词配对差 + 提示词级 bootstrap 95% 区间（口径见论文 3.2 节）。
 
-### SCDA — Semantic-Conditioned DiT Adapter (pooled)
+## 5. 数据可用性
 
-T5 tokens are pooled by semantic role (global / object / attribute / relation) into four
-condition vectors, mapped through a zero-initialized bottleneck adapter
-(`down → SiLU → up`, with `up` zeroed so the first forward pass is exactly the baseline),
-then injected per DiT layer with a timestep-dependent gate.
+**仓库内现有**
 
-Implemented in `diffusion/model/nets/PixArt.py`:
-`_build_semantic_conditions`, `_semantic_adapter_outputs`, `_semantic_residual`.
+| 目录 | 内容 |
+|---|---|
+| `docs/results/t2i_compbench_pp/` | 冻结基线与 TP-SCDA 的逐提示词结果（每类 300 条） |
+| `docs/results/t2i_compbench_pp_sameprotocol/` | 同协议（每类前 100 条）方法对比 |
+| `docs/results/tables234_fixed/` | 汇总指标与 bootstrap 区间（论文表 2/3/4 口径） |
+| `docs/results/binding_swap/`、`human_binding*/` | 绑定交换数据与人工标注材料 |
+| `docs/results/efficiency/` | 推理耗时与显存实测 |
+| `docs/results/visualization/` | 机制可视化素材 |
+| `docs/results/PAIR_REPLACE_AND_NODISTILL_RESULTS.md`、`NAMING_KEY.md` | token-pair 替换结果说明、命名对照表 |
 
-### TP-SCDA — token-pair SCDA (main method)
+**说明**：生成图像与逐提示词评测结果体量较大，未随仓库发布；本文方法的实现、实验脚本与方法参数已随仓库公开——关键运行的参数预设固化在 `docs/results/_work/gen_compbench.py` 的 `METHODS` 中，可配合 `docs/results/_work/verify_repro.py` 与公开的提示词/权重/评测器重新生成（与论文"数据与代码可用性"一节表述一致）。
 
-Instead of pooling, each image patch cross-attends directly to the role-marked T5 token
-sequence, with an object→attribute pairing bias:
+## 6. 早期 TP-SCDA 线（负结果，完整保留）
 
-1. learned per-role logit bias (`role_bias`);
-2. learned object↔attribute affinity (`object_pair_proj` / `attribute_pair_proj`);
-3. a softplus-parameterized `pair_strength` weighting that bias;
-4. four per-role residual outputs;
-5. per-block injection weighted by `semantic_token_layer_gate` (a 28×4 learnable gate)
-   and a single learnable strength scalar.
-
-Implemented in `SemanticTokenCrossAttention` (`diffusion/model/nets/PixArt.py`).
-
-### Attention gate
-
-`PixArtBlock.forward` scales the cross-attention output by
-`gate = 1 + condition_gate_scale * tanh(condition_gate(t))`, with `condition_gate`
-zero-initialized so the model starts neutral. Note this is a *separate* mechanism from
-the TP-SCDA semantic injection gates.
-
-### Token-pair attention rewriting
-
-With `pair_replace=True`, `MultiHeadCrossAttention` rewrites attention weights using the
-`(object, attribute)` edge matrix, so attribute tokens inherit their noun's weights.
-Seven modes are supported: `replace` (default), `raise`, `reweight`, `gated`, `equalize`,
-`outside`, `sink`. See `diffusion/model/nets/PixArt_blocks.py`.
-
-### LCAR (experimental, not in the paper)
-
-`diffusion/model/nets/lcar.py` — local competitive attention redistribution. Modifies only
-the token-pair branch's own logit bias (boosting the anchor attribute, suppressing other
-objects); the backbone is untouched and no new trainable parameters are added.
+- 结果：TP-SCDA 在八类 T2I-CompBench++ 指标上与冻结基线**持平**，未观察到提升。
+- 两个实现缺陷（当前论文全部实验以修复后的代码为前提）：
+  - **ISSUE-011**：改写后的 `MultiHeadCrossAttention` 丢掉了 key 的 padding mask，导致每个图像 patch 都会把注意力分配给 T5 的 padding token（已修复，`cross_attn_key_padding`）。
+  - **ISSUE-008**：可学习层门控初始化落在 sigmoid 饱和区（±4.0，dλ/dw ≈ 0.0177），整段训练几乎没学动（已诊断并重做，单步有效学习率提升约 570×）。
+- 详细记录：[`docs/results/PROJECT_SUMMARY.md`](docs/results/PROJECT_SUMMARY.md)、[`docs/results/EXPERIMENT_ISSUES.md`](docs/results/EXPERIMENT_ISSUES.md)、[`docs/results/GATE_OPTIMIZATION.md`](docs/results/GATE_OPTIMIZATION.md)、[`docs/results/improvement_report/`](docs/results/improvement_report)；旧版 README 见 [`docs/legacy/`](docs/legacy/README_2026-09-30_TP-SCDA-negative.md)。
 
 ---
 
-## Repository layout
+## 引用
 
-```
-diffusion/            model code; TP-SCDA and LCAR live in model/nets/
-  model/nets/PixArt.py          SCDA + TP-SCDA core
-  model/nets/PixArt_blocks.py   token-pair attention rewriting, ISSUE-011 fix
-  model/nets/lcar.py            LCAR
-configs/            23 experiment configs (chained via exec() inheritance)
-tools/              data preparation, training drivers, evaluation scripts
-train_scripts/      train.py — the real training entry point
-scripts/            inference / interface scripts
-app/                Gradio demo (app_512.py, app_offline.py)
-asset/              samples.txt (fixed 64-prompt eval set), binding test cases
-docs/               experiment records, run instructions, paper drafts
-  results/          per-issue records, metrics, raw CSVs
-  reports/          paper drafts (markdown + docx) and figures
-```
+向长幸，黄天云. 面向文生图属性绑定的双门控交叉注意力替换. 中国图象图形学报（审稿中）.
 
-### Config inheritance
+## 许可
 
-Configs chain via `exec()` rather than imports, e.g.
-`token_pair_gate_opt → scda_token_pair → scda_fullspan → scda → scda_improved → scda`.
-Editing a base config changes every config derived from it.
-
-`docs/results/NAMING_KEY.md` is the authoritative mapping between evaluation key names
-(`frozen`, `pooled`, `fullspan`, `tokenpair`, `tpscda`, `gateopt`, …) and the method each
-one actually denotes. **Read it before comparing any numbers** — `tokenpair` is a Table 4
-ablation, not the paper method; `tpscda` is the paper method.
-
----
-
-## Setup
-
-### CUDA
-
-```bash
-conda env create -f environment-linux.yml
-conda activate pixart-linux
-```
-
-Python 3.10, PyTorch 2.1.1, CUDA 12.1 wheels; host driver ≥ 530. `mmcv` is pinned to
-1.7.2 because the native training scripts import `mmcv.runner`, which `mmcv` 2.x removed.
-See `docs/RUNNING_LINUX.md`.
-
-### Hygon DCU
-
-```bash
-conda env create -f environment-dcu.yml
-conda activate pixart-dcu
-source /opt/dtk/env.sh
-./setup_dcu.sh
-```
-
-See `docs/RUNNING_DCU.md`. `xformers` is deliberately omitted on DCU.
-
----
-
-## Data preparation
-
-```bash
-python tools/prepare_coco2014.py \
-  --annotations /datasets/coco2014/annotations/captions_train2014.json \
-  --image-root  /datasets/coco2014 \
-  --output-root /datasets/COCO2014Prepared \
-  --max-items 20000 --verify-images
-
-python tools/extract_features.py \
-  --json_path  /datasets/COCO2014Prepared/partition/data_info.json \
-  --dataset_root /datasets/coco2014 \
-  --t5_save_root  /datasets/COCO2014Prepared/caption_feature_wmask \
-  --vae_save_root /datasets/COCO2014Prepared/img_vae_features \
-  --img_size 256 --pretrained_models_dir /path/to/pretrained_models
-```
-
-Semantic masks (role labels from spaCy dependency parsing, aligned to T5 sub-tokens via
-fast-tokenizer character offsets):
-
-```bash
-pip install spacy && python -m spacy download en_core_web_sm
-
-python tools/prepare_semantic_masks.py \
-  --json-path     /datasets/COCO2014Prepared/partition/data_info.json \
-  --feature-root  /datasets/COCO2014Prepared/caption_feature_wmask \
-  --tokenizer     /path/to/t5-v1_1-xxl
-```
-
-Resumable; add `--overwrite` only when captions, tokenizer, or label rules change.
-
-Full details: `tools/COCO2014_PREPARATION.md` and `tools/SEMANTIC_TRAINING.md`.
-
----
-
-## Training
-
-The real entry point is `train_scripts/train.py`:
-
-```bash
-accelerate launch train_scripts/train.py configs/PixArt_xl2_coco2014_semantic.py
-```
-
-With `save_experiment_tables=True`, the main process writes `training_metrics.csv`,
-`epoch_summary.csv`, and `<experiment_name>_metadata.json` to
-`<work_dir>/experiment_tables/`.
-
-> **Note:** the upstream `train.sh` is **not** included — it referenced
-> `train_scripts/train_controlnet.py` and ControlNet configs, all of which were removed in
-> this fork. Use the `accelerate launch` command above.
-
----
-
-## Evaluation
-
-```bash
-python tools/generate_scda_samples.py     # generate images from a run
-python tools/evaluate_multiseed.py        # multi-seed scoring driver
-python tools/score_clip_distribution.py
-python tools/score_attribute_binding.py
-python tools/score_binding_swap.py
-python tools/score_image_distribution.py
-python tools/summarize_binding_comparison.py
-```
-
-The CompBench++ evaluation scripts live in `docs/results/_work/`
-(`run_eval.py`, `gen_compbench.py`).
-
----
-
-## Before you try to reproduce — read this
-
-1. **21 of the 23 configs contain hardcoded absolute paths** (`/root/...`, `/public/...`)
-   pointing at the original machine's dataset, feature, and checkpoint locations. Every
-   config you use must be edited. This is the single biggest obstacle to reproduction.
-
-2. **No checkpoints are included.** Model weights, training outputs, and the HuggingFace
-   cache are excluded from this repository. The paper's baseline is a frozen PixArt-XL-2
-   checkpoint; the TP-SCDA results come from
-   `coco2017_token_pair_learnable_layers/epoch_1_step_14786.pth`, which is not
-   distributed here.
-
-3. **No dataset is included.** COCO 2014/2017 and the extracted T5/VAE features must be
-   regenerated with the tools above.
-
-4. **The gate configuration is a config value, not a weight.** `semantic_token_gate_max`
-   and its activation function are *not* recorded in checkpoints. Evaluating a checkpoint
-   with the wrong gate setting silently means evaluating a different injection strength.
-   See the table in `docs/results/NAMING_KEY.md`.
-
-5. **Re-running the CompBench++ evaluator requires ~186 GB of baseline models**
-   (SDXL, SD2.1, PixArt-Sigma, Sana, …) downloaded from HuggingFace. They are not in
-   this repository.
-
-6. **Line endings were normalized to LF** in this export. The original working tree had
-   mixed CRLF/LF; shell scripts in particular would not have executed with CRLF.
-
-7. **Visualization figures are excluded** to keep the repository small (the PNG/JPG/HTML
-   outputs under `results/` total ~78 MB). The underlying arrays, CSVs, and JSON summaries
-   *are* included under `docs/results/`.
-
-8. **Internal document cross-references are stale.** Records under `docs/results/` were
-   written when they lived at `results/`, so paths inside them may not match this layout.
-   Likewise, some configs reference `/root/compbench_work/...`, which was the evaluation
-   workspace on the original machine.
-
----
-
-## Acknowledgements
-
-Built on [PixArt-α](https://github.com/PixArt-alpha/PixArt-alpha) (Apache 2.0).
-Evaluation uses [T2I-CompBench / T2I-CompBench++](https://github.com/Karine-Huang/T2I-CompBench).
+本仓库是 [PixArt-α](https://github.com/PixArt-alpha/PixArt-alpha) 的研究分支，基线版本 `cac2fd3b4544cf7620d8fbbf8b19d97ffcb85892`，继承 **Apache-2.0** 许可（见 [`LICENSE`](LICENSE)）。
