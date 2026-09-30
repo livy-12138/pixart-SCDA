@@ -1,0 +1,86 @@
+{
+  "driver": "run_eval.py",
+  "driver_version": "1.0",
+  "method": "tpscda",
+  "category": "shape",
+  "limit_prompts": null,
+  "images_per_prompt": 10,
+  "num_prompts": 300,
+  "num_images": 300,
+  "run_dir": "/root/compbench_work/eval/runs/tpscda/shape",
+  "results_dir": "/root/compbench_work/results/tpscda/shape",
+  "evaluator": {
+    "name": "T2I-CompBench++ official Disentangled BLIP-VQA (attribute binding: shape)",
+    "metric_slug": "compbench_official_blipvqa",
+    "steps": [
+      "blip"
+    ],
+    "source_repo": "https://github.com/Karine-Huang/T2I-CompBench",
+    "repo_dir": "/root/compbench_work/eval/T2I-CompBench",
+    "git_commit": null,
+    "git_commit_note": "repo copy is not a git checkout (no .git); code_hash below is the authoritative version identifier",
+    "code_sha256": {
+      "BLIPvqa_eval/BLIP_vqa.py": "ae9685431d20542cf7b3bf0883736c91fdf2bd648b23b8d38c3a4dbc8696a8a4",
+      "BLIPvqa_eval/configs/vqa.yaml": "fbdd4fc0d750a591b6eb3c833c58bc8f0289d27bd50d0344b2d51973b8bbcae3",
+      "UniDet_eval/2D_spatial_eval.py": "1585ca6043f67de99b561e9e5f356e50d6ddb251c16288f552b32c842c70afee",
+      "UniDet_eval/3D_spatial_eval.py": "c5f060265ce5c922d544fc43f7a21db574639aea54ccdc399e8f08b7d9f80277",
+      "UniDet_eval/numeracy_eval.py": "feb262c25216e87f2cf20c96cb8869b34638cb4c054540472d3f1071ef5924d1",
+      "UniDet_eval/experts/model_bank.py": "c26d5c28ab844a51cfde86735e971eb3f4d295b8d25a6f60b7149de539ab3abc",
+      "UniDet_eval/experts/model_bank_3d.py": "616395d667e43b45a43b5058e39ce0221e1314df6d5e34e34edb884c8be7a99d",
+      "UniDet_eval/experts/obj_detection/generate_dataset.py": "eeb57a73b76434290e55d1b2b4756742587222ff38a74cbb7445aef803548606",
+      "UniDet_eval/experts/obj_detection/generate_dataset_3d.py": "2a52cb9c4f74b41d0da2aa002ee8deaf74efb81de8cf7c4f3d515e8c04b0ce7f",
+      "CLIPScore_eval/CLIP_similarity.py": "3296b3b29f44cfafd2cda0228f9579abc2637f256ce12090be05ddda3bbc47e6",
+      "3_in_1_eval/3_in_1.py": "dcde069d77d774c3c59c4d8c14765f82d8f5de45239d5913902f7cd9566f64c5"
+    },
+    "official_evaluator_files_modified": false
+  },
+  "vram": {
+    "min_free_gb_floor": 4.0,
+    "per_step_min_free_gb": {
+      "blip": 4.0
+    },
+    "per_step_peak": {
+      "blip": {
+        "max_gpu_used_mb": 4891,
+        "min_gpu_free_mb": 40699,
+        "samples": 217,
+        "note": "whole-GPU counters sampled via nvidia-smi every 2 s; includes any co-running job"
+      }
+    },
+    "preflight_enabled": true,
+    "note": "peak/min counters are whole-GPU readings sampled every 2 s; subtract any co-running job. Only the blip minimum (3.0 GiB) is backed by a measured peak (1753 MB); every other value is the --min-free-gb floor or a lower bound from an observed OOM, so refine them from per_step_peak after the first run in a dedicated GPU window."
+  },
+  "gpu_adaptation": {
+    "unidet_max_batch": 8,
+    "blip_max_batch": 32,
+    "blip_note": "0 means BLIP keeps its official batch_size_test=32; its measured peak is 1753 MB so capping it only wastes time",
+    "mechanism": "subprocess shim that clamps torch.utils.data.DataLoader batch_size; the official evaluator .py files and configs are untouched",
+    "reason": "official code hardcodes batch_size=64 (UniDet 2D/3D/numeracy) and batch_size_test=32 (BLIP) which OOMs when the GPU is shared with a training job",
+    "numerically_equivalent": "every evaluator emits one independent score per image and preserves loader order; nothing is batch-normalised across images at inference"
+  },
+  "checkpoints": {
+    "blip_vqa": {
+      "model": "BLIP w/ ViT-B, CapFilt-L, fine-tuned on VQA",
+      "file": "/root/compbench_work/weights/model_base_vqa_capfilt_large.pth",
+      "source": "https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_vqa_capfilt_large.pth"
+    },
+    "bert_tokenizer": {
+      "model": "bert-base-uncased tokenizer (used by BLIP text encoder)",
+      "file": "HF hub cache",
+      "source": "https://huggingface.co/bert-base-uncased"
+    }
+  },
+  "dataset": {
+    "source": "examples/dataset/*.txt (official, unmodified)",
+    "files_used": [
+      "shape_val.txt"
+    ],
+    "run_dir_dataset_dir": "/root/compbench_work/eval/runs/tpscda/shape/dataset",
+    "note": "run_dir/dataset holds VERBATIM line subsets of the official files (full files when --limit is not given), because 3_in_1.py needs a prompt list matching the images"
+  },
+  "manifest_source": "manifest:/root/compbench_work/images/tpscda/manifest_shape.csv",
+  "images_dir": "/root/compbench_work/images/tpscda",
+  "status": "ok",
+  "abort_reason": null,
+  "timestamp": "2026-09-18T12:37:13"
+}

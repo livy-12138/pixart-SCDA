@@ -1,0 +1,36 @@
+{
+  "protocol": "64 fixed prompts x seeds 43/44/45, 512px, DPM-Solver 20 steps, CFG 4.0, local CLIP ViT-B/32",
+  "note": "All \"after_fix\" values were regenerated with the ISSUE-011 cross-attention mask restored. Every checkpoint reproduces the injection strength it was TRAINED with (audit in EXPERIMENT_ISSUES.md ISSUE-015/017).",
+  "rows": [
+    {
+      "model": "baseline",
+      "clip_before_fix": 0.273209,
+      "clip_after_fix": 0.343813,
+      "rel_to_frozen_pct": 0.0
+    },
+    {
+      "model": "coco2017_scda",
+      "clip_before_fix": 0.247061,
+      "clip_after_fix": 0.281295,
+      "rel_to_frozen_pct": -18.18
+    },
+    {
+      "model": "fullspan_final",
+      "clip_before_fix": 0.24755,
+      "clip_after_fix": 0.283517,
+      "rel_to_frozen_pct": -17.54
+    },
+    {
+      "model": "token_pair",
+      "clip_before_fix": 0.266105,
+      "clip_after_fix": 0.327536,
+      "rel_to_frozen_pct": -4.73
+    },
+    {
+      "model": "learnable_layers",
+      "clip_before_fix": 0.273597,
+      "clip_after_fix": 0.343691,
+      "rel_to_frozen_pct": -0.04
+    }
+  ]
+}

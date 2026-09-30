@@ -1,0 +1,2 @@
+method,category,metric,official_mean_score,num_prompts,num_images_selected,num_images_scored,num_images_failed,is_full_official_run
+frozen,texture,compbench_official_blipvqa,0.470087,300,300,300,0,True

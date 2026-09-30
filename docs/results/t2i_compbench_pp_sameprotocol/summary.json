@@ -1,0 +1,77 @@
+{
+  "protocol": "T2I-CompBench++ official val splits (300 prompts/category), 1 image/prompt, 512px, DPM-Solver 20 steps, CFG 4.0, seed 43, ISSUE-011 mask fix applied",
+  "note": "All five methods were generated and evaluated under the SAME protocol and the SAME code state, so the comparison is internally valid. Every checkpoint reproduces the injection strength it was trained with (audit in EXPERIMENT_ISSUES.md ISSUE-015/017). The complex column is missing for the three ablation variants because 3_in_1.py hardcodes 10 images per prompt (ISSUE-012).",
+  "caveat": "Pooled/Full-span were TRAINED against the pre-fix (mask-disabled) base, so part of their gap reflects a train/test mismatch rather than pure method quality; see EXPERIMENT_ISSUES.md ISSUE-016.",
+  "columns": {
+    "color": "颜色",
+    "shape": "形状",
+    "texture": "纹理",
+    "spatial": "2D空间",
+    "3d_spatial": "3D空间",
+    "numeracy": "计数",
+    "non_spatial": "非空间",
+    "complex": "复杂"
+  },
+  "public_pixart_alpha": {
+    "color": 0.669,
+    "shape": 0.4927,
+    "texture": 0.6477,
+    "spatial": 0.2064,
+    "3d_spatial": 0.3901,
+    "numeracy": 0.5058,
+    "non_spatial": 0.3197,
+    "complex": 0.3433
+  },
+  "rows": {
+    "冻结 PixArt": {
+      "color": 0.39561000000000024,
+      "shape": 0.415809,
+      "texture": 0.470087333333333,
+      "spatial": 0.2040415663317909,
+      "3d_spatial": 0.3388037379389235,
+      "numeracy": 0.5086111111111112,
+      "non_spatial": 0.309451904296875,
+      "complex": 0.3314480134723056
+    },
+    "Pooled SCDA": {
+      "color": 0.11350272727272721,
+      "shape": 0.16515366666666667,
+      "texture": 0.16299466666666668,
+      "spatial": 0.012020060221354167,
+      "3d_spatial": 0.08955537266422255,
+      "numeracy": 0.20300000000000004,
+      "non_spatial": 0.23935587565104166,
+      "complex": null
+    },
+    "Full-span SCDA": {
+      "color": 0.09819433333333331,
+      "shape": 0.1700150000000001,
+      "texture": 0.16256499999999993,
+      "spatial": 0.01246246337890625,
+      "3d_spatial": 0.08883785853125552,
+      "numeracy": 0.21041666666666672,
+      "non_spatial": 0.24146219889322917,
+      "complex": null
+    },
+    "Token-pair SCDA": {
+      "color": 0.28237599999999996,
+      "shape": 0.29586666666666656,
+      "texture": 0.32115933333333346,
+      "spatial": 0.1324231651637638,
+      "3d_spatial": 0.28498683074221587,
+      "numeracy": 0.4266111111111112,
+      "non_spatial": 0.3039937337239583,
+      "complex": null
+    },
+    "Token-pair+learnable（TP-SCDA）": {
+      "color": 0.3922293333333337,
+      "shape": 0.413457,
+      "texture": 0.46966099999999955,
+      "spatial": 0.19690414091678932,
+      "3d_spatial": 0.3366157574620865,
+      "numeracy": 0.4960833333333333,
+      "non_spatial": 0.309283447265625,
+      "complex": 0.331175635946282
+    }
+  }
+}

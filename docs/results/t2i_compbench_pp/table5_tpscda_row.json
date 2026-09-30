@@ -1,0 +1,35 @@
+{
+  "note": "T2I-CompBench++ official metrics, our own protocol. Report this row SEPARATELY from the public published rows in the paper (different backbone/training data/evaluator version).",
+  "columns": {
+    "color": "颜色",
+    "shape": "形状",
+    "texture": "纹理",
+    "spatial": "2D空间",
+    "3d_spatial": "3D空间",
+    "numeracy": "计数",
+    "non_spatial": "非空间",
+    "complex": "复杂"
+  },
+  "rows": {
+    "TP-SCDA（本文）": {
+      "color": 0.3922293333333337,
+      "shape": 0.413457,
+      "texture": 0.46966099999999955,
+      "spatial": 0.19690414091678932,
+      "3d_spatial": 0.3366157574620865,
+      "numeracy": 0.4960833333333333,
+      "non_spatial": 0.309283447265625,
+      "complex": 0.331175635946282
+    },
+    "冻结 PixArt（本文同协议对照）": {
+      "color": 0.39561000000000024,
+      "shape": 0.415809,
+      "texture": 0.470087333333333,
+      "spatial": 0.2040415663317909,
+      "3d_spatial": 0.3388037379389235,
+      "numeracy": 0.5086111111111112,
+      "non_spatial": 0.309451904296875,
+      "complex": 0.3314480134723056
+    }
+  }
+}

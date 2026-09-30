@@ -1,0 +1,31 @@
+# Linux/CUDA runtime dependencies for PixArt gate training.
+# Install the PyTorch wheel matching the Linx server CUDA driver first, for example:
+# pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu121
+# Then install this file. Change the CUDA index URL if the server uses another version.
+accelerate==0.25.0
+addict==2.4.0
+diffusers==0.25.0
+einops==0.8.0
+ftfy==6.1.3
+huggingface-hub==0.20.3
+mmcv==2.1.0
+mmengine==0.10.7
+numpy==1.24.4
+opencv-python==4.8.1.78
+Pillow==10.2.0
+sentencepiece==0.1.99
+tensorboard==2.14.0
+timm==0.6.12
+tokenizers==0.15.2
+torch==2.1.1
+torchvision==0.16.1
+torchaudio==2.1.1
+tqdm==4.66.1
+transformers==4.36.0
+spacy>=3.7,<4
+xformers==0.0.23.post1
+# Optional UI/inference dependencies.
+gradio==4.44.1
+matplotlib==3.7.5
+requests==2.31.0
+safetensors==0.4.1

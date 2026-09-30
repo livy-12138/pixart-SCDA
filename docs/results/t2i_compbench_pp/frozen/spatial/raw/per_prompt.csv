@@ -1,0 +1,301 @@
+prompt_id,prompt,seed,generated_image,metric,prediction,success,failure,error_message,category,prompt_index,repeat,global_index,status
+spatial+0,a giraffe next to a lamp,0,a giraffe next to a lamp_000000.png,compbench_official_unidet_2d_spatial,0.973389,1,0,,spatial,0,0,0,ok
+spatial+1,a girl on the top of a frog,0,a girl on the top of a frog_000010.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,1,0,10,ok
+spatial+2,a mouse on side of a key,0,a mouse on side of a key_000020.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,2,0,20,ok
+spatial+3,a bee on the right of a refrigerator,0,a bee on the right of a refrigerator_000030.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,3,0,30,ok
+spatial+4,a balloon on the right of a person,0,a balloon on the right of a person_000040.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,4,0,40,ok
+spatial+5,a cat on the top of a sofa,0,a cat on the top of a sofa_000050.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,5,0,50,ok
+spatial+6,a desk on the right of a horse,0,a desk on the right of a horse_000060.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,6,0,60,ok
+spatial+7,a bicycle on the bottom of a girl,0,a bicycle on the bottom of a girl_000070.png,compbench_official_unidet_2d_spatial,0.628699,1,0,,spatial,7,0,70,ok
+spatial+8,a sheep on the left of a lamp,0,a sheep on the left of a lamp_000080.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,8,0,80,ok
+spatial+9,a suitcase on the right of a mouse,0,a suitcase on the right of a mouse_000090.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,9,0,90,ok
+spatial+10,a bird on side of a airplane,0,a bird on side of a airplane_000100.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,10,0,100,ok
+spatial+11,a pig on the bottom of a train,0,a pig on the bottom of a train_000110.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,11,0,110,ok
+spatial+12,a mouse on the bottom of a vase,0,a mouse on the bottom of a vase_000120.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,12,0,120,ok
+spatial+13,a fish on side of a sofa,0,a fish on side of a sofa_000130.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,13,0,130,ok
+spatial+14,a girl on the top of a refrigerator,0,a girl on the top of a refrigerator_000140.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,14,0,140,ok
+spatial+15,a boy on the bottom of a bee,0,a boy on the bottom of a bee_000150.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,15,0,150,ok
+spatial+16,a chicken on the left of a girl,0,a chicken on the left of a girl_000160.png,compbench_official_unidet_2d_spatial,0.988037,1,0,,spatial,16,0,160,ok
+spatial+17,a woman on the left of a balloon,0,a woman on the left of a balloon_000170.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,17,0,170,ok
+spatial+18,a table on the bottom of a dog,0,a table on the bottom of a dog_000180.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,18,0,180,ok
+spatial+19,a horse on side of a bicycle,0,a horse on side of a bicycle_000190.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,19,0,190,ok
+spatial+20,a plate on the bottom of a fish,0,a plate on the bottom of a fish_000200.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,20,0,200,ok
+spatial+21,a boy next to a bowl,0,a boy next to a bowl_000210.png,compbench_official_unidet_2d_spatial,0.993164,1,0,,spatial,21,0,210,ok
+spatial+22,a man on the left of a giraffe,0,a man on the left of a giraffe_000220.png,compbench_official_unidet_2d_spatial,0.997437,1,0,,spatial,22,0,220,ok
+spatial+23,a mouse near a bowl,0,a mouse near a bowl_000230.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,23,0,230,ok
+spatial+24,a woman on the right of a wallet,0,a woman on the right of a wallet_000240.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,24,0,240,ok
+spatial+25,a frog on the left of a book,0,a frog on the left of a book_000250.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,25,0,250,ok
+spatial+26,a mouse near a bag,0,a mouse near a bag_000260.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,26,0,260,ok
+spatial+27,a bicycle on the top of a turtle,0,a bicycle on the top of a turtle_000270.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,27,0,270,ok
+spatial+28,a bicycle on the bottom of a chicken,0,a bicycle on the bottom of a chicken_000280.png,compbench_official_unidet_2d_spatial,0.633615,1,0,,spatial,28,0,280,ok
+spatial+29,a sheep on side of a chair,0,a sheep on side of a chair_000290.png,compbench_official_unidet_2d_spatial,0.760620,1,0,,spatial,29,0,290,ok
+spatial+30,a boy on the left of a balloon,0,a boy on the left of a balloon_000300.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,30,0,300,ok
+spatial+31,a bee on the top of a bicycle,0,a bee on the top of a bicycle_000310.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,31,0,310,ok
+spatial+32,a painting on the top of a rabbit,0,a painting on the top of a rabbit_000320.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,32,0,320,ok
+spatial+33,a bird on the top of a person,0,a bird on the top of a person_000330.png,compbench_official_unidet_2d_spatial,0.976685,1,0,,spatial,33,0,330,ok
+spatial+34,a key on the top of a chicken,0,a key on the top of a chicken_000340.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,34,0,340,ok
+spatial+35,a rabbit next to a table,0,a rabbit next to a table_000350.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,35,0,350,ok
+spatial+36,a bee on side of a couch,0,a bee on side of a couch_000360.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,36,0,360,ok
+spatial+37,a giraffe on the left of a table,0,a giraffe on the left of a table_000370.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,37,0,370,ok
+spatial+38,a rabbit near a bicycle,0,a rabbit near a bicycle_000380.png,compbench_official_unidet_2d_spatial,0.938477,1,0,,spatial,38,0,380,ok
+spatial+39,a cup on the right of a dog,0,a cup on the right of a dog_000390.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,39,0,390,ok
+spatial+40,a book on the top of a butterfly,0,a book on the top of a butterfly_000400.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,40,0,400,ok
+spatial+41,a key on the left of a butterfly,0,a key on the left of a butterfly_000410.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,41,0,410,ok
+spatial+42,a bird on the left of a clock,0,a bird on the left of a clock_000420.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,42,0,420,ok
+spatial+43,a frog on the top of a bowl,0,a frog on the top of a bowl_000430.png,compbench_official_unidet_2d_spatial,0.823902,1,0,,spatial,43,0,430,ok
+spatial+44,a person on side of a cow,0,a person on side of a cow_000440.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,44,0,440,ok
+spatial+45,a chicken on the right of a suitcase,0,a chicken on the right of a suitcase_000450.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,45,0,450,ok
+spatial+46,a sofa on the left of a frog,0,a sofa on the left of a frog_000460.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,46,0,460,ok
+spatial+47,a pig on the left of a lamp,0,a pig on the left of a lamp_000470.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,47,0,470,ok
+spatial+48,a horse on side of a car,0,a horse on side of a car_000480.png,compbench_official_unidet_2d_spatial,0.925659,1,0,,spatial,48,0,480,ok
+spatial+49,a man on the right of a lamp,0,a man on the right of a lamp_000490.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,49,0,490,ok
+spatial+50,a horse on the left of a car,0,a horse on the left of a car_000500.png,compbench_official_unidet_2d_spatial,0.948730,1,0,,spatial,50,0,500,ok
+spatial+51,a wallet on the left of a giraffe,0,a wallet on the left of a giraffe_000510.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,51,0,510,ok
+spatial+52,a clock on the top of a sheep,0,a clock on the top of a sheep_000520.png,compbench_official_unidet_2d_spatial,0.502588,1,0,,spatial,52,0,520,ok
+spatial+53,a cat on side of a suitcase,0,a cat on side of a suitcase_000530.png,compbench_official_unidet_2d_spatial,0.912354,1,0,,spatial,53,0,530,ok
+spatial+54,a cat next to a suitcase,0,a cat next to a suitcase_000540.png,compbench_official_unidet_2d_spatial,0.947998,1,0,,spatial,54,0,540,ok
+spatial+55,a bird on the left of a microwave,0,a bird on the left of a microwave_000550.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,55,0,550,ok
+spatial+56,a bird on the left of a phone,0,a bird on the left of a phone_000560.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,56,0,560,ok
+spatial+57,a computer on the top of a rabbit,0,a computer on the top of a rabbit_000570.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,57,0,570,ok
+spatial+58,a rabbit on side of a wallet,0,a rabbit on side of a wallet_000580.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,58,0,580,ok
+spatial+59,a dog on the bottom of a refrigerator,0,a dog on the bottom of a refrigerator_000590.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,59,0,590,ok
+spatial+60,a couch on the right of a chicken,0,a couch on the right of a chicken_000600.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,60,0,600,ok
+spatial+61,a phone on the right of a chicken,0,a phone on the right of a chicken_000610.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,61,0,610,ok
+spatial+62,a bee on the top of a boy,0,a bee on the top of a boy_000620.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,62,0,620,ok
+spatial+63,a phone on the right of a rabbit,0,a phone on the right of a rabbit_000630.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,63,0,630,ok
+spatial+64,a bird on the left of a woman,0,a bird on the left of a woman_000640.png,compbench_official_unidet_2d_spatial,0.997925,1,0,,spatial,64,0,640,ok
+spatial+65,a candle on the left of a mouse,0,a candle on the left of a mouse_000650.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,65,0,650,ok
+spatial+66,a man on the left of a lamp,0,a man on the left of a lamp_000660.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,66,0,660,ok
+spatial+67,a bee on the left of a refrigerator,0,a bee on the left of a refrigerator_000670.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,67,0,670,ok
+spatial+68,a frog on the bottom of a bowl,0,a frog on the bottom of a bowl_000680.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,68,0,680,ok
+spatial+69,a cup on the left of a pig,0,a cup on the left of a pig_000690.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,69,0,690,ok
+spatial+70,a cow on the bottom of a bag,0,a cow on the bottom of a bag_000700.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,70,0,700,ok
+spatial+71,a butterfly on side of a cup,0,a butterfly on side of a cup_000710.png,compbench_official_unidet_2d_spatial,0.990723,1,0,,spatial,71,0,710,ok
+spatial+72,a butterfly on the left of a candle,0,a butterfly on the left of a candle_000720.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,72,0,720,ok
+spatial+73,a desk on the top of a butterfly,0,a desk on the top of a butterfly_000730.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,73,0,730,ok
+spatial+74,a dog on the top of a sofa,0,a dog on the top of a sofa_000740.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,74,0,740,ok
+spatial+75,a turtle next to a bowl,0,a turtle next to a bowl_000750.png,compbench_official_unidet_2d_spatial,0.933472,1,0,,spatial,75,0,750,ok
+spatial+76,a cow on the top of a chair,0,a cow on the top of a chair_000760.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,76,0,760,ok
+spatial+77,a painting on the bottom of a chicken,0,a painting on the bottom of a chicken_000770.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,77,0,770,ok
+spatial+78,a vase on the right of a cat,0,a vase on the right of a cat_000780.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,78,0,780,ok
+spatial+79,a girl on the bottom of a bag,0,a girl on the bottom of a bag_000790.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,79,0,790,ok
+spatial+80,a giraffe on the left of a balloon,0,a giraffe on the left of a balloon_000800.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,80,0,800,ok
+spatial+81,a phone on the right of a butterfly,0,a phone on the right of a butterfly_000810.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,81,0,810,ok
+spatial+82,a giraffe next to a suitcase,0,a giraffe next to a suitcase_000820.png,compbench_official_unidet_2d_spatial,0.979370,1,0,,spatial,82,0,820,ok
+spatial+83,a dog on the right of a wallet,0,a dog on the right of a wallet_000830.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,83,0,830,ok
+spatial+84,a woman on the left of a cup,0,a woman on the left of a cup_000840.png,compbench_official_unidet_2d_spatial,0.982422,1,0,,spatial,84,0,840,ok
+spatial+85,a airplane on the right of a person,0,a airplane on the right of a person_000850.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,85,0,850,ok
+spatial+86,a microwave on the right of a pig,0,a microwave on the right of a pig_000860.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,86,0,860,ok
+spatial+87,a backpack on the top of a chicken,0,a backpack on the top of a chicken_000870.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,87,0,870,ok
+spatial+88,a frog near a phone,0,a frog near a phone_000880.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,88,0,880,ok
+spatial+89,a cat on side of a wallet,0,a cat on side of a wallet_000890.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,89,0,890,ok
+spatial+90,a woman on the top of a painting,0,a woman on the top of a painting_000900.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,90,0,900,ok
+spatial+91,a sheep on side of a sofa,0,a sheep on side of a sofa_000910.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,91,0,910,ok
+spatial+92,a boy on the top of a wallet,0,a boy on the top of a wallet_000920.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,92,0,920,ok
+spatial+93,a cow on side of a train,0,a cow on side of a train_000930.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,93,0,930,ok
+spatial+94,a chair on the bottom of a turtle,0,a chair on the bottom of a turtle_000940.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,94,0,940,ok
+spatial+95,a turtle on the left of a man,0,a turtle on the left of a man_000950.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,95,0,950,ok
+spatial+96,a bird on the top of a balloon,0,a bird on the top of a balloon_000960.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,96,0,960,ok
+spatial+97,a horse on the left of a book,0,a horse on the left of a book_000970.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,97,0,970,ok
+spatial+98,a table on the top of a pig,0,a table on the top of a pig_000980.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,98,0,980,ok
+spatial+99,a boy on side of a bee,0,a boy on side of a bee_000990.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,99,0,990,ok
+spatial+100,a turtle next to a television,0,a turtle next to a television_001000.png,compbench_official_unidet_2d_spatial,0.784210,1,0,,spatial,100,0,1000,ok
+spatial+101,a pig near a cup,0,a pig near a cup_001010.png,compbench_official_unidet_2d_spatial,0.982788,1,0,,spatial,101,0,1010,ok
+spatial+102,a rabbit on the bottom of a chair,0,a rabbit on the bottom of a chair_001020.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,102,0,1020,ok
+spatial+103,a painting on the bottom of a horse,0,a painting on the bottom of a horse_001030.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,103,0,1030,ok
+spatial+104,a bowl on the right of a butterfly,0,a bowl on the right of a butterfly_001040.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,104,0,1040,ok
+spatial+105,a frog near a chair,0,a frog near a chair_001050.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,105,0,1050,ok
+spatial+106,a dog on the top of a desk,0,a dog on the top of a desk_001060.png,compbench_official_unidet_2d_spatial,0.782867,1,0,,spatial,106,0,1060,ok
+spatial+107,a girl on side of a desk,0,a girl on side of a desk_001070.png,compbench_official_unidet_2d_spatial,0.772858,1,0,,spatial,107,0,1070,ok
+spatial+108,a television on the right of a woman,0,a television on the right of a woman_001080.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,108,0,1080,ok
+spatial+109,a pig near a wallet,0,a pig near a wallet_001090.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,109,0,1090,ok
+spatial+110,a man near a pig,0,a man near a pig_001100.png,compbench_official_unidet_2d_spatial,0.996582,1,0,,spatial,110,0,1100,ok
+spatial+111,a pig on the top of a boy,0,a pig on the top of a boy_001110.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,111,0,1110,ok
+spatial+112,a giraffe near a wallet,0,a giraffe near a wallet_001120.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,112,0,1120,ok
+spatial+113,a pig near a clock,0,a pig near a clock_001130.png,compbench_official_unidet_2d_spatial,0.956299,1,0,,spatial,113,0,1130,ok
+spatial+114,a dog on the bottom of a balloon,0,a dog on the bottom of a balloon_001140.png,compbench_official_unidet_2d_spatial,0.973145,1,0,,spatial,114,0,1140,ok
+spatial+115,a fish near a cup,0,a fish near a cup_001150.png,compbench_official_unidet_2d_spatial,0.741455,1,0,,spatial,115,0,1150,ok
+spatial+116,a bag on the right of a dog,0,a bag on the right of a dog_001160.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,116,0,1160,ok
+spatial+117,a cup on the top of a butterfly,0,a cup on the top of a butterfly_001170.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,117,0,1170,ok
+spatial+118,a airplane on the right of a girl,0,a airplane on the right of a girl_001180.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,118,0,1180,ok
+spatial+119,a frog next to a desk,0,a frog next to a desk_001190.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,119,0,1190,ok
+spatial+120,a woman near a bag,0,a woman near a bag_001200.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,120,0,1200,ok
+spatial+121,a woman on the right of a television,0,a woman on the right of a television_001210.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,121,0,1210,ok
+spatial+122,a cup on the bottom of a dog,0,a cup on the bottom of a dog_001220.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,122,0,1220,ok
+spatial+123,a woman on the left of a plate,0,a woman on the left of a plate_001230.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,123,0,1230,ok
+spatial+124,a frog near a refrigerator,0,a frog near a refrigerator_001240.png,compbench_official_unidet_2d_spatial,0.647552,1,0,,spatial,124,0,1240,ok
+spatial+125,a pig on the top of a man,0,a pig on the top of a man_001250.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,125,0,1250,ok
+spatial+126,a rabbit on the right of a wallet,0,a rabbit on the right of a wallet_001260.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,126,0,1260,ok
+spatial+127,a girl next to a cow,0,a girl next to a cow_001270.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,127,0,1270,ok
+spatial+128,a man on the top of a sofa,0,a man on the top of a sofa_001280.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,128,0,1280,ok
+spatial+129,a cat on the right of a person,0,a cat on the right of a person_001290.png,compbench_official_unidet_2d_spatial,0.670769,1,0,,spatial,129,0,1290,ok
+spatial+130,a bee on the bottom of a airplane,0,a bee on the bottom of a airplane_001300.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,130,0,1300,ok
+spatial+131,a bird on the right of a cup,0,a bird on the right of a cup_001310.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,131,0,1310,ok
+spatial+132,a woman on the top of a pig,0,a woman on the top of a pig_001320.png,compbench_official_unidet_2d_spatial,0.667509,1,0,,spatial,132,0,1320,ok
+spatial+133,a airplane on the right of a turtle,0,a airplane on the right of a turtle_001330.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,133,0,1330,ok
+spatial+134,a television on the top of a bird,0,a television on the top of a bird_001340.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,134,0,1340,ok
+spatial+135,a cow next to a couch,0,a cow next to a couch_001350.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,135,0,1350,ok
+spatial+136,a bird on the right of a man,0,a bird on the right of a man_001360.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,136,0,1360,ok
+spatial+137,a table on the left of a girl,0,a table on the left of a girl_001370.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,137,0,1370,ok
+spatial+138,a giraffe near a computer,0,a giraffe near a computer_001380.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,138,0,1380,ok
+spatial+139,a frog on the left of a refrigerator,0,a frog on the left of a refrigerator_001390.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,139,0,1390,ok
+spatial+140,a giraffe on the right of a wallet,0,a giraffe on the right of a wallet_001400.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,140,0,1400,ok
+spatial+141,a girl near a bag,0,a girl near a bag_001410.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,141,0,1410,ok
+spatial+142,a cow on side of a clock,0,a cow on side of a clock_001420.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,142,0,1420,ok
+spatial+143,a train on the top of a cow,0,a train on the top of a cow_001430.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,143,0,1430,ok
+spatial+144,a giraffe on the top of a airplane,0,a giraffe on the top of a airplane_001440.png,compbench_official_unidet_2d_spatial,0.506972,1,0,,spatial,144,0,1440,ok
+spatial+145,a plate on the left of a girl,0,a plate on the left of a girl_001450.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,145,0,1450,ok
+spatial+146,a woman on side of a cup,0,a woman on side of a cup_001460.png,compbench_official_unidet_2d_spatial,0.946655,1,0,,spatial,146,0,1460,ok
+spatial+147,a man next to a mouse,0,a man next to a mouse_001470.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,147,0,1470,ok
+spatial+148,a chicken near a suitcase,0,a chicken near a suitcase_001480.png,compbench_official_unidet_2d_spatial,0.822754,1,0,,spatial,148,0,1480,ok
+spatial+149,a girl on the bottom of a horse,0,a girl on the bottom of a horse_001490.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,149,0,1490,ok
+spatial+150,a key on the right of a dog,0,a key on the right of a dog_001500.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,150,0,1500,ok
+spatial+151,a horse near a sofa,0,a horse near a sofa_001510.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,151,0,1510,ok
+spatial+152,a turtle on the bottom of a phone,0,a turtle on the bottom of a phone_001520.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,152,0,1520,ok
+spatial+153,a butterfly on the right of a balloon,0,a butterfly on the right of a balloon_001530.png,compbench_official_unidet_2d_spatial,0.973267,1,0,,spatial,153,0,1530,ok
+spatial+154,a horse on the bottom of a plate,0,a horse on the bottom of a plate_001540.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,154,0,1540,ok
+spatial+155,a turtle next to a airplane,0,a turtle next to a airplane_001550.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,155,0,1550,ok
+spatial+156,a woman on the top of a butterfly,0,a woman on the top of a butterfly_001560.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,156,0,1560,ok
+spatial+157,a mouse on the bottom of a phone,0,a mouse on the bottom of a phone_001570.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,157,0,1570,ok
+spatial+158,a dog on the bottom of a desk,0,a dog on the bottom of a desk_001580.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,158,0,1580,ok
+spatial+159,a frog on the right of a bag,0,a frog on the right of a bag_001590.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,159,0,1590,ok
+spatial+160,a person on side of a table,0,a person on side of a table_001600.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,160,0,1600,ok
+spatial+161,a chair on the right of a frog,0,a chair on the right of a frog_001610.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,161,0,1610,ok
+spatial+162,a suitcase on the right of a cow,0,a suitcase on the right of a cow_001620.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,162,0,1620,ok
+spatial+163,a rabbit near a train,0,a rabbit near a train_001630.png,compbench_official_unidet_2d_spatial,0.953491,1,0,,spatial,163,0,1630,ok
+spatial+164,a candle on the top of a chicken,0,a candle on the top of a chicken_001640.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,164,0,1640,ok
+spatial+165,a television on the right of a person,0,a television on the right of a person_001650.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,165,0,1650,ok
+spatial+166,a fish next to a train,0,a fish next to a train_001660.png,compbench_official_unidet_2d_spatial,0.968750,1,0,,spatial,166,0,1660,ok
+spatial+167,a train on the bottom of a giraffe,0,a train on the bottom of a giraffe_001670.png,compbench_official_unidet_2d_spatial,0.881572,1,0,,spatial,167,0,1670,ok
+spatial+168,a train on the bottom of a girl,0,a train on the bottom of a girl_001680.png,compbench_official_unidet_2d_spatial,0.640565,1,0,,spatial,168,0,1680,ok
+spatial+169,a rabbit on the top of a clock,0,a rabbit on the top of a clock_001690.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,169,0,1690,ok
+spatial+170,a man on side of a cow,0,a man on side of a cow_001700.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,170,0,1700,ok
+spatial+171,a man next to a airplane,0,a man next to a airplane_001710.png,compbench_official_unidet_2d_spatial,0.991455,1,0,,spatial,171,0,1710,ok
+spatial+172,a woman on the left of a microwave,0,a woman on the left of a microwave_001720.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,172,0,1720,ok
+spatial+173,a candle on the right of a bird,0,a candle on the right of a bird_001730.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,173,0,1730,ok
+spatial+174,a bird on side of a balloon,0,a bird on side of a balloon_001740.png,compbench_official_unidet_2d_spatial,0.986328,1,0,,spatial,174,0,1740,ok
+spatial+175,a giraffe on the bottom of a suitcase,0,a giraffe on the bottom of a suitcase_001750.png,compbench_official_unidet_2d_spatial,0.650063,1,0,,spatial,175,0,1750,ok
+spatial+176,a chair on the right of a giraffe,0,a chair on the right of a giraffe_001760.png,compbench_official_unidet_2d_spatial,0.994995,1,0,,spatial,176,0,1760,ok
+spatial+177,a frog on side of a wallet,0,a frog on side of a wallet_001770.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,177,0,1770,ok
+spatial+178,a balloon on the right of a butterfly,0,a balloon on the right of a butterfly_001780.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,178,0,1780,ok
+spatial+179,a butterfly next to a train,0,a butterfly next to a train_001790.png,compbench_official_unidet_2d_spatial,0.988281,1,0,,spatial,179,0,1790,ok
+spatial+180,a table on the right of a man,0,a table on the right of a man_001800.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,180,0,1800,ok
+spatial+181,a desk on the bottom of a giraffe,0,a desk on the bottom of a giraffe_001810.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,181,0,1810,ok
+spatial+182,a cat on the bottom of a man,0,a cat on the bottom of a man_001820.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,182,0,1820,ok
+spatial+183,a airplane on the top of a mouse,0,a airplane on the top of a mouse_001830.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,183,0,1830,ok
+spatial+184,a bee near a desk,0,a bee near a desk_001840.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,184,0,1840,ok
+spatial+185,a woman on the right of a phone,0,a woman on the right of a phone_001850.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,185,0,1850,ok
+spatial+186,a bowl on the bottom of a frog,0,a bowl on the bottom of a frog_001860.png,compbench_official_unidet_2d_spatial,0.784476,1,0,,spatial,186,0,1860,ok
+spatial+187,a balloon on the bottom of a chicken,0,a balloon on the bottom of a chicken_001870.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,187,0,1870,ok
+spatial+188,a balloon on the bottom of a person,0,a balloon on the bottom of a person_001880.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,188,0,1880,ok
+spatial+189,a person on the right of a train,0,a person on the right of a train_001890.png,compbench_official_unidet_2d_spatial,0.996826,1,0,,spatial,189,0,1890,ok
+spatial+190,a airplane on the top of a horse,0,a airplane on the top of a horse_001900.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,190,0,1900,ok
+spatial+191,a fish on side of a bag,0,a fish on side of a bag_001910.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,191,0,1910,ok
+spatial+192,a television on the top of a woman,0,a television on the top of a woman_001920.png,compbench_official_unidet_2d_spatial,0.558259,1,0,,spatial,192,0,1920,ok
+spatial+193,a person on the left of a vase,0,a person on the left of a vase_001930.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,193,0,1930,ok
+spatial+194,a couch on the bottom of a pig,0,a couch on the bottom of a pig_001940.png,compbench_official_unidet_2d_spatial,0.670913,1,0,,spatial,194,0,1940,ok
+spatial+195,a rabbit next to a train,0,a rabbit next to a train_001950.png,compbench_official_unidet_2d_spatial,0.992554,1,0,,spatial,195,0,1950,ok
+spatial+196,a bee next to a microwave,0,a bee next to a microwave_001960.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,196,0,1960,ok
+spatial+197,a horse on the top of a wallet,0,a horse on the top of a wallet_001970.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,197,0,1970,ok
+spatial+198,a girl on the right of a sofa,0,a girl on the right of a sofa_001980.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,198,0,1980,ok
+spatial+199,a person on the left of a couch,0,a person on the left of a couch_001990.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,199,0,1990,ok
+spatial+200,a chicken on side of a candle,0,a chicken on side of a candle_002000.png,compbench_official_unidet_2d_spatial,0.974487,1,0,,spatial,200,0,2000,ok
+spatial+201,a cup on the right of a bee,0,a cup on the right of a bee_002010.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,201,0,2010,ok
+spatial+202,a giraffe on the right of a candle,0,a giraffe on the right of a candle_002020.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,202,0,2020,ok
+spatial+203,a woman on the top of a airplane,0,a woman on the top of a airplane_002030.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,203,0,2030,ok
+spatial+204,a rabbit on side of a suitcase,0,a rabbit on side of a suitcase_002040.png,compbench_official_unidet_2d_spatial,0.964355,1,0,,spatial,204,0,2040,ok
+spatial+205,a phone on the bottom of a fish,0,a phone on the bottom of a fish_002050.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,205,0,2050,ok
+spatial+206,a man on the top of a turtle,0,a man on the top of a turtle_002060.png,compbench_official_unidet_2d_spatial,0.973267,1,0,,spatial,206,0,2060,ok
+spatial+207,a wallet on the bottom of a bird,0,a wallet on the bottom of a bird_002070.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,207,0,2070,ok
+spatial+208,a woman next to a turtle,0,a woman next to a turtle_002080.png,compbench_official_unidet_2d_spatial,0.985718,1,0,,spatial,208,0,2080,ok
+spatial+209,a vase on the bottom of a person,0,a vase on the bottom of a person_002090.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,209,0,2090,ok
+spatial+210,a butterfly on the right of a wallet,0,a butterfly on the right of a wallet_002100.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,210,0,2100,ok
+spatial+211,a woman on the top of a desk,0,a woman on the top of a desk_002110.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,211,0,2110,ok
+spatial+212,a airplane on the right of a mouse,0,a airplane on the right of a mouse_002120.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,212,0,2120,ok
+spatial+213,a boy on the left of a computer,0,a boy on the left of a computer_002130.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,213,0,2130,ok
+spatial+214,a chicken on side of a cup,0,a chicken on side of a cup_002140.png,compbench_official_unidet_2d_spatial,0.634583,1,0,,spatial,214,0,2140,ok
+spatial+215,a horse near a wallet,0,a horse near a wallet_002150.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,215,0,2150,ok
+spatial+216,a cow on the top of a painting,0,a cow on the top of a painting_002160.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,216,0,2160,ok
+spatial+217,a girl on the left of a pig,0,a girl on the left of a pig_002170.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,217,0,2170,ok
+spatial+218,a fish near a car,0,a fish near a car_002180.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,218,0,2180,ok
+spatial+219,a bee on side of a airplane,0,a bee on side of a airplane_002190.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,219,0,2190,ok
+spatial+220,a boy near a airplane,0,a boy near a airplane_002200.png,compbench_official_unidet_2d_spatial,0.997559,1,0,,spatial,220,0,2200,ok
+spatial+221,a woman on the bottom of a frog,0,a woman on the bottom of a frog_002210.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,221,0,2210,ok
+spatial+222,a woman on the top of a microwave,0,a woman on the top of a microwave_002220.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,222,0,2220,ok
+spatial+223,a giraffe next to a television,0,a giraffe next to a television_002230.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,223,0,2230,ok
+spatial+224,a bee on the left of a key,0,a bee on the left of a key_002240.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,224,0,2240,ok
+spatial+225,a cat on the top of a microwave,0,a cat on the top of a microwave_002250.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,225,0,2250,ok
+spatial+226,a giraffe on the bottom of a bicycle,0,a giraffe on the bottom of a bicycle_002260.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,226,0,2260,ok
+spatial+227,a balloon on the bottom of a dog,0,a balloon on the bottom of a dog_002270.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,227,0,2270,ok
+spatial+228,a bee on the left of a clock,0,a bee on the left of a clock_002280.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,228,0,2280,ok
+spatial+229,a bird next to a refrigerator,0,a bird next to a refrigerator_002290.png,compbench_official_unidet_2d_spatial,0.983398,1,0,,spatial,229,0,2290,ok
+spatial+230,a suitcase on the bottom of a turtle,0,a suitcase on the bottom of a turtle_002300.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,230,0,2300,ok
+spatial+231,a frog on the top of a cup,0,a frog on the top of a cup_002310.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,231,0,2310,ok
+spatial+232,a cat on the right of a table,0,a cat on the right of a table_002320.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,232,0,2320,ok
+spatial+233,a computer on the bottom of a boy,0,a computer on the bottom of a boy_002330.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,233,0,2330,ok
+spatial+234,a mouse on the top of a bowl,0,a mouse on the top of a bowl_002340.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,234,0,2340,ok
+spatial+235,a sheep on the left of a clock,0,a sheep on the left of a clock_002350.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,235,0,2350,ok
+spatial+236,a woman on the right of a bowl,0,a woman on the right of a bowl_002360.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,236,0,2360,ok
+spatial+237,a wallet on the top of a man,0,a wallet on the top of a man_002370.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,237,0,2370,ok
+spatial+238,a butterfly on the right of a couch,0,a butterfly on the right of a couch_002380.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,238,0,2380,ok
+spatial+239,a key on the bottom of a horse,0,a key on the bottom of a horse_002390.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,239,0,2390,ok
+spatial+240,a turtle on the bottom of a chair,0,a turtle on the bottom of a chair_002400.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,240,0,2400,ok
+spatial+241,a turtle on the bottom of a microwave,0,a turtle on the bottom of a microwave_002410.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,241,0,2410,ok
+spatial+242,a boy on the right of a chicken,0,a boy on the right of a chicken_002420.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,242,0,2420,ok
+spatial+243,a bicycle on the left of a man,0,a bicycle on the left of a man_002430.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,243,0,2430,ok
+spatial+244,a woman next to a airplane,0,a woman next to a airplane_002440.png,compbench_official_unidet_2d_spatial,0.990845,1,0,,spatial,244,0,2440,ok
+spatial+245,a man on side of a candle,0,a man on side of a candle_002450.png,compbench_official_unidet_2d_spatial,0.989258,1,0,,spatial,245,0,2450,ok
+spatial+246,a woman on the left of a horse,0,a woman on the left of a horse_002460.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,246,0,2460,ok
+spatial+247,a giraffe on the bottom of a bag,0,a giraffe on the bottom of a bag_002470.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,247,0,2470,ok
+spatial+248,a person on side of a lamp,0,a person on side of a lamp_002480.png,compbench_official_unidet_2d_spatial,0.978760,1,0,,spatial,248,0,2480,ok
+spatial+249,a plate on the bottom of a man,0,a plate on the bottom of a man_002490.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,249,0,2490,ok
+spatial+250,a cow next to a airplane,0,a cow next to a airplane_002500.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,250,0,2500,ok
+spatial+251,a mouse on the left of a train,0,a mouse on the left of a train_002510.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,251,0,2510,ok
+spatial+252,a cat on the right of a sofa,0,a cat on the right of a sofa_002520.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,252,0,2520,ok
+spatial+253,a train on the bottom of a horse,0,a train on the bottom of a horse_002530.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,253,0,2530,ok
+spatial+254,a girl on the top of a cow,0,a girl on the top of a cow_002540.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,254,0,2540,ok
+spatial+255,a mouse on the left of a airplane,0,a mouse on the left of a airplane_002550.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,255,0,2550,ok
+spatial+256,a giraffe on the left of a car,0,a giraffe on the left of a car_002560.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,256,0,2560,ok
+spatial+257,a person on the top of a painting,0,a person on the top of a painting_002570.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,257,0,2570,ok
+spatial+258,a cat on the top of a candle,0,a cat on the top of a candle_002580.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,258,0,2580,ok
+spatial+259,a bee on side of a table,0,a bee on side of a table_002590.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,259,0,2590,ok
+spatial+260,a butterfly on side of a desk,0,a butterfly on side of a desk_002600.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,260,0,2600,ok
+spatial+261,a bird on side of a key,0,a bird on side of a key_002610.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,261,0,2610,ok
+spatial+262,a suitcase on the left of a girl,0,a suitcase on the left of a girl_002620.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,262,0,2620,ok
+spatial+263,a horse on the top of a man,0,a horse on the top of a man_002630.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,263,0,2630,ok
+spatial+264,a dog on side of a computer,0,a dog on side of a computer_002640.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,264,0,2640,ok
+spatial+265,a horse on the bottom of a wallet,0,a horse on the bottom of a wallet_002650.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,265,0,2650,ok
+spatial+266,a fish next to a desk,0,a fish next to a desk_002660.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,266,0,2660,ok
+spatial+267,a cat on the left of a lamp,0,a cat on the left of a lamp_002670.png,compbench_official_unidet_2d_spatial,0.990845,1,0,,spatial,267,0,2670,ok
+spatial+268,a fish on the left of a table,0,a fish on the left of a table_002680.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,268,0,2680,ok
+spatial+269,a mouse on side of a phone,0,a mouse on side of a phone_002690.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,269,0,2690,ok
+spatial+270,a frog on the left of a table,0,a frog on the left of a table_002700.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,270,0,2700,ok
+spatial+271,a pig on the right of a vase,0,a pig on the right of a vase_002710.png,compbench_official_unidet_2d_spatial,0.902344,1,0,,spatial,271,0,2710,ok
+spatial+272,a dog on the bottom of a train,0,a dog on the bottom of a train_002720.png,compbench_official_unidet_2d_spatial,0.651747,1,0,,spatial,272,0,2720,ok
+spatial+273,a rabbit on the top of a candle,0,a rabbit on the top of a candle_002730.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,273,0,2730,ok
+spatial+274,a frog on the left of a phone,0,a frog on the left of a phone_002740.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,274,0,2740,ok
+spatial+275,a mouse on the bottom of a backpack,0,a mouse on the bottom of a backpack_002750.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,275,0,2750,ok
+spatial+276,a desk on the top of a cat,0,a desk on the top of a cat_002760.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,276,0,2760,ok
+spatial+277,a cow near a plate,0,a cow near a plate_002770.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,277,0,2770,ok
+spatial+278,a vase on the right of a man,0,a vase on the right of a man_002780.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,278,0,2780,ok
+spatial+279,a couch on the left of a dog,0,a couch on the left of a dog_002790.png,compbench_official_unidet_2d_spatial,0.760742,1,0,,spatial,279,0,2790,ok
+spatial+280,a chicken on the top of a plate,0,a chicken on the top of a plate_002800.png,compbench_official_unidet_2d_spatial,0.815158,1,0,,spatial,280,0,2800,ok
+spatial+281,a frog on the right of a couch,0,a frog on the right of a couch_002810.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,281,0,2810,ok
+spatial+282,a sheep on the bottom of a painting,0,a sheep on the bottom of a painting_002820.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,282,0,2820,ok
+spatial+283,a boy on the right of a pig,0,a boy on the right of a pig_002830.png,compbench_official_unidet_2d_spatial,0.997192,1,0,,spatial,283,0,2830,ok
+spatial+284,a pig on the left of a desk,0,a pig on the left of a desk_002840.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,284,0,2840,ok
+spatial+285,a woman on side of a frog,0,a woman on side of a frog_002850.png,compbench_official_unidet_2d_spatial,0.891724,1,0,,spatial,285,0,2850,ok
+spatial+286,a girl near a book,0,a girl near a book_002860.png,compbench_official_unidet_2d_spatial,0.929932,1,0,,spatial,286,0,2860,ok
+spatial+287,a boy next to a couch,0,a boy next to a couch_002870.png,compbench_official_unidet_2d_spatial,0.950928,1,0,,spatial,287,0,2870,ok
+spatial+288,a giraffe on the left of a train,0,a giraffe on the left of a train_002880.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,288,0,2880,ok
+spatial+289,a book on the top of a woman,0,a book on the top of a woman_002890.png,compbench_official_unidet_2d_spatial,0.857372,1,0,,spatial,289,0,2890,ok
+spatial+290,a car on the right of a man,0,a car on the right of a man_002900.png,compbench_official_unidet_2d_spatial,0.872784,1,0,,spatial,290,0,2900,ok
+spatial+291,a sheep on the top of a table,0,a sheep on the top of a table_002910.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,291,0,2910,ok
+spatial+292,a giraffe on the right of a bowl,0,a giraffe on the right of a bowl_002920.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,292,0,2920,ok
+spatial+293,a cow on the top of a boy,0,a cow on the top of a boy_002930.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,293,0,2930,ok
+spatial+294,a mouse on side of a bag,0,a mouse on side of a bag_002940.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,294,0,2940,ok
+spatial+295,a pig on side of a phone,0,a pig on side of a phone_002950.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,295,0,2950,ok
+spatial+296,a book on the left of a bird,0,a book on the left of a bird_002960.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,296,0,2960,ok
+spatial+297,a man on the bottom of a sofa,0,a man on the bottom of a sofa_002970.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,297,0,2970,ok
+spatial+298,a painting on the right of a pig,0,a painting on the right of a pig_002980.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,298,0,2980,ok
+spatial+299,a pig on the bottom of a wallet,0,a pig on the bottom of a wallet_002990.png,compbench_official_unidet_2d_spatial,0.000000,1,0,,spatial,299,0,2990,ok

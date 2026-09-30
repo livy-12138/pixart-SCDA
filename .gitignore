@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+models/
+pretrained_models/
+weights/
+hf_cache/
+
+# Training outputs and datasets
+output/
+output_cv/
+output_all/
+output_demo/
+output_debug/
+work_dir/
+data/
+logs/
+tblogs/
+gradio_cached_examples/
+experiments/runs/
+
+# Large evaluation artifacts
+*.tar
+*.tar.zst
+*.zip
+
+# Word/LibreOffice lock files
+~$*.docx

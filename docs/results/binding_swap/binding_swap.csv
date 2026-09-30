@@ -1,0 +1,7 @@
+method,n,n_images,correct_wins,binding_proxy
+frozen,248,248,148.0,0.596774
+tpscda,248,248,150.0,0.604839
+tpscda_nodistill,248,248,148.0,0.596774
+gateopt,248,248,146.0,0.58871
+b2,248,248,141.0,0.568548
+tokenpair,248,248,144.0,0.580645

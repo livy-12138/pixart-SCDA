@@ -1,0 +1,249 @@
+prompt_index,prompt,swapped,n_images,correct_wins
+0,a green bench and a blue bowl,a blue bench and a green bowl,1,1.0
+1,a blue bench and a green bowl,a green bench and a blue bowl,1,0.0
+2,a green bench and a blue cake,a blue bench and a green cake,1,1.0
+3,a blue bench and a green cake,a green bench and a blue cake,1,0.0
+4,a brown horse and a blue vase,a blue horse and a brown vase,1,0.0
+5,a blue horse and a brown vase,a brown horse and a blue vase,1,0.0
+6,a blue backpack and a brown cow,a brown backpack and a blue cow,1,1.0
+7,a brown backpack and a blue cow,a blue backpack and a brown cow,1,0.0
+8,a blue backpack and a red book,a red backpack and a blue book,1,0.0
+9,a red backpack and a blue book,a blue backpack and a red book,1,1.0
+10,a brown bear and a red book,a red bear and a brown book,1,1.0
+11,a red bear and a brown book,a brown bear and a red book,1,0.0
+12,a red orange and a brown sheep,a brown orange and a red sheep,1,1.0
+13,a brown orange and a red sheep,a red orange and a brown sheep,1,0.0
+14,a green banana and a brown dog,a brown banana and a green dog,1,1.0
+15,a brown banana and a green dog,a green banana and a brown dog,1,0.0
+16,a green banana and a brown horse,a brown banana and a green horse,1,1.0
+17,a brown banana and a green horse,a green banana and a brown horse,1,0.0
+18,a blue cake and a red suitcase,a red cake and a blue suitcase,1,0.0
+19,a red cake and a blue suitcase,a blue cake and a red suitcase,1,1.0
+20,a brown elephant and a red suitcase,a red elephant and a brown suitcase,1,0.0
+21,a red elephant and a brown suitcase,a brown elephant and a red suitcase,1,1.0
+22,a green apple and a brown horse,a brown apple and a green horse,1,1.0
+23,a brown apple and a green horse,a green apple and a brown horse,1,0.0
+24,a green banana and a blue vase,a blue banana and a green vase,1,0.0
+25,a blue banana and a green vase,a green banana and a blue vase,1,0.0
+26,a blue backpack and a brown bear,a brown backpack and a blue bear,1,1.0
+27,a brown backpack and a blue bear,a blue backpack and a brown bear,1,0.0
+28,a green apple and a blue vase,a blue apple and a green vase,1,1.0
+29,a blue apple and a green vase,a green apple and a blue vase,1,0.0
+30,a green banana and a red suitcase,a red banana and a green suitcase,1,0.0
+31,a red banana and a green suitcase,a green banana and a red suitcase,1,1.0
+32,a blue bowl and a brown elephant,a brown bowl and a blue elephant,1,1.0
+33,a brown bowl and a blue elephant,a blue bowl and a brown elephant,1,0.0
+34,a blue backpack and a red orange,a red backpack and a blue orange,1,1.0
+35,a red backpack and a blue orange,a blue backpack and a red orange,1,1.0
+36,a blue backpack and a red chair,a red backpack and a blue chair,1,0.0
+37,a red backpack and a blue chair,a blue backpack and a red chair,1,1.0
+38,a blue cup and a brown horse,a brown cup and a blue horse,1,1.0
+39,a brown cup and a blue horse,a blue cup and a brown horse,1,0.0
+40,a brown sheep and a blue vase,a blue sheep and a brown vase,1,0.0
+41,a blue sheep and a brown vase,a brown sheep and a blue vase,1,1.0
+42,a brown cat and a gold clock,a gold cat and a brown clock,1,1.0
+43,a gold cat and a brown clock,a brown cat and a gold clock,1,1.0
+44,a blue backpack and a green banana,a green backpack and a blue banana,1,1.0
+45,a green backpack and a blue banana,a blue backpack and a green banana,1,0.0
+46,a brown horse and a red orange,a red horse and a brown orange,1,1.0
+47,a red horse and a brown orange,a brown horse and a red orange,1,0.0
+48,a red chair and a brown elephant,a brown chair and a red elephant,1,1.0
+49,a brown chair and a red elephant,a red chair and a brown elephant,1,0.0
+50,a green apple and a blue backpack,a blue apple and a green backpack,1,1.0
+51,a blue apple and a green backpack,a green apple and a blue backpack,1,0.0
+52,a blue backpack and a gold clock,a gold backpack and a blue clock,1,0.0
+53,a gold backpack and a blue clock,a blue backpack and a gold clock,1,1.0
+54,a brown dog and a red orange,a red dog and a brown orange,1,1.0
+55,a red dog and a brown orange,a brown dog and a red orange,1,0.0
+56,a blue backpack and a brown sheep,a brown backpack and a blue sheep,1,1.0
+57,a brown backpack and a blue sheep,a blue backpack and a brown sheep,1,0.0
+58,a blue backpack and a brown giraffe,a brown backpack and a blue giraffe,1,1.0
+59,a brown backpack and a blue giraffe,a blue backpack and a brown giraffe,1,0.0
+60,a red book and a blue cake,a blue book and a red cake,1,1.0
+61,a blue book and a red cake,a red book and a blue cake,1,0.0
+62,a red suitcase and a blue vase,a blue suitcase and a red vase,1,1.0
+63,a blue suitcase and a red vase,a red suitcase and a blue vase,1,1.0
+64,a blue cup and a brown sheep,a brown cup and a blue sheep,1,1.0
+65,a brown cup and a blue sheep,a blue cup and a brown sheep,1,0.0
+66,a brown bear and a red train,a red bear and a brown train,1,1.0
+67,a blue cup and a red orange,a red cup and a blue orange,1,1.0
+68,a red cup and a blue orange,a blue cup and a red orange,1,0.0
+69,a green apple and a red suitcase,a red apple and a green suitcase,1,0.0
+70,a red apple and a green suitcase,a green apple and a red suitcase,1,1.0
+71,a blue bowl and a red train,a red bowl and a blue train,1,1.0
+72,a red bowl and a blue train,a blue bowl and a red train,1,0.0
+73,a green bench and a red orange,a red bench and a green orange,1,1.0
+74,a red bench and a green orange,a green bench and a red orange,1,1.0
+75,a brown cat and a red orange,a red cat and a brown orange,1,1.0
+76,a red cat and a brown orange,a brown cat and a red orange,1,1.0
+77,a green apple and a red train,a red apple and a green train,1,1.0
+78,a red apple and a green train,a green apple and a red train,1,0.0
+79,a brown giraffe and a red train,a red giraffe and a brown train,1,1.0
+80,a red giraffe and a brown train,a brown giraffe and a red train,1,0.0
+81,a blue boat and a red suitcase,a red boat and a blue suitcase,1,0.0
+82,a red boat and a blue suitcase,a blue boat and a red suitcase,1,0.0
+83,a blue bowl and a brown horse,a brown bowl and a blue horse,1,1.0
+84,a brown bowl and a blue horse,a blue bowl and a brown horse,1,0.0
+85,a blue backpack and a red train,a red backpack and a blue train,1,0.0
+86,a red backpack and a blue train,a blue backpack and a red train,1,1.0
+87,a gold clock and a red orange,a red clock and a gold orange,1,0.0
+88,a red clock and a gold orange,a gold clock and a red orange,1,1.0
+89,a brown bear and a blue vase,a blue bear and a brown vase,1,1.0
+90,a blue bear and a brown vase,a brown bear and a blue vase,1,0.0
+91,a green apple and a brown elephant,a brown apple and a green elephant,1,1.0
+92,a brown apple and a green elephant,a green apple and a brown elephant,1,0.0
+93,a green banana and a brown bear,a brown banana and a green bear,1,1.0
+94,a brown banana and a green bear,a green banana and a brown bear,1,0.0
+95,a blue boat and a brown cat,a brown boat and a blue cat,1,1.0
+96,a brown boat and a blue cat,a blue boat and a brown cat,1,0.0
+97,a green banana and a blue boat,a blue banana and a green boat,1,1.0
+98,a blue banana and a green boat,a green banana and a blue boat,1,0.0
+99,a red car and a blue cup,a blue car and a red cup,1,1.0
+100,a blue car and a red cup,a red car and a blue cup,1,0.0
+101,a blue backpack and a red car,a red backpack and a blue car,1,1.0
+102,a red backpack and a blue car,a blue backpack and a red car,1,1.0
+103,a brown cow and a blue cup,a blue cow and a brown cup,1,0.0
+104,a blue cow and a brown cup,a brown cow and a blue cup,1,0.0
+105,a red train and a blue vase,a blue train and a red vase,1,1.0
+106,a blue train and a red vase,a red train and a blue vase,1,1.0
+107,a brown giraffe and a red orange,a red giraffe and a brown orange,1,1.0
+108,a red giraffe and a brown orange,a brown giraffe and a red orange,1,0.0
+109,a green banana and a brown cow,a brown banana and a green cow,1,1.0
+110,a brown banana and a green cow,a green banana and a brown cow,1,0.0
+111,a brown giraffe and a blue vase,a blue giraffe and a brown vase,1,0.0
+112,a blue giraffe and a brown vase,a brown giraffe and a blue vase,1,0.0
+113,a brown cow and a red suitcase,a red cow and a brown suitcase,1,0.0
+114,a red cow and a brown suitcase,a brown cow and a red suitcase,1,1.0
+115,a green apple and a blue cup,a blue apple and a green cup,1,1.0
+116,a blue apple and a green cup,a green apple and a blue cup,1,0.0
+117,a red book and a brown sheep,a brown book and a red sheep,1,1.0
+118,a brown book and a red sheep,a red book and a brown sheep,1,0.0
+119,a green banana and a brown giraffe,a brown banana and a green giraffe,1,1.0
+120,a brown banana and a green giraffe,a green banana and a brown giraffe,1,0.0
+121,a blue boat and a red book,a red boat and a blue book,1,1.0
+122,a red boat and a blue book,a blue boat and a red book,1,0.0
+123,a blue cup and a brown elephant,a brown cup and a blue elephant,1,1.0
+124,a brown cup and a blue elephant,a blue cup and a brown elephant,1,0.0
+125,a red chair and a brown sheep,a brown chair and a red sheep,1,1.0
+126,a brown chair and a red sheep,a red chair and a brown sheep,1,0.0
+127,a brown bear and a blue boat,a blue bear and a brown boat,1,1.0
+128,a blue bear and a brown boat,a brown bear and a blue boat,1,0.0
+129,a red car and a white sheep,a white car and a red sheep,1,1.0
+130,a blue bird and a brown bear,a brown bird and a blue bear,1,1.0
+131,a green apple and a black backpack,a black apple and a green backpack,1,1.0
+132,a green cup and a blue cell phone,a cell cup and a blue green phone,1,1.0
+133,a yellow book and a red vase,a red book and a yellow vase,1,1.0
+134,a white car and a red sheep,a red car and a white sheep,1,1.0
+135,a brown bird and a blue bear,a blue bird and a brown bear,1,1.0
+136,a black apple and a green backpack,a green apple and a black backpack,1,1.0
+137,a blue cup and a green cell phone,a cell cup and a green blue phone,1,0.0
+138,a red book and a yellow vase,a yellow book and a red vase,1,0.0
+141,a black hat and a red scarf,a red hat and a black scarf,1,1.0
+142,a red hat and a black scarf,a black hat and a red scarf,1,1.0
+143,a silver spoon and a blue plate,a blue spoon and a silver plate,1,1.0
+144,a yellow bus and a green tree,a green bus and a yellow tree,1,1.0
+145,a green bus and a yellow tree,a yellow bus and a green tree,1,0.0
+146,a red apple and a purple grape,a purple apple and a red grape,1,1.0
+147,a purple apple and a red grape,a red apple and a purple grape,1,1.0
+148,a white dove and a black feather,a black dove and a white feather,1,1.0
+149,a black dove and a white feather,a white dove and a black feather,1,1.0
+150,a brown acorn and a green leaf,a green acorn and a brown leaf,1,0.0
+154,a black cat and a brown mouse,a brown cat and a black mouse,1,1.0
+155,a brown cat and a black mouse,a black cat and a brown mouse,1,0.0
+156,a blue pen and a yellow highlighter,a yellow pen and a blue highlighter,1,1.0
+157,a yellow pen and a blue highlighter,a blue pen and a yellow highlighter,1,0.0
+158,a black moon and a white sky,a white moon and a black sky,1,0.0
+159,a yellow pencil and a blue notebook,a blue pencil and a yellow notebook,1,1.0
+160,a green leaf and a yellow flower,a yellow leaf and a green flower,1,1.0
+161,a yellow leaf and a green flower,a green leaf and a yellow flower,1,0.0
+162,a black cat and a white paw,a white cat and a black paw,1,1.0
+163,a white cat and a black paw,a black cat and a white paw,1,1.0
+164,a yellow duck and a blue pond,a blue duck and a yellow pond,1,1.0
+165,a green frog and a brown pond,a brown frog and a green pond,1,1.0
+166,a brown frog and a green pond,a green frog and a brown pond,1,1.0
+167,a yellow sun and a red sunset,a red sun and a yellow sunset,1,0.0
+168,a red sun and a yellow sunset,a yellow sun and a red sunset,1,1.0
+169,a blue pen and a black ink,a black pen and a blue ink,1,1.0
+170,a black pen and a blue ink,a blue pen and a black ink,1,0.0
+171,a green grass and a yellow dandelion,a yellow grass and a green dandelion,1,1.0
+172,a yellow grass and a green dandelion,a green grass and a yellow dandelion,1,1.0
+173,a black cat and a gray mouse,a gray cat and a black mouse,1,1.0
+174,a gray cat and a black mouse,a black cat and a gray mouse,1,1.0
+175,a red apple and a yellow pear,a yellow apple and a red pear,1,0.0
+176,a yellow apple and a red pear,a red apple and a yellow pear,1,1.0
+179,a green frog and a yellow fly,a yellow frog and a green fly,1,1.0
+180,a yellow frog and a green fly,a green frog and a yellow fly,1,0.0
+181,a yellow pencil and a red eraser,a red pencil and a yellow eraser,1,1.0
+182,a red pencil and a yellow eraser,a yellow pencil and a red eraser,1,1.0
+183,a black cat and a white whisker,a white cat and a black whisker,1,1.0
+184,a white cat and a black whisker,a black cat and a white whisker,1,1.0
+185,a brown tree and a green grass,a green tree and a brown grass,1,1.0
+186,a green tree and a brown grass,a brown tree and a green grass,1,0.0
+189,a white cloud and a black sky,a black cloud and a white sky,1,0.0
+190,a black cloud and a white sky,a white cloud and a black sky,1,1.0
+191,a green leaf and a yellow butterfly,a yellow leaf and a green butterfly,1,1.0
+192,a yellow leaf and a green butterfly,a green leaf and a yellow butterfly,1,1.0
+193,a red tomato and a yellow pepper,a yellow tomato and a red pepper,1,0.0
+194,a yellow tomato and a red pepper,a red tomato and a yellow pepper,1,1.0
+195,a red apple and a green kiwi,a green apple and a red kiwi,1,1.0
+196,a green apple and a red kiwi,a red apple and a green kiwi,1,0.0
+197,a white piano and a black bench,a black piano and a white bench,1,1.0
+198,a black piano and a white bench,a white piano and a black bench,1,0.0
+199,a brown jacket and a black hat,a black jacket and a brown hat,1,1.0
+200,a red bear and a brown train,a brown bear and a red train,1,0.0
+201,a red cylinder and a blue cube,a blue cylinder and a red cube,1,1.0
+202,a blue cylinder and a red cube,a red cylinder and a blue cube,1,1.0
+203,a blue spoon and a silver plate,a silver spoon and a blue plate,1,0.0
+204,a blue bird and a yellow canary,a yellow bird and a blue canary,1,0.0
+206,a yellow taxi and a black tire,a black taxi and a yellow tire,1,1.0
+207,a black taxi and a yellow tire,a yellow taxi and a black tire,1,1.0
+208,a green snake and a brown log,a brown snake and a green log,1,1.0
+209,a brown snake and a green log,a green snake and a brown log,1,0.0
+210,a white moon and a black sky,a black moon and a white sky,1,1.0
+211,a blue pencil and a yellow notebook,a yellow pencil and a blue notebook,1,0.0
+212,a blue duck and a yellow pond,a yellow duck and a blue pond,1,1.0
+213,a blue jay and a green parrot,a green jay and a blue parrot,1,1.0
+214,a green jay and a blue parrot,a blue jay and a green parrot,1,0.0
+215,a brown squirrel and a black nut,a black squirrel and a brown nut,1,0.0
+216,a black squirrel and a brown nut,a brown squirrel and a black nut,1,1.0
+217,a white swan and a black lake,a black swan and a white lake,1,1.0
+218,a black swan and a white lake,a white swan and a black lake,1,1.0
+219,a brown log and a green moss,a green log and a brown moss,1,1.0
+220,a green log and a brown moss,a brown log and a green moss,1,0.0
+221,a brown guitar and a black amplifier,a black guitar and a brown amplifier,1,1.0
+222,a black guitar and a brown amplifier,a brown guitar and a black amplifier,1,1.0
+223,a white envelope and a blue stamp,a blue envelope and a white stamp,1,0.0
+224,a blue envelope and a white stamp,a white envelope and a blue stamp,1,1.0
+225,a blue bicycle and a red helmet,a red bicycle and a blue helmet,1,1.0
+226,a red bicycle and a blue helmet,a blue bicycle and a red helmet,1,0.0
+227,a yellow taxi and a red tire,a red taxi and a yellow tire,1,1.0
+228,a red taxi and a yellow tire,a yellow taxi and a red tire,1,0.0
+229,a black jacket and a brown hat,a brown jacket and a black hat,1,0.0
+232,a red school bus and a green bag,a red green bus and a school bag,1,1.0
+233,a green school bus and a red bag,a green red bus and a school bag,1,1.0
+234,a yellow rabbit and a red rat,a red rabbit and a yellow rat,1,1.0
+235,a red rabbit and a yellow rat,a yellow rabbit and a red rat,1,0.0
+236,a red lipstick and a pink blush,a pink lipstick and a red blush,1,1.0
+237,a pink lipstick and a red blush,a red lipstick and a pink blush,1,1.0
+240,A bathroom with white tile and a beige toilet.,A bathroom with beige tile and a white toilet.,1,1.0
+241,A bathroom with beige tile and a white toilet.,A bathroom with white tile and a beige toilet.,1,1.0
+242,A green bathroom with a mirror and a pink sink.,A pink bathroom with a mirror and a green sink.,1,0.0
+243,A pink bathroom with a mirror and a green sink.,A green bathroom with a mirror and a pink sink.,1,1.0
+244,a black gold and white vase sitting on a counter,a white gold and black vase sitting on a counter,1,1.0
+246,A small white kitchen with brown wood floor.,A brown wood kitchen with small white floor.,1,0.0
+263,A kitchen with blue tile floor and white sloped ceiling.,A kitchen with white sloped floor and blue tile ceiling.,1,1.0
+264,A bathroom with green tile and a red shower curtain.,A bathroom with shower tile and a red green curtain.,1,1.0
+265,A bathroom with red tile and a green shower curtain.,A bathroom with shower tile and a green red curtain.,1,1.0
+270,A black and white cat sits in a white sink.,A white and white cat sits in a black sink.,1,1.0
+272,A woman in a white shirt and jeans holds a pink umbrella in the rain.,A woman in a pink shirt and jeans holds a white umbrella in the rain.,1,0.0
+273,A woman in a pink shirt and jeans holds a white umbrella in the rain.,A woman in a white shirt and jeans holds a pink umbrella in the rain.,1,1.0
+278,A red carpet in a bathroom with white fixtures.,A white carpet in a bathroom with red fixtures.,1,0.0
+279,A white carpet in a bathroom with red fixtures.,A red carpet in a bathroom with white fixtures.,1,1.0
+280,Many stoplights flash yellow on a snow covered street.,Covered stoplights flash yellow on a snow many street.,1,1.0
+292,A black motorcycle is parked on grey cobblestones.,A grey motorcycle is parked on black cobblestones.,1,1.0
+293,A grey motorcycle is parked on black cobblestones.,A black motorcycle is parked on grey cobblestones.,1,0.0
+294,The white and yellow clock with a red roof reads 11:44.,The red and yellow clock with a white roof reads 11:44.,1,1.0
+295,The white and red clock with a yellow roof reads 11:44.,The yellow and red clock with a white roof reads 11:44.,1,0.0
+296,A man in a gray jacket standing in a kitchen next to a black dog.,A man in a black jacket standing in a kitchen next to a gray dog.,1,1.0
+297,A man in a black jacket standing in a kitchen next to a gray dog.,A man in a gray jacket standing in a kitchen next to a black dog.,1,1.0
+298,a white bathroom with a black and white shower curtain,a black bathroom with a white and white shower curtain,1,1.0

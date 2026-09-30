@@ -1,0 +1,301 @@
+prompt_id,prompt,seed,generated_image,metric,prediction,success,failure,error_message,category,prompt_index,repeat,global_index,status
+numeracy+0,two boys,0,two boys_000000.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,0,0,0,ok
+numeracy+1,six airplanes,0,six airplanes_000010.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,1,0,10,ok
+numeracy+2,five drums,0,five drums_000020.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,2,0,20,ok
+numeracy+3,one turtle,0,one turtle_000030.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,3,0,30,ok
+numeracy+4,seven women,0,seven women_000040.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,4,0,40,ok
+numeracy+5,eight cars,0,eight cars_000050.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,5,0,50,ok
+numeracy+6,two rabbits,0,two rabbits_000060.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,6,0,60,ok
+numeracy+7,six girls,0,six girls_000070.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,7,0,70,ok
+numeracy+8,one vase,0,one vase_000080.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,8,0,80,ok
+numeracy+9,eight bottles,0,eight bottles_000090.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,9,0,90,ok
+numeracy+10,three swans,0,three swans_000100.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,10,0,100,ok
+numeracy+11,three fish,0,three fish_000110.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,11,0,110,ok
+numeracy+12,four ships,0,four ships_000120.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,12,0,120,ok
+numeracy+13,six toys,0,six toys_000130.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,13,0,130,ok
+numeracy+14,one drum,0,one drum_000140.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,14,0,140,ok
+numeracy+15,five frogs,0,five frogs_000150.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,15,0,150,ok
+numeracy+16,seven drums,0,seven drums_000160.png,compbench_official_unidet_numeracy,0.000000,1,0,,numeracy,16,0,160,ok
+numeracy+17,seven computers,0,seven computers_000170.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,17,0,170,ok
+numeracy+18,seven shrimp,0,seven shrimp_000180.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,18,0,180,ok
+numeracy+19,two dogs,0,two dogs_000190.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,19,0,190,ok
+numeracy+20,four helicopters,0,four helicopters_000200.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,20,0,200,ok
+numeracy+21,seven refrigerators,0,seven refrigerators_000210.png,compbench_official_unidet_numeracy,0.000000,1,0,,numeracy,21,0,210,ok
+numeracy+22,one pig,0,one pig_000220.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,22,0,220,ok
+numeracy+23,six breads,0,six breads_000230.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,23,0,230,ok
+numeracy+24,five knives,0,five knives_000240.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,24,0,240,ok
+numeracy+25,one knife,0,one knife_000250.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,25,0,250,ok
+numeracy+26,one refrigerator,0,one refrigerator_000260.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,26,0,260,ok
+numeracy+27,two clocks,0,two clocks_000270.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,27,0,270,ok
+numeracy+28,five televisions,0,five televisions_000280.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,28,0,280,ok
+numeracy+29,four boys,0,four boys_000290.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,29,0,290,ok
+numeracy+30,four goldfish,0,four goldfish_000300.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,30,0,300,ok
+numeracy+31,six trucks,0,six trucks_000310.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,31,0,310,ok
+numeracy+32,five tables,0,five tables_000320.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,32,0,320,ok
+numeracy+33,five toys,0,five toys_000330.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,33,0,330,ok
+numeracy+34,four microwaves,0,four microwaves_000340.png,compbench_official_unidet_numeracy,0.000000,1,0,,numeracy,34,0,340,ok
+numeracy+35,seven balloons,0,seven balloons_000350.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,35,0,350,ok
+numeracy+36,three pillows,0,three pillows_000360.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,36,0,360,ok
+numeracy+37,six televisions,0,six televisions_000370.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,37,0,370,ok
+numeracy+38,seven lamps,0,seven lamps_000380.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,38,0,380,ok
+numeracy+39,seven cups,0,seven cups_000390.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,39,0,390,ok
+numeracy+40,five kites,0,five kites_000400.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,40,0,400,ok
+numeracy+41,two ducks,0,two ducks_000410.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,41,0,410,ok
+numeracy+42,five candles,0,five candles_000420.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,42,0,420,ok
+numeracy+43,two swans,0,two swans_000430.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,43,0,430,ok
+numeracy+44,one lemon,0,one lemon_000440.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,44,0,440,ok
+numeracy+45,four candles,0,four candles_000450.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,45,0,450,ok
+numeracy+46,three microwaves,0,three microwaves_000460.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,46,0,460,ok
+numeracy+47,seven trains,0,seven trains_000470.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,47,0,470,ok
+numeracy+48,two trains,0,two trains_000480.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,48,0,480,ok
+numeracy+49,four refrigerators,0,four refrigerators_000490.png,compbench_official_unidet_numeracy,0.000000,1,0,,numeracy,49,0,490,ok
+numeracy+50,four frogs,0,four frogs_000500.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,50,0,500,ok
+numeracy+51,one backpack,0,one backpack_000510.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,51,0,510,ok
+numeracy+52,six vases,0,six vases_000520.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,52,0,520,ok
+numeracy+53,four pigs,0,four pigs_000530.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,53,0,530,ok
+numeracy+54,six keys,0,six keys_000540.png,compbench_official_unidet_numeracy,0.000000,1,0,,numeracy,54,0,540,ok
+numeracy+55,three boys,0,three boys_000550.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,55,0,550,ok
+numeracy+56,seven printers,0,seven printers_000560.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,56,0,560,ok
+numeracy+57,six ducks,0,six ducks_000570.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,57,0,570,ok
+numeracy+58,seven desks,0,seven desks_000580.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,58,0,580,ok
+numeracy+59,two printers,0,two printers_000590.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,59,0,590,ok
+numeracy+60,six horses,0,six horses_000600.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,60,0,600,ok
+numeracy+61,seven camels,0,seven camels_000610.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,61,0,610,ok
+numeracy+62,six boys,0,six boys_000620.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,62,0,620,ok
+numeracy+63,eight peaches,0,eight peaches_000630.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,63,0,630,ok
+numeracy+64,three cows,0,three cows_000640.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,64,0,640,ok
+numeracy+65,one bowl,0,one bowl_000650.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,65,0,650,ok
+numeracy+66,five balloons,0,five balloons_000660.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,66,0,660,ok
+numeracy+67,three bottles,0,three bottles_000670.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,67,0,670,ok
+numeracy+68,six sheep,0,six sheep_000680.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,68,0,680,ok
+numeracy+69,four pens,0,four pens_000690.png,compbench_official_unidet_numeracy,0.000000,1,0,,numeracy,69,0,690,ok
+numeracy+70,eight rabbits,0,eight rabbits_000700.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,70,0,700,ok
+numeracy+71,five books,0,five books_000710.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,71,0,710,ok
+numeracy+72,four apples were picked from the tree,0,four apples were picked from the tree_000720.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,72,0,720,ok
+numeracy+73,three apples rolled off the counter,0,three apples rolled off the counter_000730.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,73,0,730,ok
+numeracy+74,three clocks ticked on the wall,0,three clocks ticked on the wall_000740.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,74,0,740,ok
+numeracy+75,four ducks quacked by the pond,0,four ducks quacked by the pond_000750.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,75,0,750,ok
+numeracy+76,seven frogs leaped into the water,0,seven frogs leaped into the water_000760.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,76,0,760,ok
+numeracy+77,five hamburgers sizzled on the grill,0,five hamburgers sizzled on the grill_000770.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,77,0,770,ok
+numeracy+78,six people gathered for a picnic,0,six people gathered for a picnic_000780.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,78,0,780,ok
+numeracy+79,three butterflies danced in the garden,0,three butterflies danced in the garden_000790.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,79,0,790,ok
+numeracy+80,five trains passed by the station,0,five trains passed by the station_000800.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,80,0,800,ok
+numeracy+81,two drums added rhythm to the music,0,two drums added rhythm to the music_000810.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,81,0,810,ok
+numeracy+82,two trucks unloaded their cargo,0,two trucks unloaded their cargo_000820.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,82,0,820,ok
+numeracy+83,six fish swam in the aquarium,0,six fish swam in the aquarium_000830.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,83,0,830,ok
+numeracy+84,seven strawberries were ripe for picking,0,seven strawberries were ripe for picking_000840.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,84,0,840,ok
+numeracy+85,five sheep grazed in the pasture,0,five sheep grazed in the pasture_000850.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,85,0,850,ok
+numeracy+86,eight cats lounged in the sun,0,eight cats lounged in the sun_000860.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,86,0,860,ok
+numeracy+87,four balloons floated in the sky,0,four balloons floated in the sky_000870.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,87,0,870,ok
+numeracy+88,eight sofas provided comfortable seating,0,eight sofas provided comfortable seating_000880.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,88,0,880,ok
+numeracy+89,two cars stuck on the road,0,two cars stuck on the road_000890.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,89,0,890,ok
+numeracy+90,four cameras and three horses,0,four cameras and three horses_000900.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,90,0,900,ok
+numeracy+91,one pear and three knives,0,one pear and three knives_000910.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,91,0,910,ok
+numeracy+92,three lamps and two trains,0,three lamps and two trains_000920.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,92,0,920,ok
+numeracy+93,three plates and three computers,0,three plates and three computers_000930.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,93,0,930,ok
+numeracy+94,three deer and four bowls,0,three deer and four bowls_000940.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,94,0,940,ok
+numeracy+95,three pillows and three cameras,0,three pillows and three cameras_000950.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,95,0,950,ok
+numeracy+96,three paintings and one knife,0,three paintings and one knife_000960.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,96,0,960,ok
+numeracy+97,two bees and two lamps,0,two bees and two lamps_000970.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,97,0,970,ok
+numeracy+98,one knife and two swans,0,one knife and two swans_000980.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,98,0,980,ok
+numeracy+99,one fish and one lamp,0,one fish and one lamp_000990.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,99,0,990,ok
+numeracy+100,two toys and three refrigerators,0,two toys and three refrigerators_001000.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,100,0,1000,ok
+numeracy+101,one stool and four sinks,0,one stool and four sinks_001010.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,101,0,1010,ok
+numeracy+102,two plates and three mice,0,two plates and three mice_001020.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,102,0,1020,ok
+numeracy+103,three books and four cakes,0,three books and four cakes_001030.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,103,0,1030,ok
+numeracy+104,four chickens and four horses,0,four chickens and four horses_001040.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,104,0,1040,ok
+numeracy+105,two pillows and one microphone,0,two pillows and one microphone_001050.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,105,0,1050,ok
+numeracy+106,four candles and four butterflies,0,four candles and four butterflies_001060.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,106,0,1060,ok
+numeracy+107,one turtle and one candle,0,one turtle and one candle_001070.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,107,0,1070,ok
+numeracy+108,four chickens and three keys,0,four chickens and three keys_001080.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,108,0,1080,ok
+numeracy+109,one guitar and four candles,0,one guitar and four candles_001090.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,109,0,1090,ok
+numeracy+110,four swans and two suitcases,0,four swans and two suitcases_001100.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,110,0,1100,ok
+numeracy+111,two boats and four cakes,0,two boats and four cakes_001110.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,111,0,1110,ok
+numeracy+112,two toys and one helicopter,0,two toys and one helicopter_001120.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,112,0,1120,ok
+numeracy+113,four chickens and two bees,0,four chickens and two bees_001130.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,113,0,1130,ok
+numeracy+114,four cups and three ships,0,four cups and three ships_001140.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,114,0,1140,ok
+numeracy+115,four pigs and three plates,0,four pigs and three plates_001150.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,115,0,1150,ok
+numeracy+116,three peaches and two cups,0,three peaches and two cups_001160.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,116,0,1160,ok
+numeracy+117,two sofas and four chickens,0,two sofas and four chickens_001170.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,117,0,1170,ok
+numeracy+118,two printers and one computer,0,two printers and one computer_001180.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,118,0,1180,ok
+numeracy+119,three guitars and two pillows,0,three guitars and two pillows_001190.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,119,0,1190,ok
+numeracy+120,three drums and four men,0,three drums and four men_001200.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,120,0,1200,ok
+numeracy+121,four paddles and two plates,0,four paddles and two plates_001210.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,121,0,1210,ok
+numeracy+122,three pears and two bananas,0,three pears and two bananas_001220.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,122,0,1220,ok
+numeracy+123,one dog and two sofas,0,one dog and two sofas_001230.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,123,0,1230,ok
+numeracy+124,four boys and three phones,0,four boys and three phones_001240.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,124,0,1240,ok
+numeracy+125,two fish and two microphones,0,two fish and two microphones_001250.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,125,0,1250,ok
+numeracy+126,four people and one phone,0,four people and one phone_001260.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,126,0,1260,ok
+numeracy+127,two deer and four men,0,two deer and four men_001270.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,127,0,1270,ok
+numeracy+128,four sinks and two tents,0,four sinks and two tents_001280.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,128,0,1280,ok
+numeracy+129,three refrigerators and two rabbits,0,three refrigerators and two rabbits_001290.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,129,0,1290,ok
+numeracy+130,two swans and one bottle,0,two swans and one bottle_001300.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,130,0,1300,ok
+numeracy+131,one cat and one book,0,one cat and one book_001310.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,131,0,1310,ok
+numeracy+132,one tent and three fish,0,one tent and three fish_001320.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,132,0,1320,ok
+numeracy+133,one bread and two bowls,0,one bread and two bowls_001330.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,133,0,1330,ok
+numeracy+134,four cats and three fish,0,four cats and three fish_001340.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,134,0,1340,ok
+numeracy+135,two pillows and one lemon,0,two pillows and one lemon_001350.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,135,0,1350,ok
+numeracy+136,one paddle and three goldfish,0,one paddle and three goldfish_001360.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,136,0,1360,ok
+numeracy+137,one boat and four fish,0,one boat and four fish_001370.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,137,0,1370,ok
+numeracy+138,one bee and three bowls,0,one bee and three bowls_001380.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,138,0,1380,ok
+numeracy+139,two sinks and two cups,0,two sinks and two cups_001390.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,139,0,1390,ok
+numeracy+140,one bicycle and one banana,0,one bicycle and one banana_001400.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,140,0,1400,ok
+numeracy+141,three pens and one plate,0,three pens and one plate_001410.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,141,0,1410,ok
+numeracy+142,four bags and three books,0,four bags and three books_001420.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,142,0,1420,ok
+numeracy+143,three pigs and two tables,0,three pigs and two tables_001430.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,143,0,1430,ok
+numeracy+144,two chairs and four sheep,0,two chairs and four sheep_001440.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,144,0,1440,ok
+numeracy+145,one tent and two computers,0,one tent and two computers_001450.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,145,0,1450,ok
+numeracy+146,three bowls and three couches,0,three bowls and three couches_001460.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,146,0,1460,ok
+numeracy+147,four mice and two bags,0,four mice and two bags_001470.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,147,0,1470,ok
+numeracy+148,one stool and three books,0,one stool and three books_001480.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,148,0,1480,ok
+numeracy+149,two sinks and one helicopter,0,two sinks and one helicopter_001490.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,149,0,1490,ok
+numeracy+150,four printers and four chickens,0,four printers and four chickens_001500.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,150,0,1500,ok
+numeracy+151,two men and four deer,0,two men and four deer_001510.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,151,0,1510,ok
+numeracy+152,three tables and two rabbits,0,three tables and two rabbits_001520.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,152,0,1520,ok
+numeracy+153,one person and three cats,0,one person and three cats_001530.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,153,0,1530,ok
+numeracy+154,four clocks and one phone,0,four clocks and one phone_001540.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,154,0,1540,ok
+numeracy+155,four lamps and four dogs,0,four lamps and four dogs_001550.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,155,0,1550,ok
+numeracy+156,three tomatoes and three pens,0,three tomatoes and three pens_001560.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,156,0,1560,ok
+numeracy+157,three tables and two birds,0,three tables and two birds_001570.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,157,0,1570,ok
+numeracy+158,three computers and four bottles,0,three computers and four bottles_001580.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,158,0,1580,ok
+numeracy+159,one train and three bicycles,0,one train and three bicycles_001590.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,159,0,1590,ok
+numeracy+160,three rabbits and three bicycles,0,three rabbits and three bicycles_001600.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,160,0,1600,ok
+numeracy+161,three stools and three bears,0,three stools and three bears_001610.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,161,0,1610,ok
+numeracy+162,two tables and three lamps illuminated the room,0,two tables and three lamps illuminated the room_001620.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,162,0,1620,ok
+numeracy+163,four ships and four horses sailed into the sunset,0,four ships and four horses sailed into the sunset_001630.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,163,0,1630,ok
+numeracy+164,two men and one pig played in the yard,0,two men and one pig played in the yard_001640.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,164,0,1640,ok
+numeracy+165,three helicopters buzzed over two pillows,0,three helicopters buzzed over two pillows_001650.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,165,0,1650,ok
+numeracy+166,four chairs and one giraffe provided seating at the zoo,0,four chairs and one giraffe provided seating at the zoo_001660.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,166,0,1660,ok
+numeracy+167,one kite flew alongside three strawberries,0,one kite flew alongside three strawberries_001670.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,167,0,1670,ok
+numeracy+168,three camels shared a burger,0,three camels shared a burger_001680.png,compbench_official_unidet_numeracy,1.000000,1,0,,numeracy,168,0,1680,ok
+numeracy+169,three clocks ticked near two microwaves,0,three clocks ticked near two microwaves_001690.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,169,0,1690,ok
+numeracy+170,one helmet and two airplanes soared through the sky,0,one helmet and two airplanes soared through the sky_001700.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,170,0,1700,ok
+numeracy+171,three desks were covered with two butterflies,0,three desks were covered with two butterflies_001710.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,171,0,1710,ok
+numeracy+172,three strawberries attracted four fish,0,three strawberries attracted four fish_001720.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,172,0,1720,ok
+numeracy+173,three ships sailed alongside one swan,0,three ships sailed alongside one swan_001730.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,173,0,1730,ok
+numeracy+174,two balloons floated with four mice,0,two balloons floated with four mice_001740.png,compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,174,0,1740,ok
+numeracy+175,three helicopters cooked with one microwave,0,three helicopters cooked with one microwave_001750.png,compbench_official_unidet_numeracy,0.000000,1,0,,numeracy,175,0,1750,ok
+numeracy+176,three lemons and one banana were used for a recipe,0,three lemons and one banana were used for a recipe_001760.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,176,0,1760,ok
+numeracy+177,four dogs played with two toys,0,four dogs played with two toys_001770.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,177,0,1770,ok
+numeracy+178,four trains carried four people,0,four trains carried four people_001780.png,compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,178,0,1780,ok
+numeracy+179,one frog jumped near three suitcases,0,one frog jumped near three suitcases_001790.png,compbench_official_unidet_numeracy,0.750000,1,0,,numeracy,179,0,1790,ok
+numeracy+180,"three couches, two keys, two women, four rabbits and one bowl",0,"three couches, two keys, two women, four rabbits and one bowl_001800.png",compbench_official_unidet_numeracy,0.300000,1,0,,numeracy,180,0,1800,ok
+numeracy+181,"one bread, four fish, one computer, two bags and one bicycle",0,"one bread, four fish, one computer, two bags and one bicycle_001810.png",compbench_official_unidet_numeracy,0.300000,1,0,,numeracy,181,0,1810,ok
+numeracy+182,"one bicycle, four apples and four chickens",0,"one bicycle, four apples and four chickens_001820.png",compbench_official_unidet_numeracy,0.666667,1,0,,numeracy,182,0,1820,ok
+numeracy+183,"three chickens, three pens, one lemon, two tents and two birds",0,"three chickens, three pens, one lemon, two tents and two birds_001830.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,183,0,1830,ok
+numeracy+184,"four shrimp, three microwaves, four helicopters and one bee",0,"four shrimp, three microwaves, four helicopters and one bee_001840.png",compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,184,0,1840,ok
+numeracy+185,"three helmets, one boat, one hamburger and one camera",0,"three helmets, one boat, one hamburger and one camera_001850.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,185,0,1850,ok
+numeracy+186,"one egg, three camels, four cars and four pillows",0,"one egg, three camels, four cars and four pillows_001860.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,186,0,1860,ok
+numeracy+187,"two books, two trains, four men, three bears and four hamburgers",0,"two books, two trains, four men, three bears and four hamburgers_001870.png",compbench_official_unidet_numeracy,0.200000,1,0,,numeracy,187,0,1870,ok
+numeracy+188,"four drums, three cakes, three dogs and two helmets",0,"four drums, three cakes, three dogs and two helmets_001880.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,188,0,1880,ok
+numeracy+189,"two fish, three desks, three horses, two couches and four ducks",0,"two fish, three desks, three horses, two couches and four ducks_001890.png",compbench_official_unidet_numeracy,0.200000,1,0,,numeracy,189,0,1890,ok
+numeracy+190,"four tents, two boats and one pig",0,"four tents, two boats and one pig_001900.png",compbench_official_unidet_numeracy,0.833333,1,0,,numeracy,190,0,1900,ok
+numeracy+191,"three fish, three peaches, three couches, three desks and one sofa",0,"three fish, three peaches, three couches, three desks and one sofa_001910.png",compbench_official_unidet_numeracy,0.400000,1,0,,numeracy,191,0,1910,ok
+numeracy+192,"three bicycles, two frogs, two keys, two helmets and two pigs",0,"three bicycles, two frogs, two keys, two helmets and two pigs_001920.png",compbench_official_unidet_numeracy,0.100000,1,0,,numeracy,192,0,1920,ok
+numeracy+193,"two candles, two people and two dogs",0,"two candles, two people and two dogs_001930.png",compbench_official_unidet_numeracy,0.666667,1,0,,numeracy,193,0,1930,ok
+numeracy+194,"four keys, three helmets and four lamps",0,"four keys, three helmets and four lamps_001940.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,194,0,1940,ok
+numeracy+195,"four sinks, three backpacks, two cups and two pears",0,"four sinks, three backpacks, two cups and two pears_001950.png",compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,195,0,1950,ok
+numeracy+196,"one bottle, one girl, one desk and two bananas",0,"one bottle, one girl, one desk and two bananas_001960.png",compbench_official_unidet_numeracy,0.875000,1,0,,numeracy,196,0,1960,ok
+numeracy+197,"one lamp, three bananas and three chickens",0,"one lamp, three bananas and three chickens_001970.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,197,0,1970,ok
+numeracy+198,"three candles, one cup, one goldfish and two cameras",0,"three candles, one cup, one goldfish and two cameras_001980.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,198,0,1980,ok
+numeracy+199,"three strawberries, three cups, one mouse, two girls and three sofas",0,"three strawberries, three cups, one mouse, two girls and three sofas_001990.png",compbench_official_unidet_numeracy,0.400000,1,0,,numeracy,199,0,1990,ok
+numeracy+200,"four couches, four shrimp, one cup and one candle",0,"four couches, four shrimp, one cup and one candle_002000.png",compbench_official_unidet_numeracy,0.125000,1,0,,numeracy,200,0,2000,ok
+numeracy+201,"three stools, three flags, three tables, four boats and four pillows",0,"three stools, three flags, three tables, four boats and four pillows_002010.png",compbench_official_unidet_numeracy,0.400000,1,0,,numeracy,201,0,2010,ok
+numeracy+202,"one pen, one table and one truck",0,"one pen, one table and one truck_002020.png",compbench_official_unidet_numeracy,0.166667,1,0,,numeracy,202,0,2020,ok
+numeracy+203,"three chickens, four kites, three candles, four birds and four shrimp",0,"three chickens, four kites, three candles, four birds and four shrimp_002030.png",compbench_official_unidet_numeracy,0.300000,1,0,,numeracy,203,0,2030,ok
+numeracy+204,"one vase, one woman and four goldfish",0,"one vase, one woman and four goldfish_002040.png",compbench_official_unidet_numeracy,0.666667,1,0,,numeracy,204,0,2040,ok
+numeracy+205,"two cups, two drums, four tables and four bowls",0,"two cups, two drums, four tables and four bowls_002050.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,205,0,2050,ok
+numeracy+206,"four bears, four cows, one swan, two trucks and three sheep",0,"four bears, four cows, one swan, two trucks and three sheep_002060.png",compbench_official_unidet_numeracy,0.400000,1,0,,numeracy,206,0,2060,ok
+numeracy+207,"one banana, two bicycles, four strawberries and one sofa",0,"one banana, two bicycles, four strawberries and one sofa_002070.png",compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,207,0,2070,ok
+numeracy+208,"four desks, one mouse, four chickens and two camels",0,"four desks, one mouse, four chickens and two camels_002080.png",compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,208,0,2080,ok
+numeracy+209,"two paintings, two eggs and four rabbits",0,"two paintings, two eggs and four rabbits_002090.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,209,0,2090,ok
+numeracy+210,"two helicopters, one rabbit and two turtles",0,"two helicopters, one rabbit and two turtles_002100.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,210,0,2100,ok
+numeracy+211,"three helmets, one knife, four computers, two ducks and three paddles",0,"three helmets, one knife, four computers, two ducks and three paddles_002110.png",compbench_official_unidet_numeracy,0.300000,1,0,,numeracy,211,0,2110,ok
+numeracy+212,"four tents, three pigs, one cow and four paddles",0,"four tents, three pigs, one cow and four paddles_002120.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,212,0,2120,ok
+numeracy+213,"two girls, four horses and two chairs",0,"two girls, four horses and two chairs_002130.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,213,0,2130,ok
+numeracy+214,"one stool, four balloons and three bananas",0,"one stool, four balloons and three bananas_002140.png",compbench_official_unidet_numeracy,0.666667,1,0,,numeracy,214,0,2140,ok
+numeracy+215,"two clocks, one frog, one book and two cups",0,"two clocks, one frog, one book and two cups_002150.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,215,0,2150,ok
+numeracy+216,"three ducks, two clocks, two desks, three cows and four kites",0,"three ducks, two clocks, two desks, three cows and four kites_002160.png",compbench_official_unidet_numeracy,0.400000,1,0,,numeracy,216,0,2160,ok
+numeracy+217,"one guitar, two horses, four cakes and three kites",0,"one guitar, two horses, four cakes and three kites_002170.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,217,0,2170,ok
+numeracy+218,"three printers, two bowls, one sheep, two camels and two books",0,"three printers, two bowls, one sheep, two camels and two books_002180.png",compbench_official_unidet_numeracy,0.300000,1,0,,numeracy,218,0,2180,ok
+numeracy+219,"four vases, two dogs and three helmets",0,"four vases, two dogs and three helmets_002190.png",compbench_official_unidet_numeracy,0.166667,1,0,,numeracy,219,0,2190,ok
+numeracy+220,"one television, three camels and four chickens",0,"one television, three camels and four chickens_002200.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,220,0,2200,ok
+numeracy+221,"three turtles, two balloons, one fish, four kites and two bees",0,"three turtles, two balloons, one fish, four kites and two bees_002210.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,221,0,2210,ok
+numeracy+222,"two candles, one fish and one bicycle",0,"two candles, one fish and one bicycle_002220.png",compbench_official_unidet_numeracy,0.833333,1,0,,numeracy,222,0,2220,ok
+numeracy+223,"one airplane, two fish and two breads",0,"one airplane, two fish and two breads_002230.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,223,0,2230,ok
+numeracy+224,"one sink, three camels and two paddles",0,"one sink, three camels and two paddles_002240.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,224,0,2240,ok
+numeracy+225,"three bears, two computers, one drum and one person",0,"three bears, two computers, one drum and one person_002250.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,225,0,2250,ok
+numeracy+226,"one chair, three women, two tomatoes, three pigs and three pens",0,"one chair, three women, two tomatoes, three pigs and three pens_002260.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,226,0,2260,ok
+numeracy+227,"two chickens, four pens and one lemon",0,"two chickens, four pens and one lemon_002270.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,227,0,2270,ok
+numeracy+228,"two apples, one bag, two dogs, four clocks and three microwaves",0,"two apples, one bag, two dogs, four clocks and three microwaves_002280.png",compbench_official_unidet_numeracy,0.200000,1,0,,numeracy,228,0,2280,ok
+numeracy+229,"three toys, three kites, two birds and four microwaves",0,"three toys, three kites, two birds and four microwaves_002290.png",compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,229,0,2290,ok
+numeracy+230,"four pears, four desks, three paddles and two rabbits",0,"four pears, four desks, three paddles and two rabbits_002300.png",compbench_official_unidet_numeracy,0.625000,1,0,,numeracy,230,0,2300,ok
+numeracy+231,"four women, three guitars and four cows",0,"four women, three guitars and four cows_002310.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,231,0,2310,ok
+numeracy+232,"one frog, two fish, two tents, four phones and three turtles",0,"one frog, two fish, two tents, four phones and three turtles_002320.png",compbench_official_unidet_numeracy,0.200000,1,0,,numeracy,232,0,2320,ok
+numeracy+233,"four boats, four cameras and four kites",0,"four boats, four cameras and four kites_002330.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,233,0,2330,ok
+numeracy+234,"three giraffes, four kites and four tents",0,"three giraffes, four kites and four tents_002340.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,234,0,2340,ok
+numeracy+235,"three bicycles, three balloons, three desks, two vases and four chickens",0,"three bicycles, three balloons, three desks, two vases and four chickens_002350.png",compbench_official_unidet_numeracy,0.400000,1,0,,numeracy,235,0,2350,ok
+numeracy+236,"two bowls, three microwaves and two chickens",0,"two bowls, three microwaves and two chickens_002360.png",compbench_official_unidet_numeracy,0.666667,1,0,,numeracy,236,0,2360,ok
+numeracy+237,"four peaches, three cars and three people",0,"four peaches, three cars and three people_002370.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,237,0,2370,ok
+numeracy+238,"two keys, one kite and three rabbits",0,"two keys, one kite and three rabbits_002380.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,238,0,2380,ok
+numeracy+239,"three bears, two girls, one chair, three cups and three chickens",0,"three bears, two girls, one chair, three cups and three chickens_002390.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,239,0,2390,ok
+numeracy+240,"two cars, three clocks, one bottle and two microwaves",0,"two cars, three clocks, one bottle and two microwaves_002400.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,240,0,2400,ok
+numeracy+241,"four ships, two tents and two fish",0,"four ships, two tents and two fish_002410.png",compbench_official_unidet_numeracy,0.166667,1,0,,numeracy,241,0,2410,ok
+numeracy+242,"four apples, two books and two bees",0,"four apples, two books and two bees_002420.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,242,0,2420,ok
+numeracy+243,"two refrigerators, four candles, one frog and three shrimp",0,"two refrigerators, four candles, one frog and three shrimp_002430.png",compbench_official_unidet_numeracy,0.125000,1,0,,numeracy,243,0,2430,ok
+numeracy+244,"two flags, three butterflies, four bananas and two apples",0,"two flags, three butterflies, four bananas and two apples_002440.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,244,0,2440,ok
+numeracy+245,"four books, four strawberries and four phones",0,"four books, four strawberries and four phones_002450.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,245,0,2450,ok
+numeracy+246,"two printers, two cats, three frogs, two birds and three bees",0,"two printers, two cats, three frogs, two birds and three bees_002460.png",compbench_official_unidet_numeracy,0.100000,1,0,,numeracy,246,0,2460,ok
+numeracy+247,"two printers, one person and two pillows",0,"two printers, one person and two pillows_002470.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,247,0,2470,ok
+numeracy+248,"four bees, four rabbits and two trucks",0,"four bees, four rabbits and two trucks_002480.png",compbench_official_unidet_numeracy,0.166667,1,0,,numeracy,248,0,2480,ok
+numeracy+249,"four horses, one computer, two pears, two airplanes and three bicycles",0,"four horses, one computer, two pears, two airplanes and three bicycles_002490.png",compbench_official_unidet_numeracy,0.200000,1,0,,numeracy,249,0,2490,ok
+numeracy+250,"three mice, four tents, four televisions, two tables and two boys",0,"three mice, four tents, four televisions, two tables and two boys_002500.png",compbench_official_unidet_numeracy,0.300000,1,0,,numeracy,250,0,2500,ok
+numeracy+251,"one candle, one helmet and three desks",0,"one candle, one helmet and three desks_002510.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,251,0,2510,ok
+numeracy+252,"four couches, three candles, two fish, one frog and three plates",0,"four couches, three candles, two fish, one frog and three plates_002520.png",compbench_official_unidet_numeracy,0.300000,1,0,,numeracy,252,0,2520,ok
+numeracy+253,"two toys, four kites, one turtle and two people",0,"two toys, four kites, one turtle and two people_002530.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,253,0,2530,ok
+numeracy+254,"two bees, two vases and one bird",0,"two bees, two vases and one bird_002540.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,254,0,2540,ok
+numeracy+255,"three refrigerators, three pigs, three helmets and four sofas",0,"three refrigerators, three pigs, three helmets and four sofas_002550.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,255,0,2550,ok
+numeracy+256,"two pears, one lemon, two swans, two bicycles and four bowls",0,"two pears, one lemon, two swans, two bicycles and four bowls_002560.png",compbench_official_unidet_numeracy,0.300000,1,0,,numeracy,256,0,2560,ok
+numeracy+257,"three pillows, two helicopters and four books",0,"three pillows, two helicopters and four books_002570.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,257,0,2570,ok
+numeracy+258,"two bottles, four microphones and two boys",0,"two bottles, four microphones and two boys_002580.png",compbench_official_unidet_numeracy,0.166667,1,0,,numeracy,258,0,2580,ok
+numeracy+259,"two keys, three phones and four birds",0,"two keys, three phones and four birds_002590.png",compbench_official_unidet_numeracy,0.166667,1,0,,numeracy,259,0,2590,ok
+numeracy+260,"three hamburgers, three tomatoes, four deer, one banana and two bowls",0,"three hamburgers, three tomatoes, four deer, one banana and two bowls_002600.png",compbench_official_unidet_numeracy,0.400000,1,0,,numeracy,260,0,2600,ok
+numeracy+261,"one duck, three pigs, three helicopters, three candles and two bowls",0,"one duck, three pigs, three helicopters, three candles and two bowls_002610.png",compbench_official_unidet_numeracy,0.300000,1,0,,numeracy,261,0,2610,ok
+numeracy+262,"two desks, four fish, four frogs, three horses and four trains",0,"two desks, four fish, four frogs, three horses and four trains_002620.png",compbench_official_unidet_numeracy,0.200000,1,0,,numeracy,262,0,2620,ok
+numeracy+263,"one lemon, two pens, one bird, three fish and four bowls",0,"one lemon, two pens, one bird, three fish and four bowls_002630.png",compbench_official_unidet_numeracy,0.400000,1,0,,numeracy,263,0,2630,ok
+numeracy+264,"three plates, two clocks and one person",0,"three plates, two clocks and one person_002640.png",compbench_official_unidet_numeracy,0.666667,1,0,,numeracy,264,0,2640,ok
+numeracy+265,"two eggs, one lemon, three plates and three bowls",0,"two eggs, one lemon, three plates and three bowls_002650.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,265,0,2650,ok
+numeracy+266,"four paddles, four bottles and three guitars",0,"four paddles, four bottles and three guitars_002660.png",compbench_official_unidet_numeracy,0.166667,1,0,,numeracy,266,0,2660,ok
+numeracy+267,"one guitar, two microwaves and three sofas",0,"one guitar, two microwaves and three sofas_002670.png",compbench_official_unidet_numeracy,0.166667,1,0,,numeracy,267,0,2670,ok
+numeracy+268,"one bread, four sofas, two strawberries and one bicycle",0,"one bread, four sofas, two strawberries and one bicycle_002680.png",compbench_official_unidet_numeracy,0.250000,1,0,,numeracy,268,0,2680,ok
+numeracy+269,"two giraffes, three eggs, two breads, three microwaves and four strawberries",0,"two giraffes, three eggs, two breads, three microwaves and four strawberries_002690.png",compbench_official_unidet_numeracy,0.300000,1,0,,numeracy,269,0,2690,ok
+numeracy+270,"two camels, three balloons, two boys and three strawberries",0,"two camels, three balloons, two boys and three strawberries_002700.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,270,0,2700,ok
+numeracy+271,"one swan, two trucks, three tents, two balloons and one giraffe",0,"one swan, two trucks, three tents, two balloons and one giraffe_002710.png",compbench_official_unidet_numeracy,0.300000,1,0,,numeracy,271,0,2710,ok
+numeracy+272,"one duck, three cups, two deer and two boats",0,"one duck, three cups, two deer and two boats_002720.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,272,0,2720,ok
+numeracy+273,"four bowls, one phone and four camels",0,"four bowls, one phone and four camels_002730.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,273,0,2730,ok
+numeracy+274,"three airplanes, two cups, one chair, two lemons and four bowls",0,"three airplanes, two cups, one chair, two lemons and four bowls_002740.png",compbench_official_unidet_numeracy,0.600000,1,0,,numeracy,274,0,2740,ok
+numeracy+275,"two books, three horses and one lemon",0,"two books, three horses and one lemon_002750.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,275,0,2750,ok
+numeracy+276,"a backpack, three apples, two strawberries, and a bowl were on the kitchen counter",0,"a backpack, three apples, two strawberries, and a bowl were on the kitchen counter_002760.png",compbench_official_unidet_numeracy,0.625000,1,0,,numeracy,276,0,2760,ok
+numeracy+277,"two guitars, a helicopter, and a balloon entertained the crowd",0,"two guitars, a helicopter, and a balloon entertained the crowd_002770.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,277,0,2770,ok
+numeracy+278,"three bananas, two bees, an egg, a painting, and a goldfish adorned the room",0,"three bananas, two bees, an egg, a painting, and a goldfish adorned the room_002780.png",compbench_official_unidet_numeracy,0.100000,1,0,,numeracy,278,0,2780,ok
+numeracy+279,"a microwave, a cup, three ships, and two fish were in the pantry",0,"a microwave, a cup, three ships, and two fish were in the pantry_002790.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,279,0,2790,ok
+numeracy+280,"two flags, two cameras, two tomatoes, a couch, and three men filled the gallery",0,"two flags, two cameras, two tomatoes, a couch, and three men filled the gallery_002800.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,280,0,2800,ok
+numeracy+281,"a fish, two stools, a lemon, and two vases were on the kitchen island",0,"a fish, two stools, a lemon, and two vases were on the kitchen island_002810.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,281,0,2810,ok
+numeracy+282,"four sinks, two rabbits, and a stool completed the bathroom",0,"four sinks, two rabbits, and a stool completed the bathroom_002820.png",compbench_official_unidet_numeracy,0.333333,1,0,,numeracy,282,0,2820,ok
+numeracy+283,"three mice, three women, four boats, a bird, and four bottles cluttered the shelf",0,"three mice, three women, four boats, a bird, and four bottles cluttered the shelf_002830.png",compbench_official_unidet_numeracy,0.400000,1,0,,numeracy,283,0,2830,ok
+numeracy+284,"four bananas, four horses, and three cups were on the picnic table",0,"four bananas, four horses, and three cups were on the picnic table_002840.png",compbench_official_unidet_numeracy,0.666667,1,0,,numeracy,284,0,2840,ok
+numeracy+285,"two pigs, four shrimp, and a cake were on the menu",0,"two pigs, four shrimp, and a cake were on the menu_002850.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,285,0,2850,ok
+numeracy+286,"a helicopter, two dogs, and two lemons were on the playground",0,"a helicopter, two dogs, and two lemons were on the playground_002860.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,286,0,2860,ok
+numeracy+287,"a bicycle, two desks, four strawberries, and three microwaves cluttered the office",0,"a bicycle, two desks, four strawberries, and three microwaves cluttered the office_002870.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,287,0,2870,ok
+numeracy+288,"a chicken, four birds, and four microphones sang a lively tune",0,"a chicken, four birds, and four microphones sang a lively tune_002880.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,288,0,2880,ok
+numeracy+289,"three clocks, four cats, three desks, and a book filled the study",0,"three clocks, four cats, three desks, and a book filled the study_002890.png",compbench_official_unidet_numeracy,0.625000,1,0,,numeracy,289,0,2890,ok
+numeracy+290,"four phones, a butterfly, and a bottle adorned the coffee table",0,"four phones, a butterfly, and a bottle adorned the coffee table_002900.png",compbench_official_unidet_numeracy,0.666667,1,0,,numeracy,290,0,2900,ok
+numeracy+291,"two sheep, four dogs, three candles, and three bees created a warm atmosphere",0,"two sheep, four dogs, three candles, and three bees created a warm atmosphere_002910.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,291,0,2910,ok
+numeracy+292,"four backpacks, two peaches, and three trains were on the platform",0,"four backpacks, two peaches, and three trains were on the platform_002920.png",compbench_official_unidet_numeracy,0.666667,1,0,,numeracy,292,0,2920,ok
+numeracy+293,"a computer, a microphone, and two flags completed the setup",0,"a computer, a microphone, and two flags completed the setup_002930.png",compbench_official_unidet_numeracy,0.833333,1,0,,numeracy,293,0,2930,ok
+numeracy+294,"four bears, two rabbits, two helmets, and four stools provided seating",0,"four bears, two rabbits, two helmets, and four stools provided seating_002940.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,294,0,2940,ok
+numeracy+295,"a microphone, three breads, and two camels entertained the audience",0,"a microphone, three breads, and two camels entertained the audience_002950.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,295,0,2950,ok
+numeracy+296,"a camera, three strawberries, four frogs, and two horses were on the display",0,"a camera, three strawberries, four frogs, and two horses were on the display_002960.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,296,0,2960,ok
+numeracy+297,"two bees, two desks, four birds, and two kites filled the classroom",0,"two bees, two desks, four birds, and two kites filled the classroom_002970.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,297,0,2970,ok
+numeracy+298,"a strawberry, two bananas, four tents, and two peaches completed the camping gear",0,"a strawberry, two bananas, four tents, and two peaches completed the camping gear_002980.png",compbench_official_unidet_numeracy,0.375000,1,0,,numeracy,298,0,2980,ok
+numeracy+299,"two cups, three paintings, four lamps, and four bananas decorated the art studio",0,"two cups, three paintings, four lamps, and four bananas decorated the art studio_002990.png",compbench_official_unidet_numeracy,0.500000,1,0,,numeracy,299,0,2990,ok

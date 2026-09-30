@@ -1,0 +1,61 @@
+{
+  "description": "Frozen PixArt vs TP-SCDA, identical seed per image (CompBench per-image deterministic seeds; seed 43 for the 64-prompt set). Binding correctness is to be judged by the reader / annotator -- no automatic claim is made here.",
+  "panels": [
+    {
+      "group": "binding",
+      "prompt": "a green bench and a blue bowl",
+      "gloss": "绿色长凳 + 蓝色碗",
+      "note": "两对象各自带颜色属性",
+      "frozen_image": "/root/compbench_work/images/frozen/color/a green bench and a blue bowl_000000.png",
+      "tpscda_image": "/root/compbench_work/images/tpscda/color/a green bench and a blue bowl_000000.png"
+    },
+    {
+      "group": "binding",
+      "prompt": "a blue bench and a green bowl",
+      "gloss": "蓝色长凳 + 绿色碗",
+      "note": "对象相同、颜色互换（属性交换对照）",
+      "frozen_image": "/root/compbench_work/images/frozen/color/a blue bench and a green bowl_000010.png",
+      "tpscda_image": "/root/compbench_work/images/tpscda/color/a blue bench and a green bowl_000010.png"
+    },
+    {
+      "group": "binding",
+      "prompt": "a plastic toy and a glass bottle",
+      "gloss": "塑料玩具 + 玻璃瓶",
+      "note": "两种材质属性分别绑定到两个对象",
+      "frozen_image": "/root/compbench_work/images/frozen/texture/a plastic toy and a glass bottle_000000.png",
+      "tpscda_image": "/root/compbench_work/images/tpscda/texture/a plastic toy and a glass bottle_000000.png"
+    },
+    {
+      "group": "binding",
+      "prompt": "a metallic desk lamp and a fluffy sweater",
+      "gloss": "金属台灯 + 毛绒毛衣",
+      "note": "材质属性绑定",
+      "frozen_image": "/root/compbench_work/images/frozen/texture/a metallic desk lamp and a fluffy sweater_000020.png",
+      "tpscda_image": "/root/compbench_work/images/tpscda/texture/a metallic desk lamp and a fluffy sweater_000020.png"
+    },
+    {
+      "group": "binding",
+      "prompt": "an oblong cucumber and a teardrop plum",
+      "gloss": "长椭圆黄瓜 + 水滴形李子",
+      "note": "形状属性绑定",
+      "frozen_image": "/root/compbench_work/images/frozen/shape/an oblong cucumber and a teardrop plum_000000.png",
+      "tpscda_image": "/root/compbench_work/images/tpscda/shape/an oblong cucumber and a teardrop plum_000000.png"
+    },
+    {
+      "group": "binding",
+      "prompt": "a cubic ice cube and a spherical ice bucket",
+      "gloss": "立方体冰块 + 球形冰桶",
+      "note": "形状属性绑定",
+      "frozen_image": "/root/compbench_work/images/frozen/shape/a cubic ice cube and a spherical ice bucket_000020.png",
+      "tpscda_image": "/root/compbench_work/images/tpscda/shape/a cubic ice cube and a spherical ice bucket_000020.png"
+    },
+    {
+      "group": "complex",
+      "prompt": "A small cactus with a happy face in the Sahara desert.",
+      "gloss": "复杂长提示词（64 条固定提示词集）",
+      "note": "来自已有 64 提示词评测集，seed 43",
+      "frozen_image": "/root/private_data/PixArt-alpha-attentiongate/output/coco2017_eval/baseline/seed_43/group_01/A small cactus with a happy face in the Sahara desert..png",
+      "tpscda_image": "/root/private_data/PixArt-alpha-attentiongate/output/coco2017_eval_learnable_layers/learnable_layers/seed_43/group_01/A small cactus with a happy face in the Sahara desert..png"
+    }
+  ]
+}

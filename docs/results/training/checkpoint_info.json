@@ -1,0 +1,11 @@
+{
+  "checkpoint": "/root/private_data/PixArt-alpha-attentiongate/output/coco2017_token_pair_learnable_layers/checkpoints/epoch_1_step_14786.pth",
+  "checkpoint_bytes": 5034530006,
+  "step": 14786,
+  "epoch": 1,
+  "training_wall_clock_seconds": 13390.229,
+  "training_wall_clock_hours": 3.7195080555555555,
+  "gpu_peak_memory_during_training_gb": 30.3778,
+  "gpu_peak_memory_note": "measured by the training loop (torch.cuda.max_memory_allocated)",
+  "seed": 43
+}

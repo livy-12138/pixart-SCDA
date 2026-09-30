@@ -1,0 +1,37 @@
+{
+  "method": "frozen",
+  "category": "3d_spatial",
+  "metric": "compbench_official_unidet_3d_spatial",
+  "metric_long_name": "T2I-CompBench++ official UniDet + depth 3D spatial relationship metric",
+  "official_mean_score": 0.3388037379389235,
+  "num_prompts": 300,
+  "num_images_selected": 300,
+  "num_images_scored": 300,
+  "num_images_failed": 0,
+  "is_full_official_run": true,
+  "evaluator_chain": [
+    "unidet3d"
+  ],
+  "evaluator_exit_codes": {
+    "unidet3d": 0
+  },
+  "evaluator_wall_seconds": {
+    "unidet3d": 174.16
+  },
+  "evaluator_vram": {
+    "unidet3d": {
+      "max_gpu_used_mb": 14639,
+      "min_gpu_free_mb": 30951,
+      "samples": 85,
+      "note": "whole-GPU counters sampled via nvidia-smi every 2 s; includes any co-running job"
+    }
+  },
+  "evaluator_scores_parsed": {
+    "unidet3d": 300
+  },
+  "all_steps_scored_every_image": true,
+  "status": "ok",
+  "abort_reason": null,
+  "manifest_source": "manifest:/root/compbench_work/images/frozen/manifest_3d_spatial.csv",
+  "seconds_per_image": 0.581
+}

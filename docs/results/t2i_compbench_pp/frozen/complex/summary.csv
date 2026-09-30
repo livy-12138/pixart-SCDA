@@ -1,0 +1,2 @@
+method,category,metric,official_mean_score,num_prompts,num_images_selected,num_images_scored,num_images_failed,is_full_official_run
+frozen,complex,compbench_official_3in1,0.331448,100,1000,1000,0,False
