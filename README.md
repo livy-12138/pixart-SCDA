@@ -1,6 +1,6 @@
-# 面向文生图属性绑定的双门控交叉注意力替换
+# T5 扩散 Transformer 中属性绑定的作用域解耦与时空门控
 
-**Dual-gated cross-attention replacement for object–attribute binding in text-to-image generation**
+**Scope decoupling and spatiotemporal gating for object–attribute binding in T5-encoded diffusion transformers**
 
 面向 **PixArt-α / PixArt-XL-2-512** 的**免训练、推理期**注意力改写：在冻结主干上做 token-pair 交叉注意力重分配，并用**空间半径门控 + 时间去噪门控**把副作用限制在目标对象的支撑域与目标去噪窗口内。不新增可训练参数，不修改主干权重。
 
@@ -83,7 +83,7 @@ T2I-CompBench++ 官方评测器，每类 300 条提示词、每提示词 1 张�
 
 ## 引用
 
-向长幸，黄天云. 面向文生图属性绑定的双门控交叉注意力替换. 中国图象图形学报（审稿中）.
+向长幸，黄天云. T5 扩散 Transformer 中属性绑定的作用域解耦与时空门控. 中国图象图形学报（审稿中）.
 
 ## 许可
 
